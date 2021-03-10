@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-<!-- This hopefully changes the icon of the site to fasil. -->
+<!-- This changes the icon of the site to fasil. -->
 <link rel="shortcut icon" type="image/x-icon" href="fasil.ico" />
 
 # Yo waddup!
