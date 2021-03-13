@@ -2,8 +2,7 @@
 layout: default
 ---
 
-<sub># Note:
-This page has not yet been fully completed. Once it has, you'll be able to answer all your questions!</sub>
+<sub># Note: this page probably doesnt have everything that it deserves, but for now i'd call it pretty Pog!</sub>
 
 # **Be aware that, no matter what, EVERY time you modify the console, there's a chance of an UNRECOVERABLE BRICK.** These are very, *very* rare, but still a possibility, so always make sure that you follow any directions EXACTLY.
 
@@ -62,4 +61,39 @@ It is not needed unless you want to pirate, want to use mods that could get you 
 ### What's sysCFW?
 `sysCFW` is the storage built into your switch, *buut* with CFW. Me personally (and others i know) always have the switch in sysCFW. I don't use my switch for anything other than save editing New Horizons so I can do treasure islands. Plus there's no reason to go into emuNAND, restore the edited save file, then go into stock to play the game. You've already done "magic" on your sysNAND, so it's not clean anymore. Being in sysCFW allows you to do whatever you wanted to do in emu (to the extent of the law) while still going online, without being banned.
 
-## What's RCM, and how do I get into it?
+## What's RCM?
+
+The switch has a Tegra X1 Processor, and a `Recovery Mode` (RCM) if anything goes wrong. Now for normal users, this is basically useless information. However, that right there is our gateway into CFW. [The Tegra X1 chip is able to be exploited to allow unverified code to run on any device with it.](https://nvidia.custhelp.com/app/answers/detail/a_id/4660/~/security-notice%3A-nvidia-tegra-rcm-vulnerability)
+
+Because of this exploit, people who actually know what they're doing can create payloads, send them to the switch, and get CFW on it. Although RCM can still be accessed on Patched (v2) switches, the exploit to inject a payload has been patched.
+
+## What's a Jig? (and how to get inside RCM)
+
+A Jig is a molded piece of plastic with metal wiring in it. It was made to be more reliable and safer than using papercips or foil. Once you have a Jig, you slide it into the Right Joycon slot, so the metal can touch the 1st and 10th pins on the underside of the slot.  
+
+<sub>A Switch Jig is shown below. The one shown on the right has a light shining on it, to show the metal better.</sub>
+<p align="center">
+  <img src="./assets/images/hbrew/SwitchJigSbS.jpg" alt="Switch Jig, right has light shining on it to show the metal better."/>
+</p>
+
+<sub>Below is the Jig in the Right Joycon slot. You do not need to disassemble the Switch or anything to get in RCM.</sub>
+
+
+<p align="center">
+  <img src="./assets/images/hbrew/JiggyintheThingy.jpg" alt="Jig in the right joycon slot."/>
+</p>
+
+Once it's in there, hold down the Power button and Volume Up button. If the screen stays black, you're most likely in RCM!
+
+### How do I inject a payload?
+
+To inject a payload on Windows, you use something called [TegraRCMGui](https://github.com/eliboa/TegraRcmGUI/releases). 
+If you want to inject a payload on other platforms:
+
+[Fusée Launcher](https://github.com/Qyriad/fusee-launcher) (Linux)
+
+[NXBoot](https://mologie.github.io/nxboot/) (OS X, iOS)
+
+[NXLoader](https://github.com/DavidBuchanan314/NXLoader) (Android)
+
+[Web Fusée Launcher](https://fusee-gelee.firebaseapp.com/) (cross platform! works in a browser, only in chrome)

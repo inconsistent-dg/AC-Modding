@@ -2,9 +2,6 @@
 layout: default
 ---
 
-<!-- This changes the icon of the site to fasil. -->
-<link rel="shortcut icon" type="image/x-icon" href="fasil.ico" />
-
 # Yo waddup!
 [**ac-modding.com**](https://ac-modding.com/) is a website for anything that has to do with, you guessed it, Animal Crossing modding. 
 
@@ -21,7 +18,6 @@ If you have any questions, I've tried my best to answer them all **[over here, o
 ## To go to the title of Animal Crossing that you want to mod, click the title of the game.
 [Animal Crossing: New Horizons](/ACNH)
 
-
 # **This site is not finished yet. I want to add everything in at once, but I will most likely go through one game at a time, starting from New Horizons, down to the OG title.**
 
-# **So far, I only have completed categories for ACNH. New Leaf is next**
+[Click here to look at a list of all available pages](219.md)
