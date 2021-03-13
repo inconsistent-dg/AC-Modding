@@ -2,6 +2,10 @@
 layout: default
 ---
 
+<head>
+  <title>Main Page</title>
+</head>
+
 # Yo waddup!
 [**ac-modding.com**](https://ac-modding.com/) is a website for anything that has to do with, you guessed it, Animal Crossing modding. 
 
