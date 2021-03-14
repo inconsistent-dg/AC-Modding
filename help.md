@@ -10,6 +10,17 @@ This help page tries to go through each and every question one might ask about a
 
 # Table of contents
 
+- [**Be aware that, no matter what, EVERY time you modify the console, there's a chance of an UNRECOVERABLE BRICK.** These are very, *very* rare, but still a possibility, so always make sure that you follow any directions EXACTLY.](#be-aware-that-no-matter-what-every-time-you-modify-the-console-theres-a-chance-of-an-unrecoverable-brick-these-are-very-very-rare-but-still-a-possibility-so-always-make-sure-that-you-follow-any-directions-exactly)
+- [Table of contents](#table-of-contents)
+- [Homebrew](#homebrew)
+  - [What's homebrew?](#whats-homebrew)
+  - [What's a patched or unpatched switch? And how do I know which I have?](#whats-a-patched-or-unpatched-switch-and-how-do-i-know-which-i-have)
+  - [What's emuNAND/sysNAND, and do I need it?](#whats-emunandsysnand-and-do-i-need-it)
+    - [What's sysCFW?](#whats-syscfw)
+  - [What's RCM?](#whats-rcm)
+  - [What's a Jig? (and how to get inside RCM)](#whats-a-jig-and-how-to-get-inside-rcm)
+    - [How do I inject a payload?](#how-do-i-inject-a-payload)
+
 # Homebrew
 ## What's homebrew?
 
