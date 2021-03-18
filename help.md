@@ -44,7 +44,7 @@ Once you click it, it will show your Serial Number at the top of the screen. I h
 </p>
 
 
-<sup>the following information is taken from [this GBATemp thread](https://gbatemp.net/threads/switch-informations-by-serial-number-read-the-first-post-before-asking-questions.481215/)</sub>
+<sup>the following information is taken from [this GBATemp thread](https://gbatemp.net/threads/switch-informations-by-serial-number-read-the-first-post-before-asking-questions.481215/)</sup>
 
 | Serial Numbers | <span style="color:green">Unpatched!!</span>                | <span style="color:orange">Potentially patched??</span>        | <span style="color:red">Patched.</span>                      |
 |----------------|----------------------------|------------------------------|-------------------------------|
