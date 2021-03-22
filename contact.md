@@ -16,4 +16,4 @@ https://twitter.com/inconsistent_dg
 
 
 ## E-mail
-firey260@gmail.com
+<a href="mailto:firey260@gmail.com">firey260@gmail.com</a>
