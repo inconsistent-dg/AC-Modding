@@ -11,8 +11,10 @@ layout: default
 
 # Downloading Yuzu
 
-<big><pre>Yo! Yuzu needs the latest version of Microsoft Visual C++. You have to download and install it from the link below:
-https://aka.ms/vs/16/release/vc_redist.x64.exe</pre></big>
+<pre>
+Yo! Yuzu needs the latest version of Microsoft Visual C++. You have to download and install it from the link below:
+https://aka.ms/vs/16/release/vc_redist.x64.exe
+</pre>
 
 To download Yuzu, go here: https://yuzu-emu.org/downloads/
 
