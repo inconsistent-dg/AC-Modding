@@ -127,24 +127,39 @@ If you need visuals, below is a GIF
 We're now going to place the required files for CFW, with some added homebrew files. Yeah, we could just use Atmosphere's own bootloader (called fusee), however we'll be using Hekate instead, just so we can backup the systems NAND, and use some features that'll be helpful in the future.
 
 A [hekate_ipl.ini](assets/hekate_ipl.ini) config file
+
 The bootlogos folder [bootlogos.zip](assets/bootlogos.zip)
+
 The latest release of [Atmosphere](https://github.com/Atmosphere-NX/Atmosphere/releases) (get the `atmosphere-(version)-master-(version)+hbl-(version)+hbmenu-(version).zip`, and not `atmosphere-EXPERIMENTAL-(version)-master-(version)+hbl-(version)+hbmenu-(version).zip`)
+
 The latest release of [FTPD](https://github.com/mtheall/ftpd/releases) (download `ftpd.nro`)
+
 The latest release of [Hekate](https://github.com/CTCaer/Hekate/releases/) (download `hekate_ctcaer_(version).zip`)
+
 The latest release of [JKSV](https://github.com/J-D-K/JKSV/releases) (download `JKSV.nro`)
+
 The latest release of [Lockpick_RCM](https://github.com/shchmue/Lockpick_RCM/releases) (download `Lockpick_RCM.bin`)
+
 The latest release of [nxdumptool](https://github.com/DarkMatterCore/nxdumptool/releases) (download `nxdumptool.nro`)
+
 The latest release of the [hbappstore](https://github.com/fortheusers/hb-appstore/releases) (download `appstore.nro`)
 
 After downloading, follow these instructions:
 
 Copy *the contents* of the Atmosphere`.zip` to the root of your SD
+
 Copy the `bootloader` folder from the Hekate`.zip` to the root of your SD
+
 Copy the `bootloader` folder from the `bootlogos.zip` to the root of your SD (if you're asked to merge the folders, do so)
+
 Copy `hekate_ipl.ini` inside the `bootloader` folder on your SD
+
 Copy `Lockpick_RCM.bin` to the `/bootloader/payloads` folder on your SD
+
 Create a folder named `appstore` inside the `switch` folder, and copy `appstore.nro` to it.
+
 Copy `ftpd.nro`, `JKSV.nro`, and `nxdumptool.nro` inside the `switch` folder on your SD.
+
 If you were using your SD before and backed up your Nintendo folder, now would be the time to put it back on.
 
 Your SD cards contents should look something like this. The Nintendo folder will be here if you've already used your SD with your switch.
