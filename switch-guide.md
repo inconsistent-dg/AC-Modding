@@ -4,9 +4,7 @@ layout: default
 
 # Switch CFW Setup
 
-<pre>
-This guide is not trying to be its own "standalone guide" that everyone should go to, it's simple and does not get into the real nitty-gritty aspects for the WONDROUS world of magic. If you want an actually good guide, follow the [Nintendo Homebrew Switch Guide](https://nh-server.github.io/switch-guide/). This guide mostly follows that, except simplifying things by a LOT.
-</pre>
+**This guide is not trying to be its own "standalone guide" that everyone should go to, it's simple and does not get into the real nitty-gritty aspects for the WONDROUS world of magic. If you want an actually good guide, follow the [Nintendo Homebrew Switch Guide](https://nh-server.github.io/switch-guide/). This guide mostly follows that, except simplifying things by a LOT.**
 
 <big><big>
 **Be aware that, no matter what, EVERY time you modify the console, there's a chance of an UNRECOVERABLE BRICK.** These are very, *very* rare, but still a possibility, so always make sure that you follow any directions EXACTLY.
@@ -128,7 +126,6 @@ If you need visuals, below is a GIF
 
 We're now going to place the required files for CFW, with some added homebrew files. Yeah, we could just use Atmosphere's own bootloader (called fusee), however we'll be using Hekate instead, just so we can backup the systems NAND, and use some features that'll be helpful in the future.
 
-<pre>
 A [hekate_ipl.ini](assets/hekate_ipl.ini) config file
 The bootlogos folder [bootlogos.zip](assets/bootlogos.zip)
 The latest release of [Atmosphere](https://github.com/Atmosphere-NX/Atmosphere/releases) (get the `atmosphere-(version)-master-(version)+hbl-(version)+hbmenu-(version).zip`, and not `atmosphere-EXPERIMENTAL-(version)-master-(version)+hbl-(version)+hbmenu-(version).zip`)
@@ -138,10 +135,9 @@ The latest release of [JKSV](https://github.com/J-D-K/JKSV/releases) (download `
 The latest release of [Lockpick_RCM](https://github.com/shchmue/Lockpick_RCM/releases) (download `Lockpick_RCM.bin`)
 The latest release of [nxdumptool](https://github.com/DarkMatterCore/nxdumptool/releases) (download `nxdumptool.nro`)
 The latest release of the [hbappstore](https://github.com/fortheusers/hb-appstore/releases) (download `appstore.nro`)
-</pre>
 
 After downloading, follow these instructions:
-<pre>
+
 Copy *the contents* of the Atmosphere`.zip` to the root of your SD
 Copy the `bootloader` folder from the Hekate`.zip` to the root of your SD
 Copy the `bootloader` folder from the `bootlogos.zip` to the root of your SD (if you're asked to merge the folders, do so)
@@ -155,7 +151,6 @@ Your SD cards contents should look something like this. The Nintendo folder will
 <p align="center">
   <img src="./assets/images/hbrew/nintendy.png" alt="SD Content"/>
 </p>
-</pre>
 
 # Entering RCM
 
