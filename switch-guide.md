@@ -126,6 +126,7 @@ If you need visuals, below is a GIF
 
 We're now going to place the required files for CFW, with some added homebrew files. Yeah, we could just use Atmosphere's own bootloader (called fusee), however we'll be using Hekate instead, just so we can backup the systems NAND, and use some features that'll be helpful in the future.
 
+<sub>
 A [hekate_ipl.ini](assets/hekate_ipl.ini) config file
 
 The bootlogos folder [bootlogos.zip](assets/bootlogos.zip)
@@ -159,6 +160,7 @@ Copy `Lockpick_RCM.bin` to the `/bootloader/payloads` folder on your SD
 Create a folder named `appstore` inside the `switch` folder, and copy `appstore.nro` to it.
 
 Copy `ftpd.nro`, `JKSV.nro`, and `nxdumptool.nro` inside the `switch` folder on your SD.
+</sub>
 
 If you were using your SD before and backed up your Nintendo folder, now would be the time to put it back on.
 
