@@ -4,7 +4,7 @@ layout: default
 
 # Switch CFW Setup
 
-**This guide is not trying to be its own "standalone guide" that everyone should go to, it's simple and does not get into the real nitty-gritty aspects for the WONDROUS world of magic. If you want an actually good guide, follow the [Nintendo Homebrew Switch Guide](https://nh-server.github.io/switch-guide/). This guide mostly follows that, except simplifying things by a LOT.**
+**This guide is not trying to be its own "standalone guide" that everyone should go to, it's simple and does not get into the real nitty-gritty aspects for the WONDROUS world of magic. If you want an actually good guide, follow the [Nintendo Homebrew Switch Guide](https://nh-server.github.io/switch-guide/). This guide mostly follows that, except simplifying things by a LOT, and removing the optional emuNAND Route.**
 
 <big><big>
 **Be aware that, no matter what, EVERY time you modify the console, there's a chance of an UNRECOVERABLE BRICK.** These are very, *very* rare, but still a possibility, so always make sure that you follow any directions EXACTLY.
@@ -14,8 +14,6 @@ Note: This page has not yet been fully completed. Once it has, you'll be able to
 
 # Table of Contents
 
-- [Switch CFW Setup](#switch-cfw-setup)
-- [Table of Contents](#table-of-contents)
 - [Finding your serial number](#finding-your-serial-number)
 - [Preparing the SD](#preparing-the-sd)
   - [Formatting the SD](#formatting-the-sd)
@@ -23,8 +21,12 @@ Note: This page has not yet been fully completed. Once it has, you'll be able to
     - [**Formatting on MacOS**](#formatting-on-macos)
     - [**Formatting on Linux**](#formatting-on-linux)
   - [Required Files](#required-files)
-- [Entering RCM](#entering-rcm)
-  - [Injecting a payload](#injecting-a-payload)
+- [Injection Apps](#injection-apps)
+  - [TegraRCM](#tegrarcm)
+- [Backing Up System Files (optional, but recommended)](#backing-up-system-files-optional-but-recommended)
+  - [Switch NAND](#switch-nand)
+  - [Switch keys](#switch-keys)
+- [Launching CFW](#launching-cfw)
 
 # Finding your serial number
 
@@ -92,7 +94,7 @@ If you get an error that looks like this, you just need to make sure that your f
 
 ### **Formatting on MacOS**
 
-I don't have a MadOS, so I can't provide any extra screenshots, however you can [follow the Apple Support page for formatting](https://support.apple.com/guide/disk-utility/format-a-disk-for-windows-computers-dskutl1010/mac). At the top of the page, you can change which version of MadOS you're using.
+I don't have a CrapOS, so I can't provide any extra screenshots, however you can [follow the Apple Support page for formatting](https://support.apple.com/guide/disk-utility/format-a-disk-for-windows-computers-dskutl1010/mac). At the top of the page, you can change which version of CrapOS you're using.
 
 ### **Formatting on Linux**
 
@@ -128,7 +130,7 @@ If you need visuals, below is a GIF
 
 We're now going to place the required files for CFW, with some added homebrew files. Yeah, we could just use Atmosphere's own bootloader (called fusee), however we'll be using Hekate instead, just so we can backup the systems NAND, and use some features that'll be helpful in the future.
 
-A [hekate_ipl.ini](assets/hekate_ipl.ini) config file
+A [hekate_ipl.ini](assets/hekate_ipl.ini) config file (open the link, right click > save page as)
 
 The bootlogos folder [bootlogos.zip](assets/bootlogos.zip)
 
@@ -148,19 +150,19 @@ The latest release of the [hbappstore](https://github.com/fortheusers/hb-appstor
 
 <big><big>**After downloading, follow these instructions:**</big></big>
 
-Copy *the contents* of the Atmosphere`.zip` to the root of your SD
+1. Copy *the contents* of the Atmosphere`.zip` to the root of your SD
 
-Copy the `bootloader` folder from the Hekate`.zip` to the root of your SD
+2. Copy the `bootloader` folder from the Hekate`.zip` to the root of your SD
 
-Copy the `bootloader` folder from the `bootlogos.zip` to the root of your SD (if you're asked to merge the folders, do so)
+3. Copy the `bootloader` folder from the `bootlogos.zip` to the root of your SD (if you're asked to merge the folders, do so)
 
-Copy `hekate_ipl.ini` inside the `bootloader` folder on your SD
+4. Copy `hekate_ipl.ini` inside the `bootloader` folder on your SD
 
-Copy `Lockpick_RCM.bin` to the `/bootloader/payloads` folder on your SD
+5. Copy `Lockpick_RCM.bin` to the `/bootloader/payloads` folder on your SD
 
-Create a folder named `appstore` inside the `switch` folder, and copy `appstore.nro` to it.
+6. Create a folder named `appstore` inside the `switch` folder, and copy `appstore.nro` to it.
 
-Copy `ftpd.nro`, `JKSV.nro`, and `nxdumptool.nro` inside the `switch` folder on your SD.
+7. Copy `ftpd.nro`, `JKSV.nro`, and `nxdumptool.nro` inside the `switch` folder on your SD.
 
 If you were using your SD before and backed up your Nintendo folder, now would be the time to put it back on.
 
@@ -169,11 +171,7 @@ Your SD cards contents should look something like this. The Nintendo folder will
   <img src="./assets/images/hbrew/nintendy.png" alt="SD Content"/>
 </p>
 
-# Entering RCM
-
-Before you do this, turn on the switch normally and delete all wifi networks. You can add them back after the guide.
-
-## Injecting a payload
+# Injection Apps
 
 To inject payloads on Windows, you use something called [TegraRCMGui](https://github.com/eliboa/TegraRcmGUI/releases). Download either the MSI or zip.
 
@@ -186,3 +184,60 @@ If you want to inject a payload on other platforms:
 [NXLoader](https://github.com/DavidBuchanan314/NXLoader) (Android)
 
 [Web Fusée Launcher](https://fusee-gelee.firebaseapp.com/) (cross platform! works in a browser, only in chrome)
+
+I might show how to inject on other platforms in the future, but for now, if you're using Windows, then I'll be showing how to inject with Tegra.
+
+## TegraRCM
+
+1. Run the TegraRCMGUI installer, and after installation, start the program. Or just run it if you downloaded portable.
+
+2. In the `Settings` tab, click on `Install Driver`, which will install the drivers needed for Tegra to detect your Switch.
+
+3. After the drivers have been installed, plug your Switch into your computer. While it's still plugged in, power off your switch COMPLETELY (so hold down the power for 5 seconds, select Power Options, then turn off)
+
+4. *Insert* your Jig into the right joy-con slot, making sure the pins aren't visible, and then press the Power button and VOL+ at the same time. Your Switch screen should stay black; if it turns on normally, retry from step 2.
+
+<img align="right" src="./assets/images/hbrew/rcm.png">
+
+5. If you see RCM O.K in the bottom left of Tegra, then you know your switch is in RCM. This is where you can actually inject a payload!!
+
+Once your switch is in RCM, you can inject payloads. We'll be injecting Hekate.
+
+In the `hekate_ctcaer_(version).zip` that you downloaded, inside was the `hekate_ctcaer_(version).bin`. That file is what you'll be injecting. Move it to any accessible place on your PC.
+
+In the `Payload` tab of Tegra, click on the folder icon and navigate to the `hekate_ctcaer_(version).bin` file. Select it, and then click on `Inject Payload` and your switch will boot into the hekate menu.
+
+# Backing Up System Files (optional, but recommended)
+
+Now that you're in Hekate (congrats btw!!) you **should** backup your Switch's NAND. This is entirely optional, however VERY recommended, to ensure you have a backup of your switch incase (somehow, someway) you brick it. It's also useful if you want to basically erase all evidence that you had modded your switch in the first place. Of course, this does not remove a ban from your switch if you're banned, but if you just wanted to mod your switch to see what it'd be like, then you can restore your backup to delete that incriminating evidence.
+
+As they say, the best backup is the one you have but never need, and the worst backup is the one you need but never made. 
+
+## Switch NAND
+
+You ARE going to need at**least** 32gb of free space to dump your Switch NAND (unless you want to dump it 4gb at a time).
+
+1. On Hekate, tap on the `Tools` tab and select `Backup EMMC`.
+2. Once here, tap on `eMMC BOOT0 & BOOT1`. It'll take a couple seconds, but once it's done it should say `Finished and verified!`. Under `Filepath:` is where you'll see the location of the dump.
+3. Close this screen then select `eMMC RAW GPP`. It should take some time, since the Switch's rawnand.bin is quite large. (it'll take even longer if you're dumping it 4gb at a time). This can take anywhere from 15minutes up to an hour and a half, all depends on the speed of your SD card.
+4. Tap on Close twice to return to the tools menu, and copy the `backup` folder to your computer (or someplace safe). Once you got your `backup` folder copied someplace else, you can delete the `backup` folder on your SD. To save a bit of space, you can compress the backup folder in a .zip, .7z, or something similar. 
+
+## Switch keys
+
+Your Switch keys aren't that large, so you don't have to worry about spending another hour backing them up.
+
+1. On the `Home` tab of Hekate, select `Payloads`. Once here, open `Lockpick_RCM.bin`. (if it's not here, you didn't follow [Required Files](#required-files) correctly)
+2. Once Lockpick has loaded, press the power button to select `Dump fron SysNAND`. You'll see some pretty colors for a moment!
+3. After Lockpick is finished, your `prod.keys` and `title.keys` should be in `sd:/switch`.
+4. Now that you have your keys, copy them to your computer (or someplace safe). Once you got your keys backed up somewhere, you can delete the keys on your SD. You wouldn't HAVE to compress these, since (in total) they're only 12kb, but you can still do it if you'd like to.
+---
+
+Now that you've finished those steps, you're basically finished at this point! All you need to do now is actually boot into CFW. You might be asing, am I not already in CFW? Well, no. You've simply injected a payload.
+
+---
+
+# Launching CFW
+
+To launch into CFW, on the Hekate `Home` tab, select `Launch`, then select `CFW (SYSNAND)`. If you get an error like <span style="color:yellow">No main boot entries found...</span>, then you haven't downloaded the hekate_ipl.ini and put it in your bootloader folder. If this is the case, download the [hekate_ipl.ini](assets/hekate_ipl.ini) config file (open the link, right click > save page as)
+
+But if you don't get that error, then you're in CFW! You ARE gonna have to inject a paylaod everytime you want to enter CFW though, so remember that as soon as you turn off your switch you'll be back in normie territory.
