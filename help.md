@@ -6,7 +6,6 @@ This help page tries to go through each and every question one might ask about a
 
 # Table of contents
 
-- [**Be aware that, no matter what, EVERY time you modify the console, there's a chance of an UNRECOVERABLE BRICK.** These are very, *very* rare, but still a possibility, so always make sure that you follow any directions EXACTLY.](#be-aware-that-no-matter-what-every-time-you-modify-the-console-theres-a-chance-of-an-unrecoverable-brick-these-are-very-very-rare-but-still-a-possibility-so-always-make-sure-that-you-follow-any-directions-exactly)
 - [Table of contents](#table-of-contents)
 - [Homebrew](#homebrew)
   - [What's homebrew?](#whats-homebrew)
