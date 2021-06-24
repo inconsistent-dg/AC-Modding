@@ -1,7 +1,3 @@
----
-layout: default
----
-
 # Contact
 
 ## [Discord](https://discord.gg/6zxNhWU)

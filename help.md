@@ -1,7 +1,3 @@
----
-layout: default
----
-
 <sub># Note: this page probably doesnt have everything that it deserves, but for now i'd call it pretty Pog!</sub>
 
 # **Be aware that, no matter what, EVERY time you modify the console, there's a chance of an UNRECOVERABLE BRICK.** These are very, *very* rare, but still a possibility, so always make sure that you follow any directions EXACTLY.
@@ -10,6 +6,8 @@ This help page tries to go through each and every question one might ask about a
 
 # Table of contents
 
+- [**Be aware that, no matter what, EVERY time you modify the console, there's a chance of an UNRECOVERABLE BRICK.** These are very, *very* rare, but still a possibility, so always make sure that you follow any directions EXACTLY.](#be-aware-that-no-matter-what-every-time-you-modify-the-console-theres-a-chance-of-an-unrecoverable-brick-these-are-very-very-rare-but-still-a-possibility-so-always-make-sure-that-you-follow-any-directions-exactly)
+- [Table of contents](#table-of-contents)
 - [Homebrew](#homebrew)
   - [What's homebrew?](#whats-homebrew)
   - [What's a patched or unpatched switch? And how do I know which I have?](#whats-a-patched-or-unpatched-switch-and-how-do-i-know-which-i-have)

@@ -1,7 +1,3 @@
----
-layout: default
----
-
 # Switch CFW Setup
 
 **This guide is not trying to be its own "standalone guide" that everyone should go to, it's simple and does not get into the real nitty-gritty aspects for the WONDROUS world of magic. If you want an actually good guide, follow the [Nintendo Homebrew Switch Guide](https://nh-server.github.io/switch-guide/). This guide mostly follows that, except simplifying things by a LOT, and removing the optional emuNAND Route.**
@@ -14,6 +10,8 @@ Note: This page has not yet been fully completed. Once it has, you'll be able to
 
 # Table of Contents
 
+- [Switch CFW Setup](#switch-cfw-setup)
+- [Table of Contents](#table-of-contents)
 - [Finding your serial number](#finding-your-serial-number)
 - [Preparing the SD](#preparing-the-sd)
   - [Formatting the SD](#formatting-the-sd)
@@ -26,6 +24,7 @@ Note: This page has not yet been fully completed. Once it has, you'll be able to
 - [Backing Up System Files (optional, but recommended)](#backing-up-system-files-optional-but-recommended)
   - [Switch NAND](#switch-nand)
   - [Switch keys](#switch-keys)
+  - [4. Now that you have your keys, copy them to your computer (or someplace safe). Once you got your keys backed up somewhere, you can delete the keys on your SD. You wouldn't HAVE to compress these, since (in total) they're only 12kb, but you can still do it if you'd like to.](#4-now-that-you-have-your-keys-copy-them-to-your-computer-or-someplace-safe-once-you-got-your-keys-backed-up-somewhere-you-can-delete-the-keys-on-your-sd-you-wouldnt-have-to-compress-these-since-in-total-theyre-only-12kb-but-you-can-still-do-it-if-youd-like-to)
 - [Launching CFW](#launching-cfw)
 
 # Finding your serial number

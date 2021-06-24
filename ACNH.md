@@ -1,6 +1,3 @@
----
-layout: default
----
 # ACNH
 # What would you like to look at?
 **Simply click on the hyperlink at the start of the section.**

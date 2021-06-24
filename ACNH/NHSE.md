@@ -1,7 +1,3 @@
----
-layout: default
----
-
 # NHSE
 
 ## What is NHSE?
