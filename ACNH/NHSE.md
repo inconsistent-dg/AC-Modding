@@ -1,3 +1,10 @@
+<html>
+ <head>
+  <meta name="description" content="A guide for NHSE, the most popular New Horizons Save Editor!">
+  <title>NHSE Guide</title>
+</head> 
+</html>
+
 # NHSE
 
 ## What is NHSE?

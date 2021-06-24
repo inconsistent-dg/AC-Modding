@@ -1,3 +1,9 @@
+<html>
+ <head>
+  <meta name="description" content="A ''complete'' guide to Switch custom firmware, from stock to Atmosphere.">
+  <title>Switch CFW Setup</title>
+</head> 
+</html>
 # Switch CFW Setup
 
 **This guide is not trying to be its own "standalone guide" that everyone should go to, it's simple and does not get into the real nitty-gritty aspects for the WONDROUS world of magic. If you want an actually good guide, follow the [Nintendo Homebrew Switch Guide](https://nh-server.github.io/switch-guide/). This guide mostly follows that, except simplifying things by a LOT, and removing the optional emuNAND Route.**

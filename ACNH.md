@@ -1,3 +1,10 @@
+<html>
+ <head>
+  <meta name="description" content="Choose what you would like to learn! Is modding your thing? Or are you more of a save editor? You'll be satisfied either way!">
+  <title>ACNH Available Catalog</title>
+</head> 
+</html>
+
 # ACNH
 # What would you like to look at?
 **Simply click on the hyperlink at the start of the section.**
