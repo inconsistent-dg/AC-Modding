@@ -2081,7 +2081,7 @@ This list was last updated the 11th of November, 2020. If any information is out
 <td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
 </tr>
 <tr>
-<td>Castle of <span style="color:red">No.</span> Escape 2</td>
+<td>Castle of No Escape 2</td>
 <td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
 </tr>
 <tr>
@@ -6549,7 +6549,7 @@ This list was last updated the 11th of November, 2020. If any information is out
 <td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
 </tr>
 <tr>
-<td>Ni <span style="color:red">No.</span> Kuni: Wrath of the White Witch</td>
+<td>Ni no Kuni: Wrath of the White Witch</td>
 <td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
 </tr>
 <tr>
@@ -6645,19 +6645,19 @@ This list was last updated the 11th of November, 2020. If any information is out
 <td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
 </tr>
 <tr>
-<td><span style="color:red">No.</span> More Heroes</td>
+<td>No More Heroes</td>
 <td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
 </tr>
 <tr>
-<td><span style="color:red">No.</span> More Heroes 2: Desperate Struggle</td>
+<td>No More Heroes 2: Desperate Struggle</td>
 <td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
 </tr>
 <tr>
-<td><span style="color:red">No.</span> Straight Roads</td>
+<td>No Straight Roads</td>
 <td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
 </tr>
 <tr>
-<td><span style="color:red">No.</span> Time to Relax</td>
+<td>No Time to Relax</td>
 <td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
 </tr>
 <tr>
@@ -9517,7 +9517,7 @@ This list was last updated the 11th of November, 2020. If any information is out
 <td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
 </tr>
 <tr>
-<td>Taiko <span style="color:red">No.</span> Tatsujin: Drum 'n' Fun!</td>
+<td>Taiko no Tatsujin: Drum 'n' Fun!</td>
 <td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
 </tr>
 <tr>
@@ -9837,7 +9837,7 @@ This list was last updated the 11th of November, 2020. If any information is out
 <td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
 </tr>
 <tr>
-<td>Tower of Babel - <span style="color:red">No.</span> mercy</td>
+<td>Tower of Babel - no mercy</td>
 <td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
 </tr>
 <tr>
@@ -9873,7 +9873,7 @@ This list was last updated the 11th of November, 2020. If any information is out
 <td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
 </tr>
 <tr>
-<td>Travis Strikes Again: <span style="color:red">No.</span> More Heroes</td>
+<td>Travis Strikes Again: No More Heroes</td>
 <td><span style="color:red">No.</span></td>
 </tr>
 <tr>
@@ -10057,7 +10057,7 @@ This list was last updated the 11th of November, 2020. If any information is out
 <td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
 </tr>
 <tr>
-<td>Undead Darlings ~<span style="color:red">No.</span> cure for love~</td>
+<td>Undead Darlings ~no cure for love~</td>
 <td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
 </tr>
 <tr>
@@ -10733,7 +10733,7 @@ This list was last updated the 11th of November, 2020. If any information is out
 <td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
 </tr>
 <tr>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span>, Your Grace</td>
+<td>Yes, Your Grace</td>
 <td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
 </tr>
 <tr>
@@ -10825,7 +10825,7 @@ This list was last updated the 11th of November, 2020. If any information is out
 <td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
 </tr>
 <tr>
-<td>YU-<span style="color:red">No.</span>: A Girl Who Chants Love at the Bound of this World (Europe, cartridge)</td>
+<td>YU-NO: A Girl Who Chants Love at the Bound of this World (Europe, cartridge)</td>
 <td><span style="color:red">No.</span></td>
 </tr>
 <tr>
