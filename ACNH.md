@@ -32,6 +32,7 @@
 [Learn how to **get** or **make** mods, and then install them to your game.](/ACNH/mods) Note that not all mods are safe to use online, so when using mods, understand that there's always a chance you won't be able to go online with it (or even end up getting banned)
 <img src="./assets/images/NH/CameraMod.png"> 
 =
+
 ## Emulating
 
 [Learn how to play Animal Crossing on your PC with either Yuzu or Ryujinx.](/ACNH/emulation) Emulating requires pretty decent hardware for the game to run at full speed, no lag. So if your Macbook Air from 2012 can't open Chrome without the thing dying, then you probably shouldn't even try.
