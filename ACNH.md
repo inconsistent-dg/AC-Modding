@@ -10,7 +10,7 @@
 **Simply click on the hyperlink at the start of the section.**
 
 1. [Save Editing](#save-editing)
-2. [Streaming](#streaming)
+2. [SysDVR](#SysDVR)
 3. [Mods](#mods)
 4. [Emulating](#emulating)
 
@@ -21,7 +21,7 @@
 <img align="center" src="./assets/images/NH/FieldItemEditor.png"> 
 =
 
-## Streaming
+## SysDVR
 
 [Learn how to stream Animal Crossing from your switch, **with** ***OR*** **without** a capture card.](/ACNH/SysDVR) Streaming *with* a capture card does not require a hackable Swich. However, if you are able to use CFW, you can use SysDVR to stream games at a decent quality, and no need for a capture card. The picture below is use of SysDVR. If you plan to only stream AC, SysDVR is your best bet for something free. However SysDVR only allows you to stream games which allow capturing videos, so if you're playing a game that doesn't allow it, SysDVR won't work.
 <img src="./assets/images/NH/SysDVR.PNG"> 
