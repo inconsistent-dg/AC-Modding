@@ -21,11 +21,39 @@
         <h2>{{ site.description | default: site.github.project_tagline }}</h2>
 
         <script>
-          $.get('pages/misc/sehsalps.txt', function(txt) {
-           var lines = txt.responseText.split("\n");
-           var randLineNum = Math.floor(Math.random() * lines.length);
-        save(lines[randLineNum]);
-        });
+
+var lines;
+var randomNumber;
+var lastRandomNumber;
+
+$(document.body).ready(function () {
+
+  // load the trivia from the server
+  $.ajax({
+    url: 'pages/misc/sehsalps.txt'
+  }).done(function(content) {
+
+    // normalize the line breaks, then split into lines
+    lines = content.replace(/\r\n|\r/g, '\n').trim().split('\n');
+
+    if (lines && lines.length) {
+      $( document ).ready(function () {
+        // loop to prevent repeating the last random number
+        while (randomNumber === lastRandomNumber) {
+          randomNumber = parseInt(Math.random() * lines.length);
+          // check to prevent infinite loop
+          if (lines.length === 1) { break; }
+        }
+        // keep track of the last random number
+        lastRandomNumber = randomNumber;
+
+        // show the corresponding line
+        $('#trivia').text(lines[randomNumber]);
+      });
+    }
+  });
+});
+
         </script>
 
         <section id="downloads">
