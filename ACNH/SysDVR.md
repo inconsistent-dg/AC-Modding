@@ -58,7 +58,7 @@ Extract the contents of `SysDVR.zip` to your SD card. **You should NOT have a fo
 │   └── <font color="#4E9A06"><b>SysDVR-conf.nro</b></font>
 </pre>
 
-Now that you have SysDVR on your Switch, boot into CFW, open the Homebrew launcher, then open the SysDVR Settings app. By default, SysDVR will stream with Simple network mode. To switch, <sub><sup><sub><sup>see what i did there? lol</sub></sup></sub></sup> select either TCP bridge or USB, then select `Set current mode as default on boot`, so you don't have to open this app again everytime you want to stream. Now select `Save and exit` to apply your changes. At this point, you're done with the switch, and can now move onto your computer.
+Now that you have SysDVR on your Switch, boot into CFW, open the Homebrew launcher, then open the SysDVR Settings app. By default, SysDVR will stream with Simple network mode. To switch, select either TCP bridge or USB, then select `Set current mode as default on boot`, so you don't have to open this app again everytime you want to stream. Now select `Save and exit` to apply your changes. At this point, you're done with the switch, and can now move onto your computer.
 
 <img align="center" src="../assets/images/hbrew/SysDVR-Settings.jpg"> 
 
