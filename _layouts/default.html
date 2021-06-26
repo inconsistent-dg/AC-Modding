@@ -20,6 +20,14 @@
         </a>
         <h2>{{ site.description | default: site.github.project_tagline }}</h2>
 
+        <script>
+          $.get('pages/misc/sehsalps.txt', function(txt) {
+           var lines = txt.responseText.split("\n");
+           var randLineNum = Math.floor(Math.random() * lines.length);
+        save(lines[randLineNum]);
+        });
+        </script>
+
         <section id="downloads">
           {% if site.show_downloads %}
           {% endif %}
