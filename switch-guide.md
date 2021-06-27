@@ -1,10 +1,9 @@
-<!DOCTYPE html>
 <html>
-<head>
+ <head>
   <meta name="description" content="A ''complete'' guide to Switch custom firmware, from stock to Atmosphere.">
   <title>Switch CFW Setup</title>
 </head> 
-
+</html>
 # Switch CFW Setup
 
 **This guide is not trying to be its own "standalone guide" that everyone should go to, it's simple and does not get into the real nitty-gritty aspects for the WONDROUS world of magic. If you want an actually good guide, follow the [Nintendo Homebrew Switch Guide](https://nh-server.github.io/switch-guide/). This guide mostly follows that, except simplifying things by a LOT, and removing the optional emuNAND Route.**
@@ -244,5 +243,3 @@ Now that you've finished those steps, you're basically finished at this point! A
 To launch into CFW, on the Hekate `Home` tab, select `Launch`, then select `CFW (SYSNAND)`. If you get an error like <span style="color:yellow">No main boot entries found...</span>, then you haven't downloaded the hekate_ipl.ini and put it in your bootloader folder. If this is the case, download the [hekate_ipl.ini](assets/hekate_ipl.ini) config file (open the link, right click > save page as)
 
 But if you don't get that error, then you're in CFW! You ARE gonna have to inject a paylaod everytime you want to enter CFW though, so remember that as soon as you turn off your switch you'll be back in normie territory.
-
-</html>

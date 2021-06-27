@@ -1,9 +1,9 @@
-<!DOCTYPE html>
 <html>
  <head>
   <meta name="description" content="Learn how to emulate games from your Nintendo Switch onto Yuzu or Ryujinx!">
   <title>New Horizons Emulation Guide</title>
 </head> 
+</html>
 
 # Emulation Guide
 <sup><sub># Note: for the Yuzu section, most information was taken from [**the Yuzu quickstart guide**](https://yuzu-emu.org/help/quickstart/). If you don't like my guide, you can check theirs out! I just tried my best to make it easier to understand.</sub></sup>
@@ -37,5 +37,3 @@ To download Yuzu, go here: https://yuzu-emu.org/downloads/
 # Prerequisites
 
 - A moddable switch! 
-
-</html>

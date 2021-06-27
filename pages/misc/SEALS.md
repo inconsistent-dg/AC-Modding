@@ -1,9 +1,9 @@
-<!DOCTYPE html>
 <html>
-<head>
+ <head>
   <meta name="description" content="Just a documentation page for myself where I write stuff down for later use.">
   <title>SEALS</title>
 </head> 
+</html>
 
 Page for my own sort of *documentation*, and just to test a bit of things. You aren't gonna find anything interesting here (unless you do, and in such case your welcome for the free knowledge)
 
@@ -199,5 +199,3 @@ Wanna know something cool? Long, single lined paragraphs in a code block actuall
 ###### Header 6
 
 ####### Oops! No 7+ headers!
-
-</html>

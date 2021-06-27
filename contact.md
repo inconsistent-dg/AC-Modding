@@ -1,9 +1,9 @@
-<!DOCTYPE html>
 <html>
-<head>
+ <head>
   <meta name="description" content="Want to contact your favorite person? Go ahead!">
   <title>Contact inco!</title>
 </head> 
+</html>
 
 # Contact
 
@@ -20,5 +20,3 @@ https://twitter.com/inconsistent_dg
 
 ## E-mail
 <a href="mailto:firey260@gmail.com">firey260@gmail.com</a>
-
-</html>
