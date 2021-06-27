@@ -1,9 +1,9 @@
+<!DOCTYPE html>
 <html>
- <head>
+<head>
   <meta name="description" content="Choose what you would like to learn! Is modding your thing? Or are you more of a save editor? You'll be satisfied either way!">
   <title>ACNH Available Catalog</title>
 </head> 
-</html>
 
 # ACNH
 # What would you like to look at?
@@ -38,3 +38,5 @@
 [Learn how to play Animal Crossing on your PC with either Yuzu or Ryujinx.](/ACNH/emulation) Emulating requires pretty decent hardware for the game to run at full speed, no lag. So if your Macbook Air from 2012 can't open Chrome without the thing dying, then you probably shouldn't even try. Emulating is also good if you want to use mods but dont want to put them on your Switch, if you're scared of being banned, or just want to test it out quickly without having to put it on there. It is a bit hard to set it up, but it's useful for what I've previously mentioned.
 <img src="./assets/images/NH/Yuzu.png"> 
 =
+
+</html>

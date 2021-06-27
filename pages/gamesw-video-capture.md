@@ -1,3 +1,10 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta name="description" content="A list of games on the Nintendo Switch that support video capture.">
+  <title>Video Capture supported games</title>
+</head> 
+
 The following is a list of all games supporting video capture on the Nintendo Switch. The information was taken from [http://www.benoitren.be/switch-videocapturesupport.html](http://www.benoitren.be/switch-videocapturesupport.html).
 
 This list was last updated the 11th of November, 2020. If any information is outdated, please inform either me or the creator behind benoitren.be.
@@ -10890,3 +10897,5 @@ This list was last updated the 11th of November, 2020. If any information is out
 </tr>
 </tbody>
 </table>
+
+</html>

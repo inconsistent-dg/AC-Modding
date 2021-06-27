@@ -1,9 +1,9 @@
+<!DOCTYPE html>
 <html>
  <head>
   <meta name="description" content="A guide for NHSE, the most popular New Horizons Save Editor!">
   <title>NHSE Guide</title>
 </head> 
-</html>
 
 # NHSE
 
@@ -44,3 +44,5 @@ A gif tutorial is shown, to help out a bit
 In the NHSE.zip you downloaded earlier, there will be a file called `NHSE.exe`. You open this to use NHSE. Do know however that you **DO** need to unzip the NHSE.zip, otherwise you will get an error when you try to open it
 
 This page assumes you already have CFW, and if you don't, then you can follow my own guide here.
+
+</html>

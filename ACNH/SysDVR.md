@@ -1,9 +1,9 @@
+<!DOCTYPE html>
 <html>
  <head>
   <meta name="description" content="Learn how to use SysDVR to capture your switch wirelessley from your PC!">
   <title>Streaming New Horizons with SysDVR</title>
 </head> 
-</html>
 
 # SysDVR
 
@@ -193,3 +193,5 @@ Add a new source, this source being a Window capture. Select SysDVR-Client as th
 Maybe you've gotten an error while using SysDVR, but don't know how to fix it. That's what the troubleshooting is for! You can join either [exelix's discord](https://discord.gg/rqU5Tf8) server or my [own discord server](https://discord.com/invite/bHmqQuU) to ask for help with troubleshooting.
 
 <big>[You should take a quick read through the troubleshooting page on the wiki though before you ask any questions](https://github.com/exelix11/SysDVR/wiki/Troubleshooting)</big>, as they might've already been answered there.
+
+</html>

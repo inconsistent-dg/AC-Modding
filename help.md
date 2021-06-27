@@ -1,9 +1,9 @@
+<!DOCTYPE html>
 <html>
- <head>
+<head>
   <meta name="description" content="A troubleshooting page for modding your switch. You got a problem? I (hopefully) have an answer.">
   <title>Help page for modding your Switch</title>
 </head> 
-</html>
 
 <sub># Note: this page probably doesnt have everything that it deserves, but for now i'd call it pretty Pog!</sub>
 
@@ -109,3 +109,5 @@ If you want to inject a payload on other platforms:
 [NXLoader](https://github.com/DavidBuchanan314/NXLoader) (Android)
 
 [Web Fusée Launcher](https://fusee-gelee.firebaseapp.com/) (cross platform! works in a browser, only in chrome)
+
+</html>
