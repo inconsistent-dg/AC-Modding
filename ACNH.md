@@ -23,7 +23,7 @@
 
 ## Streaming
 
-[Learn how to stream Animal Crossing from your switch, **without** a capture card.](/ACNH/SysDVR) Streaming *with* a capture card does not require a hackable Swich. However, if you are able to use CFW, you can use SysDVR to stream games at a decent quality, and no need for a capture card. The picture below is use of SysDVR. If you plan to only stream AC, SysDVR is your best bet for something free. However SysDVR only allows you to stream games which allow capturing videos, so if you're playing a game that doesn't allow it, SysDVR won't work.
+[Learn how to stream Animal Crossing from your switch, **without** a capture card.](/ACNH/SysDVR) Streaming *with* a capture card does not require a hackable Swich. However, if you are able to use CFW, you can use SysDVR to stream games at a decent quality, and no need for a capture card. The picture below is use of SysDVR. If you plan to only stream AC, SysDVR is your best bet for something free. However SysDVR only allows you to stream games which allow capturing videos, so if you're playing a game that doesn't allow it, SysDVR won't work. [You can find your game here and see if it's compatible with SysDVR.](pages/gamesw-video-capture.md)
 <img src="./assets/images/NH/SysDVR.PNG"> 
 =
 
@@ -36,5 +36,10 @@
 ## Emulating
 
 [Learn how to play Animal Crossing on your PC with either Yuzu or Ryujinx.](/ACNH/emulation) Emulating requires pretty decent hardware for the game to run at full speed, no lag. So if your Macbook Air from 2012 can't open Chrome without the thing dying, then you probably shouldn't even try. Emulating is also good if you want to use mods but dont want to put them on your Switch, if you're scared of being banned, or just want to test it out quickly without having to put it on there. It is a bit hard to set it up, but it's useful for what I've previously mentioned.
+
+It's also useful to mention that both Yuzu and Ryujinx have their pros and cons. Yuzu doesn't require you to have a top end device, so it's more compatible with lower ends. However, Ryujinx is more CPU intensive. A quick con with Yuzu, it's not very ACNH compatible. It requires custom patches for glitches (like fog appearing black), *and* **LayeredFS** is barely supported. If any LayeredFS mods are loaded for ACNH with Yuzu, it can then take anywhere from 10 minutes to 10 hours for it to load. Sometimes, it just won't. Ryujinx doesn't have these problems.
+
+<sub><sup>i'm so sorry i had to diss yuzu please forgive me flamboyant ham</sup></sub>
+
 <img src="./assets/images/NH/Yuzu.png"> 
 =
