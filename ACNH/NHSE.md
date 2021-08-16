@@ -19,6 +19,7 @@
   - [Internal Items](#internal-items)
   - [Players Tab](#players-tab)
     - [Edit Player...](#edit-player)
+  - [Villagers Tab](#villagers-tab)
 
 ## What is NHSE?
 
@@ -30,13 +31,17 @@ There are 2 ways to download NHSE. The easiest is shown first
 
 1. Go to https://berichan.github.io/GetNHSE/, and click the BIG button that says `Download Latest NHSE Version`. This will download a .zip, and inside it will be NHSE and all of the needed files for it.
 
-<img align="center" src="../assets/images/NH/GetNHSE.png"> 
+<p align="center">
+<img src="../assets/images/NH/GetNHSE.png"> 
+</p>
 
 <sub>Everything inside NHSE (as of the time writing this). If your folder does not have everything shown in this screenshot, then you should probably try downloading NHSE again.</sub>
 
-<img align="center" src="../assets/images/NH/NHSEContents.png"> 
+<p align="center">
+<img src="../assets/images/NH/NHSEContents.png"> 
+</p>
 
-2. Downloading compiled buids (info taken from [kurts wiki](https://github.com/kwsch/NHSE/wiki/Downloading-Compiled-Builds))
+1. Downloading compiled buids (info taken from [kurts wiki](https://github.com/kwsch/NHSE/wiki/Downloading-Compiled-Builds))
 
 A gif tutorial is shown, to help out a bit
 
@@ -50,13 +55,17 @@ A gif tutorial is shown, to help out a bit
 
 - Click the 3 dots to the right, then click "Download Artifacts"
 
-<img align="center" src="../assets/images/NH/Artifacts.gif"> 
+<p align="center">
+<img src="../assets/images/NH/Artifacts.gif"> 
+</p>
 
 ## Opening NHSE
 
 Extract the `NHSE.zip` you've just downloaded, and open `NHSE.exe`. **You MUST extract the zip to use NHSE**. If you don't, you will get an error that looks a little something like this. If you get this, you know what you did wrong.
 
-<img align="center" src="../assets/images/NH/NHShitE.png">
+<p align="center">
+<img src="../assets/images/NH/NHShitE.png">
+</p>
 
 This page assumes you already have CFW, and if you don't, then you can [follow a guide here.](../switch-guide)
 
@@ -87,7 +96,9 @@ Open NHSE, and drag your save folder into the NHSE window. After a couple second
 
 (It's better to drag the entire folder rather than just the `main.dat`.)
 
-<img align="center" src="../assets/images/NH/NHSE_SaveDrag.gif"> 
+<p align="center">
+<img src="../assets/images/NH/NHSE_SaveDrag.gif"> 
+</p>
 
 ## Using NHSE
 
@@ -99,28 +110,124 @@ Before going any further, it's important to mention `internal items`. Internal i
 
 ## Players Tab
 
+<p>
+<img align="right" src="../assets/images/NH/NHSEVillager69.png">
+</p>
 All of the tabs (including this one) are pretty self explanatory for the most part. Even with a comprehension skill of 3, you should still be able to understand what changing your Player or Town Name does. 
 
 If you have multiple villagers on your island, you can click on `Villager0` to change between them.
 
-<img align="center" src="../assets/images/NH/NHSEVillager69.png">
-
 ### Edit Player...
 
-<big>Editing Storage</big>
+<big>**Editing Storage**</big>
 
 Clicking on `Edit Player...` and then `Edit Storage` will allow you to edit your storage (no surprise). You can either dump or load an `NHI` (New Horizons Inventory) of your storage to import into other places that allow it. You can press `Clear`, which will delete all items of your choosing. Or `Sort` to sort all your items in alphabetical order, or by the type of item.
 
-<big>Editing Recieved Items</big>
+<p align="center">
+  <img src="../assets/images/NH/NHSE_EPlayer-Storage.png"/>
+</p>
 
-Clicking on `Edit Player...` and then `Edit Recieved Items` will allow you to edit all of the items you've recieved over your playthrough. You can click `Give All` to automatically give you every item there, or you can simply check the boxes next to the item name to manually give yourself the item.
+<big>**Editing Recieved Items**</big>
+
+Clicking on `Edit Player...` and then `Edit Recieved Items` will allow you to edit all of the items you've recieved throughout your playthrough. You can click `Give All` to automatically give you every item there, or you can simply check the boxes next to the item name to manually give yourself the item.
 
 It's recommended to earn all these through normal gameplay. But hey, it's not my save that'll be corrupted!
 
-<big>Editing Achievements</big>
+<p align="center">
+  <img src="../assets/images/NH/NHSE_EPlayer-RecievedItems.png"/>
+</p>
+
+<big>**Editing Achievements**</big>
 
 Clicking on `Edit Player...` and then `Edit Achievements` will allow you to edit your achievements. You can click `Give All` which will complete every achievement there, or you can click `Clear All` which will completely erase all achievements you've earned so far. If NHSE doesn't do it for you, you should check each achievement and make sure that `Read` is checked, otherwise you'll have to go through your Nook Miles app and read them all yourself.
 
-It's recommended to earn all these through normal gameplay. But hey, it's not my save that'll be corrupted!
+Instead of just giving all of these to yourself through NSHE, you should probably get them through normal gameplay.
 
 The achievements aren't named the same way that they are in game, and that's because NHSE uses the internal names for all of them. They're named pretty similar though, so it shouldn't be too hard to manually give/remove an achivement you want/don't want.
+
+<p align="center">
+  <img src="../assets/images/NH/NHSE_EPlayer-Achievements.png"/>
+</p>
+
+<big>**Editing Recipes**</big>
+
+This one should be pretty self explanatory. Clicking on `Edit Player...` and then `Edit Recipes` will allow you to edit your recipes. Using the `goto` dropdown box at the top, you can go to the specific recipe that you want, and then click on **Known**, **Crafted**, **Favorite**, or **New** which will give the recipe that property. If you don't want to go through every recipe and add/remove a property, you can select `Learn All`, which will apply the **Known** and **New** property to that recipe.
+
+It's recommended to earn all these through normal gameplay, instead of just giving them to yourself.
+
+<p align="center">
+  <img src="../assets/images/NH/NHSE_EPlayer-Recipe.png"/>
+</p>
+
+<big>**Editing Flags**</big>
+
+Clicking on `Edit Player...` and then `Edit Flags` will allow you to change your player flags. Flags keep track of what you have done/completed during your playthrough. They're true/false statements, 0 being false and 1 being true. So to enable a flag, set it to 1, and to disable it set it to 0. No matter what, as always, it's best to achieve all flags in-game, as there could be other flags affected during normal playthrough that arent known about right now, which could potentially mess up your save. 
+
+```
+Terraforming:                 513, 565-574, 644
+Designer app:                 513
+Paving:                       828
+3 Star Evaluaion / KK Unlock: 776
+Harvey's Island:              535, 544
+Reactions UI:                 140
+Pro Designs:                  353, 702, 714
+Pro Designs+:                 1172
+Custom Design Portal:         1310
+Nook Shopping App:            319
+Hair styles:                  559-562
+Hair Color:                   563
+Halloween Customizations:     1142-1144
+Afro Hairstyles:              1219
+Incline/Bridge Kit Dialo:     126 (set to 4)
+```
+
+<p align="center">
+  <img src="../assets/images/NH/NHSE_EPlayer-Flags.png"/>
+</p>
+
+<big>**Editing Reactions**</big>
+
+Clicking on `Edit Player...` and then `Edit Reactions` will allow you to edit your reactions. Click the arrow next to **ManpuBit**, and you'll be able to see all the reactions that you've gotten so far. Clicking on the arrow next to the reaction will allow you to change the reaction to whatever you want. If you want to use the UNUSED reactions, there is a list below.
+
+```
+UNUSED_6  = Anger
+UNUSED_8  = Outrage
+UNUSED_17 = Disbelief
+UNUSED_34 = Sweating
+UNUSED_37 = Smile
+UNUSED_38 = Sunniness
+UNUSED_46 = Shrunk Funk Shuffle
+UNUSED_49 = Distress, no hand movement
+UNUSED_50 = Smiling and rubbing cheek
+UNUSED_51 = Poking hands
+UNUSED_52 = Intense frowning!
+UNUSED_53 = Amazed, smaller particles
+UNUSED_56 = Talking
+UNUSED_57 = Clapping, no expression
+UNUSED_59 = Greetings, no expression
+UNUSED_75 = Gulliver (dead)
+UNUSED_76 = Intense shake action!
+UNUSED_77 = Roll safe!
+UNUSED_78 = Leave it to me!
+UNUSED_79 = K.K. Slider, Sitting
+UNUSED_80 = K.K. Slider, Sitting while nodding
+UNUSED_81 = K.K. Slider, Sitting while thinking
+```
+
+<p align="left">
+  <img src="../assets/images/NH/NHSE_EPlayer-React.png"/>
+</p>
+
+<big>**Editing Misc**</big>
+
+Clicking on `Edit Player...` and then `Edit Misc` will allow you to change some player settings that don't fit anywhere else. These things being your birthday, day that you started playing, your island fruit, and whether or not the character you've chosen created the island. Most of these are self explanatory, but know that changing your island fruit from here will only change it on your passport. Because of this, everywhere else it will refer to the old fruit. [Click here]() to see how to change the fruit everywhere.
+
+The **Made Village** option is given to the Island Representative. To change it, simply untick the mox, then go to the villager that you want to give it to. *I haven't tested what it's like to tick the box on multiple villagers....*
+
+<p align="center">
+  <img src="../assets/images/NH/NHSE_EPlayer-Misc.png"/>
+</p>
+
+## Villagers Tab
+
+one sec...
