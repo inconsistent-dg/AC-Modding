@@ -60,7 +60,9 @@ Extract the contents of `SysDVR.zip` to your SD card. **You should NOT have a fo
 
 Now that you have SysDVR on your Switch, boot into CFW, open the Homebrew launcher, then open the SysDVR Settings app. By default, SysDVR will stream with Simple network mode. To switch, select either TCP bridge or USB, then select `Set current mode as default on boot`, so you don't have to open this app again everytime you want to stream. Now select `Save and exit` to apply your changes. At this point, you're done with the switch, and can now move onto your computer.
 
-<img align="center" src="../assets/images/hbrew/SysDVR-Settings.jpg"> 
+<p align="center">
+  <img src="../assets/images/hbrew/SysDVR-Settings.jpg"/>
+</p>
 
 # Setup
 
@@ -122,9 +124,13 @@ Using this mode is very simple. Make sure that you've selected TCP bridge from w
 
 Below is a picture of where to look for your Switch's IP address.
 
-<img align="center" src="../assets/images/IPAddress.jpg">
+<p align="center">
+  <img src="../assets/images/IPAddress.jpg"/>
+</p>
 
-<img align="center" src="../assets/images/misc/SysDVR-TCP.gif">
+<p align="center">
+  <img src="../assets/images/misc/SysDVR-TCP.gif"/>
+</p>
 
 <big>Using the Terminal</big>
 
@@ -134,7 +140,9 @@ When using the terminal, you can add the flags `--no-audio` and `--no-video` to 
 
 Below is a picture of where to look for your Switch's IP Address.
 
-<img align="center" src="../assets/images/IPAddress.jpg">
+<p align="center">
+  <img src="../assets/images/IPAddress.jpg"/>
+</p>
 
 ## USB Streaming
 
@@ -170,7 +178,9 @@ On some installations, `libusb-1.0` might go by a different name. You can make a
 
 Make sure that you've selected USB from within the SysDVR Settings on your Switch, and that you've [installed the correct USB drivers.](#usb-streaming) Now select `USB (requires setting up USB drivers)` on the client and click launch. A player will open up, and you can now watch your Switch on your computer!
 
-<img align="center" src="../assets/images/misc/SysDVR-USB.gif">
+<p align="center">
+  <img src="../assets/images/misc/SysDVR-USB.gif"/>
+</p>
 
 <big>Using the Terminal</big>
 
@@ -184,12 +194,12 @@ On occassion, people will ask on discord how they can show SysDVR in OBS to stre
 
 Add a new source, this source being a Window capture. Select SysDVR-Client as the window, and uncheck Capture Cursor. Bada bing badaboom leave me alone
 
-<sub><sup><sub><sup>Here's a GIF btw for anyone who can't read english</sub></sup></sub></sup>
-
-<img align="center" src="../assets/images/misc/SysDVR-OBS.gif">
+<p align="center">
+  <img src="../assets/images/misc/SysDVR-OBS.gif"/>
+</p>
 
 # Troubleshooting
 
-Maybe you've gotten an error while using SysDVR, but don't know how to fix it. That's what the troubleshooting is for! You can join either [exelix's discord](https://discord.gg/rqU5Tf8) server or my [own discord server](https://discord.com/invite/bHmqQuU) to ask for help with troubleshooting.
+Maybe you've gotten an error while using SysDVR, but don't know how to fix it. That's what the troubleshooting is for! You can join either [exelix's discord](https://discord.gg/rqU5Tf8) server or my [own discord server](https://discord.com/invite/bHmqQuU) to ask for help.
 
 <big>[You should take a quick read through the troubleshooting page on the wiki though before you ask any questions](https://github.com/exelix11/SysDVR/wiki/Troubleshooting)</big>, as they might've already been answered there.
