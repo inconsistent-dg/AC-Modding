@@ -20,8 +20,10 @@ There are 2 versions of **FTPD**, these versions being `ftpd-snap` and `ftpd-pro
 
 [Download the latest version of `ftpd-classic` or `ftpd`](https://github.com/mtheall/ftpd/releases). The **classic** is ftpd-snap. Download the **3dsx** or **CIA** if you're on 3ds. Download the **nro** if you're on Switch. At the time of writing this, the latest version is v3.1.0.
 
-<img src="../assets/images/hbrew/ftpd-pro!ftpd-snap!Switch_Comparison.png" width="500"/>
-<img src="../assets/images/hbrew/ftpd-pro!ftpd-snap!3ds_Comparison.png" width="220" height="500"/>
+<p align="center">
+<img src="../assets/images/hbrew/ftpd-pro!ftpd-snap!Switch_Comparison.png" width="690"/>
+<img src="../assets/images/hbrew/ftpd-pro!ftpd-snap!3ds_Comparison.png" width="290" height="690"/>
+</p>
 
 # Installing
 
