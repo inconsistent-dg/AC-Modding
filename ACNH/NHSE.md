@@ -20,6 +20,10 @@
   - [Players Tab](#players-tab)
     - [Edit Player...](#edit-player)
   - [Villagers Tab](#villagers-tab)
+    - [**Changing Villager**](#changing-villager)
+    - [**Changing Villager House**](#changing-villager-house)
+    - [**Moving Villager Out**](#moving-villager-out)
+    - [**Edit Villager**](#edit-villager)
 
 ## What is NHSE?
 
@@ -61,7 +65,7 @@ A gif tutorial is shown, to help out a bit
 
 ## Opening NHSE
 
-Extract the `NHSE.zip` you've just downloaded, and open `NHSE.exe`. **You MUST extract the zip to use NHSE**. If you don't, you will get an error that looks a little something like this. If you get this, you know what you did wrong.
+Extract the `NHSE.zip` you've just downloaded, and open `NHSE.exe`. **You MUST extract the zip to use NHSE**. If you don't, you will get an error that looks a little something like this. If you get this, you know what you did wrong. [You can use 7-zip to extract.](https://www.7-zip.org/)
 
 <p align="center">
 <img src="../assets/images/NH/NHShitE.png">
@@ -115,7 +119,7 @@ Before going any further, it's important to mention `internal items`. Internal i
 </p>
 All of the tabs (including this one) are pretty self explanatory for the most part. Even with a comprehension skill of 3, you should still be able to understand what changing your Player or Town Name does. 
 
-If you have multiple villagers on your island, you can click on `Villager0` to change between them.
+If you have multiple players on your island, you can click on `Villager0` to change between them.
 
 ### Edit Player...
 
@@ -214,7 +218,7 @@ UNUSED_80 = K.K. Slider, Sitting while nodding
 UNUSED_81 = K.K. Slider, Sitting while thinking
 ```
 
-<p align="left">
+<p align="center">
   <img src="../assets/images/NH/NHSE_EPlayer-React.png"/>
 </p>
 
@@ -222,7 +226,7 @@ UNUSED_81 = K.K. Slider, Sitting while thinking
 
 Clicking on `Edit Player...` and then `Edit Misc` will allow you to change some player settings that don't fit anywhere else. These things being your birthday, day that you started playing, your island fruit, and whether or not the character you've chosen created the island. Most of these are self explanatory, but know that changing your island fruit from here will only change it on your passport. Because of this, everywhere else it will refer to the old fruit. [Click here]() to see how to change the fruit everywhere.
 
-The **Made Village** option is given to the Island Representative. To change it, simply untick the mox, then go to the villager that you want to give it to. *I haven't tested what it's like to tick the box on multiple villagers....*
+The **Made Village** option is given to the Island Representative. To change it, simply untick the mox, then go to the villager that you want to give it to. *I haven't tested what it's like to tick the box on multiple representatives....*
 
 <p align="center">
   <img src="../assets/images/NH/NHSE_EPlayer-Misc.png"/>
@@ -230,4 +234,60 @@ The **Made Village** option is given to the Island Representative. To change it,
 
 ## Villagers Tab
 
-one sec...
+<p>
+<img align="right" src="../assets/images/NH/NHSEVillagersTab.png">
+</p>
+
+The villagers tab shows all the villagers you have on your island, along with their relationship with you, their catchprase, personality, and everything else you'd expect to see from a save editor. You can change which villager you'd like to edit by changing the villager index. It's recommended to finish the game (get all 10 villagers) before editing *anything*, but especially with villagers. 
+
+### **Changing Villager**
+You *could* change the villager by editing the species and varient, however it is not recommended to do it this way. There are a lot of flags different villagers have, so it's recommended to use the Villager Database instead to import villagers.
+
+[Download the villager database here](https://gbatemp.net/attachments/villager-database-complete-zip.206556/). You MUST extract the zip to use with NHSE. [You can use something like 7-zip to extract](https://www.7-zip.org/). Once extracted, you will see a list of ALL villagers in the game, along with their houses. 
+
+<p>
+<img align="left" src="../assets/images/NH/NHSE_EVillagers-Values.png">
+</p>
+
+In NHSE, click on **Load Villager**. Now go to the location where you extracted the Villager database, and open it. Find the villager you want to replace them with, and select it. You'll get a prompt saying the villager didn't originate from your Island representative, so click **Yes** when it asks you if you want to update the values.
+
+Your villager is changed! ...but what about the house?
+
+### **Changing Villager House**
+
+Because the villager house is seperate from the villager itself, you will have to import that as well. Be sure to save (File > Save) before changing continuing, as the villager name may not be correct if you don't. Anyway, click **Edit House**. Click on **Load** at the bottom, go to the Villager Database, and open it. Find the villagers house (`nhvh`) and select it. It will change the house values correctly, so the house is now fixed. Before saving, make sure that the **NPC1** number is set to the right villager index. For example, if you're editing Rolf whos villager index is 6, you wan't to make sure that the NPC1 number is also set to 6.
+
+### **Moving Villager Out**
+If you have a keen eye, you might've noticed already that there's a **Moving Out** box to the right of the villager. Checking this will put the villager in boxes, to allow someone else to pick them up. But, when checking it, you will get an error that looks something like this.
+
+<p align="center">
+  <img src="../assets/images/NH/NHSE_EVillagers-MoveOut.png"/>
+</p>
+
+There are 2 ways you can get your villager to move out, or be in boxes. There's a Forced Move Out, and an Irregular Move out. The Forced move out is the "cleaner" method of moving villagers out, and works as it should in the normal game. The villager will be in boxes, and by the next day, whether invited by a visitor or not, the villager will be gone. 
+
+The Irregular move out is the "dirtier" method. It will keep the villager in boxes *forever*, meaning that even if a day passes without a player picking thhem up, they will still be there tomorrow. And the next day. *And the next day*. ***And the next day***. So, forever. This is great if you run a treasure island, and don't want to revert the time everyday, or if you're a "normal" player who wants to trade a villager, but don't know when a visitor is coming.
+
+Setting the flag (024 - ForceMoveOut) to 1 works as a force move out (hence the name.) If you want your villagers to stay in boxes forever, don't set the flag. Only checking the box acts as an irregular move out.
+
+### **Edit Villager**
+
+<big>**Editing Furniture**</big>
+
+Clicking on `Edit Villager` and then `Edit Furniture` will allow you to... change furniture? I believe this is furniture that will randomly be given to you when your friendship with the villager is high enough. I'm not exactly sure though, so I can't say for certain.
+
+<big>**Editing Wear**</big>
+
+Clicking on `Edit Villager` and then `Edit Wear` will allow you to change the clothes your villager will wear. Simply search for the clothing item, place the clothing in the inventory, then save.
+
+<big>**Editing Room**</big>
+
+Clicking on `Edit Villager` and then `Edit Room` will allow you to edit your villagers room. You can edit the accent wall, the wall itself, and the floor of the house. Just click on which you'd like to edit, and it will bring up a prompt where you can search for what you'd like to change it to. I'm not sure what changing the direction or InfoBit does, but you can try it and see.
+
+<big>**Editing Memories**</big>
+
+Clicking on `Edit Villager` and then `Edit Player Memories` will allow you to edit the flags of what the villager knows about you. For example, how many days in a row have you spoken to the villager, how many times you've spoken to them in one day, if you've set their greeting/nickname, and so on.
+
+<big>**Editing DIY Timer**</big>
+
+Clicking on `Edit Villager` and then `Edit DIY Timer` will allow you to set when your villager is crafting a DIY recipe, what the recipe will be, and how long they will be crafting the recipe for. This can be used if you want a player to get a DIY from a villager instead of injecting it in your inventory or on your island.
