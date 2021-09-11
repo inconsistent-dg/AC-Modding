@@ -16,4 +16,4 @@ If you have any questions, I've tried my best to answer them all **[over here, o
 
 # **This site is not finished yet. I want to add everything in at once, but I will most likely go through one game at a time, starting from New Horizons, down to the OG title.**
 
-[Click here to look at a list of all available pages](219.md)
+[Click here to look at a list of all available pages](219)

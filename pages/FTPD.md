@@ -6,6 +6,15 @@ FTPD requires a local Wi-Fi connection, so both your Switch/3ds and your PC need
 
 <big>**Table of Contents**</big>
 
+- [FTPD](#ftpd)
+- [Prerequisites](#prerequisites)
+- [Downloading](#downloading)
+- [Installing](#installing)
+  - [Switch](#switch)
+  - [3ds](#3ds)
+- [Using](#using)
+- [Troubleshooting](#troubleshooting)
+
 # Prerequisites
 
 - A Switch/3ds with custom firmware
