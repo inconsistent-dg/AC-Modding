@@ -24,6 +24,9 @@
     - [**Changing Villager House**](#changing-villager-house)
     - [**Moving Villager Out**](#moving-villager-out)
     - [**Edit Villager**](#edit-villager)
+  - [Map Tab](#map-tab)
+    - [**Editing Weather Seed**](#editing-weather-seed)
+    - [Edit Map...](#edit-map)
 
 ## What is NHSE?
 
@@ -235,7 +238,7 @@ The **Made Village** option is given to the Island Representative. To change it,
 ## Villagers Tab
 
 <p>
-<img align="right" src="../assets/images/NH/NHSEVillagersTab.png">
+<img align="right" width="350" src="../assets/images/NH/NHSEVillagersTab.png">
 </p>
 
 The villagers tab shows all the villagers you have on your island, along with their relationship with you, their catchprase, personality, and everything else you'd expect to see from a save editor. You can change which villager you'd like to edit by changing the villager index. It's recommended to finish the game (get all 10 villagers) before editing *anything*, but especially with villagers. 
@@ -246,7 +249,7 @@ You *could* change the villager by editing the species and varient, however it i
 [Download the villager database here](https://gbatemp.net/attachments/villager-database-complete-zip.206556/). You MUST extract the zip to use with NHSE. [You can use something like 7-zip to extract](https://www.7-zip.org/). Once extracted, you will see a list of ALL villagers in the game, along with their houses. 
 
 <p>
-<img align="left" src="../assets/images/NH/NHSE_EVillagers-Values.png">
+<img align="left" height="180" src="../assets/images/NH/NHSE_EVillagers-Values.png">
 </p>
 
 In NHSE, click on **Load Villager**. Now go to the location where you extracted the Villager database, and open it. Find the villager you want to replace them with, and select it. You'll get a prompt saying the villager didn't originate from your Island representative, so click **Yes** when it asks you if you want to update the values.
@@ -291,3 +294,158 @@ Clicking on `Edit Villager` and then `Edit Player Memories` will allow you to ed
 <big>**Editing DIY Timer**</big>
 
 Clicking on `Edit Villager` and then `Edit DIY Timer` will allow you to set when your villager is crafting a DIY recipe, what the recipe will be, and how long they will be crafting the recipe for. This can be used if you want a player to get a DIY from a villager instead of injecting it in your inventory or on your island.
+
+## Map Tab
+
+<p>
+<img align="right" src="../assets/images/NH/NHSEMapTab.png">
+</p>
+
+The Map tab allows you to edit most of the information regarding your map, such as your Hemisphere, Airport Color, Weather Seed, and so on. Despite my warning for changing anything else, there's not much bad that can be done by changing these values. This doesn't change the fact that any editing done could potentially mess up the save, so I'll say it again in case you missed it: **TRY FINISHING THE GAME FIRST BEFORE SAVE EDITING!!** And make backups UwU
+
+<big>**Editing Turnip Exchange**</big>
+
+<p>
+<img align="right" src="../assets/images/NH/NHSE_EMap-TurnipExchange.png">
+</p>
+
+The turnip exchange is probably one of the best things in this game. It could be argued that it's the best way to earn money. It's also the best way to *cheat* money! Just click on `Edit Turnip Exchange` to edit it.
+
+Looking on the right, you can see that I have some pretty good prices for my normal, nonedited save on Wednesday! It just proves my theory that Wednesday is one of the best weekdays. But, this isn't what I'm making this guide for. You can edit the prices to whatever you feel like to give yourself (or your visitors) the most bang for their buck. The turnip limit in the base game is 660(?) so if you wanted to create the illusion that you're a normal player that just got lucky you can change it to this. But, there's also a glitch that allows visitors to completely MAX OUT their ABD, giving them **999,999,999** bells. 
+
+I'm sure you're already familiar with the glitch that gives any visitor a maxed out ABD (999,999,999 bells). If you aren't though, I'll explain it.
+
+Basically, the turnip glitch is an overflow error in the game. I'm not going to get into detail here, you can look it up if you're interested. But something is set incorrectly, and due to the overflow max bells are sent.
+
+Before attempting this, make sure that you set your switch time to a **Monday**. Any other day of the week could be used (excluding Sunday) but setting it to Monday allows for 6 days of no resetting. Now make a dump of your save on Monday.
+
+You (or your visitors) needs to sell exactly **30 turnips** for this to work. Do **NOT** type `turnips` into NHSE, type in **30 turnips** and spawn that instead. When you (or the visitor) sells, they'll see a sum of `-64,771,104` bells. If they do not see this, then they did not sell 30 turnips. But if you do, accept the trade, and in your ABD  you will see max bells.
+
+Set your values to this.
+
+<p align="center">
+<img src="../assets/images/NH/NHSE_EMap-MaxTurnip.png"> 
+<img src="../assets/images/NH/999m.png">
+</p>
+
+<big>**Editing Recycle Bin**</big>
+
+On the Map tab, select `Edit Recycle Bin`. There's not much to say about the recycle bin, other than that it stores dropped items on the island or from your villagers. When in the recycle bin, you are able to "borrow" the items within it, to keep for yourself.
+
+<big>**Editing Hemisphere**</big>
+
+This one is one of the most self explanatory on this entire website. On the Map tab, to your right, you will see a dropdown menu including both the Northern and Southern hemisphere. Select the one you want to use.
+
+<big>**Editing Airport Color**</big>
+
+I *was* going to also say this one was self explanatory, but maybe not? On the Map tab, next to `Edit Airport Color`, you will see a dropdown menu for airport colors. You can choose between them, changing your airport color (obviously).
+
+The only thing *not* obviously explained here, is why changing the airport color from this menu doesn't also change the colors of the various airport-themed items you can redeem. So this change would only be visually, not down to the core level. You will have to change flags somewhere in the game to do this, but it is not documented where this change would be and what to change it to for different airport colors. So for once, you'll have to do your own digging! When you find it, please be sure to contact me so I can add this information.
+
+<big>**Editing Designs**</big>
+
+On the Map tab, select `Edit Patterns`, it's pretty much self explanatory what editing this does, it allows you to edit your patterns. You aren't able to make them, but you can dump/import them to give to other people or just as a backup of your own patterns. If you *were* looking for a way to make some yourself, without making them on the Nintendo Switch, you can [check out this website](https://acpatterns.com/editor).
+
+With NHSE, you are only able to dump or import as **.nhd** though. These files are formatted the same way as **.ACNH** files though on the [acpatterns.com](https://acpatterns.com/editor) website, so you can just rename the file to .ACNH/.nhd and you will be able to import/dump and still have them work.
+
+<big>**Editing PRO Designs**</big>
+
+On the Map tab, select `Edit PRO Desings`, "it's pretty much self explanatory what editing this does, it allows you to edit your" PRO designs. "You aren't able to make them, but you can dump/import them to give to other people or just as a backup of your own" PRO designs. "If you *were* looking for a way to make some yourself, without making them on the Switch, you can [check out this website](https://acpatterns.com/editor)."
+
+"With NHSE, you are only able to dump or import as" **.nhpd**" though. These files are formatted the same way as **.ACNH** files though on the [acpatterns.com](https://acpatterns.com/editor) website, so you can just rename the file to .ACNH/".nhpd" and you will be able to import/dump and still have them work."
+
+<big>**Editing Flag Design**</big>
+
+On the Map tab, select `Edit Flag Design`, "it's pretty much self explanatory what editing this does, it allows you to edit your" Flag design. "You aren't able to make them, but you can dump/import them to give to other people or just as a backup of your own" Flag designs. "If you *were* looking for a way to make some yourself, without making them on the Switch, you can [check out this website](https://acpatterns.com/editor)."
+
+"With NHSE, you are only able to dump or import as **.nhd** though. These files are formatted the same way as **.ACNH** files though on the [acpatterns.com](https://acpatterns.com/editor) website, so you can just rename the file to .ACNH/.nhd and you will be able to import/dump and still have them work."
+
+<big>**Editing Tailor Designs**</big>
+
+On the Map tab, select `Edit Tailor Designs`, "it's pretty much self explanatory what editing this does, it allows you to edit your" PRO designs. "You aren't able to make them, but you can dump/import them to give to other people or just as a backup of your own" PRO designs. "If you *were* looking for a way to make some yourself, without making them on the Switch, you can [check out this website](https://acpatterns.com/editor)."
+
+"With NHSE, you are only able to dump or import as" **.nhpd**" though. These files are formatted the same way as **.ACNH** files though on the [acpatterns.com](https://acpatterns.com/editor) website, so you can just rename the file to .ACNH/".nhpd" and you will be able to import/dump and still have them work."
+
+<big>**Editing Player Houses**</big>
+
+On the Map tab, select `Edit Player Houses`. It allows you to edit your house.
+
+You can change your house level, the interiors of your house, the exteriors, the loan, so on so forth. Despite this, it's still recommended to just pay the loan to Nook, so you can upgrade your house normally. You can already literally give yourself items, why not?
+
+### **Editing Weather Seed**
+
+Let's start by asking what a weather seed is in the first place.
+
+Every save has a different **Weather Seed**, and this seed determines the weather that you will recieve during your playthrough (kinda like Minecraft). This weather seed will *never* change during normal gameplay. Because the weather seed has already preset what your weather will look like, you can't just *make it start raining*, or *make it snow*. You will have to follow the weather seed, or find one which has the weather you're looking for. The only way to get the weather that you're looking for is to take the weather seed, then, with a tool, you can look at the determined weather and time travel to the day with the "snow" or with some "rain" or whatever else you're looking for. Normal players can also *calculate* their weather seed, but this is not always accurate. Remember, there are over **2 BILLION** possible weather seeds, unless you can actually check there's no knowing if it's correct.
+
+Knowing your Weather Seed can also help, if you just want to spawn in Celeste or any other random visitors whenever you'd like. You still have to follow certain weather requirements though.
+
+Anyway, go to https://wuffs.org/acnh/weather/, and click on `Overview` at the top. When you're here, fill in your weather seed, along with your Island Name if you feel like it. For example, my Weather Seed is `4202545829`, and my island name is `Pog Island`(©) so this is what I copy into the site. It is also very important to copy if you're hemisphere is Northern or Southern, so be sure to do so. Once set, select Save settings and you're ready for the next step!
+
+<p align="center">
+<img src="../assets/images/misc/ily_ninji.png"> 
+</p>
+
+After filling this information in, you'll get your weather pattern. You can check the weather pattern by clicking on **Yearly** or **Monthly** at the top. Selecting a date will give you more information on the weather recorded on that day, like when exacly star showers will start, when it will rain and when it'll stop, and so on. You can then time travel to that date on your Switch and the weather will be there.
+
+If you wanted Celeste on your island with stars, find the day that you'll have them through Ninji's tool. To actually get Celeste to show up, in NHSE, click the `Edit Map` button then click `Edit Visitors`. Get the day of the meteor shower, and set the index of that day to `DayCeleste`. The day count starts from 0, so Sunday is 0, Monday is 1, and so on. So, if you have a meteor shower on Thursday and want Celeste to be there, set the Index to 4. Save, load, and they'll be there!
+
+### Edit Map...
+
+<big>**Editing Flags**</big>
+
+Clicking on `Edit Map...` and then `Edit Flags` will allow you to change your map flags. Flags keep track of what you have done/completed during your playthrough. They're true/false statements, 0 being false and 1 being true. So to enable a flag, set it to 1, and to disable it set it to 0. Map flags aren't actually extremely looked into that much (like most other flags) so there isn't a list of what most of them do. 
+
+No matter what though, as always, it's best to achieve all flags in-game, as there could be other flags affected during normal playthrough that arent known about right now, which could potentially mess up your save. 
+
+<big>**Editing Bulletin Board**</big>
+
+Clicking on `Edit Map...` and then `Edit Bulletin Board` will allow you to edit your Bulletin Board. The bulletin board is one of the best ways to keep up with events happening on your island, or it can be abused to make villagers say things that were never meant to be said or drawn.
+
+There's 2 bulletin board posts, a drawn one and a text one (or both). You can painstakingly ***try*** to make a drawn post in NHSE, or watch a [video by Klutch, explaining how to use Pixel Press](https://www.youtube.com/watch?v=EI1d-wky0TQ). Pixel Press is an app that will draw any image you give it, on your own island or someone elses. Check it out! It was made by my buddy Katsching.
+
+<p>
+<img align="right" src="../assets/images/NH/NHSE_EMap-BulletinBoard.png" width="60%">
+</p>
+
+Editing the text is very simple though. In the Bulletin Board editor, under Stock -> Buffer, you will be able to see all of your *current* bulletin board messages (it's not possible to create new ones unless in game). You can edit the date of the posts by simply editing the array, or edit the body text by opening the dropdown box next to the post, and editing the Body. You can write basically anything here, and I'm pretty sure you can go past the limit in the base game (though i haven't tested this). 
+
+<p align="center">
+You can see the example posted below.
+</p>
+
+<p align="center">
+  <img src="../assets/images/NH/retiring.jpg">
+</p>
+
+<p align="center">
+Clearly, linebreaks would've helped here. If you do plan to edit your bulletin board, be sure to use them.
+</p>
+
+<big>**Editing Field Goods**</big>
+
+Clicking on `Edit Map...` and then `Edit Field Goods` allows you to edit your field goods. <span data-audio-url="../assets/misc/frank.mp3" data-audio-url="../assets/misc/franker.mp3" data-audio-url="../assets/misc/frankerfz.mp3">I'll be frank,</span> I'm not sure what editing any of these does. Some of them might be related to the [Edit Player...](#edit-player) Misc options, but I wouldn't know.
+
+<script>
+$("[data-audio-url]").each(
+    function(){
+        $(this).on('click', function() {
+            var mp3Url = $(this).attr('data-audio-url');
+            var a = new Audio(mp3Url);
+            a.play();
+        });
+    }
+);
+</script>
+
+<big>**Editing Museum**</big>
+
+Clicking on `Edit Map...` and then `Edit Museum` allows you to edit your museum. You can edit the date you turned in a critter, what the critter was, and which villager turned it in.
+
+<big>**Editing Visitors**</big>
+
+Clicking on `Edit Map...` and then `Edit Visitors` allows you to edit the visitors that will come to your island. This was already touched up upon earlier in the guide, in the [**Editing Weather Seed**](#editing-weather-seed) section. Just go there for more information ❤
+
+<big>**Editing Field Items**</big>
+
+Clicking on `Edit Map...` and then `Edit Field Items` allows you to edit the items on your field, or island. I was going to commit the changes with the field item editor section finished, however I'm going to take a break for now and make sure that the previous sections look *good enough* before I continue.
