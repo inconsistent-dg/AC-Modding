@@ -30,16 +30,16 @@
 
 ## What is NHSE?
 
-`NHSE` (New Horizons: Save Editor) is, as the name suggests, a save editor for New Horizons. It was made by Kurt ([kwsch](https://github.com/kwsch)), written in C# and is the longest standing save editor for NH. [MyHorizons](https://github.com/Cuyler36/MyHorizons) by [Cuyler36](https://github.com/Cuyler36) was (and still is, afaik) the only other save editor for NHSE, however it has been discontinued (once again afaik, there hasnt been a commit in a year)
+`NHSE` (New Horizons: Save Editor) is, as the name suggests, a save editor for New Horizons. It was made by Kurt ([kwsch](https://github.com/kwsch)), written in C# and is the longest standing save editor for NH. [MyHorizons](https://github.com/Cuyler36/MyHorizons) by [Cuyler36](https://github.com/Cuyler36) was (and still is, afaik) the only other save editor for NHSE, however it has been discontinued.
 
 ## Downloading NHSE
 
 There are 2 ways to download NHSE. The easiest is shown first
 
-1. Go to https://berichan.github.io/GetNHSE/, and click the BIG button that says `Download Latest NHSE Version`. This will download a .zip, and inside it will be NHSE and all of the needed files for it.
+1. Go to [https://berichan.github.io/GetNHSE/](https://berichan.github.io/GetNHSE/), and click the BIG button that says `Download Latest NHSE Version`. This will download a .zip, and inside it will be NHSE and all of the needed files for it.
 
 <p align="center">
-<img src="../assets/images/NH/GetNHSE.png"> 
+<a href="https://berichan.github.io/GetNHSE/"><img src="../assets/images/NH/GetNHSE.png"></a> 
 </p>
 
 <sub>Everything inside NHSE (as of the time writing this). If your folder does not have everything shown in this screenshot, then you should probably try downloading NHSE again.</sub>
@@ -289,7 +289,11 @@ Clicking on `Edit Villager` and then `Edit Room` will allow you to edit your vil
 
 <big>**Editing Memories**</big>
 
-Clicking on `Edit Villager` and then `Edit Player Memories` will allow you to edit the flags of what the villager knows about you. For example, how many days in a row have you spoken to the villager, how many times you've spoken to them in one day, if you've set their greeting/nickname, and so on.
+Clicking on `Edit Villager` and then `Edit Player Memories` will allow you to edit the flags of what the villager knows about you. For example, how many days in a row have you spoken to the villager, how many times you've spoken to them in one day, if you've set their greeting/nickname, WHAT you've set their greeting/nickname to, and so on.
+
+<p align="center">
+  <img src="../assets/images/NH/NHSE_EVillagers-MemoryJogger.png"/>
+</p>
 
 <big>**Editing DIY Timer**</big>
 
@@ -298,7 +302,7 @@ Clicking on `Edit Villager` and then `Edit DIY Timer` will allow you to set when
 ## Map Tab
 
 <p>
-<img align="right" src="../assets/images/NH/NHSEMapTab.png">
+<img align="right" height="225" src="../assets/images/NH/NHSEMapTab.png">
 </p>
 
 The Map tab allows you to edit most of the information regarding your map, such as your Hemisphere, Airport Color, Weather Seed, and so on. Despite my warning for changing anything else, there's not much bad that can be done by changing these values. This doesn't change the fact that any editing done could potentially mess up the save, so I'll say it again in case you missed it: **TRY FINISHING THE GAME FIRST BEFORE SAVE EDITING!!** And make backups UwU
@@ -306,7 +310,7 @@ The Map tab allows you to edit most of the information regarding your map, such 
 <big>**Editing Turnip Exchange**</big>
 
 <p>
-<img align="right" src="../assets/images/NH/NHSE_EMap-TurnipExchange.png">
+<img align="right" width="312 " src="../assets/images/NH/NHSE_EMap-TurnipExchange.png">
 </p>
 
 The turnip exchange is probably one of the best things in this game. It could be argued that it's the best way to earn money. It's also the best way to *cheat* money! Just click on `Edit Turnip Exchange` to edit it.
@@ -325,12 +329,15 @@ Set your values to this.
 
 <p align="center">
 <img src="../assets/images/NH/NHSE_EMap-MaxTurnip.png"> 
-<img src="../assets/images/NH/999m.png">
 </p>
 
 <big>**Editing Recycle Bin**</big>
 
 On the Map tab, select `Edit Recycle Bin`. There's not much to say about the recycle bin, other than that it stores dropped items on the island or from your villagers. When in the recycle bin, you are able to "borrow" the items within it, to keep for yourself.
+
+<p align="center">
+<img src="../assets/images/NH/NHSE_EMap-RecBin.png"> 
+</p>
 
 <big>**Editing Hemisphere**</big>
 
@@ -347,6 +354,10 @@ The only thing *not* obviously explained here, is why changing the airport color
 On the Map tab, select `Edit Patterns`, it's pretty much self explanatory what editing this does, it allows you to edit your patterns. You aren't able to make them, but you can dump/import them to give to other people or just as a backup of your own patterns. If you *were* looking for a way to make some yourself, without making them on the Nintendo Switch, you can [check out this website](https://acpatterns.com/editor).
 
 With NHSE, you are only able to dump or import as **.nhd** though. These files are formatted the same way as **.ACNH** files though on the [acpatterns.com](https://acpatterns.com/editor) website, so you can just rename the file to .ACNH/.nhd and you will be able to import/dump and still have them work.
+
+<p align="center">
+<img src="../assets/images/NH/NHSE_EMap-Patterns.png"> 
+</p>
 
 <big>**Editing PRO Designs**</big>
 
@@ -372,6 +383,10 @@ On the Map tab, select `Edit Player Houses`. It allows you to edit your house.
 
 You can change your house level, the interiors of your house, the exteriors, the loan, so on so forth. Despite this, it's still recommended to just pay the loan to Nook, so you can upgrade your house normally. You can already literally give yourself items, why not?
 
+<p align="center">
+<img src="../assets/images/NH/NHSE_EMap-PxHouseEdit.png"> 
+</p>
+
 ### **Editing Weather Seed**
 
 Let's start by asking what a weather seed is in the first place.
@@ -385,6 +400,8 @@ Anyway, go to https://wuffs.org/acnh/weather/, and click on `Overview` at the to
 <p align="center">
 <img src="../assets/images/misc/ily_ninji.png"> 
 </p>
+
+<img align="right" src="../assets/images/NH/NHSE_EMap-VisitorEditor.png"> 
 
 After filling this information in, you'll get your weather pattern. You can check the weather pattern by clicking on **Yearly** or **Monthly** at the top. Selecting a date will give you more information on the weather recorded on that day, like when exacly star showers will start, when it will rain and when it'll stop, and so on. You can then time travel to that date on your Switch and the weather will be there.
 
@@ -405,7 +422,7 @@ Clicking on `Edit Map...` and then `Edit Bulletin Board` will allow you to edit 
 There's 2 bulletin board posts, a drawn one and a text one (or both). You can painstakingly ***try*** to make a drawn post in NHSE, or watch a [video by Klutch, explaining how to use Pixel Press](https://www.youtube.com/watch?v=EI1d-wky0TQ). Pixel Press is an app that will draw any image you give it, on your own island or someone elses. Check it out! It was made by my buddy Katsching.
 
 <p>
-<img align="right" src="../assets/images/NH/NHSE_EMap-BulletinBoard.png" width="60%">
+<img align="right" src="../assets/images/NH/NHSE_EMap-BulletinBoard.png" height="335">
 </p>
 
 Editing the text is very simple though. In the Bulletin Board editor, under Stock -> Buffer, you will be able to see all of your *current* bulletin board messages (it's not possible to create new ones unless in game). You can edit the date of the posts by simply editing the array, or edit the body text by opening the dropdown box next to the post, and editing the Body. You can write basically anything here, and I'm pretty sure you can go past the limit in the base game (though i haven't tested this). 
@@ -415,7 +432,7 @@ You can see the example posted below.
 </p>
 
 <p align="center">
-  <img src="../assets/images/NH/retiring.jpg">
+  <img src="../assets/images/NH/retiring.jpg" height="360">
 </p>
 
 <p align="center">
