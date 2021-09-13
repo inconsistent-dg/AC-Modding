@@ -30,7 +30,7 @@
 
 ## What is NHSE?
 
-`NHSE` (New Horizons: Save Editor) is, as the name suggests, a save editor for New Horizons. It was made by Kurt ([kwsch](https://github.com/kwsch)), written in C# and is the longest standing save editor for NH. [MyHorizons](https://github.com/Cuyler36/MyHorizons) by [Cuyler36](https://github.com/Cuyler36) was (and still is, afaik) the only other save editor for NHSE, however it has been discontinued.
+`NHSE` (New Horizons: Save Editor) is, as the name suggests, a save editor for New Horizons. It was made by Kurt ([kwsch](https://github.com/kwsch)), written in C#, and is the longest standing save editor for NH. [MyHorizons](https://github.com/Cuyler36/MyHorizons) by [Cuyler36](https://github.com/Cuyler36) was (and still is, afaik) the only other save editor for NHSE, however, it has been discontinued.
 
 ## Downloading NHSE
 
@@ -68,7 +68,7 @@ A gif tutorial is shown, to help out a bit
 
 ## Opening NHSE
 
-Extract the `NHSE.zip` you've just downloaded, and open `NHSE.exe`. **You MUST extract the zip to use NHSE**. If you don't, you will get an error that looks a little something like this. If you get this, you know what you did wrong. [You can use 7-zip to extract.](https://www.7-zip.org/)
+Extract the `NHSE.zip` you've just downloaded and open `NHSE.exe`. **You MUST extract the zip to use NHSE**. If you don't, you will get an error that looks a little something like this. If you get this, you know what you did wrong. [You can use 7-zip to extract.](https://www.7-zip.org/)
 
 <p align="center">
 <img src="../assets/images/NH/NHShitE.png">
@@ -150,7 +150,7 @@ Clicking on `Edit Player...` and then `Edit Achievements` will allow you to edit
 
 Instead of just giving all of these to yourself through NSHE, you should probably get them through normal gameplay.
 
-The achievements aren't named the same way that they are in game, and that's because NHSE uses the internal names for all of them. They're named pretty similar though, so it shouldn't be too hard to manually give/remove an achivement you want/don't want.
+The achievements aren't named the same way that they are in game, and that's because NHSE uses the internal names for all of them. They're named pretty similarly though, so it shouldn't be too hard to manually give/remove an achievement you want/don't want.
 
 <p align="center">
   <img src="../assets/images/NH/NHSE_EPlayer-Achievements.png"/>
@@ -158,7 +158,7 @@ The achievements aren't named the same way that they are in game, and that's bec
 
 <big>**Editing Recipes**</big>
 
-This one should be pretty self explanatory. Clicking on `Edit Player...` and then `Edit Recipes` will allow you to edit your recipes. Using the `goto` dropdown box at the top, you can go to the specific recipe that you want, and then click on **Known**, **Crafted**, **Favorite**, or **New** which will give the recipe that property. If you don't want to go through every recipe and add/remove a property, you can select `Learn All`, which will apply the **Known** and **New** property to that recipe.
+This one should be pretty self explanatory. Clicking on `Edit Player...` and then `Edit Recipes` will allow you to edit your recipes. Using the `goto` dropdown box at the top, you can go to the specific recipe that you want and then click on **Known**, **Crafted**, **Favorite**, or **New** which will give the recipe that property. If you don't want to go through every recipe and add/remove a property, you can select `Learn All`, which will apply the **Known** and **New** properties to that recipe.
 
 It's recommended to earn all these through normal gameplay, instead of just giving them to yourself.
 
@@ -227,9 +227,9 @@ UNUSED_81 = K.K. Slider, Sitting while thinking
 
 <big>**Editing Misc**</big>
 
-Clicking on `Edit Player...` and then `Edit Misc` will allow you to change some player settings that don't fit anywhere else. These things being your birthday, day that you started playing, your island fruit, and whether or not the character you've chosen created the island. Most of these are self explanatory, but know that changing your island fruit from here will only change it on your passport. Because of this, everywhere else it will refer to the old fruit. [Click here]() to see how to change the fruit everywhere.
+Clicking on `Edit Player...` and then `Edit Misc` will allow you to change some player settings that don't fit anywhere else. These things being your birthday, the day that you started playing, your island fruit, and whether or not the character you've chosen created the island. Most of these are self explanatory, but know that changing your island fruit from here will only change it on your passport. Because of this, everywhere else it will refer to the old fruit. [Click here]() to see how to change the fruit everywhere.
 
-The **Made Village** option is given to the Island Representative. To change it, simply untick the mox, then go to the villager that you want to give it to. *I haven't tested what it's like to tick the box on multiple representatives....*
+The **Made Village** option is given to the Island Representative. To change it, simply untick the box, then go to the villager that you want to give it to. *I haven't tested what it's like to tick the box on multiple representatives....*
 
 <p align="center">
   <img src="../assets/images/NH/NHSE_EPlayer-Misc.png"/>
@@ -241,15 +241,15 @@ The **Made Village** option is given to the Island Representative. To change it,
 <img align="right" width="350" src="../assets/images/NH/NHSEVillagersTab.png">
 </p>
 
-The villagers tab shows all the villagers you have on your island, along with their relationship with you, their catchprase, personality, and everything else you'd expect to see from a save editor. You can change which villager you'd like to edit by changing the villager index. It's recommended to finish the game (get all 10 villagers) before editing *anything*, but especially with villagers. 
+The villagers tab shows all the villagers you have on your island, along with their relationship with you, their catchphrase, personality, and everything else you'd expect to see from a save editor. You can change which villager you'd like to edit by changing the villager index. It's recommended to finish the game (get all 10 villagers) before editing *anything*, but especially with villagers. 
 
 ### **Changing Villager**
-You *could* change the villager by editing the species and varient, however it is not recommended to do it this way. There are a lot of flags different villagers have, so it's recommended to use the Villager Database instead to import villagers.
+You *could* change the villager by editing the species and variant, however it is not recommended to do it this way. There are a lot of flags different villagers have, so it's recommended to use the Villager Database instead to import villagers.
 
 [Download the villager database here](https://gbatemp.net/attachments/villager-database-complete-zip.206556/). You MUST extract the zip to use with NHSE. [You can use something like 7-zip to extract](https://www.7-zip.org/). Once extracted, you will see a list of ALL villagers in the game, along with their houses. 
 
 <p>
-<img align="left" height="180" src="../assets/images/NH/NHSE_EVillagers-Values.png">
+<img align="left" height="184" src="../assets/images/NH/NHSE_EVillagers-Values.png">
 </p>
 
 In NHSE, click on **Load Villager**. Now go to the location where you extracted the Villager database, and open it. Find the villager you want to replace them with, and select it. You'll get a prompt saying the villager didn't originate from your Island representative, so click **Yes** when it asks you if you want to update the values.
@@ -258,7 +258,7 @@ Your villager is changed! ...but what about the house?
 
 ### **Changing Villager House**
 
-Because the villager house is seperate from the villager itself, you will have to import that as well. Be sure to save (File > Save) before changing continuing, as the villager name may not be correct if you don't. Anyway, click **Edit House**. Click on **Load** at the bottom, go to the Villager Database, and open it. Find the villagers house (`nhvh`) and select it. It will change the house values correctly, so the house is now fixed. Before saving, make sure that the **NPC1** number is set to the right villager index. For example, if you're editing Rolf whos villager index is 6, you wan't to make sure that the NPC1 number is also set to 6.
+Because the villager house is separate from the villager itself, you will have to import that as well. Be sure to save (File > Save) before changing continuing, as the villager name may not be correct if you don't. Anyway, click **Edit House**. Click on **Load** at the bottom, go to the Villager Database, and open it. Find the villager's house (`nhvh`) and select it. It will change the house values correctly, so the house is now fixed. Before saving, make sure that the **NPC1** number is set to the right villager index. For example, if you're editing Rolf whose villager index is 6, you want to make sure that the NPC1 number is also set to 6.
 
 ### **Moving Villager Out**
 If you have a keen eye, you might've noticed already that there's a **Moving Out** box to the right of the villager. Checking this will put the villager in boxes, to allow someone else to pick them up. But, when checking it, you will get an error that looks something like this.
@@ -269,9 +269,9 @@ If you have a keen eye, you might've noticed already that there's a **Moving Out
 
 There are 2 ways you can get your villager to move out, or be in boxes. There's a Forced Move Out, and an Irregular Move out. The Forced move out is the "cleaner" method of moving villagers out, and works as it should in the normal game. The villager will be in boxes, and by the next day, whether invited by a visitor or not, the villager will be gone. 
 
-The Irregular move out is the "dirtier" method. It will keep the villager in boxes *forever*, meaning that even if a day passes without a player picking thhem up, they will still be there tomorrow. And the next day. *And the next day*. ***And the next day***. So, forever. This is great if you run a treasure island, and don't want to revert the time everyday, or if you're a "normal" player who wants to trade a villager, but don't know when a visitor is coming.
+The Irregular move out is the "dirtier" method. It will keep the villager in boxes *forever*, meaning that even if a day passes without a player picking them up, they will still be there tomorrow. And the next day. *And the next day*. ***And the next day***. So, forever. This is great if you run a treasure island, and don't want to revert the time every day, or if you're a "normal" player who wants to trade a villager, but don't know when a visitor is coming.
 
-Setting the flag (024 - ForceMoveOut) to 1 works as a force move out (hence the name.) If you want your villagers to stay in boxes forever, don't set the flag. Only checking the box acts as an irregular move out.
+Setting the flag (024 - ForceMoveOut) to 1 works as a forced move out (hence the name.) If you want your villagers to stay in boxes forever, don't set the flag. Only checking the box acts as an irregular move out.
 
 ### **Edit Villager**
 
@@ -285,7 +285,7 @@ Clicking on `Edit Villager` and then `Edit Wear` will allow you to change the cl
 
 <big>**Editing Room**</big>
 
-Clicking on `Edit Villager` and then `Edit Room` will allow you to edit your villagers room. You can edit the accent wall, the wall itself, and the floor of the house. Just click on which you'd like to edit, and it will bring up a prompt where you can search for what you'd like to change it to. I'm not sure what changing the direction or InfoBit does, but you can try it and see.
+Clicking on `Edit Villager` and then `Edit Room` will allow you to edit your villager's room. You can edit the accent wall, the wall itself, and the floor of the house. Just click on which you'd like to edit, and it will bring up a prompt where you can search for what you'd like to change it to. I'm not sure what changing the direction or InfoBit does, but you can try it and see.
 
 <big>**Editing Memories**</big>
 
@@ -305,7 +305,7 @@ Clicking on `Edit Villager` and then `Edit DIY Timer` will allow you to set when
 <img align="right" height="225" src="../assets/images/NH/NHSEMapTab.png">
 </p>
 
-The Map tab allows you to edit most of the information regarding your map, such as your Hemisphere, Airport Color, Weather Seed, and so on. Despite my warning for changing anything else, there's not much bad that can be done by changing these values. This doesn't change the fact that any editing done could potentially mess up the save, so I'll say it again in case you missed it: **TRY FINISHING THE GAME FIRST BEFORE SAVE EDITING!!** And make backups UwU
+The Map tab allows you to edit most of the information regarding your map, such as your Hemisphere, Airport Color, Weather Seed, and so on. Despite my warning for changing anything else, there's not much bad that can be done by changing these values. This doesn't change the fact that any editing that's done could potentially mess up the save, so I'll say it again in case you missed it: **TRY FINISHING THE GAME FIRST BEFORE SAVE EDITING!!** And make backups UwU
 
 <big>**Editing Turnip Exchange**</big>
 
@@ -323,7 +323,7 @@ Basically, the turnip glitch is an overflow error in the game. I'm not going to 
 
 Before attempting this, make sure that you set your switch time to a **Monday**. Any other day of the week could be used (excluding Sunday) but setting it to Monday allows for 6 days of no resetting. Now make a dump of your save on Monday.
 
-You (or your visitors) needs to sell exactly **30 turnips** for this to work. Do **NOT** type `turnips` into NHSE, type in **30 turnips** and spawn that instead. When you (or the visitor) sells, they'll see a sum of `-64,771,104` bells. If they do not see this, then they did not sell 30 turnips. But if you do, accept the trade, and in your ABD  you will see max bells.
+You (or your visitors) need to sell exactly **30 turnips** for this to work. Do **NOT** type `turnips` into NHSE, type in **30 turnips** and spawn that instead. When you (or the visitor) sell, they'll see a sum of `-64,771,104` bells. If they do not see this, then they did not sell 30 turnips. But if you do, accept the trade, and in your ABD  you will see max bells.
 
 Set your values to this.
 
@@ -333,7 +333,7 @@ Set your values to this.
 
 <big>**Editing Recycle Bin**</big>
 
-On the Map tab, select `Edit Recycle Bin`. There's not much to say about the recycle bin, other than that it stores dropped items on the island or from your villagers. When in the recycle bin, you are able to "borrow" the items within it, to keep for yourself.
+On the Map tab, select `Edit Recycle Bin`. There's not much to say about the recycle bin, other than that it stores dropped items on the island or from your villagers. When in the recycle bin, you can "borrow" the items within it, to keep for yourself.
 
 <p align="center">
 <img src="../assets/images/NH/NHSE_EMap-RecBin.png"> 
@@ -341,13 +341,13 @@ On the Map tab, select `Edit Recycle Bin`. There's not much to say about the rec
 
 <big>**Editing Hemisphere**</big>
 
-This one is one of the most self explanatory on this entire website. On the Map tab, to your right, you will see a dropdown menu including both the Northern and Southern hemisphere. Select the one you want to use.
+This one is one of the most self explanatory on this entire website. On the Map tab, to your right, you will see a dropdown menu including both the Northern and Southern hemispheres. Select the one you want to use.
 
 <big>**Editing Airport Color**</big>
 
 I *was* going to also say this one was self explanatory, but maybe not? On the Map tab, next to `Edit Airport Color`, you will see a dropdown menu for airport colors. You can choose between them, changing your airport color (obviously).
 
-The only thing *not* obviously explained here, is why changing the airport color from this menu doesn't also change the colors of the various airport-themed items you can redeem. So this change would only be visually, not down to the core level. You will have to change flags somewhere in the game to do this, but it is not documented where this change would be and what to change it to for different airport colors. So for once, you'll have to do your own digging! When you find it, please be sure to contact me so I can add this information.
+The only thing *not* obviously explained here is why changing the airport color from this menu doesn't also change the colors of the various airport-themed items you can redeem. So this change would only be visual, not down to the core level. You will have to change flags somewhere in the game to do this, but it is not documented where this change would be and what to change it to for different airport colors. So for once, you'll have to do your own digging! When you find it, please be sure to contact me so I can add this information.
 
 <big>**Editing Designs**</big>
 
@@ -391,19 +391,19 @@ You can change your house level, the interiors of your house, the exteriors, the
 
 Let's start by asking what a weather seed is in the first place.
 
-Every save has a different **Weather Seed**, and this seed determines the weather that you will recieve during your playthrough (kinda like Minecraft). This weather seed will *never* change during normal gameplay. Because the weather seed has already preset what your weather will look like, you can't just *make it start raining*, or *make it snow*. You will have to follow the weather seed, or find one which has the weather you're looking for. The only way to get the weather that you're looking for is to take the weather seed, then, with a tool, you can look at the determined weather and time travel to the day with the "snow" or with some "rain" or whatever else you're looking for. Normal players can also *calculate* their weather seed, but this is not always accurate. Remember, there are over **2 BILLION** possible weather seeds, unless you can actually check there's no knowing if it's correct.
+Every save has a different **Weather Seed**, and this seed determines the weather that you will receive during your playthrough (kinda like Minecraft). This weather seed will *never* change during normal gameplay. Because the weather seed has already preset what your weather will look like, you can't just *make it start raining*, or *make it snow*. You will have to follow the weather seed, or find one which has the weather you're looking for. The only way to get the weather that you're looking for is to take the weather seed, then, with a tool, you can look at the determined weather and time travel to the day with the "snow" or with some "rain" or whatever else you're looking for. Normal players can also *calculate* their weather seed, but this is not always accurate. Remember, there are over **2 BILLION** possible weather seeds, unless you can actually check there's no knowing if it's correct.
 
-Knowing your Weather Seed can also help, if you just want to spawn in Celeste or any other random visitors whenever you'd like. You still have to follow certain weather requirements though.
+Knowing your Weather Seed can also help if you just want to spawn in Celeste or any other random visitors whenever you'd like.
 
-Anyway, go to https://wuffs.org/acnh/weather/, and click on `Overview` at the top. When you're here, fill in your weather seed, along with your Island Name if you feel like it. For example, my Weather Seed is `4202545829`, and my island name is `Pog Island`(©) so this is what I copy into the site. It is also very important to copy if you're hemisphere is Northern or Southern, so be sure to do so. Once set, select Save settings and you're ready for the next step!
+Anyway, go to [https://wuffs.org/acnh/weather/](https://wuffs.org/acnh/weather/), and click on `Overview` at the top. When you're here, fill in your weather seed, along with your Island Name if you feel like it. For example, my Weather Seed is `4202545829`, and my island name is `Pog Island`(©) so this is what I copy into the site. It is also very important to copy if you're hemisphere is Northern or Southern, so be sure to do so. Once set, select Save settings and you're ready for the next step!
 
 <p align="center">
 <img src="../assets/images/misc/ily_ninji.png"> 
 </p>
 
-<img align="right" src="../assets/images/NH/NHSE_EMap-VisitorEditor.png"> 
+<img align="right" src="../assets/images/NH/NHSE_EMap-VisitorEditor.png" height="380"> 
 
-After filling this information in, you'll get your weather pattern. You can check the weather pattern by clicking on **Yearly** or **Monthly** at the top. Selecting a date will give you more information on the weather recorded on that day, like when exacly star showers will start, when it will rain and when it'll stop, and so on. You can then time travel to that date on your Switch and the weather will be there.
+After filling this information in, you'll get your weather pattern. You can check the weather pattern by clicking on **Yearly** or **Monthly** at the top. Selecting a date will give you more information on the weather recorded on that day, like when exactly star showers will start, when it will rain and when it'll stop, and so on. You can then time travel to that date on your Switch and the weather will be there.
 
 If you wanted Celeste on your island with stars, find the day that you'll have them through Ninji's tool. To actually get Celeste to show up, in NHSE, click the `Edit Map` button then click `Edit Visitors`. Get the day of the meteor shower, and set the index of that day to `DayCeleste`. The day count starts from 0, so Sunday is 0, Monday is 1, and so on. So, if you have a meteor shower on Thursday and want Celeste to be there, set the Index to 4. Save, load, and they'll be there!
 
@@ -419,13 +419,13 @@ No matter what though, as always, it's best to achieve all flags in-game, as the
 
 Clicking on `Edit Map...` and then `Edit Bulletin Board` will allow you to edit your Bulletin Board. The bulletin board is one of the best ways to keep up with events happening on your island, or it can be abused to make villagers say things that were never meant to be said or drawn.
 
-There's 2 bulletin board posts, a drawn one and a text one (or both). You can painstakingly ***try*** to make a drawn post in NHSE, or watch a [video by Klutch, explaining how to use Pixel Press](https://www.youtube.com/watch?v=EI1d-wky0TQ). Pixel Press is an app that will draw any image you give it, on your own island or someone elses. Check it out! It was made by my buddy Katsching.
+There are 2 bulletin board posts, a drawn one and a text one (or both). You can painstakingly ***try*** to make a drawn post in NHSE, or watch a [video by Klutch, explaining how to use Pixel Press](https://www.youtube.com/watch?v=EI1d-wky0TQ). Pixel Press is an app that will draw any image you give it, on your own island or someone elses. Check it out! It was made by my buddy Katsching.
 
 <p>
 <img align="right" src="../assets/images/NH/NHSE_EMap-BulletinBoard.png" height="335">
 </p>
 
-Editing the text is very simple though. In the Bulletin Board editor, under Stock -> Buffer, you will be able to see all of your *current* bulletin board messages (it's not possible to create new ones unless in game). You can edit the date of the posts by simply editing the array, or edit the body text by opening the dropdown box next to the post, and editing the Body. You can write basically anything here, and I'm pretty sure you can go past the limit in the base game (though i haven't tested this). 
+Editing the text is very simple though. In the Bulletin Board editor, under Stock -> Buffer, you will be able to see all of your *current* bulletin board messages (it's not possible to create new ones unless in game). You can edit the date of the posts by editing the array, or edit the body text by opening the dropdown box next to the post and editing the Body. You can write basically anything here, and I'm pretty sure you can go past the limit in the base game (though i haven't tested this). 
 
 <p align="center">
 You can see the example posted below.
