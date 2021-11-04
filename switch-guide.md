@@ -1,9 +1,8 @@
-<html>
- <head>
-  <meta name="description" content="A ''complete'' guide to Switch custom firmware, from stock to Atmosphere.">
-  <title>Switch CFW Setup</title>
-</head> 
-</html>
+---
+title: Switch Guide
+description: A guide for getting sysCFW Atmosphere
+---
+
 # Switch CFW Setup
 
 **This guide is not trying to be its own "standalone guide" that everyone should go to, it's simple and does not get into the real nitty-gritty aspects for the WONDROUS world of magic. If you want an actually good guide, follow the [Nintendo Homebrew Switch Guide](https://nh-server.github.io/switch-guide/). This guide mostly follows that, except simplifying things by a LOT, and removing the optional emuNAND Route.**
@@ -16,6 +15,8 @@ Note: This page has not yet been fully completed. Once it has, you'll be able to
 
 # Table of Contents
 
+- [Switch CFW Setup](#switch-cfw-setup)
+- [Table of Contents](#table-of-contents)
 - [Finding your serial number](#finding-your-serial-number)
 - [Preparing the SD](#preparing-the-sd)
   - [Formatting the SD](#formatting-the-sd)
@@ -232,7 +233,6 @@ Your Switch keys aren't that large, so you don't have to worry about spending an
 2. Once Lockpick has loaded, press the power button to select `Dump fron SysNAND`. You'll see some pretty colors for a moment!
 3. After Lockpick is finished, your `prod.keys` and `title.keys` should be in `sd:/switch`.
 4. Now that you have your keys, copy them to your computer (or someplace safe). Once you got your keys backed up somewhere, you can delete the keys on your SD. You wouldn't HAVE to compress these, since (in total) they're only 12kb, but you can still do it if you'd like to.
----
 
 Now that you've finished those steps, you're basically finished at this point! All you need to do now is actually boot into CFW. You might be asing, am I not already in CFW? Well, no. You've simply injected a payload.
 

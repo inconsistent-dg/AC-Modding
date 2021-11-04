@@ -1,3 +1,8 @@
+---
+title: Play Activity Not Updating
+description: why nintendo, why!??
+---
+
 # Play Activity Not Updating
 
 As the [official](https://en-americas-support.nintendo.com/app/answers/detail/a_id/28415/kw/play%20time) [Nintendo](https://www.nintendo.co.uk/Support/Nintendo-Switch/Troubleshooting/Play-Activity-Does-Not-Display-Correctly-1356493.html) pages don't explain why their crappy device isn't working how every other device works, I'll explain it for them.

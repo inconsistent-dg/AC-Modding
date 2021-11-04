@@ -1,9 +1,7 @@
-<html>
- <head>
-  <meta name="description" content="Just a documentation page for myself where I write stuff down for later use.">
-  <title>SEALS</title>
-</head> 
-</html>
+---
+title: SEALS
+description: where i write stuff down for later use
+---
 
 Page for my own sort of *documentation*, and just to test a bit of things. You aren't gonna find anything interesting here (unless you do, and in such case your welcome for the free knowledge)
 

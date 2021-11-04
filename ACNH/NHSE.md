@@ -1,9 +1,7 @@
-<html>
- <head>
-  <meta name="description" content="A guide for NHSE, the most popular New Horizons Save Editor!">
-  <title>NHSE Guide</title>
-</head> 
-</html>
+---
+title: NHSE
+description: A guide for the New Horizons Save Editor
+---
 
 # NHSE
 
@@ -48,7 +46,7 @@ There are 2 ways to download NHSE. The easiest is shown first
 <img src="../assets/images/NH/NHSEContents.png"> 
 </p>
 
-1. Downloading compiled buids (info taken from [kurts wiki](https://github.com/kwsch/NHSE/wiki/Downloading-Compiled-Builds))
+1. Downloading compiled builds (info taken from [Kurt's wiki](https://github.com/kwsch/NHSE/wiki/Downloading-Compiled-Builds))
 
 A gif tutorial is shown, to help out a bit
 
@@ -88,14 +86,14 @@ NHSE is a **Save Editor** (hence the name New Horizons: Save Editor). This obvio
 
 1. Download the [`JK has to go back to work edition` release of JKSV](https://github.com/J-D-K/JKSV/releases/download/06.07.2020/JKSV.nro). This version is recommended more than latest.
 2. Drag `JKSV.nro` into the `switch` folder on root.
-   - No, **not in a folder called `root`**. Open your sd card, and without being in any folders already, you'll see a `switch` folder. **Drag it in there.**
+   - No, **not in a folder called `root`**. Open your SD card, and without being in any folders already, you'll see a `switch` folder. **Drag it in there.**
 3. Boot into Custom Firmware, then open the Homebrew Launcher. Find JKSV, then open it.
-   - You'll be fine opening the hbmenu in the album, but app takeover is still an option.
+   - You'll be fine opening the HBmenu in the album, but app takeover is still an option.
 4. Open `Device Saves`, then ACNH.
 5. Press `New...`, and then give your save folder a name.
 6. Once finished, open the JKSV folder on your Switch, then the Animal Crossing folder. Whatever you named your folder in step 5 will be there.
 
-Now that you have your save, you can actually use NHSE! You really, *really* should make a backup of the save you just made. You might make a terrible mistake on accident, and then you won't have any save to fallback on. A great man once said, the best backup's the one you **have** but dont need, and the worst backup's the one you **need** but dont have.
+Now that you have your save, you can actually use NHSE! You really, *really* should make a backup of the save you just made. You might make a terrible mistake on accident, and then you won't have any save to fallback on. A great man once said, the best backup's the one you **have** but don't need, and the worst backup's the one you **need** but don't have.
 
 ### Importing Save to NHSE
 
@@ -134,14 +132,14 @@ Clicking on `Edit Player...` and then `Edit Storage` will allow you to edit your
   <img src="../assets/images/NH/NHSE_EPlayer-Storage.png"/>
 </p>
 
-<big>**Editing Recieved Items**</big>
+<big>**Editing Received Items**</big>
 
-Clicking on `Edit Player...` and then `Edit Recieved Items` will allow you to edit all of the items you've recieved throughout your playthrough. You can click `Give All` to automatically give you every item there, or you can simply check the boxes next to the item name to manually give yourself the item.
+Clicking on `Edit Player...` and then `Edit Received Items` will allow you to edit all of the items you've Received throughout your playthrough. You can click `Give All` to automatically give you every item there, or you can simply check the boxes next to the item name to manually give yourself the item.
 
 It's recommended to earn all these through normal gameplay. But hey, it's not my save that'll be corrupted!
 
 <p align="center">
-  <img src="../assets/images/NH/NHSE_EPlayer-RecievedItems.png"/>
+  <img src="../assets/images/NH/NHSE_EPlayer-ReceivedItems.png"/>
 </p>
 
 <big>**Editing Achievements**</big>
@@ -168,7 +166,7 @@ It's recommended to earn all these through normal gameplay, instead of just givi
 
 <big>**Editing Flags**</big>
 
-Clicking on `Edit Player...` and then `Edit Flags` will allow you to change your player flags. Flags keep track of what you have done/completed during your playthrough. They're true/false statements, 0 being false and 1 being true. So to enable a flag, set it to 1, and to disable it set it to 0. No matter what, as always, it's best to achieve all flags in-game, as there could be other flags affected during normal playthrough that arent known about right now, which could potentially mess up your save. 
+Clicking on `Edit Player...` and then `Edit Flags` will allow you to change your player flags. Flags keep track of what you have done/completed during your playthrough. They're true/false statements, 0 being false and 1 being true. So to enable a flag, set it to 1, and to disable it set it to 0. No matter what, as always, it's best to achieve all flags in-game, as there could be other flags affected during normal playthrough that aren't known about right now, which could potentially mess up your save. 
 
 ```
 Terraforming:                 513, 565-574, 644
@@ -413,19 +411,19 @@ If you wanted Celeste on your island with stars, find the day that you'll have t
 
 Clicking on `Edit Map...` and then `Edit Flags` will allow you to change your map flags. Flags keep track of what you have done/completed during your playthrough. They're true/false statements, 0 being false and 1 being true. So to enable a flag, set it to 1, and to disable it set it to 0. Map flags aren't actually extremely looked into that much (like most other flags) so there isn't a list of what most of them do. 
 
-No matter what though, as always, it's best to achieve all flags in-game, as there could be other flags affected during normal playthrough that arent known about right now, which could potentially mess up your save. 
+No matter what though, as always, it's best to achieve all flags in-game, as there could be other flags affected during normal playthrough that aren't known about right now, which could potentially mess up your save. 
 
 <big>**Editing Bulletin Board**</big>
 
 Clicking on `Edit Map...` and then `Edit Bulletin Board` will allow you to edit your Bulletin Board. The bulletin board is one of the best ways to keep up with events happening on your island, or it can be abused to make villagers say things that were never meant to be said or drawn.
 
-There are 2 bulletin board posts, a drawn one and a text one (or both). You can painstakingly ***try*** to make a drawn post in NHSE, or watch a [video by Klutch, explaining how to use Pixel Press](https://www.youtube.com/watch?v=EI1d-wky0TQ). Pixel Press is an app that will draw any image you give it, on your own island or someone elses. Check it out! It was made by my buddy Katsching.
+There are 2 bulletin board posts, a drawn one and a text one (or both). You can painstakingly ***try*** to make a drawn post in NHSE, or watch a [video by Klutch, explaining how to use Pixel Press](https://www.youtube.com/watch?v=EI1d-wky0TQ). Pixel Press is an app that will draw any image you give it, on your own island or someone else's. Check it out! It was made by my buddy Katsching.
 
 <p>
 <img align="right" src="../assets/images/NH/NHSE_EMap-BulletinBoard.png" height="335">
 </p>
 
-Editing the text is very simple though. In the Bulletin Board editor, under Stock -> Buffer, you will be able to see all of your *current* bulletin board messages (it's not possible to create new ones unless in game). You can edit the date of the posts by editing the array, or edit the body text by opening the dropdown box next to the post and editing the Body. You can write basically anything here, and I'm pretty sure you can go past the limit in the base game (though i haven't tested this). 
+Editing the text is very simple though. In the Bulletin Board editor, under Stock -> Buffer, you will be able to see all of your *current* bulletin board messages (it's not possible to create new ones unless in game). You can edit the date of the posts by editing the array, or edit the body text by opening the dropdown box next to the post and editing the Body. You can write basically anything here, and I'm pretty sure you can go past the limit in the base game (though I haven't tested this). 
 
 <p align="center">
 You can see the example posted below.

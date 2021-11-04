@@ -1,3 +1,8 @@
+---
+title: Games with Video Capture
+description: A list of Switch games that support video capture
+---
+
 The following is a list of all games supporting video capture on the Nintendo Switch. The information was taken from [http://www.benoitren.be/switch-videocapturesupport.html](http://www.benoitren.be/switch-videocapturesupport.html).
 
 This list was last updated the 11th of November, 2020. If any information is outdated, please inform either me or the creator behind benoitren.be.

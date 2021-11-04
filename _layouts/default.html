@@ -20,42 +20,6 @@
         </a>
         <h2>{{ site.description | default: site.github.project_tagline }}</h2>
 
-        <script>
-
-var lines;
-var randomNumber;
-var lastRandomNumber;
-
-$(document.body).ready(function () {
-
-  // load the trivia from the server
-  $.ajax({
-    url: 'https://ac-modding.com/pages/misc/sehsalps.txt'
-  }).done(function(content) {
-
-    // normalize the line breaks, then split into lines
-    lines = content.replace(/\r\n|\r/g, '\n').trim().split('\n');
-
-    if (lines && lines.length) {
-      $( document ).ready(function () {
-        // loop to prevent repeating the last random number
-        while (randomNumber === lastRandomNumber) {
-          randomNumber = parseInt(Math.random() * lines.length);
-          // check to prevent infinite loop
-          if (lines.length === 1) { break; }
-        }
-        // keep track of the last random number
-        lastRandomNumber = randomNumber;
-
-        // show the corresponding line
-        $('#trivia').text(lines[randomNumber]);
-      });
-    }
-  });
-});
-
-        </script>
-
         <section id="downloads">
           {% if site.show_downloads %}
           {% endif %}
@@ -82,11 +46,10 @@ $(document.body).ready(function () {
       </script>
     {% endif %}
   </body>
-<meta content="AC-Modding: A central source of info for modding Animal Crossing." property="og:title">
-<meta property='og:image' content='https://raw.githubusercontent.com/inconsistent-dg/AC-Modding/main/assets/images/impossible.png'>
+<meta property='og:image' content='https://raw.githubusercontent.com/inconsistent-dg/AC-Modding/main/assets/images/acm.png'>
 <meta name="twitter:card" content="summary_large_image">
-<link type="application/json+oembed" href="https://raw.githubusercontent.com/inconsistent-dg/AC-Modding/main/dc.json"/>
 <meta name="theme-color" content="#0e2537">
 <meta name="author" content="inconsistent_dg">
 <meta name="keywords" content="animal crossing, animal crossing new horizons, animal crossing: new horizons, animal crossing switch, animal crossing new leaf, animal crossing: new leaf, treasure island, hacks, animal crossing hacks, animal crossing modding, ac modding, how to make a treasure island, how to install animal crossing mods, hacker, hacking, modder, modding, mods, nintendo, nintendo switch, switch, animal crossing new horizons for the nintendo switch and nintendo switch lite handheld systems owned by and licenced by nintendo, nhse, new horizons: save editor, new horizons save editor, save editor for animal crossing, jksv, sysdvr, stream switch to pc without capture card, ftpd">
+<link type="application/json+oembed" href="https://raw.githubusercontent.com/inconsistent-dg/AC-Modding/main/dc.json"/>
 </html>

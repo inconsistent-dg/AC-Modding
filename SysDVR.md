@@ -1,3 +1,8 @@
+---
+title: SysDVR
+description: Learn SysDVR to stream your Switch to your PC 
+---
+
 <html>
  <head>
   <meta name="description" content="Learn how to use SysDVR to capture your switch wirelessley from your PC!">
@@ -13,10 +18,11 @@
 
 Streaming your Switch to your computer is possible without needing any additional hardware, like a capture card. This is possible with a cross platform <sup><sub>(PC, Mac, Linux)</sub></sup> homebrew app called SysDVR, being developed by [exelix11](https://github.com/exelix11) The only thing you need is Custom Firmware, your common sense and your parents permission!
 
-It is important to note that only games supporting video capture will work with SysDVR, so if you planned to stream a game that doesnt support it, you're out of luck and need to buy a capture card. [You can read this page to see if the game you're trying to stream is compatible.](../pages/gamesw-video-capture.md)
+It is important to note that only games supporting video capture will work with SysDVR, so if you planned to stream a game that doesn't support it, you're out of luck and need to buy a capture card. [You can read this page to see if the game you're trying to stream is compatible.](../pages/gamesw-video-capture.md)
 
 <big>**Table of Contents**</big>
 
+- [SysDVR](#sysdvr)
 - [Prerequisites](#prerequisites)
 - [Installing](#installing)
 - [Setup](#setup)
@@ -44,21 +50,21 @@ It is important to note that only games supporting video capture will work with 
 
 Extract the contents of `SysDVR.zip` to your SD card. **You should NOT have a folder/file called SysDVR on root.** Your directory should look like this, and if it does that's how you know you have it installed correctly. If your switch is already running when you put these files on the SD, then you'll have to restart your switch for the changes to take effect.
 
-<pre>├── <span style="background-color:#4E9A06"><font color="#3465A4">atmosphere</font></span>
-│   └── <span style="background-color:#4E9A06"><font color="#3465A4">contents</font></span>
-│       └── <span style="background-color:#4E9A06"><font color="#3465A4">00FF0000A53BB665</font></span>
+<pre>├── <span style="background-color:#4E9A06"><font color="#000">atmosphere</font></span>
+│   └── <span style="background-color:#4E9A06"><font color="#000">contents</font></span>
+│       └── <span style="background-color:#4E9A06"><font color="#000">00FF0000A53BB665</font></span>
 │           ├── <font color="#4E9A06"><b>exefs.nsp</b></font>
-│           ├── <span style="background-color:#4E9A06"><font color="#3465A4">flags</font></span>
+│           ├── <span style="background-color:#4E9A06"><font color="#000">flags</font></span>
 │           │   └── <font color="#4E9A06"><b>boot2.flag</b></font>
 │           └── <font color="#4E9A06"><b>toolbox.json</b></font>
-├── <span style="background-color:#4E9A06"><font color="#3465A4">config</font></span>
-│   └── <span style="background-color:#4E9A06"><font color="#3465A4">sysdvr</font></span>
+├── <span style="background-color:#4E9A06"><font color="#000">config</font></span>
+│   └── <span style="background-color:#4E9A06"><font color="#000">sysdvr</font></span>
 │       └── <font color="#4E9A06"><b>rtsp</b></font>
-├── <span style="background-color:#4E9A06"><font color="#3465A4">switch</font></span>
+├── <span style="background-color:#4E9A06"><font color="#000">switch</font></span>
 │   └── <font color="#4E9A06"><b>SysDVR-conf.nro</b></font>
 </pre>
 
-Now that you have SysDVR on your Switch, boot into CFW, open the Homebrew launcher, then open the SysDVR Settings app. By default, SysDVR will stream with Simple network mode. To switch, select either TCP bridge or USB, then select `Set current mode as default on boot`, so you don't have to open this app again everytime you want to stream. Now select `Save and exit` to apply your changes. At this point, you're done with the switch, and can now move onto your computer.
+Now that you have SysDVR on your Switch, boot into CFW, open the Homebrew launcher, then open the SysDVR Settings app. By default, SysDVR will stream with Simple network mode. To switch, select either TCP bridge or USB, then select `Set current mode as default on boot`, so you don't have to open this app again every time you want to stream. Now select `Save and exit` to apply your changes. At this point, you're done with the switch, and can now move onto your computer.
 
 <p align="center">
   <img src="../assets/images/hbrew/SysDVR-Settings.jpg"/>
@@ -69,7 +75,7 @@ Now that you have SysDVR on your Switch, boot into CFW, open the Homebrew launch
 Depending on what platform you're using, there will be different ways to setup SysDVR on your computer. 
 
 - `SysDVR-Client.exe` is the actual client. It's a CLI, and only needs to be used if you're on Mac or Linux.
-- `SysDVR-ClientGUI.exe` is a graphical interface for SysDVR-Client.exe, to make things easier for people. It's Windows only, so anyone on Mac/Linux have to use the CLI (which, if you're using linux, you're probably used too anyway)
+- `SysDVR-ClientGUI.exe` is a graphical interface for SysDVR-Client.exe, to make things easier for people. It's Windows only, so anyone on Mac/Linux have to use the CLI (which, if you're using Linux, you're probably used too anyway)
 
 ## Windows Setup
 
@@ -154,7 +160,7 @@ Plug your Switch into your computer, then [download and launch Zadig.](https://z
 
 **If you see only `Nintendo Switch`, then SysDVR is not running**. Make sure that you have it installed correctly, and that you're booted into Custom Firmware. This will not work in stock.
 
-**Before installing the drivers, make sure that the USB ID is `057e 3006`.** If it's different, then SysDVR's sysmodule might not be working. Try waiting a bit longer for it to register (about 20 seconds after restarting your Switch). If waiting doesn't fix it, try reinstalling SysDVR.
+**Before installing the drivers, make sure that the USB ID is `057e 3006`.** If it's different, then SysDVR's sys-module might not be working. Try waiting a bit longer for it to register (about 20 seconds after restarting your Switch). If waiting doesn't fix it, try reinstalling SysDVR.
 
 <big>Setting up the driver on Linux and CrapOS</big>
 
@@ -192,7 +198,7 @@ When using the terminal, you can add the flags `--no-audio` and `--no-video` to 
 
 On occassion, people will ask on discord how they can show SysDVR in OBS to stream it. Now when I'm in a bad mood I simply link them an "OBS for dummies" video since capturing windows is one of the first things that's explained in all of them, but I might as well explain here to get them to shut their traps.
 
-Add a new source, this source being a Window capture. Select SysDVR-Client as the window, and uncheck Capture Cursor. Bada bing badaboom leave me alone
+Add a new source, this source being a Window capture. Select SysDVR-Client as the window, and uncheck Capture Cursor. 
 
 <p align="center">
   <img src="../assets/images/misc/SysDVR-OBS.gif"/>

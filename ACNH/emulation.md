@@ -1,3 +1,8 @@
+---
+title: Emulation
+description: Learn to emulate games with Yuzu or Ryujinx
+---
+
 <html>
  <head>
   <meta name="description" content="Learn how to emulate games from your Nintendo Switch onto Yuzu or Ryujinx!">

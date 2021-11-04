@@ -1,9 +1,7 @@
-<html>
- <head>
-  <meta name="description" content="A troubleshooting page for modding your switch. You got a problem? I (hopefully) have an answer.">
-  <title>Help page for modding your Switch</title>
-</head> 
-</html>
+---
+title: HELP
+description: Troubleshooting page for Switch modding.
+---
 
 <sub># Note: this page probably doesnt have everything that it deserves, but for now i'd call it pretty Pog!</sub>
 

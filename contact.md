@@ -1,9 +1,6 @@
-<html>
- <head>
-  <meta name="description" content="Want to contact your favorite person? Go ahead!">
-  <title>Contact inco!</title>
-</head> 
-</html>
+---
+title: Contact
+---
 
 # Contact
 
