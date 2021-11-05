@@ -5,7 +5,7 @@ description: An app that lets you transfer files wirelessly.
 
 # FTPD
 
-`FTPD`, being developed by [mtheall](https://github.com/mtheall), is an app that allows you to transfer files to your Switch/3ds via Wi-Fi, meaning that you won't have to remove your SD card or turn off your switch everytime you need to put something on there.
+**FTPD**, being developed by [mtheall](https://github.com/mtheall), is an app that allows you to transfer files to your Switch/3ds via Wi-Fi, meaning that you won't have to remove your SD card or turn off your switch everytime you need to put something on there.
 
 FTPD requires a local Wi-Fi connection, so both your Switch/3ds and your PC need to be connected to the same internet.
 
@@ -35,19 +35,19 @@ There are 2 versions of **FTPD**, these versions being `ftpd-snap` and `ftpd-pro
 [Download the latest version of `ftpd-classic` or `ftpd`](https://github.com/mtheall/ftpd/releases). The **classic** is ftpd-snap. Download the **3dsx** or **CIA** if you're on 3ds. Download the **nro** if you're on Switch. At the time of writing this, the latest version is v3.1.0.
 
 <p align="center">
-<img src="../assets/images/hbrew/ftpd-pro!ftpd-snap!Switch_Comparison.png" width="690"/>
-<img src="../assets/images/hbrew/ftpd-pro!ftpd-snap!3ds_Comparison.png" width="290" height="690"/>
+<img src="assets/images/hbrew/ftpd-pro!ftpd-snap!Switch_Comparison.png" width="690"/>
+<img src="assets/images/hbrew/ftpd-pro!ftpd-snap!3ds_Comparison.png" width="290" height="690"/>
 </p>
 
 # Installing
 
 ## Switch
 
-All `nro` files go in the **switch** folder on [root](../assets/images/misc/root.png). Then to open it, you can open the homebrew launcher and select ftpd. If you do not have the folder (for whatever reason) create it.
+All `nro` files go in the **switch** folder on [root](../assets/images/misc/root.png). Then to open it, you can open the homebrew launcher and select FTPD. If you do not have the folder (for whatever reason) create it.
 
 ## 3ds
 
-If you're on 3ds, you should already know where to put the file. However, incase you forgot, here's a recap. All `3dsx` files go in your **3ds** folder on [root](../assets/images/misc/root.png). If you do not have the folder, create it. Then to open it, you open the homebrew launcher and select ftpd. 
+If you're on 3ds, you should already know where to put the file. However, incase you forgot, here's a recap. All `3dsx` files go in your **3ds** folder on [root](../assets/images/misc/root.png). If you do not have the folder, create it. Then to open it, you open the homebrew launcher and select FTPD. 
 
 If you want it to show on the home screen however, you can instead install the **CIA** through FBI. To do this, put the `ftpd-(classic).cia` in the **cia** or **cias** folder on root. If you do not have the folder, create it. After putting the file in there, open FBI, navigate to "cias". Select `<current directory>`, select the “**Install and delete all CIAs**” option, then press (A) to confirm. On the home screen, you'll see ftpd or ftpd snap, depending on which you chose. If you do not, try restarting your device or reinstalling the CIA.
 
@@ -58,7 +58,7 @@ The use process would be the same for both 3ds and Switch. You'll see your IP ad
 When copying files, do **NOT** drag and drop folders or files. Instead, copy them with **CTRL + C**, and paste them with **CTRL + V**. Dragging and dropping can lead to deletion of the file/folder itself. If you believe the transfer process has completed, but it is not showing in your application, refresh by clicking the Refresh button, or pressing `f5`. 
 
 <p align="center">
-  <img src="../assets/images/misc/ftpd_FM-Win.gif" alt="Connecting to Switch on Windows, with the use of FTPD."/>
+  <img src="assets/images/misc/ftpd_FM-Win.gif" alt="Connecting to Switch on Windows, with the use of FTPD."/>
 </p>
 
 # Troubleshooting
