@@ -3,13 +3,6 @@ title: SysDVR
 description: Learn SysDVR to stream your Switch to your PC 
 ---
 
-<html>
- <head>
-  <meta name="description" content="Learn how to use SysDVR to capture your switch wirelessley from your PC!">
-  <title>Streaming New Horizons with SysDVR</title>
-</head> 
-</html>
-
 # SysDVR
 
 <sub>Last updated: June 25, 2021. If anything's changed, sorry! LMK on Discord.</sub>
@@ -135,7 +128,7 @@ Below is a picture of where to look for your Switch's IP address.
 </p>
 
 <p align="center">
-  <img src="assets/images/misc/SysDVR-TCP.gif"/>
+  <img src="assets/images/misc/SysDVR-TCP.mp4"/>
 </p>
 
 <big>Using the Terminal</big>
@@ -143,12 +136,6 @@ Below is a picture of where to look for your Switch's IP address.
 Make sure you've selected `TCP Bridge` from within the SysDVR app on your Switch, CD into your SysDVR directory, and launch it like this: `dotnet SysDVR-Client.dll bridge <ip address>`, obviously replacing `<ip address>` with your Switch's IP.
 
 When using the terminal, you can add the flags `--no-audio` and `--no-video` to disable either audio or video.
-
-Below is a picture of where to look for your Switch's IP Address.
-
-<p align="center">
-  <img src="assets/images/IPAddress.jpg"/>
-</p>
 
 ## USB Streaming
 
@@ -185,7 +172,7 @@ On some installations, `libusb-1.0` might go by a different name. You can make a
 Make sure that you've selected USB from within the SysDVR Settings on your Switch, and that you've [installed the correct USB drivers.](#usb-streaming) Now select `USB (requires setting up USB drivers)` on the client and click launch. A player will open up, and you can now watch your Switch on your computer!
 
 <p align="center">
-  <img src="assets/images/misc/SysDVR-USB.gif"/>
+  <img src="assets/images/misc/SysDVR-USB.mp4"/>
 </p>
 
 <big>Using the Terminal</big>

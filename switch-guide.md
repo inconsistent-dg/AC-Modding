@@ -40,7 +40,7 @@ To find your serial number, enter the `System Settings` on the switch, scroll do
   <img src="./assets/images/SerialInformation1.jpg" alt="Serial Info"/>
 </p>
 
-Once you click it, it will show your Serial Number at the top of the screen. I have censored my Serial Number here, as you shouldnt give out your entire Serial. Only the 4 numbers after XXX should you give out, if you're asking for assistance.
+Once you click it, it will show your Serial Number at the top of the screen. I have censored my Serial Number here, as you shouldn't give out your entire Serial. Only the 4 numbers after XXX should you give out, if you're asking for assistance.
 <p align="center">
   <img src="./assets/images/SerialInformation2.jpg" alt="Serial Info"/>
 </p>
@@ -65,7 +65,7 @@ As you saw earlier, my Switch is a XAW1, and between 1000 and 1007, so I have an
 
 ## Formatting the SD
 
-Your SD card *should* be formatted to FAT32. Using exFAT on the Switch should be avoided, since the exFAT drivers on the switch are literal dogwater and are prone to corruption. It can also prevent certain homebrew/cfw from booting, which is another reason why it shouldnt be used.
+Your SD card *should* be formatted to FAT32. Using exFAT on the Switch should be avoided, since the exFAT drivers on the switch are literal dogwater and are prone to corruption. It can also prevent certain homebrew/cfw from booting, which is another reason why it shouldn't be used.
 
 ### **Formatting on Windows**
 
@@ -77,7 +77,7 @@ You can download from the official website, or you can download it from my githu
 
 [Github Repo](https://github.com/inconsistent-dg/guiformat/releases/download/v1.0.1.0/guiformat.zip)
 
-Once you have it downloaded, open the .exe. It'll ask for administrative purposes, which you need to give. After that, change the drive to your sd's drive (**it will NOT be C:.**) It'll most likely be D, E, H, I, or something similar. 
+Once you have it downloaded, open the .exe. It'll ask for administrative purposes, which you need to give. After that, change the drive to your SD's drive (**it will NOT be C:.**) It'll most likely be D, E, H, I, or something similar. 
 
 *Note: **BE ON THE RIGHT DRIVE.** Formatting your drive deletes all your data, and last time I checked you had some important things in your homework folder!*
 
@@ -85,9 +85,9 @@ With that being said, now would be a great time to backup your data (if you have
 
 Once the drive is selected, keep the allocation unit size on either 32768 or 65536, give your SD a label if you want, then keep `Quick Format` CHECKED. Without getting too deep into it, quick format is... quick. Click start, then watch your SD convert to fat32.
 
-<p align="center">
-  <img src="./assets/images/hbrew/GUIFormat.gif" alt="GUIFormat format to fat32"/>
-</p>
+<video controls>
+  <source src="assets/images/hbrew/GUIFormat.mp4" type="video/mp4">
+</video>
 
 If you get an error that looks like this, you just need to make sure that your file explorer is closed before pressing start.
 
@@ -123,10 +123,10 @@ With that being said, now would be a great time to backup your data (if you have
 
 Assuming you're on the right drive, right click the device, and delete the partition. This will make everything on the drive unallocated, and once it is right click the unallocated space then select New. This takes you to the `Create New Partition` screen. Once you're here, change the filesystem type to `fat32` and, if you want, give the partition a label. After you've done that, click `Add`, then the green checkmark at the top of the window to apply the changes.
 
-If you need visuals, below is a GIF
+If you need visuals, below is a video.
 
 <p align="center">
-  <img src="./assets/images/Linux/GParted.gif" alt="GParted format to fat32"/>
+  <img src="./assets/images/Linux/GParted.mp4"/>
 </p>
 
 ## Required Files
@@ -234,7 +234,7 @@ Your Switch keys aren't that large, so you don't have to worry about spending an
 3. After Lockpick is finished, your `prod.keys` and `title.keys` should be in `sd:/switch`.
 4. Now that you have your keys, copy them to your computer (or someplace safe). Once you got your keys backed up somewhere, you can delete the keys on your SD. You wouldn't HAVE to compress these, since (in total) they're only 12kb, but you can still do it if you'd like to.
 
-Now that you've finished those steps, you're basically finished at this point! All you need to do now is actually boot into CFW. You might be asing, am I not already in CFW? Well, no. You've simply injected a payload.
+Now that you've finished those steps, you're basically finished at this point! All you need to do now is actually boot into CFW. You might be asking, am I not already in CFW? Well, no. You've simply injected a payload.
 
 ---
 
@@ -242,4 +242,4 @@ Now that you've finished those steps, you're basically finished at this point! A
 
 To launch into CFW, on the Hekate `Home` tab, select `Launch`, then select `CFW (SYSNAND)`. If you get an error like <span style="color:yellow">No main boot entries found...</span>, then you haven't downloaded the hekate_ipl.ini and put it in your bootloader folder. If this is the case, download the [hekate_ipl.ini](assets/hekate_ipl.ini) config file (open the link, right click > save page as)
 
-But if you don't get that error, then you're in CFW! You ARE gonna have to inject a paylaod everytime you want to enter CFW though, so remember that as soon as you turn off your switch you'll be back in normie territory.
+But if you don't get that error, then you're in CFW! You ARE gonna have to inject a payload everytime you want to enter CFW though, so remember that as soon as you turn off your switch you'll be back in normie territory.
