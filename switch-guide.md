@@ -85,9 +85,9 @@ With that being said, now would be a great time to backup your data (if you have
 
 Once the drive is selected, keep the allocation unit size on either 32768 or 65536, give your SD a label if you want, then keep `Quick Format` CHECKED. Without getting too deep into it, quick format is... quick. Click start, then watch your SD convert to fat32.
 
-<video controls>
-  <source src="assets/images/hbrew/GUIFormat.mp4" type="video/mp4">
-</video>
+<p align="center">
+  <img src="./assets/images/hbrew/GUIFormat.gif" alt="GUIFormat format to fat32"/>
+</p>
 
 If you get an error that looks like this, you just need to make sure that your file explorer is closed before pressing start.
 
@@ -126,7 +126,7 @@ Assuming you're on the right drive, right click the device, and delete the parti
 If you need visuals, below is a video.
 
 <p align="center">
-  <img src="./assets/images/Linux/GParted.mp4"/>
+  <img src="./assets/images/Linux/GParted.gif"/>
 </p>
 
 ## Required Files
