@@ -43,7 +43,7 @@ Like in this example!
 
 # Header 1
 
-This is a very normal paragraph header. Inconsistent_dg is one of the nicest guys you'll meet on the internet! [I heard he makes great youtube videos too!](https://www.youtube.com/watch?v=i6CVfUjJchE)
+This is a very normal paragraph header. Inconsistent_dg is one of the nicest guys you'll meet on the internet! [I heard he makes great YouTube videos too!](https://www.youtube.com/watch?v=i6CVfUjJchE)
 
 Headers start off with a hashtag `#`, adding more hashtags means "less-important" headers, ones that will just be smaller than the others.
 
@@ -201,3 +201,13 @@ Wanna know something cool? Long, single lined paragraphs in a code block actuall
 They told me marquee was deprecated... But I don't believe the government!
 
 <marquee>see? this is why you can't trust anyone, not even yourself.</marquee>
+
+Tarou<br>In<br>ACNH
+
+---
+
+Tarou
+
+In
+
+ACNH
