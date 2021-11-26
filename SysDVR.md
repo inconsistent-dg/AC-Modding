@@ -127,7 +127,7 @@ Below is a picture of where to look for your Switch's IP address.
   <img src="assets/images/IPAddress.jpg"/>
 </p>
 
-<video controls autoplay loop muted playsinline>
+<video controls autoplay loop muted playsinline width="100%">
   <source src="assets/video/misc/SysDVR-TCP.mp4" type="video/mp4">
   <source src="assets/video/misc/SysDVR-TCP.webm" type="video/webm">
 </video>
@@ -172,7 +172,7 @@ On some installations, `libusb-1.0` might go by a different name. You can make a
 
 Make sure that you've selected USB from within the SysDVR Settings on your Switch, and that you've [installed the correct USB drivers.](#usb-streaming) Now select `USB (requires setting up USB drivers)` on the client and click launch. A player will open up, and you can now watch your Switch on your computer!
 
-<video controls autoplay loop muted playsinline>
+<video controls autoplay loop muted playsinline width="100%">
   <source src="assets/video/misc/SysDVR-USB.mp4" type="video/mp4">
   <source src="assets/video/misc/SysDVR-USB.webm" type="video/webm">
 </video>

@@ -8,8 +8,7 @@ This will also help out the googlers, typing in things like "how to make a treas
 # Anything I should know already?
 **Be aware that, no matter what, EVERY time you modify the console, there's a chance of an UNRECOVERABLE BRICK.** These are very, *very* rare, but still a possibility, so always make sure that you follow any directions EXACTLY.
 
-If you have any questions, I've tried my best to answer them all **[over here, on the help page](/help)**. I try to keep it organized, and showing pictures if needed. There's a Table of Contents, so you dont spend 10 hours looking for something.
-
+You can follow my tutorial on [setting up Switch CFW](switch-guide), as you will need it to mod the game. 
 
 ## To go to the title of Animal Crossing that you want to mod, click the title of the game.
 [Animal Crossing: New Horizons](/ACNH)
