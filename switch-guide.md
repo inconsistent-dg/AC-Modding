@@ -49,17 +49,17 @@ As you saw earlier, my Switch is a XAW1, and between 1000 and 1007, so I have an
 
 <sup>the following information is taken from [this GBATemp thread](https://gbatemp.net/threads/switch-informations-by-serial-number-read-the-first-post-before-asking-questions.481215/)</sub>
 
-| Serial Numbers | <span style="color:green">Unpatched!!</span>                | <span style="color:orange">Potentially patched??</span>        | <span style="color:red">Patched.</span>                      |
-|----------------|----------------------------|------------------------------|-------------------------------|
-| XAW1           | 10000000000 to 10074000000 | 10075000000 to 10120000000   | Anything above 10120000000    |
-| XAW4           | 40000000000 to 40011000000 | 40011000000 to 40012000000   | Anything above 40012000000    |
-| XAW7           | 70000000000 to 70017500000 | 70017500000 to 70030000000   | Anything above 70030000000    |
-| XAJ1           | 10000000000 to 10020000000 | 10020000000 to 10030000000   | Anything above 10030000000    |
-| XAJ4           | 40000000000 to 40046000000 | 40046000000 to 40083000000   | Anything above 40083000000    |
-| XAJ7           | 70000000000 to 70040000000 | 70040000000 to 70050000000   | Anything above 70050000000    |
-| XAW9           |                            | All potentially patched.     |                               |
-| XAK            |                            | No info, only sold in Korea. |                               |
-| XKW or XKJ     |                            |                              | Mariko switches, all patched. |
+| Serial Numbers | <span style="color:green">Unpatched!!</span> | <span style="color:orange">Potentially patched??</span> | <span style="color:red">Patched.</span> |
+|----------------|----------------------------------------------|---------------------------------------------------------|-----------------------------------------|
+| XAW1           | 10000000000 to 10074000000                   | 10075000000 to 10120000000                              | Anything above 10120000000              |
+| XAW4           | 40000000000 to 40011000000                   | 40011000000 to 40012000000                              | Anything above 40012000000              |
+| XAW7           | 70000000000 to 70017500000                   | 70017500000 to 70030000000                              | Anything above 70030000000              |
+| XAJ1           | 10000000000 to 10020000000                   | 10020000000 to 10030000000                              | Anything above 10030000000              |
+| XAJ4           | 40000000000 to 40046000000                   | 40046000000 to 40083000000                              | Anything above 40083000000              |
+| XAJ7           | 70000000000 to 70040000000                   | 70040000000 to 70050000000                              | Anything above 70050000000              |
+| XAW9           |                                              | All potentially patched.                                |                                         |
+| XAK            |                                              | No info, only sold in Korea.                            |                                         |
+| XKW or XKJ     |                                              |                                                         | Mariko switches, all patched.           |
 
 # Preparing the SD
 
@@ -105,13 +105,13 @@ This guide uses GParted. GParted works on most Linux distros, so you probably do
 
 GParted is included by default in some distros, however if it isn't you can look it up with your systems installed package manager. If you can't find it in your package manager, you can install it from the command line.
 
-| Linux Distro | Package   | Terminal Command             |
-|-------------:|-----------|------------------------------|
-| Debian       | [gparted](https://packages.debian.org/search?keywords=gparted) | ```sudo apt-get install gparted```|
-| Fedora       | [gparted](https://koji.fedoraproject.org/koji/packageinfo?packageID=1950) | ```su -c "yum install gparted"```  |
-| Mangeia      | [gparted](https://madb.mageia.org/package/show/name/gparted) | ```sudo urpmi gparted```           |
-| OpenSUSE     | [gparted](https://software.opensuse.org/package/gparted) | ```sudo zypper install gparted```  |
-| Ubuntu       | [gparted](https://packages.ubuntu.com/search?keywords=gparted) | ```sudo apt-get install gparted``` |
+| Linux Distro | Package                                                                   | Terminal Command                   |
+|-------------:|---------------------------------------------------------------------------|------------------------------------|
+|       Debian | [gparted](https://packages.debian.org/search?keywords=gparted)            | ```sudo apt-get install gparted``` |
+|       Fedora | [gparted](https://koji.fedoraproject.org/koji/packageinfo?packageID=1950) | ```su -c "yum install gparted"```  |
+|      Mangeia | [gparted](https://madb.mageia.org/package/show/name/gparted)              | ```sudo urpmi gparted```           |
+|     OpenSUSE | [gparted](https://software.opensuse.org/package/gparted)                  | ```sudo zypper install gparted```  |
+|       Ubuntu | [gparted](https://packages.ubuntu.com/search?keywords=gparted)            | ```sudo apt-get install gparted``` |
 
 If your distro isn't listed here, you can either try to find it in it's package manager or simply [check out the official download instructions](https://gparted.org/download.php).
 

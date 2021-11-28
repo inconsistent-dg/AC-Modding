@@ -7,10891 +7,2725 @@ The following is a list of all games supporting video capture on the Nintendo Sw
 
 This list was last updated the 11th of November, 2020. If any information is outdated, please inform either me or the creator behind benoitren.be.
 
-<table>
-<thead><tr>
-<th>Title</th>
-<th>Video capture support?</th>
-</tr></thead>
-<tbody>
-<tr>
-<td>#Funtime (Europe)</td>
-<td><span style="color:green">Yes!</span></td>
-</tr>
-<tr>
-<td>#Funtime (USA)</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>#womenUp, Super Puzzles Dream</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>#womenUp, Super Puzzles Dream &lt;Demo&gt;</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>1-2-Switch</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>12 is Better Than 6</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>12 Labours of Hercules</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>1971 Project Helios</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>1993 Shenandoah</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>2064: Read Only Memories INTEGRAL</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>20XX</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>30-in-1 Game Collection: Volume 1</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>3000th Duel</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>39 Days to Mars</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>3D MiniGolf</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>60 Parsecs!</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>60 Seconds!</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>7 Billion Humans</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>7th Sector</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>80 Days</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>80's Overdrive</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>88 Heroes: 98 Heroes Edition</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>9 Monkeys of Shaolin</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>911 Operator</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>99Vidas: Definitive Edition</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>9th Dawn III</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>A Case of Distrust</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>A Dark Room</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>A Duel Hand Disaster: Trackher</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>A Fold Apart</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>A Gummy's Life</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>A Hat in Time</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>A Hero and a Garden</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>A Magical High School Girl</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>A Robot Named Fight</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>A Street Cat's Tale</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>A Winter's Daydream</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>A.O.T. 2</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>Aborigenus</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>ACA NeoGeo - Garou: Mark of the Wolves</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>ACA NeoGeo: 2020 Super Baseball</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>ACA NeoGeo: 3 Count Bout</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>ACA NeoGeo: Aero Fighters 2</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>ACA NeoGeo: Aero Fighters 3</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>ACA NeoGeo: Aggressors of Dark Kombat</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>ACA NeoGeo: Alpha Mission II</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>ACA NeoGeo: Art of Fighting</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>ACA NeoGeo: Art of Fighting 2</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>ACA NeoGeo: Art of Fighting 3</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>ACA NeoGeo: Baseball Stars 2</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>ACA NeoGeo: Baseball Stars Professional</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>ACA NeoGeo: Blazing Star</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>ACA NeoGeo: Blue's Journey</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>ACA NeoGeo: Burning Fight</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>ACA NeoGeo: Crossed Swords</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>ACA NeoGeo: Cyber-Lip</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>ACA NeoGeo: Fatal Fury</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>ACA NeoGeo: Fatal Fury 2</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>ACA NeoGeo: Fatal Fury 3</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>ACA NeoGeo: Fatal Fury Special</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>ACA NeoGeo: Football Frenzy</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>ACA NeoGeo: Galaxy Fight - Universal Warriors</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>ACA NeoGeo: Ghost Pilots</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>ACA NeoGeo: Gururin</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>ACA NeoGeo: Karnov's Revenge</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>ACA NeoGeo: King of Fighters '94, The</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>ACA NeoGeo: King of Fighters '95, The</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>ACA NeoGeo: King of Fighters '98, The</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>ACA NeoGeo: King of Fighters 2001, The</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>ACA NeoGeo: King of Fighters 2002, The</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>ACA NeoGeo: King of Fighters 2003, The</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>ACA NeoGeo: King of the Monsters</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>ACA NeoGeo: King of the Monsters 2</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>ACA NeoGeo: Kizuna Encounter</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>ACA NeoGeo: Last Resort</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>ACA NeoGeo: League Bowling</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>ACA NeoGeo: Magical Drop II</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>ACA NeoGeo: Magical Drop III</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>ACA NeoGeo: Magician Lord</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>ACA NeoGeo: Metal Slug</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>ACA NeoGeo: Metal Slug 2</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>ACA NeoGeo: Metal Slug 3</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>ACA NeoGeo: Metal Slug 4</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>ACA NeoGeo: Metal Slug 5</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>ACA NeoGeo: Metal Slug X</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>ACA NeoGeo: Money Puzzle Exchanger</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>ACA NeoGeo: Mutation Nation</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>ACA NeoGeo: NAM-1975</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>ACA NeoGeo: Neo Turf Masters</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>ACA NeoGeo: Neo-Geo Cup '98: The Road to Victory</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>ACA NeoGeo: Ninja Combat</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>ACA NeoGeo: Ninja Commando</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>ACA NeoGeo: Ninja Masters</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>ACA NeoGeo: Over Top</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>ACA NeoGeo: Pleasure Goal: 5 on 5 Mini Soccer</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>ACA NeoGeo: Power Spikes II</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>ACA NeoGeo: Prehistoric Isle 2</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>ACA NeoGeo: Pulstar</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>ACA NeoGeo: Puzzle Bobble</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>ACA NeoGeo: Puzzle Bobble 2</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>ACA NeoGeo: Puzzled</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>ACA NeoGeo: Ragnagard</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>ACA NeoGeo: Real Bout Fatal Fury</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>ACA NeoGeo: Real Bout Fatal Fury 2</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>ACA NeoGeo: Real Bout Fatal Fury Special</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>ACA NeoGeo: Riding Hero</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>ACA NeoGeo: Robo Army</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>ACA NeoGeo: Samurai Shodown</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>ACA NeoGeo: Samurai Shodown II</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>ACA NeoGeo: Samurai Shodown III</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>ACA NeoGeo: Samurai Shodown IV</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>ACA NeoGeo: Samurai Shodown V</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>ACA NeoGeo: Samurai Shodown V Special</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>ACA NeoGeo: Sengoku</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>ACA NeoGeo: Sengoku 2</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>ACA NeoGeo: Sengoku 3</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>ACA NeoGeo: Shock Troopers</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>ACA NeoGeo: Shock Troopers: 2nd Squad</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>ACA NeoGeo: Soccer Brawl</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>ACA NeoGeo: Spin Master</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>ACA NeoGeo: Stakes Winner</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>ACA NeoGeo: Stakes Winner 2</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>ACA NeoGeo: Street Hoop</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>ACA NeoGeo: Strikers 1945 Plus</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>ACA NeoGeo: Super Sidekicks</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>ACA NeoGeo: Super Sidekicks 2</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>ACA NeoGeo: Super Sidekicks 3: The Next Glory</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>ACA NeoGeo: The King of Fighters '96</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>ACA NeoGeo: The King of Fighters '97</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>ACA NeoGeo: The King of Fighters '99</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>ACA NeoGeo: The King of Fighters 2000</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>ACA NeoGeo: The Last Blade</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>ACA NeoGeo: The Last Blade 2</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>ACA NeoGeo: The Super Spy</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>ACA NeoGeo: The Ultimate 11: SNK Football Championship</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>ACA NeoGeo: Thrash Rally</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>ACA NeoGeo: Top Hunter: Roddy &amp; Cathy</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>ACA NeoGeo: Top Player's Golf</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>ACA NeoGeo: Twinkle Star Sprites</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>ACA NeoGeo: Waku Waku 7</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>ACA NeoGeo: World Heroes</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>ACA NeoGeo: World Heroes 2</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>ACA NeoGeo: World Heroes 2 Jet</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>ACA NeoGeo: World Heroes Perfect</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>ACA NeoGeo: Zed Blade</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>Aces of the Luftwaffe: Squadron</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Across the Grooves</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Active Neurons</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Active Neurons 2</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Active Soccer 2019</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Adam’s Venture: Origins</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Adrenaline Rush: Miami Drive</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Adventure Pals, The</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>Adventure Time: Pirates of the Enchiridion</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>Adventures of 00 Dilly, The</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Adventures of Chris</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Adventures of Elena Temple: Definitive Edition, The</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Aeolis Tournament</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>AeternoBlade</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>AeternoBlade II (Europe)</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>AeternoBlade II (USA)</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>AFL Evolution 2</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Afterparty</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Agatha Christie - The ABC Murders</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Agatha Knife</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Ageless</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Aggelos</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>AI: The Somnium Files</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>AI: The Somnium Files (Europe, cartridge)</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Air Conflicts: Pacific Carriers</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Air Conflicts: Secret Wars</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Air Missions: HIND</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Aircraft Evolution</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Akane</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Akash: Path of the Five</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Akihabara CRASH! 123STAGE+1</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Akihabara: Feel the Rhythm Remixed</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Alchemic Dungeons DX</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Alder's Blood</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Aldred - Knight of Honor</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Alien Cruise</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Alien Escape</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Alien: Isolation</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>All-Star Fruit Racing</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Alliance Alive HD Remastered, The</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Alluris</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>Almost Gone, The</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Almost There: The Platformer</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Alpha</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Alteric</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Alvastia Chronicles</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Alwa's Legacy</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>American Fugitive</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>American Ninja Warrior: Challenge</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Amnesia Collection</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Amoeba Battle - Microscopic RTS Action</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Among the Sleep: Enhanced Edition</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Anarcute</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Angels of Death</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>AngerForce: Reloaded</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Angry Video Game Nerd I &amp; II Deluxe</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Anima: Gate of Memories</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>Anima: Gate of Memories - Arcane Edition</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>Animal Crossing: New Horizons</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Animal Fight Club</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Animal Super Squad</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Animated Jigsaws: Japanese Women</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Animus</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>ANIMUS: Harbinger</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Anode</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Another World</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>AntVentor</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>AO Tennis 2</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Aokana - Four Rhythms Across the Blue</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>Ape Out</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Apocalipsis: Wormwood Edition</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Aqua Lungers</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Aqua Moto Racing Utopia</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>Aqua TV</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Ara Fell: Enhanced Edition</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Aragami: Shadow Edition</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Arc of Alchemist</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Arc of Alchemist</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Arcade Archives Bells &amp; Whistles</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Arcade Archives MAGMAX</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Arcade Archives: 10-Yard Fight</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Arcade Archives: Alpha Mission</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Arcade Archives: Argus</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Arcade Archives: Armed F</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Arcade Archives: Athena</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Arcade Archives: Atomic Robo-Kid</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Arcade Archives: Ben Bero Beh</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Arcade Archives: Bomb Jack</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Arcade Archives: City Connection</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Arcade Archives: Clu Clu Land</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Arcade Archives: Crazy Climber</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>Arcade Archives: Donkey Kong</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Arcade Archives: Donkey Kong 3</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Arcade Archives: Donkey Kong Jr.</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Arcade Archives: Double Dragon</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>Arcade Archives: Double Dragon II - The Revenge</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Arcade Archives: Earth Defense Force</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Arcade Archives: Elevator Action</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Arcade Archives: Front Line</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Arcade Archives: Gemini Wing</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Arcade Archives: Gradius</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Arcade Archives: Heroic Episode</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Arcade Archives: Hyper Sports</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Arcade Archives: Ice Climber</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Arcade Archives: Ikari Warriors</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Arcade Archives: Ikki</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Arcade Archives: Image Fight</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Arcade Archives: Kid Niki Radical Ninja</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>Arcade Archives: Kid's HoreHore Daisakusen</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Arcade Archives: Lightning Fighters</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Arcade Archives: Mario Bros.</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>Arcade Archives: Moon Cresta</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Arcade Archives: Moon Patrol</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Arcade Archives: Ninja Gaiden</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Arcade Archives: Ninja-Kid</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Arcade Archives: Omega Fighter</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Arcade Archives: Penguin-Kun Wars</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Arcade Archives: Psycho Soldier</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Arcade Archives: Punch-Out!</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Arcade Archives: Renegade</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Arcade Archives: Road Fighter</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Arcade Archives: Route 16</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Arcade Archives: Rygar</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Arcade Archives: Shusse Ozumo</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Arcade Archives: Sky Skipper</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Arcade Archives: Star Force</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Arcade Archives: Terra Cresta</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Arcade Archives: Terra Force</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Arcade Archives: The Ninja Warriors</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Arcade Archives: Time Pilot</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Arcade Archives: Traverse USA</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>Arcade Archives: TwinBee</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Arcade Archives: Urban Champion</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Arcade Archives: Victory Road</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Arcade Archives: Vs. Super Mario Bros.</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Arcade Archives: X Multiply</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Arcade Archives: Yie Ar Kung Fu</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Arcade Classics Anniversary Collection</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>ARCADE FUZZ</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Arcade Spirits</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Archlion Saga</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Arena of Valor</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>ARK: Survival Evolved</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Armello</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>ARMS</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Art Sqool</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Artifact Adventure Gaiden DX</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Ary and the Secret of Seasons</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>ASCENDANCE</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Asdivine Hearts</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>Asdivine Hearts II</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Ash of Gods: Redemption</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Asphalt 9: Legends</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Assassin's Creed III Remastered</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Assault Android Cactus +</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Assault On Metaltron</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Asterix &amp; Obelix XXL3: The Crystal Menhir</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Asterix &amp; Obelix XXL: Romastered</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Astral Chain</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Astro Bears</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Astrology and Horoscope Premium</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Astérix &amp; Obélix XXL 2</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>At Sundown: Shots in the Dark</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Atari Flashback Classics</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Atelier Lulua: The Scion of Arland</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Atelier Lydie &amp; Suelle: The Alchemists and the Mysterious Paintings</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>Atelier Meruru: The Apprentice of Arland DX</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Atelier Rorona: The Alchemist of Arland DX</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Atelier Ryza: Ever Darkness &amp; the Secret Hideout</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Atelier Totori: The Adventurer of Arland DX</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>ATOM RPG</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Atomic Heist</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Atomicrops</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Attack on Titan 2</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>ATV Drift &amp; Tricks</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Automachef</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Avenger Bird</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Aviary Attorney: Definitive Edition</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>AVICII Invector</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>Away: Journey to the Unexpected</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Awesome Pea</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Axiom Verge (cartridge)</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Axiom Verge (digital)</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Ayakashi Koi Gikyoku: Forbidden Romance with Mysterious Spirit</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Azuran Tales: Trials</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Azure Reflections</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Azure Saga: Pathfinder DELUXE Edition</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Azure Striker Gunvolt: Striker Pack (cartridge)</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>Azure Striker Gunvolt: Striker Pack (digital)</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Baba Is You</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Bad North</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Bad North Demo</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Bake 'n Switch</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Bakugan: Champions of Vestroia</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Baldur's Gate and Baldur's Gate II: Enhanced Editions</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>BallzOut</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Balthazar's Dreams</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Banner of the Maid</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Banner Saga 2, The</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Banner Saga 3, The</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Banner Saga Trilogy, The</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Banner Saga, The</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Baobabs Mausoleum - Ep. 2: 1313 Barnabas Dead End Drive</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Bard's Tale ARPG: Remastered and Resnarkled, The</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Baron: Fur Is Gonna Fly</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Bass Pro Shops: The Strike - Championship Edition (Europe)</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Bass Pro Shops: The Strike - Championship Edition (USA)</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Bastion</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Batbarian: Testament of the Primordials</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Batman: The Enemy Within</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Batman: The Telltale Series</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Battle &amp; Crash</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Battle Chasers: Nightwar</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>Battle Chef Brigade</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Battle Hunters</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Battle of Mahjong, The</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Battle Planet: Judgement Day</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Battle Princess Madelyn</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Battle Supremacy: Ground Assault</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Battle Worlds: Kronos</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>BATTLESHIP</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Battlloon</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Bayonetta</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Bayonetta 2</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>BDSM: Big Drunk Satanic Massacre</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Bear With Me - The Lost Robots Demo</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Bear With Me: The Lost Robots</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Beast Quest</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Beat Cop</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Bee Simulator</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Behind the Screen</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Behold the Kickmen</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Beholder 2</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Beholder: Complete Edition</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Ben 10</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>Ben 10: Power Trip!</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Bendy and the Ink Machine (Europe)</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Bendy and the Ink Machine (USA)</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Bertram Fiddle Episode 2: A Bleaker Predicklement</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Best Friend Forever</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Beyond Enemy Lines: Covert Operations</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>Beyond Enemy Lines: Essentials</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>Bibi &amp; Tina at the horse farm</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>Big Bash Boom</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Big Buck Hunter Arcade (Europe)</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Big Buck Hunter Arcade (USA)</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Big Crown: Showdown</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Big Pharma</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Billion Road</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Binding of Isaac: Afterbirth +, The (Europe, cartridge)</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Binding of Isaac: Afterbirth +, The (Europe, digital)</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Binding of Isaac: Afterbirth +, The (USA)</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Biolab Wars</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>BioShock 2 Remastered</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>BioShock Infinite: The Complete Edition</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>BioShock Remastered</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Biped</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Bite the Bullet</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Bitlogic - A Cyberpunk Arcade Adventure</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Black Bird</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Black Future '88</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Black Hole</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Black Paradox</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Blackmoor 2</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Blacksad: Under the Skin</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Blade II - The Return of Evil</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>Blade Strangers</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Blades of Time</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Blair Witch</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>Blasphemous</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Blaster Master Zero</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Blaster Master Zero 2</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>BlazBlue: Central Fiction - Special Edition (Europe)</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>BlazBlue: Central Fiction - Special Edition (USA)</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>BlazBlue: Cross Tag Battle (Europe)</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>BlazBlue: Cross Tag Battle (USA)</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Blazing Beaks</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Blazing Chrome</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Bleep Bloop</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Bloo Kid 2</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Blood Breed</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Blood Waves</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Blood will be Spilled</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Bloodroots</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Bloodstained: Curse of the Moon</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Bloodstained: Curse of the Moon 2</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Blossom Tales: The Sleeping King</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Bluecoats: North &amp; South, The</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Bomb Chicken</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Bomber Crew</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>BOMBFEST</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Book of Demons</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Book of Unwritten Tales 2, The</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Boomerang Fu</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Boot Hill Bounties</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Borderlands 2: Game of the Year Edition</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Borderlands: Game of the Year Edition</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Borderlands: The Pre-Sequel Ultimate Edition</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Boreal Blade</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Boreal Blade Demo</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Bossgard</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Bot Vice</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Boulder Dash - 30th Anniversary</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Bounty Battle</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Box Align</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>BOXBOY! + BOXGIRL!</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>BQM -BlockQuest Maker-</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Bradwell Conspiracy, The</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Brawlhalla</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Brawlout (digital)</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Brawlout (Europe, cartridge)</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Brawlout (USA, cartridge)</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>BREAK DOT</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Breakpoint (Europe)</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Breakpoint (USA)</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Breeder Homegrown: Director's Cut</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Brick Breaker</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Bridge Builder Adventure</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Bridge Constructor Portal</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Brigandine: The Legend of Runersia</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Bring Them Home</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Broforce</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Broken Age</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Broken Lines</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Broken Sword 5 - The Serpent's Curse</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Brotherhood United</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Brotherhood United Demo</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Brothers: A Tale of Two Sons</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Brunch Club</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Bubble Bobble 4 Friends</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Bucket Knight</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Bud Spencer &amp; Terence Hill: Slaps and Beans</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Bug Fables: The Everlasting Sapling</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Build a Bridge!</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Bullet Beat</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Bunker, The</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>Burger Chef Tycoon</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Buried Stars</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Bury me, my Love</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Button Button Up!</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Cabela's The Hunt: Championship Edition (Europe)</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Cabela's The Hunt: Championship Edition (USA)</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Cadence of Hyrule: Crypt of the NecroDancer featuring The Legend of Zelda</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Cafeteria Nipponica</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Caladrius Blaze</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Calculation Castle: Greco's Ghostly Challenge "Division"</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Caligula Effect: Overdose, The</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Call of Cthulhu</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Call of Juarez: Gunslinger</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>CAN ANDROIDS PRAY: BLUE</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Candle: The Power of the Flame</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Candle: The Power of the Flame</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Candleman</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Cannibal Cuisine</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Capcom Beat 'Em Up Bundle (Europe)</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Capcom Beat 'Em Up Bundle (USA)</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Captain StarONE</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Captain Toad: Treasure Tracker</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Captain Tsubasa: Rise of New Champions (Europe)</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>Captain Tsubasa: Rise of New Champions (USA)</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>Car Mayhem</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Car Mechanic Manager</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Car Mechanic Simulator Pocket Edition</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Car Quest</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Cardpocalypse</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Carnival Games</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Carrion</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Cars 3: Driven to Win (Europe)</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>Cars 3: Driven to Win (USA)</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>Cartoon Network: Battle Crashers (Europe)</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>Cartoon Network: Battle Crashers (USA)</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>CASE 2: Animatronics Survival</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>Castle Crashers Remastered</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Castle of No Escape 2</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>CastleStorm</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>CastleStorm II</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Castlevania Anniversary Collection</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Cat Quest</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>Cat Quest II</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Catan</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Catch 'Em! Goldfish Scooping</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Catch a Duck</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Caterpillar Royale</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Catherine: Full Body</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Cattails</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Cave Story + (Europe)</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>Cave Story + (USA)</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>Caveblazers</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Caveman Warriors</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>Celeste</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Chapeau</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Charterstone: Digital Edition</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Chasm</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Chess Ultra</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>Chicken Range</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Chicken Rider</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Chiki-Chiki Boxy Pro Wrestling</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Child of Light: Ultimate Edition</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Children of Morta</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Chinese Parents</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Chocobo's Mystery Dungeon: Every Buddy!</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>CHOP</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Chroma Squad</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Chrono Clash: Fantasy Tactics</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Church in the Darkness, The</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Ciel Fledge: A Daughter Raising Simulator</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Cinders</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Circle of Sumo: Online Rumble!</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Circuit Dude</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Cities: Skylines - Nintendo Switch Edition</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Citizens of Space</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>City of Brass</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Civilization VI</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Clan N</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Clannad</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>Classic Snake Adventures</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Clea</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Cloudbase Prime</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Cloudpunk</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Clubhouse Games: 51 Worldwide Classics</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Clubhouse Games: Guest Pass</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Clue</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Cluedo</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Coast Guard: Beach Rescue Team</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Cobra Kai: The Karate Kid Saga Continues (Europe)</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Cobra Kai: The Karate Kid Saga Continues (USA)</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Code of Princess EX</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Code Shifter</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Coffee Talk</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Collapsed</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Collar x Malice</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Collar x Malice</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Collection of Mana</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Collection of SaGa: Final Fantasy Legend</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Collidalot</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Collidalot Demo</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Colloc</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Color Zen</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Coloring Book</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Colors Live</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Colt Canyon</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Coma 2: Vicious Sisters, The</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Coma: Recut, The</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>Combat Core</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Commander Keen in Keen Dreams: Definitive Edition</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Community INC</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Complex, The</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Conduct TOGETHER!</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Conjurer Andy's Repeatable Dungeon</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Constructor Plus</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Contra Anniversary Collection</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Contra: Rogue Corps</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Control Ultimate Edition - Cloud Version</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Convoy</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Cook, Serve, Delicious! 2!!</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Cooking Mama: Cookstar</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Cooking Simulator</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Cooking Tycoons 2: 3 in 1 Bundle</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Cooking Tycoons: 3 in 1 Bundle</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Copper Canyon Dixie Dash, The</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Cosmic Defenders</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Cosmic Star Heroine (Europe)</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Cosmic Star Heroine (USA)</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Count Lucanor, The</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>Crash Bandicoot N. Sane Trilogy</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>Crash Dummy</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Crash Team Racing: Nitro-Fueled</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Crashbots</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Crashlands</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Crayola Scoot</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Crayon Shin-chan The Storm Called! Flaming Kasukabe Runner!</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Crazy Zen Mini Golf</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Creature in the Well</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Creepy Brawlers</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Creepy Road</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Creepy Tale</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Cricket 19</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Cris Tales Demo</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Croc's World</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Croc's World 2 Demo</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Croixleur Sigma</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>CrossCode</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>CROSSNIQ+</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Crown Trick</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Cruel Bands Career</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>CrunchTime</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Cryogear</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Crypt of the Necrodancer</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Crypto by POWGI</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Crysis Remastered</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Crystal Crisis</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Cubers: Arena</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>Cubikolor</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Cuphead</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Curious Cases</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Curious Expedition</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Cyber Complex</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Cyber Protocol</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Cytus α (cartridge)</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Cytus α (digital)</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>D/Generation: The Original</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Daemon X Machina</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>DAEMON X MACHINA Prologue (demo)</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Daemon X Machina: Prototype Missions</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Damascus Gear: Operation Tokyo</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Dandara</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Dandy Dungeon: Legend of Brave Yamada</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Danger Gazers</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Danmaku Unlimited 3</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Dark Crystal: Age of Resistance Tactics, The</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Dark Devotion</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Dark Quest 2</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Dark Souls Remastered</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Dark Witch Music Episode: Rudymical</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>Darkest Dungeon (digital)</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Darkest Dungeon (Europe, cartridge)</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Darkest Dungeon (USA, cartridge)</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Darkest Hunters</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Darkestville Castle</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Darkestville Castle Demo(n) Version</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Darkside Detective, The</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Darksiders Genesis</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Darksiders II: Deathinitive Edition</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Darksiders: Warmastered Edition</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Darkwood</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Dauntless</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Dawn of Survivors</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Dawn of the Breakers</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>DC Universe Online</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>de Blob</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>de Blob 2</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Dead by Daylight</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Dead Cells</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Dead End Job</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Dead In Vinland: True Viking Edition</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Dead Z Meat</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>Deadly Days</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Deadly Fighter 2</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Deadly Premonition 2: A Blessing in Disguise</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Deadly Premonition Origins</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Deadly Premonition Origins (cartridge)</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Deadly Premonition Origins (cartridge)</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Death and Taxes</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Death Come True</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>Death Coming</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Death Mark (Europe)</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Death Mark (USA)</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Death Road to Canada</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Death Squared</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>Debris Infinity</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Decay of Logos</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Decay of Logos</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Deemo (cartridge)</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Deemo (digital)</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Deep Diving Adventures</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Deep Sky Derelicts Definitive Edition</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Defense Grid 2</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Defunct</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Degrees of Separation</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Deleveled (Europe)</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Deleveled (USA)</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Delta Squad</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Deltarune: Chapter 1</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Demolition Crew</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Demon Pit</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Demon's Rise: War for the Deep</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Demon's Tier+</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>DEMON'S TILT</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Depixtion (Europe)</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Depixtion (USA)</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Deponia</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Depth of Extinction</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Descenders</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>Desert Child</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Despotism 3k</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Destrobots</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Detective Case and Clown Bot in: Murder in the Hotel Lisbon</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Detective Gallo</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Devil Engine</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Devil May Cry 3: Special Edition</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Devious Dungeon 2</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Diablo III: Eternal Collection</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Die for Valhalla!</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Dig Dog</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Digerati Indie Bundle: INK &amp; Hacky Zack</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Diggerman</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Digimon Story Cyber Sleuth: Complete Edition</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Dimension Drive</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>Ding Dong XL</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Dirt Trackin 2</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Disaster Report 4: Summer Memories</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>Disc Jam</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Disc Room</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Discmaster</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Disgaea 1 Complete</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Disgaea 4 Complete +</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Disgaea 5 Complete</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>Disney Tsum Tsum Festival</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>DISTRAINT 2</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Divinity: Original Sin II - Definitive Edition</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>Do not feed the monkeys</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Do Not Feed the Monkeys Demo</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Dog Duty</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>Doggie Ninja The Burning Strikers</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Doggie Ninja: The Golden Mission</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Dogurai</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Don't Get Caught</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Don't Starve: Nintendo Switch Edition</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Donkey Kong Country: Tropical Freeze</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Donut County</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Doodle Derby</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Doodle God: Crime City</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Doodle God: Evolution</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Doodle God: Evolution Demo</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>DOOM</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>DOOM</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Doom &amp; Destiny</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>DOOM 3</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>DOOM 64</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>DOOM II</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Door Kickers: Action Squad</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Doraemon: Story of Seasons</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Double Cross (Europe)</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Double Cross (USA)</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>DOUBLE DRAGON</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Double Dragon IV</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>DOUBLE DRAGON Ⅱ: The Revenge</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>DOUBLE DRAGON Ⅲ: The Sacred Stones</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Double Kick Heroes</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Doughlings: Arcade</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Downwell</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>DragoDino</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>Dragon Ball FighterZ</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Dragon Ball: Xenoverse 2</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>Dragon Ball: Xenoverse 2 for Nintendo Switch Lite</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>Dragon Blaze for Nintendo Switch</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Dragon Marked for Death</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Dragon Quest Builders</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>Dragon Quest Builders 2</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>DRAGON QUEST BUILDERS 2 JUMBO DEMO</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Dragon Quest XI S: Echoes of an Elusive Age - Definitive Edition</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>DRAGON QUEST XI S: Echoes of an Elusive Age – Definitive Edition [Demo version]</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Dragon's Dogma: Dark Arisen</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Dragon's Lair Trilogy</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>DragonFangZ: The Rose &amp; Dungeon of Time</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Draw a Stickman: EPIC 2 (Europe)</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Draw a Stickman: EPIC 2 (USA)</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>DRAW CHILLY</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Drawngeon: Dungeons of Ink and Paper</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Dreamo</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Dreamwalker</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Dreamwalker: Never Fall Asleep</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>DreamWorks Dragons Dawn of New Riders</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Dresden Files Cooperative Card Game</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Drift Legends</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Drift Zone Arcade</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Drink More Glurp</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Drowning</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Dual Brain Vol.1: Calculation</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Duck Game</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Dude, Stop</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Duke Nukem 3D: 20th Anniversary World Tour</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Dune Sea</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Dungeon of the Endless</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Dungeon of the Endless</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Dungeon Rushers</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>Dungeon Stars</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Dungeon Village</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Dungeon Warfare</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Dusk Diver</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Dust: An Elysian Tail</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Dying: Reborn</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Dyna Bomb</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Dynasty Warriors 8: Xtreme Legends - Definitive Edition</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Eagle Island</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Earthfall: Alien Horde</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>Earthlock</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>Eastville Chronicles: The Drama Queen Murder</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>EAT BEAT DEADSPIKE-san Demo</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>Eclipse: Edge of Light</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Edgar - Bokbok in Boulzac</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Edna &amp; Harvey: Harvey's New Eyes</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Ego Protocol: Remastered</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Eight-Minute Empire: Complete Edition</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Elden: Path of the Forgotten</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>Elder Scrolls V: Skyrim, The</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Elder Scrolls: Blades, The</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Electronic Super Joy</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Elemental Knights R</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Eliza</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Ellen</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Elli</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Ellipsis</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Enchanted in the Moonlight - Kiryu, Chikage &amp; Yukinojo -</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Enchanted in the Moonlight - Miyabi, Kyoga &amp; Samon -</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>End Is Nigh, The</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>Enter the Gungeon</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Epic Clicker Journey</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Epic Word Search Collection 2</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Escape First</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Escape from Chernobyl</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Escape from the Universe</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Escape Game Fort Boyard</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Escape Trick: 35 Fateful Enigmas</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>Escapists 2, The</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>Escapists: Complete Edition, The</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>ESport Manager</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>eSports Legend</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Eternal Card Game</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Eternal Castle [REMASTERED], The</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Eternum EX</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Etherborn</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>European Conqueror X</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Evan's Remains</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Event Horizon</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Event Horizon: Space Defense</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Evergate</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>EVERSPACE: Stellar Edition</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>Everybody, Hearts!</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Everything</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Evoland: Legendary Edition</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Exception</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Executioner, The</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Exit the Gungeon</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>eXplosive Dinosaurs</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Explosive Jake</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>EXTREME POKER</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Eyes: The Horror Game</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>F-117A Stealth Fighter</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Faeria</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Fairune Collection (cartridge)</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Fairune Collection (digital)</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Fairy Fencer F: Advent Dark Force (Europe)</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Fairy Fencer F: Advent Dark Force (USA)</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Fairy Knights</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Fairy Tail</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Fallen Legion: Rise to Glory</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Fantasy Strike</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Fantasy Tower Defense</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Farabel</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Farm Together</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Farming Simulator 20</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Farming Simulator: Nintendo Switch Edition</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>Fast RMX</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>Fate/Extella Link (Europe)</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Fate/Extella Link (USA)</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Fate/Extella: The Umbral Star</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>Fault: Milestone One</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Fe</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Feather</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Feathery Ears</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Felix the Reaper</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Fell Seal: Arbiter's Mark</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Feral Fury</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Feudal Alloy</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>FIA European Truck Racing Championship</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>FIFA 18</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>FIFA 19</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>FIFA 20: Legacy Edition</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>FIFA 21 Legacy Edition</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Fifty Words by POWGI</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Fifty Words by POWGI Demo</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Fight Crab</td>
-<td><span style="color:orange">Unknown</span></td>
-</tr>
-<tr>
-<td>Fight of Animals</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Fight'N Rage</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Fimbul</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>Fin and the Ancient Mystery</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Final Fantasy Crystal Chronicles: Remastered Edition (Europe)</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Final Fantasy Crystal Chronicles: Remastered Edition (USA)</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Final Fantasy Crystal Chronicles: Remastered Edition Lite (Europe)</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Final Fantasy Crystal Chronicles: Remastered Edition Lite (USA)</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Final Fantasy IX</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Final Fantasy VII</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Final Fantasy VIII Remastered</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Final Fantasy X / X-2 HD Remaster</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Final Fantasy XII: The Zodiac Age</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Final Fantasy XV Pocket Edition HD</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>Final Sword</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Finding Teddy 2: Definitive Edition</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Fire Emblem Warriors</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Fire Emblem: Three Houses</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Firework</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>First Tree, The</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Fishing Universe Simulator</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Fishing: Barents Sea - Complete Edition</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Fitness Boxing</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>Five Dates</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Five Nights at Freddy's</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Five Nights at Freddy's 2</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Five Nights at Freddy's 3</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Five Nights at Freddy's 4</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Five Nights at Freddy's: Help Wanted</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Five Nights at Freddy's: Sister Location</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Flame in the Flood, The</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Flan</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Flashback: 25th Anniversary</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Fledgling Heroes</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Flinthook</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Flipon</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Flipping Death (cartridge)</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Floor Kids</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Fluxteria</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>Fly Punch Boom!</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Fly Punch Boom! DEMO</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Food Truck Tycoon</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Food Truck Tycoon - Asian Cuisine</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Football Manager 2019 Touch</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Football Manager 2020 Touch</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Football, Tactics &amp; Glory</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>For the King</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Forager</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Forbidden Arts, The</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Foregone</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Forever Forest</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Forgotten Land, The</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Forgotton Anne</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Forklift - The Simulation</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>Fort Boyard</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Fortnite</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>Fox Awaits Me, The</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>FOX n FORESTS</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>Fracter</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Fractured Minds</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Frag doch mal...die Maus!</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>Fred3ric</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Freedom Finger</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Freedom Planet</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Friday The 13th: The Game - Ultimate Slasher Edition</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>Friends of Ringo Ishikawa, The</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>FruitFall Crush</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Full Metal Furies</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Funny Bunny Adventures</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Furi (cartridge)</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>Furi (digital)</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>Furwind</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Fury Unleashed</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Fuser</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>FutureGrind</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>FUZE4 Nintendo Switch</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>FuzzBall</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>G.I. Joe: Operation Blackout</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>G.R.E.E.N. The Life Algorithm</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Gal Metal</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>Gal Metal (Europe, cartridge)</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>Gal*Gun 2</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>Galacide</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Galactic Defence Squadron</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>GALAK-Z: The Void: Deluxe Edition</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Galak-Z: Variant S</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Galaxy Champions TV</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Galaxy Champions TV Demo</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Galaxy of Pen &amp; Paper +1 Edition</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Galaxy Warfighter</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Game Dev Story</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Game Dev Tycoon</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Garfield Kart: Furious Racing</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Gato Roboto</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Gear.Club Unlimited</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>Gear.Club Unlimited 2</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Gekido: Kintaro's Revenge</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Gelly Break</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Gemini Arms</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Gems of War</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Gemstone Keeper</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Genetic Disaster</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Gensokyo Defenders</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>Gensou Skydrift</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Georifters</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Gerritory</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Gerrrms</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Get 10 Quest</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>GetAmped Mobile</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Ghost Blade HD</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Ghost Files: Memory of a Crime</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Ghost Parade</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Ghost Parade</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Ghost Sweeper</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Ghostbusters: The Video Game Remastered</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Ghostrunner</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>GhoulBoy</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Giana Sisters: Twisted Dreams - Owltimate Edition</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Giga Wrecker Alt.</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Gigantic Army</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Ginger: Beyond the Crystal</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>Giraffe and Annika</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Glaive: Brick Breaker</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Gleamlight</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Gleaner Heights</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Gnome More War</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Go All Out</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Go Vacation</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Goat Simulator: The GOATY</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Goblin Sword</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>God Eater 3</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>God Wars: The Complete Legend</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>GODS Remastered</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>GoFishing 3D</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Going Under</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Golem Gates</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>Golf Peaks</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Golf Story (cartridge)</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Golf Story (digital)</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>Golf With Your Friends</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>Golf, The</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Gone Home</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>GoNNER</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Good Pizza, Great Pizza</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Goonya Fighter</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Goosebumps: The Game (Europe)</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Goosebumps: The Game (USA)</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>GORSD</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Graceful Explosion Machine</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Grand Brix Shooter</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>GrandGuilds</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>Grandia HD Collection</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Grass Cutter: Mutated Lawns</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Grave Keeper</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>Graveyard Keeper</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Greco's Hall of Kanji Learn Japanese &lt;Beginner&gt;</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Greedroid</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Green Hell</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>GRID Autosport</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Grimshade</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>GRIP: Combat Racing</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>GRIS</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Grisaia Phantom Trigger 01 &amp; 02</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>Grisaia Phantom Trigger 04</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>Grisaia Trilogy, The</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>Grizzland</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Grood</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Groove Coaster: Wai Wai Party!!!!</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>Growtopia</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Guacamelee! 2</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Guilt Battle Arena</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Guilty Gear (Europe)</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Guilty Gear (USA)</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Guilty Gear XX Accent Core Plus R (Europe)</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Guilty Gear XX Accent Core Plus R (USA)</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Gun Gun Pixies</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Gunbarich for Nintendo Switch</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Gunbird 2 for Nintendo Switch</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Gunbird for Nintendo Switch</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Gunbrick: Reloaded</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Gunhouse</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>GunLord X</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Gunma's Ambition -You and me are Gunma-</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Gunman Clive HD Collection</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Gunpowder on the Teeth: Arcade</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Guns of Mercy: Rangers Edition</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Guns, Gore and Cannoli</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>Guns, Gore and Cannoli 2</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Gunvolt Chronicles: Luminous Avenger iX</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Guts and Glory</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Gym Hero - Idle Fitness Tycoon</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Habroxia</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Hades</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Hakoniwa Explorer Plus</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Halcyon 6: Starbase Commander</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Half Past Fate</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Halloween Pinball</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Hammerwatch</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Hamsterdam</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Hand of Fate 2</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Happy Birthdays</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Happy Words</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Hard West</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Hardcore Maze Cube</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Hardcore Mecha</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Harvest Life</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Harvest Moon: Light of Hope (Europe)</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Harvest Moon: Light of Hope (USA)</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Harvest Moon: Mad Dash</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Has-Been Heroes</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>Hatsune Miku: Project DIVA Mega Mix</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>Haunted Halloween 86</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Hayfever</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Headliner: NoviNews</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Headsnatchers</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Headspun</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Heave Ho</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Heaven Dust</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Helheim Hassle</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Hell is Other Demons</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Hell Warders</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Hellblade: Senua's Sacrifice</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>Hellmut: The Badass from Hell</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Hello Kitty Kruisers with Sanrio Friends</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>Hello Neighbor</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Hello Neighbor: Hide &amp; Seek</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>Help Will Come Tomorrow</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Hero Express</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Hero Hours Contract</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Hero must die. Again</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Heroes of Hammerwatch - Ultimate Edition</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Heroes of the Monkey Tavern demo</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>Hexagroove Demo</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Hexagroove: Tactical DJ</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>HexON</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Hidden Folks</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Hidden Through Time</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>High Noon Revolver</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Hob: The Definitive Edition</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Hollow Knight</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>Holy Potatoes! A Weapon Shop?!</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Holy Potatoes! We're In Space?!</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Home Run High</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Home Sheep Home: Farmageddon Party Edition</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Hopping girl KOHANE Jumping Kingdom: Princess of the Black Rabbit</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Horizon Chase Turbo</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Horizon Chase Turbo (cartridge)</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Horizon Shift '81</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Hot Gimmick Cosplay-jong for Nintendo Switch</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Hotel Sowls</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Hotel Transylvania 3: Monsters Overboard</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>Hotline Miami Collection</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Hotshot Racing</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>House Flipper</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>House Flipper</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>House of Da Vinci 2, The</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>House of Golf</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Hulu</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>Human Resource Machine</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>Human: Fall Flat</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Huntdown</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Hunting Simulator</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Hunting Simulator 2</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>Hyper Light Drifter - Special Edition</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>HYPERCHARGE: Unboxed</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Hyperforma</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Hyperide: Vector Raid</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>HyperParasite</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>Hypnospace Outlaw</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Hyrule Warriors: Definitive Edition</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>I Am Dead</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>I Am Setsuna</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>I Am the Hero</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Ice Age: Scrat's Nutty Adventure</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Ice Cream Surfer</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Iconoclasts</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Idle Champions of the Forgotten Realms</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>If My Heart Had Wings</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Ikaruga</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>Ikenfell</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Illusion of L'Phalcia</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Immerse Land</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Immortal Planet</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Immortal Realms: Vampire Wars</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Impossible Mission</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>In Other Waters</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>inbento</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Incredible Mandy</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Indie Gems Bundle - Nonograms edition</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Indiecalypse</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Indivisible</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Inertial Drift</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Infectra</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Inferno 2</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Inferno Climber: Reborn</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>Infliction</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>InkyPen</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>Inmost</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>INOPS</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Instant Sports Summer Games</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>INSTANT TENNIS</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Interrogation: You will be deceived</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Into the Breach</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Into the Dead 2</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Invasion of Alien X: Earth in Crisis</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>INVERSUS Deluxe</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>INVERSUS Deluxe Demo</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Invisiballs</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Invisigun Reloaded</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Ion Fury</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Iris School of Wizardry -Vinculum Hearts-</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Iron Crypticle</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Irony Curtain: From Matryoshka with Love</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Island Flight Simulator</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>Island Saver by NatWest</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Isoland 2: Ashes of Time</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Istanbul: Digital Edition</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>It came from space and ate our brains</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>ITTA</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Ittle Dew</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Ittle Dew 2 +</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>Izneo</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>Jackbox Party Pack 3, The</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>Jackbox Party Pack 6, The</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Jackbox Party Pack 7, The</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>JackQuest: The Tale of the Sword</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>James Pond: Codename Robocod</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Jamestown+</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Jay and Silent Bob: Mall Brawl</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>JCB Pioneer: Mars</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>JDM Racing</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Jenny LeClue - Detectivu</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Jeopardy!</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Jet Kave Adventure</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Jet Lancer</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Jet Set Knights</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Jewel Fever 2</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Jigsaw Masterpieces</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>Jim Is Moving Out!</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Job the Leprechaun</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Joe Jump Impossible Quest</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Joggernauts</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Johnny Rocket</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Johnny Turbo's Arcade: Heavy Burger</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Journey Down: Chapter One, The</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Journey Down: Chapter Three, The</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Journey Down: Chapter Two, The</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Journey To The Savage Planet</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>Juicy Realm</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Julie's Sweets</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Jumanji</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Jump Force: Deluxe Edition (Europe)</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>Jump Force: Deluxe Edition (USA)</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>Jump King</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Jump Rope Challenge</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>JumpHead: Battle4Fun!</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Junk Jack</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Jurassic Excite</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Jurassic World Evolution</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Just Dance 2017</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>Just Dance 2018</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>Just Dance 2019</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>Just Dance 2020</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>Just Dance 2020</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>Just Dance 2021</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>Just Shapes &amp; Beats</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Kamiko</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>Kaptain Brawe</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Katamari Damacy REROLL</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>KATANA KAMI: A Way of the Samurai Story</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Katana ZERO</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Kawaii Deathu Desu</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Keep Talking and Nobody Explodes</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Kemono Heroes</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Kentucky Route Zero: TV Edition</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Kill la Kill: IF (Europe)</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Kill la Kill: IF (USA)</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Killer Queen Black</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>King's Bird, The</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Kingdom Rush Frontiers</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Kingdom: New Lands</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>Kingdom: Two Crowns</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Kingmaker: Rise to the Throne</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Kirby Star Allies</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Kissed by the Baddest Bidder</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Kitty Powers' Matchmaker Deluxe</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Klondike Solitaire</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Knight Squad</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Knight Swap</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Knights and Bikes</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Knights of Pen &amp; Paper 2: Deluxiest Edition</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Knights of Pen and Paper +1 Deluxier Edition</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>Knights of Pen and Paper Bundle</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Knock 'Em Down! Bowling</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Knowledge Trainer</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Koloro</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>KORG Gadget</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Kotodama: The 7 Mysteries of Fujisawa</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>KUNAI</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>kuso</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>KUUKIYOMI 2: Consider It More! - New Era</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Kwaidan ～Azuma manor story～</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>L.A. Noire</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>L.O.L. Surprise! Remix: We Rule the World</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>La-Mulana</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>La-Mulana 1 &amp; 2: Hidden Treasures Edition</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>La-Mulana 2</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Labyrinth of Refrain: Coven of Dusk</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Labyrinth of the Witch</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Lair of the Clockwork God</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Lanota</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Lapis x Labyrinth</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Last Blade: Beyond the Destiny, The</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Last Campfire, The</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Last Door - Complete Edition, The</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Last Encounter</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Last Remnant Remastered, The</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Later Daters</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Layers of Fear: Legacy</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>Layton's Mystery Journey: Katrielle and the Millionaires' Conspiracy – Deluxe Edition (Europe)</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Layton's Mystery Journey: Katrielle and the Millionaires' Conspiracy – Deluxe Edition (USA)</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>League of the Shield</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Legend of Dark Witch: Chronicle 2D Act, The</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Legend of Evil, The</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Legend of Heroes: Trails of Cold Steel III, The</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Legend of Kay Anniversary</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Legend of Ninja, The</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Legend of the Blue Warrior, The</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Legend of Zelda: Breath of the Wild, The</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Legend of Zelda: Link's Awakening, The</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Legendary Eleven</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Legendary Fishing</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Legends of Amberland</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>LEGO City Undercover (Europe)</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>LEGO City Undercover (USA)</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>LEGO DC Super-Villains</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>LEGO Harry Potter Collection</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>LEGO Jurassic World</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>LEGO Marvel Super Heroes 2 (Europe)</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>LEGO Marvel Super Heroes 2 (USA)</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>LEGO Movie 2 Videogame, The</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>LEGO NINJAGO Movie Video Game, The (Europe)</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>LEGO NINJAGO Movie Video Game, The (USA)</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>LEGO The Incredibles (Europe)</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>LEGO The Incredibles (USA)</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>LEGO Worlds</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>LEGRAND LEGACY: Tale of the Fatebounds</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Leisure Suit Larry: Wet Dreams Don't Dry</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Let's Go Nuts!</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>Let's Sing 10 (Spain)</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>Let's Sing 12 (Spain)</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>Let's Sing 2018 (Europe)</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>Let's Sing 2018 (USA)</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>Let's Sing 2019 (Europe)</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>Let's Sing 2020</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>Let's Sing 2020: Hits Français et Internationaux</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>Let's Sing 2021: Hits Français et Internationaux</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>Let's Sing Country</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>Let's Sing Queen</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>Lethal League Blaze</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Lethal League Blaze Demo</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Lethis - Path of Progress</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Levelhead</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Liar Princess and the Blind Prince, The</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Liberated</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Lichtspeer: Double Speer Edition</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>Liege Dragon</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Light Fall</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>Light Fingers</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>Lightseekers</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Lines XL</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Linn: Path of Orchards</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Lion's Song, The</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Little Acre, The</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Little Big Workshop</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Little Dragons Café (Europe)</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>Little Dragons Café (USA)</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>Little Nightmares: Complete Edition</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>Little Racer</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Little Town Hero</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Little Town Hero</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Little Triangle</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>Locomotion</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Lode Runner Legacy</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>Lone Wolf, Joe Dever's</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>Lonely Mountains: Downhill</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Long Dark, The</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Longest Five Minutes, The</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>Lord of the Rings: Adventure Card Game, The</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Lost Child, The</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>Lost Ember</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Lost Horizon</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Lost Horizon 2</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Lost King's Lullaby</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Lost Light of Sisu, The</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Lost Orbit: Terminal Velocity</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Lost Sphear</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>LOVE</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Love Letter from Thief X</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Lovecraft's Untold Stories</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Lovers in a Dangerous Spacetime</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>Lucah: Born of a Dream</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Luigi's Mansion 3</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Lumines Remastered</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>Lumini</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Lumo</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>Lust for Darkness</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Lust For Darkness: Dawn Edition</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Luxar</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Lyrica</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Mable &amp; The Wood</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Macbat 64</td>
-<td><span style="color:orange">Unknown</span></td>
-</tr>
-<tr>
-<td>Machi Knights: Blood Bagos</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Machinarium</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Mad Age &amp; This Guy</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Mad Father</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Mad Games Tycoon</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Mad Rat Dead</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Madorica Real Estate</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Mages of Mystralia</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Magic Nations</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Magic Scroll Tactics</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Magicolors</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Mah-jongg Puzzle Pai-Sen</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Mahjong Solitaire Refresh</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Mainlining</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Maitetsu: Pure Station</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Man With The Ivory Cane, The</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Mana Spark</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Manifold Garden</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Mantis Burn Racing</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Marble It Up!</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Marble Power Blast</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Marblelous Animals</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Mario &amp; Sonic at the Olympic Games: Tokyo 2020 (Europe)</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Mario &amp; Sonic at the Olympic Games: Tokyo 2020 (USA)</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Mario + Rabbids: Kingdom Battle</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Mario Kart 8 Deluxe</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Mario Kart Live: Home Circuit</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>Mario Tennis Aces</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Mark of the Ninja: Remastered</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Marooners</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Mars Horizon</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Mars Power Industries</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Marvel Ultimate Alliance 3: The Black Order</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Mary Skelter 2</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>MathLand</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Max: The Curse of Brotherhood (cartridge)</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>Max: The Curse of Brotherhood (digital)</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>Maze</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>MazM: Jekyll and Hyde</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>MechaNika</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Mecho Wars: Desert Ashes</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Mechstermination Force</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Mega Man 11</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Mega Man Legacy Collection</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Mega Man Legacy Collection 2</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Mega Man X Legacy Collection</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Mega Man X Legacy Collection 2</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Mega Man Zero/ZX Legacy Collection</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Megabyte Punch</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Megadimension Neptunia VII</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Megadimension Neptunia VII</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Megaquarium</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Melbits World</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Memoranda</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Men of Yoshiwara: Ohgiya, The</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>Meow Motors</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Mercenaries Saga Chronicles</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>Mercenary Kings: Reloaded Edition</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Mercury Race</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Messenger, The</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>MetaChampions</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>METAGAL</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Metaloid: Origin</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Metamorphosis</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Metropolis: Lux Obscura</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>Metropolis: Lux Obscura (Demo)</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>Micro Pico Racers</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Mighty Gunvolt Burst</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Mighty Switch Force! Collection</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Miles &amp; Kilo</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>MilkChoco</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Mims: Beginning, The</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>MIND: Path to Thalamus</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>Mindball Play</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>MindSeize</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Minecraft</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Minecraft Dungeons</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>Minecraft: Story Mode - A Telltale Games Series - The Complete Adventure</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>Minecraft: Switch Edition</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Minefield</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Minesweeper Genius</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Mini Island Challenge Bundle</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Mini Metro</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Miniature - The Story Puzzle</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>Ministry of Broadcast</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Ministry of Broadcast</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Minit</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Minoria</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Mirror</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Missile Command: Recharged</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>MISSING: J.J. Macfield and the Island of Memories, The</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>MISTOVER</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>MISTOVER DEMO</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Mitsurugi Kamui Hikae</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Mittelborg: City of Mages</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Moai VI: Unexpected Guests</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Modern Combat Blackout</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Moero Chronicle Hyper</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Momodora: Reverie Under the Moonlight</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Momonga Pinball Adventures</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Monaco: Complete Edition</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Monkey Barrels</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Monochrome World</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>Mononoke Slashdown</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Monopoly for Nintendo Switch</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>Monster Boy and the Cursed Kingdom</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Monster Energy Supercross - The Official Videogame 3</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Monster Energy Supercross: The Official Videogame</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>Monster Energy Supercross: The Official Videogame 2</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Monster Hunter Generations Ultimate</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>MONSTER HUNTER GENERATIONS ULTIMATE DEMO</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Monster Jam: Crush It! (Europe)</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>Monster Jam: Crush It! (USA)</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>Monster Jam: Steel Titans</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Monster Prom XXL</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Monster Puzzle</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Monster Slayers</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Monster Truck Championship</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Monstrum</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Moonlighter</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Mordheim: Warband Skirmish</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Morphies Law: Remorphed</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>Mortal Kombat 11</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>Mosaic</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Mother Russia Bleeds</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Moto Racer 4</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Moto Rush GT</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>MotoGP 18</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>MotoGP 19</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>MotoGP 20</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Motorcycle Mechanic Simulator</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Motorsport Manager for Nintendo Switch</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Mountain Rescue Simulator</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Moving Out</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Mr. DRILLER DrillLand (DEMO)</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Mr. Driller: Drill Land</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Ms. Splosion Man</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Mulaka</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>Mummy Demastered, The</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>Munchkin: Quacked Quest</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Murder by Numbers</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Muse Dash</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Mushroom Heroes</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Music Racer</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Musynx (USA)</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Mutant Football League: Dynasty Edition</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Mutant Mudds Collection (cartridge)</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Mutant Mudds Collection (digital)</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Mutant Year Zero: Road to Eden - Deluxe Edition</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>MX vs. ATV All Out</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>MXGP3: The Official Motocross Videogame</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>My Bewitching Perfume</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>My Bewitching Perfume Trial Version</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>My Breakfast Bar</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>My Forged Wedding</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>My Friend Pedro</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>My Girlfriend is a Mermaid!?</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>My Hero One's Justice</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>My Hero One's Justice 2</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>My Little Riding Champion</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>My Lovely Daughter</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>My Riding Stables 2: A New Adventure</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>My Riding Stables: Life with Horses (Europe)</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>My Time At Portia</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>My Universe - Fashion Boutique</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>My Universe - My Baby</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>My Universe - School Teacher</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Mystery of Woolley Mountain, The</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>N++</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Namco Museum Arcade Pac</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>Namco Museum Archives Vol. 1</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Namco Museum Archives Vol. 2</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Narcos: Rise of the Cartels</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Naruto Shippuden: Ultimate Ninja Storm 4 - Road to Boruto (Europe)</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Naruto Shippuden: Ultimate Ninja Storm 4 - Road to Boruto (USA)</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Naruto Shippuden: Ultimate Ninja Storm Trilogy</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Naught</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>NBA 2K Playgrounds 2</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>NBA 2K18</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>NBA 2K19</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>NBA 2K20</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>NBA 2K20 Demo</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>NBA 2K21</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>Necrosphere Deluxe</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>NecroWorm</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Need a packet?</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Need for Speed: Hot Pursuit Remastered</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Neighbours back From Hell</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Neko Navy: Daydream Edition</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>NEKOPARA Vol.1</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>NEKOPARA Vol.2</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>NEKOPARA Vol.3</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Nelke &amp; the Legendary Alchemists ~Ateliers of the New World~</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Nelly Cootalot: The Fowl Fleet</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Neo Atlas 1469 (cartridge)</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>Neo Atlas 1469 (digital)</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>Neo Cab</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Neo Cab Demo</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Neon Abyss</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Neon Abyss Demo</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Neon City Riders</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Neonwall</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Nevaeh</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Never Breakup</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Never Give Up</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Neverout</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>Neversong</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Neverwinter Nights: Enhanced Edition</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>New Star Manager</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>New Super Lucky's Tale</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>New Super Lucky's Tale (Europe, cartridge)</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>New Super Mario Bros. U Deluxe</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Newt One</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Newton's Cradle Puzzle Game</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Nexomon: Extinction</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Ni no Kuni: Wrath of the White Witch</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Nice Slice</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Niche - a genetics survival game</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Nickelodeon Kart Racers (Europe)</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Nickelodeon Kart Racers (USA)</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Nickelodeon Kart Racers 2: Grand Prix</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Nicky: The Home Alone Golf Ball</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Niffelheim</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Night Call</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Night Trap: 25th Anniversary Edition (Europe)</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>Night Trap: 25th Anniversary Edition (USA)</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>Nightfall, The</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Nightmare Boy</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>Nights of Azure 2: Bride of the New Moon</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>Nine Parchments Demo</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>Nine Witches</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Ninja Village</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Ninjala</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Ninjala Exclusive Ninja Club</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Nintendo Entertainment System - Nintendo Switch Online</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Nintendo Labo Toy-Con 02: Robot Kit</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Nintendo Labo Toy-Con 03: Vehicle Kit</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Nippon Marathon</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Nirvana Pilot Yume</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>No More Heroes</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>No More Heroes 2: Desperate Struggle</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>No Straight Roads</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>No Time to Relax</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Northgard</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Not Not - A Brain Buster</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Not Tonight: Take Back Control Edition</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Nowhere Prophet</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Nuclear Throne</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Number Place 10000</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Nyan Cat: Lost in Space</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Obakeidoro!</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Oceanhorn 2: Knights of the Lost Realm</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Oceanhorn: Monster of Uncharted Seas</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Octahedron: Transfixed Edition</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Octopath Traveler</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>Odallus: The Dark Call</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Oddmar</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Oddworld: Munch's Oddysee</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Oddworld: Stranger's Wrath HD</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Odium to the Core</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Office Quest, The</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>Offroad Racing - Buggy X ATV X Moto</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Okami HD</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Okinaki</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>OkunoKA</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Old Man's Journey</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Old School Musical</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Old School Racer 2</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>OlliOlli: Switch Stance</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Omega Labyrinth Life</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Omensight: Definitive Edition</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>OMG Police - Car Chase TV Simulator</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Omvorm</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>One Finger Death Punch 2</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>One Piece: Pirate Warriors 3 - Deluxe Edition</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>One Piece: Pirate Warriors 4 (Europe)</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>One Piece: Pirate Warriors 4 (USA)</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>One Piece: Unlimited World Red - Deluxe Edition</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>One Step From Eden</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>One Strike</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>One Way Heroics Plus</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>One-Way Ticket</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Oneiros</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Onigiri</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Oniken: Unstoppable Edition</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Onimusha: Warlords</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>ONINAKI Demo</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>oOo: Ascension</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Operación Triunfo 2017</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>OPUS Collection (cartridge)</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>OPUS: Rocket of Whispers</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>OPUS: The Day We Found Earth</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Orangeblood</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Ori and the Will of the Wisps</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Original Mobile Games, The</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Othercide</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Otokomizu</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>OTTTD: Over The Top Tower Defense</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Our Two Bedroom Story</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Our World Is Ended.</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Outbuddies DX</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Outer Worlds, The</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>Outlast 2</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Outlast: Bundle of Terror</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Outpost Delta</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Overcooked! 2</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Overcooked!: Special Edition</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>Overdriven Reloaded: Special Edition</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Overland</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Overlanders</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>Overpass</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Overwatch</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>Overwhelm</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Owlboy (cartridge)</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Owlboy (digital)</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Oxenfree (cartridge)</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>Oxenfree (digital)</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>Oxyjet</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Pac-Man Championship Edition 2 Plus</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>Pachi Pachi on a roll</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Paladins: Champions of the Realm</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>Panda Hero</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Pandemic</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Pang Adventures</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Pankapu</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Panty Party</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Panzer Dragoon: Remake</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Panzer Paladin</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Paper Mario: The Origami King</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Paper Train</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Paradise Killer</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Park, The</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Party Arcade</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Party Hard</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Party Hard 2</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Party Planet</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>Passpartout: The Starving Artist</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Pato Box</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Paw Patrol: Mighty Pups Save Adventure Bay!</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>PAW Patrol: On a Roll</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Pawarumi</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Payday 2</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>PBA Pro Bowling</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>PC Building Simulator</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Pen and Paper Games Bundle</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Penny-Punching Princess</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>Perfect Traffic Simulator</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Perils of Baking</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Perseverance</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Persistence, The</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Pet Shop Snacks</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Petal Crash</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Petoons Party</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>PGA Tour 2K21</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>Phantom Breaker: Battle Grounds Overdrive</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>Phar Lap: Horse Racing Challenge</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Phoenix Wright: Ace Attorney Trilogy</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Phoenotopia Awakening</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Phoenotopia: Awakening</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Pianista: The Legendary Virtuoso</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Pic-a-Pix Deluxe</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Pic-a-Pix Pieces</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>PICO PARK</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Picross S</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Picross S2</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Picross S3</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Picross: Lord of the Nazarick</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>PictoQuest</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Picture Painting Puzzle 1000!</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Piczle Colors</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Piczle Cross Adventure</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Piczle Lines DX</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>Piffle</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Pikmin 3 Deluxe</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Pikuniku</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Pillars of Eternity: Complete Edition</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Pilot Sports</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Pinball FX3</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Pine</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Piofiore: Fated Memories</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Piofiore: Fated Memories</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Pipe Push Paradise</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Pitfall Planet</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Pix the Cat</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>PixARK</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Pixboy</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Pixel Action Heroes</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Pixel Devil and the Broken Cartridge</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>PixelJunk Monsters 2</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>PixelJunk Monsters 2</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>Pizza Bar Tycoon</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Plague Inc: Evolved</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Planescape: Torment and Icewind Dale: Enhanced Editions</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>planetarian</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>Planetary Defense Force</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>PlataGO! Super Platform Game Maker</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Please, Don't Touch Anything</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Ploid Saga</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Plunge</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Pocket Academy</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Pocket Clothier</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Pode</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Poi: Explorer Edition (digital)</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>Poker Hands</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Pokken Tournament DX</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Pokémon Café Mix</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Pokémon HOME</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Pokémon Mystery Dungeon Rescue Team DX</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Pokémon Shield</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Pokémon Shield</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Pokémon Sword</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Pokémon Sword</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Pokémon: Let's Go, Eevee!</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Pokémon: Let's Go, Pikachu!</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Polandball: Can Into Space!</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Police Stories</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Poly Bridge</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>Poly Puzzle</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Polyroll</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>PONG Quest</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Portal Dogs</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Portal Knights</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Portal Knights Demo</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Postal REDUX</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Potata: Fairy Flower</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Power Rangers: Battle for the Grid</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Prime World Defenders</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Princess Guide, The</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Princess Maker Go!Go! Princess</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Princess Maker: Faery Tales Come True</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Prinny 2: Dawn of Operation Panties, Dood!</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Prinny: Can I Really Be the Hero?</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Prison Architect: Nintendo Switch Edition</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Prison Princess</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Professor Lupo and his Horrible Pets</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Professor Lupo and his Horrible Pets (Demo)</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Professor Rubik's Brain Fitness</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Project Highrise: Architect's Edition</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Project Nimbus: Complete Edition</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Project Warlock</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Projection: First Light</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Puddle Knights</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Pumped BMX Pro</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Pumpkin Jack</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>PuPaiPo Space Deluxe</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Pure / Electric Love Everyone else! - Ema Sakura -</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>Pure / Electric Love Look at my eyes! - Moe Yamauchi -</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>Pure / Electric Love What do you want? - Eri Kitami -</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>Pure Mahjong</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Purrs in heaven</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Push the Box - Puzzle Game</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Puyo Puyo Champions</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Puyo Puyo Tetris (Europe)</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>Puyo Puyo Tetris (USA)</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>Puzzle Book</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Puzzle Box Maker</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Puzzle Quest: The Legend Returns</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Puzzles for Toddlers &amp; Kids: Animals, Cars and more</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Pyraplex, The</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Q-YO Blaster</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Q.U.B.E. 2</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Quench</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Quest Hunter</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Quest Hunter Demo</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>R-Type Dimensions EX</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>R.B.I. Baseball 17</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>R.B.I. Baseball 19</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>R.B.I. Baseball 20</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Rabi-Ribi</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Race With Ryan</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>Rack N Ruin</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Rad</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>Rad Rodgers: Radical Edition</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Radiation City</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Radical Rabbit Stew</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Raging Justice</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Raiden V: Director's Cut</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Raiders of the North Sea</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Railway Empire</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Rain City</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Rain World</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Rainbows, toilets &amp; unicorns</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Raining Blobs</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Rainswept</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Raji:An Ancient Epic</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Rally Racers</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>Rally Rock 'N Racing</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Ramen Sensei, The</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Rapala Fishing Pro Series (Europe)</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Rapala Fishing Pro Series (USA)</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Rascal Fight</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Raven Remastered, The</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Rawr-Off</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Rayman Legends: Definitive Edition</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>Rayman Legends: Definitive Edition (Demo)</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>Realm Royale</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>realMyst: Masterpiece Edition</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Reaper</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Rebel Cops</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Red Lantern, The</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Red Siren: Space Defense</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>Red Strings Club, The</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Red Wings: Aces of the Sky</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Redeemer: Enhanced Edition</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Redout</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Reflex Unit 2</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Regalia: Of Men and Monarchs - Royal Edition</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Regina &amp; Mac</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Regions of Ruin</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>REKT! High Octane Stunts</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Relic Hunters Zero: Remix</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>RemiLore</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Remnants of Naezith</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Remothered Tormented Fathers (cartridge)</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>Remothered: Broken Porcelain</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Remothered: Tormented Fathers</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>Renegade</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Rento Fortune</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Replica</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Rescue Tale</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Resident Evil</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Resident Evil 0</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Resident Evil 4</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Resident Evil: Revelations</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>Resident Evil: Revelations 2</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>Resolutiion</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Rest in Pieces</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Restless Hero</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Retimed</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Retimed Demo</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Retro City Rampage DX</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Revenant Dogma</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Reventure</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Reverie: Sweet As Edition</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Revertia</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>REZ PLZ</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Rhythm of the Gods</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>RICO</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Riddled Corpses EX</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Rigid Force Redux</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>RiME</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>Ring Fit Adventure</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Ring of Pain</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>RIOT: Civil Unrest</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>RISE: Race to the Future</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Risk of Rain</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Risk of Rain 2</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>RISK: The Game of Global Domination</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Ritual</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Ritual: Crown of Horns</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Rival Megagun</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>RIVE: Ultimate Edition</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>River City Girls</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>River City Melee Mach!!</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>River City Ransom</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>RMX Real Motorcross</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Road Redemption</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Robot Squad Simulator 2017</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Robothorium</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Rock of Ages 2: Bigger &amp; Boulder</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>Rock of Ages 3: Make &amp; Break</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>Rocket League</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Rogue Company</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>Rogue Company Demo</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>Rogue Legacy</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Rogue Robots</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Rogue Singularity</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>RollerCoaster Tycoon 3: Complete Edition</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>RollerCoaster Tycoon Adventures</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>Rollin' Eggz</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Rolling Gunner</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Romancing SaGa 2</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>Romancing SaGa 3</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Roof Rage</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Room, The</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Roombo: First Blood</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Rooms: The Adventure of Anne &amp; George</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Root Letter: Last Answer</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Roundguard</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Roundguard (USA)</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Rover Wars</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>RPG Maker MV</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Rugby Challenge 4</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Run the Fan</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Runbow</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Runbow - Deluxe Edition (Europe, cartridge)</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Runbow - Deluxe Edition (USA, cartridge)</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Rune Factory 4 Special (Europe)</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Rune Factory 4 Special (USA)</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Runner3 (cartridge)</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Runner3 (digital)</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Rush Rally 3</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>RXN: Raijin</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Réussir : Code de la route</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Röki</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Saboteur II: Avenging Angel</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Saboteur SiO</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Saboteur!</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>SaGa: Scarlet Grace - Ambitions</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Sagebrush</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Sagrada</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Saints Row IV</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Saints Row: The Third - The Full Package</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Sakuna: Of Rice and Ruin (Europe)</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Sakuna: Of Rice and Ruin (USA)</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Salad Bar Tycoon</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Salt and Sanctuary</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Sam &amp; Max Save the World</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Samurai Aces for Nintendo Switch</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Samurai Jack: Battle Through Time</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>SAMURAI SHODOWN</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>SAMURAI SHODOWN</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Samurai Shodown NeoGeo Collection</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Samurai Shodown! 2</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Santa Tracker</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Satazius NEXT</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Saturday Morning RPG (Europe)</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>Saturday Morning RPG (USA)</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>Save Koch</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Save me Mr Tako: Tasukete Tako-San (Europe)</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>Save me Mr Tako: Tasukete Tako-San (USA)</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>Save Your Nuts</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Save Your Nuts DEMO</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Savior's Gang, The</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>Sayonara Wild Hearts</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>ScourgeBringer</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>ScourgeBringer (demo)</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>SCRAP</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Scrap Rush!!</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Screencheat: Unplugged</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Scribblenauts Mega Pack</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Scribblenauts Showdown</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>Sea King</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Sea Salt</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>SeaBed</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Season Match 2</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Secret Files 2: Puritas Cordis</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Secret Files: Sam Peters</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Secret Files: Tunguska</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Seeds of Resilience</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Seers Isle</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Sega Ages: Alex Kidd in Miracle World</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Sega Ages: Columns II: A Voyage Through Time</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Sega Ages: Fantasy Zone</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Sega Ages: Gain Ground</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Sega Ages: Ichidant-R</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Sega Ages: OutRun</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Sega Ages: Phantasy Star</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Sega Ages: Puyo Puyo 2</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Sega Ages: Shinobi</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Sega Ages: Sonic the Hedgehog</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Sega Ages: Sonic the Hedgehog 2</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Sega Ages: Space Harrier</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Sega Ages: Thunder Force IV</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Sega Ages: Virtua Racing</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Sega Ages: Wonder Boy in Monster Land</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>SEGA Genesis Classics</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>SEGA Mega Drive Classics</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>SELF</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Senran Kagura Reflexions</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>Senran Kagura: Peach Ball (Europe)</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>Senran Kagura: Peach Ball (USA)</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>Sentinels of Freedom</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Sephirothic Stories</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Serious Sam Collection</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Served!</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Seven Knights -Time Wanderer-</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Severed</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>Sexy Brutale, The</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>Shadowgate</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Shadows 2: Perfidia</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Shadows of Adam</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Shakedown: Hawaii</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Shanky: The Vegan's Nightmare</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Shantae and the Pirate's Curse</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Shantae and the Seven Sirens</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Shantae: Half-Genie Hero</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>Shantae: Half-Genie Hero - Ultimate Edition</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Shaolin vs. Wutang: Eastern Heroes</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Shapeshifting Detective, The</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Shaq Fu: A Legend Reborn (cartridge)</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>Shaq Fu: A Legend Reborn (digital)</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>She and the Light Bearer</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>She Remembered Caterpillars</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Sheep in Hell</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Shelter Generations (digital)</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>Sheltered</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Shikhondo: Soul Eater</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Shining Resonance Refrain</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Shinobi Spirits S: Legend of Heroes</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Ships</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Shovel Knight Showdown</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Shovel Knight: King of Cards</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Shovel Knight: Specter of Torment</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Shovel Knight: Treasure Trove</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Shred! 2 - Freeride Mountainbiking</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Sigi: A Fart for Melusina</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Silence</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Silent World</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Silk</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>SIMULACRA</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Sine Mora EX</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>Singled Out</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Sinking City, The</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>SINNER: Sacrifice for Redemption</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>Siralim 3</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Sisters Royale: Five Sisters Under Fire</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Skelittle: A Giant Party!!</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>Skellboy</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Skies of Fury DX</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>Skullgirls: 2nd Encore</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Skulls of the Shogun: Bone-A-Fide Edition</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Skully</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Sky Gamblers: Afterburner</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Sky Gamblers: Storm Raiders 2</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Sky Racket</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Sky Rogue</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Skybolt Zack</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Skybolt Zack Demo</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Skyhill</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Skylanders Imaginators</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>SkyScrappers</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>SkyTime</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>SlabWell</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Slain: Back from Hell</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>Slay the Spire</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Slayin 2</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Sleep Attack</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Slide Stars</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Slime Tactics</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Slime-san</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>Slither Loop</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Smashing the Battle</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>SMITE</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Smoke and Sacrifice</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Smoots World Cup Tennis</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>SmuggleCraft</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Snake Pass</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>Snake vs. Snake</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Sniper Elite 4</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Sniper Elite III Ultimate Edition</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Sniper Elite V2 Remastered</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>SNK 40th Anniversary Collection</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>SNK Gals' Fighters</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>SNK Heroines: Tag Team Frenzy (Europe)</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>SNK Heroines: Tag Team Frenzy (USA)</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Snooker 19</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Snow Battle Princess Sayuki</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Snow Moto Racing Freedom</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>Snowboarding The Next Phase</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>So Many Me: Extended Edition</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Soccer, Tactics &amp; Glory</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Sol Divide: Sword of Darkness</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Soldam: Drop, Connect, Erase (USA)</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>Solitaire Klondike BLACK</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Solo: Islands of the Heart</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>SolSeraph</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>Solstice Chronicles: MIA</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Son of a Witch (Europe)</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Son of a Witch (USA)</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Songbird Symphony</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Sonic Forces (Europe)</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>Sonic Forces (USA)</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>Sonic Mania</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Soul Axiom Rebooted</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Soul Knight</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Soul Searching</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Soulslayer</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>South Park: The Fractured But Whole</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>South Park: The Stick of Truth (Europe)</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>South Park: The Stick of Truth (USA)</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Space Crew</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Space Lift Danger Panic!</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Space Pioneer</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Space Ribbon</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Space War Arena</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Spaceland</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Sparklite</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Spartan</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Speaking Simulator</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>Speed 3: Grand Prix</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Speed Brawl</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Speedway Racing</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Spell Casting: Purrfectly Portable Edition</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Spellbreak</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Spelunker Party</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>Spencer</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Sphinx and the Cursed Mummy</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Spider Solitaire</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Spinch</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Spintires: Mudrunner - American Wilds Edition</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Spirit Hunter: NG</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Spirit of the North</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Spiritfarer</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Spitlings</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Splash Blast Panic</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Splatoon 2 (Europe)</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Splatoon 2 (USA)</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Splatoon 2 Splatfest World Premiere</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>Splatoon 2: Special Demo</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Splatoon 2: Special Demo</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Spoiler Alert</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>Sports Party</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>SpyHack</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Spyro Reignited Trilogy</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Squareboy vs Bullies: Arena Edition DEMO</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>Squidgies Takeover</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>STANDBY</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Star Horizon</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Star Ocean: First Departure R</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Star Wars Episode I: Racer</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Star Wars Jedi Knight II: Jedi Outcast</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Star Wars Jedi Knight: Jedi Academy</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Star-Crossed Myth - The Department of Punishments -</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Star-Crossed Myth - The Department of Wishes -</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>StarCrossed</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Stardew Valley</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Stardust Galaxy Warriors: Stellar Climax</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Starlink: Battle for Atlas</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Starlit Adventures</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Startide</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>STAY</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Steam Tactics</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>SteamWorld Dig 2 (cartridge)</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>SteamWorld Dig 2 (digital)</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>SteamWorld Dig: A Fistful of Dirt</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>SteamWorld Heist: Ultimate Edition</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>SteamWorld Quest: Hand of Gilgamech</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Steel Rain</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Steins;Gate Elite</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Stellar Interface</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Steredenn: Binary Stars</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Stern Pinball Arcade (digital)</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Stern Pinball Arcade (Europe, cartridge)</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Stern Pinball Arcade (USA, cartridge)</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Steven Universe: Save the Light</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Still There</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Stillness of the Wind, The</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Stones of the Revenant</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Stories Untold</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Story of a Gladiator</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Story of Seasons: Friends of Mineral Town (Europe)</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Story of Seasons: Friends of Mineral Town (USA)</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Stranded Sails: Explorers of the Cursed Islands</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Stranger Things 3: The Game</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Strangers of the Power 3</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Street Fighter: 30th Anniversary Collection</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Street Outlaws: The List (Europe)</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Street Outlaws: The List (USA)</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Street Power Football (aka. Street Power Soccer)</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Streets of Rage 4</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Streets of Rage 4 (cartridge)</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Streets of Red: Devil's Dare Deluxe</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>Streets of Rogue</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Strife: Veteran Edition</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Strike Suit Zero: Director's Cut</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Strike! Ten Pin Bowling</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Strike! Ten Pin Bowling Demo</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Strikers 1945 for Nintendo Switch</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Strikers 1945 II</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Strikey Sisters</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Struggling</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Stunt Kite Party</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Sturmwind EX</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Subdivision Infinity DX</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Sudoku Relax</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Sudoku Relax 3: Autumn Leaves</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Sudoku Universe</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Sumer</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Summer in Mara</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Summer Sweetheart</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Sundered: Eldritch Edition</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Sunless Sea: Zubmariner Edititon</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Super Bit Blaster XL</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Super Blood Hockey</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Super Bomberman R</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>Super Cane Magic ZERO</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Super Chariot</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>Super Chariot Demo</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>Super Club Tennis</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Super Crate Box</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Super Crush KO</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Super Daryl Deluxe</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Super Dodge Ball</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>SUPER DRAGON BALL HEROES WORLD MISSION Demo Version</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>SUPER DRAGON BALL HEROES WORLD MISSION Demo Version</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Super Dragon Ball Heroes: World Mission (Europe)</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Super Dragon Ball Heroes: World Mission (USA)</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Super Hydorah</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Super Inefficient Golf</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>Super Jumpy Ball</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Super Kickers League</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Super Kirby Clash</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Super Life of Pixel</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Super Mario 3D All-Stars</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Super Mario Bros. 35</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Super Mario Maker 2</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Super Mario Odyssey</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Super Mario Party</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Super Meat Boy</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Super Mega Baseball 2 Demo</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Super Mega Baseball 2: Ultimate Edition</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Super Mega Baseball 3</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Super Mega Baseball 3 Demo</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Super Mega Space Blaster Special Turbo</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Super Monkey Ball: Banana Blitz HD</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Super Neptunia RPG (Europe)</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Super Neptunia RPG (USA)</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Super Nintendo Entertainment System - Nintendo Switch Online</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Super One More Jump Demo</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>Super Phantom Cat: Remake</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Super Punch Patrol</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Super Putty Squad</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>Super Puzzle Pack</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Super Saurio Fly</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Super Skelemania</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Super Smash Bros. Ultimate</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>Super Soccer Blast</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Super Sportmatchen</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Super Star Blast</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Super Tennis</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Super Tennis Blast</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Super Toy Cars 2</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Super Weekend Mode</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Super Wiloo Demake</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>SUPERBEAT: XONiC</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>SUPERBEAT: XONiC EX</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>SuperEpic: The Entertainment War</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>SuperEpic: The Entertainment War</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>SUPERHOT</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>SuperMash</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Supraland</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>Survivalists Demo, The</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Survivalists, The</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>SUSHI REVERSI</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Sushi Spinnery, The</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Sushi Striker: The Way of Sushido</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Sushi Time!</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Swap This!</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Sweet Witches</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Swim Out</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Swimsanity!</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Sword Art Online: Fatal Bullet - Complete Edition</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Sword Art Online: Hollow Realization - Deluxe Edition (Europe)</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Sword Art Online: Hollow Realization - Deluxe Edition (USA)</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Sword of the Guardian</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Swords &amp; Soldiers</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Swords of Ditto: Mormo's Curse, The</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Syberia</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>Syberia 1 &amp; 2</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>Syberia 2</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>Syberia 3</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Syder Reloaded</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Sydney Hunter and the Curse of the Mayan</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Synaptic Drive</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Tactics V: "Obsidian Brigade"</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Taiko no Tatsujin: Drum 'n' Fun!</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Taimumari: Complete Edition</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Takeshi and Hiroshi</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Tales of Vesperia: Definitive Edition</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Talisman: Digital Edition</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Talk it Out: Handheld Game</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Talos Principle: Deluxe Edition, The</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Tangle Tower</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Tangledeep</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>TaniNani</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Tank Mechanic Simulator</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Task Force Kampas</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>TAURONOS</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Taxi Sim 2020</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Tcheco in the Castle of Lucio</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Team Sonic Racing (Europe)</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Team Sonic Racing (USA)</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>TENGAI for Nintendo Switch</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Tennis 1920s</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Tennis World Tour</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Tennis World Tour 2</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Tenth Line: Special Edition, The</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Terraria</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Tesla vs. Lovecraft</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Tetris 99</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Tetsumo Party</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Tharsis</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>THE Card: Poker, Texas Hold 'em, Blackjack, Page One</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>The Witcher 3: Wild Hunt — Complete Edition (Europe, cartridge)</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>Thea: The Awakening</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Them Bombs!</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>They Breathe</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Thief Simulator</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Thimbleweed Park</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>This is the Police</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>This is the Police 2</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>This War of Mine: Complete Edition</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>Throne Quest Deluxe</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Thronebreaker: The Witcher Tales</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Through the Darkest of Times</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Thumper</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Tick Tock: A Tale for Two</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Tilt Pack</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Timber Tennis: Versus</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>Timberman VS</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Timespinner</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Tin &amp; Kuna</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Tin &amp; Kuna</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Tiny Bang Story, The</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Tiny Barbarian DX</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>Tiny Gladiators</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Tiny Hands Adventure</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Tiny Metal</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Tiny Metal: Full Metal Rumble</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>TINY METAL: FULL METAL RUMBLE ~DEMO~</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Titan Glory</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Titan Quest</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Titeuf Mega Party</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>To the Moon</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>ToeJam &amp; Earl: Back in the Groove!</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Toki</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Toki Tori</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Toki Tori 2 +</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Toki Tori 2 + Demo</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Tokyo Dark: Remembrance</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Tokyo School Life</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Tomoyo After -It's a Wonderful Life- CS Edition</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>Tools Up!</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Top Run</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Top Speed: Drag &amp; Fast Racing</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Torchlight II</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Torchlight III</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>TORIDAMA: Brave Challenge</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Totally Reliable Delivery Service</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Touchdown Pinball</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Touhou Genso Wanderer Reloaded</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Touhou Kobuto V: Burst Battle</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Touhou Sky Arena: Matsuri Climax</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Touhou Spell Bubble Demo</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Touryst, The</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Tower of Babel - no mercy</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Tower of Beatrice, The</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Tower of Time</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>TowerFall</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Town of Light: Deluxe Edition, The</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Townsmen</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Trailblazers</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>Transformers: Battlegrounds</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Transistor</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Travis Strikes Again: No More Heroes</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>Treachery In Beatdown City</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Treasure Stack</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Trials of Mana</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Trials Rising</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Tricky Towers</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Trine 2: Complete Story</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Trine 3: The Artifacts of Power</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Trine 4: The Nightmare Prince</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Trine: Enchanted Edition</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Trivial Pursuit Live!</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Troll and I</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>Trollhunters: Defenders of Arcadia</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Tropico 6</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Troubleshooter</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Truck Racing Championship</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>True Fear: Forsaken Souls</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>True Fear: Forsaken Souls Demo</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>True Fear: Forsaken Souls Part 2</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>True Fear: Forsaken Souls Part 2 Demo</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Trybit Logic</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Trüberbrook (digital)</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Trüberbrook (USA, cartridge)</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>TT Isle of Man: Ride On The Edge</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>TT Isle of Man: Ride On The Edge 2</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>TumbleSeed</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>Turmoil</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Turok</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Twin Breaker: A Sacred Symbols Adventure</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Two Point Hospital</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Ty the Tasmanian Tiger HD</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Tyd wag vir Niemand</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Type:Rider</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>UBERMOSH:OMEGA</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>UglyDolls: An Imperfect Adventure</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>Ultimate Chicken Horse</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Ultimate Racing 2D</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Ultimate Runner</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Ultimate Ski Jumping 2020</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Ultra Street Fighter II: The Final Challengers (Europe)</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>Ultra Street Fighter II: The Final Challengers (USA)</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>Ultrawings</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Umihara Kawase Fresh!</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Unbox: Newbie's Adventure</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>Uncanny Valley</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Undead &amp; Beyond</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Undead Darlings ~no cure for love~</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Undead's Building</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Under Night In-Birth Exe:Late[cl-r]</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Under Night In-Birth Exe:Late[cl-r]</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Under the Jolly Roger</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>UnderHero</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Undertale</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Unholy Society, The</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>UNI</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Unitied</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Unlock the King</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>UNO</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Unrailed! Demo</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Unravel Two</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Unruly Heroes</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Untitled Goose Game</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>UORiS DX</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Urban Flow</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Urban Trial Playground</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Urban Trial Tricky</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Use Your Words</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>UTOPIA 9 - A Volatile Vacation</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>V-Rally 4</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>VA-11 Hall-A: Cyberpunk Bartender Action</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Valfaris (cartridge)</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Valfaris (digital)</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Valiant Hearts: The Great War</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Valthirian Arc: Hero School Story</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Vambrace: Cold Soul</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Vampire: The Masquerade - Coteries of New York</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Vampyr</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>Vandals</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Vanishing of Ethan Carter, The</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Vaporum</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Varion</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>VASARA Collection</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Vasilis</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Vectronom</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Vektor Wars</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Velocity 2X</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Venture Kid</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Verlet Swing</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Victor Vran: Overkill Edition (cartridge)</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Victor Vran: Overkill Edition (digital)</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Vigil: The Longest Night</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Vigor</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Vitamin Connection</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Viviette</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>VOEZ (digital)</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>VOEZ (USA, cartridge)</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>VOEZ Demo</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>Void Bastards</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Volta-X</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Vortex Attack EX</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Vostok Inc. (cartridge)</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>Vostok Inc. (digital)</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>Vostok Inc. Demo</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>Voxel Galaxy</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Voxel Galaxy (cartridge)</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Voxel Pirates</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Voxel Pirates</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Voxel Sword</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Voxelgram</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>VVVVVV</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>Waifu Uncovered</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Waifu Uncovered</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Walking Dead: A Telltale Games Series, The</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Walking Dead: The Telltale Series - The Final Season, The</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Wallachia: Reign of Dracula</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Wanba Warriors</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Wanderer: Frankenstein's Creature, The</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Wandersong</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>War Tech Fighters</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>War Theatre</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Warborn</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Warface</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Warframe</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>Wargroove</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Warhammer 40,000: Mechanicus</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Warhammer 40,000: Space Wolf</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Warhammer Age of Sigmar: Champions</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Warhammer Quest</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Warhammer Quest 2: The End Times</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Warlock's Tower</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Warparty</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Warplanes: WW2 Dogfight</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Warriors Orochi 4</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Warsaw</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Wartile Complete Edition</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Wasteland 2: Director's Cut</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Way Remastered, The</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>We should talk.</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>We. The Revolution</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>West of Dead</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>West of Loathing</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Wheel of Fortune</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>When Ski Lifts Go Wrong</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Where Angels Cry</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Where Angels Cry: Tears of the Fallen Collector's Edition</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Where the Bees Make Honey</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>while True: learn()</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Whipseey and the Lost Atlas</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Whispering Willows</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Who Wants to Be a Millionaire?</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Wide Ocean Big Jacket</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Widget Satchel</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>WildTrax Racing</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>WILL: A Wonderful World</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>WILL: A Wonderful World</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Willy Jetman: Astromonkey's Revenge</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Wilmot's Warehouse</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Windbound</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>WindJammers</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Windmill Kings</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Windstorm</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Windstorm - Ari's Arrival</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>Wintermoor Tactics Club</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Witch &amp; Hero</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Witcher 3: Wild Hunt - Complete Edition, The (Australia)</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>Witcher 3: Wild Hunt - Complete Edition, The (Europe, digital)</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>Witcher 3: Wild Hunt - Complete Edition, The (Poland)</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>Witcher 3: Wild Hunt - Complete Edition, The (Russia)</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>Witcher 3: Wild Hunt — Complete Edition, The (USA)</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>Witcheye</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Without Escape</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Wizard of Legend</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Wolfenstein II: The New Colossus</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>Wolfenstein: Youngblood (Europe)</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>Wonder Boy Returns Remix</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Wonder Boy: The Dragon's Trap (digital)</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Wonder Boy: The Dragon's Trap (USA, cartridge)</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Wonderful 101: Remastered, The</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Woodle Tree 2: Deluxe</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Woodsalt</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Word Sudoku by POWGI</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>WordHerd</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Working Zombies</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>World Conqueror X</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>World End Syndrome</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>World End Syndrome (Europe)</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>World for Two</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>World Next Door, The</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>World of Final Fantasy Maxima</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>World of Goo</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>World of Riders</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>World of Solitaire</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>World of Tanks Blitz</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>World Tree Marché</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>WorldNeverland: Elnea Kingdom</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Worm Jazz</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Worms W.M.D</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>WRC 8 FIA World Rally Championship</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Wulverblade</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Wunderling</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Wuppo: Definitive Edition</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Wurroom</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>WWE 2K Battlegrounds</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>WWE 2K18</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>X-Morph: Defense</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>XCOM 2 Collection</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>Xeno Crisis</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Xenoblade Chronicles 2</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>Xenoblade Chronicles 2: Torna - The Golden Country</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>Xenoblade Chronicles Definitive Edition</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Xenon Racer</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>Xenon Valkyrie +</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Xenon Valkyrie + Demo</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Yaga</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Yellow Fins</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Yes, Your Grace</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Yesterday Origins</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>Yet Another Zombie Defense HD</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>YIIK: A Postmodern RPG</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Yoga Master</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Yoku's Island Express</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Yomawari: The Long Night Collection</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Yonder: The Cloud Catcher Chronicles (digital)</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>Yonder: The Cloud Catcher Chronicles (Europe, cartridge)</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>Yonder: The Cloud Catcher Chronicles (USA, cartridge)</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>Yono and the Celestial Elephants</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>Yooka-Laylee (cartridge)</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>Yooka-Laylee (digital)</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>Yooka-Laylee and the Impossible Lair</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Yoshi's Crafted World</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Yoshi's Crafted World Demo Version</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>You Died but a Necromancer revived you</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Your Toy</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>YouTube</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>Youtubers Life: OMG Edition (cartridge)</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Youtubers Life: OMG Edition (digital)</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Ys VIII: Lacrimosa of DANA</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Yu-Gi-Oh! Legacy of the Duelist : Link Evolution</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>YU-NO: A Girl Who Chants Love at the Bound of this World (Europe, cartridge)</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>Yume Nikki: Dream Diary</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Yuso</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Zaccaria Pinball</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Zenith</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Zero Gunner 2- for Nintendo Switch</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Ziggurat</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>ZikSquare</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Zombie Army Trilogy</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Zombie Night Terror</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Zombie Panic in Wonderland DX</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Zombie'sCool</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Zombieland: Double Tap - Road Trip (Europe)</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Zombieland: Double Tap - Road Trip (USA)</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-<tr>
-<td>Zumba: Burn It Up!</td>
-<td><span style="color:red">No.</span></td>
-</tr>
-<tr>
-<td>夕鬼 零 Yuoni: Rises</td>
-<td><span style="color:green"><span style="color:green">Yes!</span>!</span></td>
-</tr>
-</tbody>
-</table>
+| **Title**                                                                                      | **Video capture support?**                |
+|------------------------------------------------------------------------------------------------|-------------------------------------------|
+| #Funtime (Europe)                                                                              | <span style="color:green">Yes!!</span>    |
+| #Funtime (USA)                                                                                 | <span style="color:green">Yes!!</span>    |
+| #womenUp, Super Puzzles Dream                                                                  | <span style="color:green">Yes!!</span>    |
+| #womenUp, Super Puzzles Dream <Demo>                                                           | <span style="color:green">Yes!!</span>    |
+| 1-2-Switch                                                                                     | <span style="color:green">Yes!!</span>    |
+| 12 is Better Than 6                                                                            | <span style="color:green">Yes!!</span>    |
+| 12 Labours of Hercules                                                                         | <span style="color:green">Yes!!</span>    |
+| 1971 Project Helios                                                                            | <span style="color:green">Yes!!</span>    |
+| 1993 Shenandoah                                                                                | <span style="color:green">Yes!!</span>    |
+| 2064: Read Only Memories INTEGRAL                                                              | <span style="color:green">Yes!!</span>    |
+| 20XX                                                                                           | <span style="color:green">Yes!!</span>    |
+| 30-in-1 Game Collection: Volume 1                                                              | <span style="color:red">No.</span>        |
+| 3000th Duel                                                                                    | <span style="color:green">Yes!!</span>    |
+| 39 Days to Mars                                                                                | <span style="color:green">Yes!!</span>    |
+| 3D MiniGolf                                                                                    | <span style="color:red">No.</span>        |
+| 60 Parsecs!                                                                                    | <span style="color:green">Yes!!</span>    |
+| 60 Seconds!                                                                                    | <span style="color:green">Yes!!</span>    |
+| 7 Billion Humans                                                                               | <span style="color:green">Yes!!</span>    |
+| 7th Sector                                                                                     | <span style="color:green">Yes!!</span>    |
+| 80 Days                                                                                        | <span style="color:green">Yes!!</span>    |
+| 80's Overdrive                                                                                 | <span style="color:green">Yes!!</span>    |
+| 88 Heroes: 98 Heroes Edition                                                                   | <span style="color:red">No.</span>        |
+| 9 Monkeys of Shaolin                                                                           | <span style="color:green">Yes!!</span>    |
+| 911 Operator                                                                                   | <span style="color:green">Yes!!</span>    |
+| 99Vidas: Definitive Edition                                                                    | <span style="color:green">Yes!!</span>    |
+| 9th Dawn III                                                                                   | <span style="color:green">Yes!!</span>    |
+| A Case of Distrust                                                                             | <span style="color:green">Yes!!</span>    |
+| A Dark Room                                                                                    | <span style="color:green">Yes!!</span>    |
+| A Duel Hand Disaster: Trackher                                                                 | <span style="color:green">Yes!!</span>    |
+| A Fold Apart                                                                                   | <span style="color:green">Yes!!</span>    |
+| A Gummy's Life                                                                                 | <span style="color:green">Yes!!</span>    |
+| A Hat in Time                                                                                  | <span style="color:green">Yes!!</span>    |
+| A Hero and a Garden                                                                            | <span style="color:green">Yes!!</span>    |
+| A Magical High School Girl                                                                     | <span style="color:green">Yes!!</span>    |
+| A Robot Named Fight                                                                            | <span style="color:green">Yes!!</span>    |
+| A Street Cat's Tale                                                                            | <span style="color:green">Yes!!</span>    |
+| A Winter's Daydream                                                                            | <span style="color:green">Yes!!</span>    |
+| A.O.T. 2                                                                                       | <span style="color:red">No.</span>        |
+| Aborigenus                                                                                     | <span style="color:green">Yes!!</span>    |
+| ACA NeoGeo - Garou: Mark of the Wolves                                                         | <span style="color:red">No.</span>        |
+| ACA NeoGeo: 2020 Super Baseball                                                                | <span style="color:red">No.</span>        |
+| ACA NeoGeo: 3 Count Bout                                                                       | <span style="color:green">Yes!!</span>    |
+| ACA NeoGeo: Aero Fighters 2                                                                    | <span style="color:red">No.</span>        |
+| ACA NeoGeo: Aero Fighters 3                                                                    | <span style="color:green">Yes!!</span>    |
+| ACA NeoGeo: Aggressors of Dark Kombat                                                          | <span style="color:green">Yes!!</span>    |
+| ACA NeoGeo: Alpha Mission II                                                                   | <span style="color:red">No.</span>        |
+| ACA NeoGeo: Art of Fighting                                                                    | <span style="color:red">No.</span>        |
+| ACA NeoGeo: Art of Fighting 2                                                                  | <span style="color:green">Yes!!</span>    |
+| ACA NeoGeo: Art of Fighting 3                                                                  | <span style="color:red">No.</span>        |
+| ACA NeoGeo: Baseball Stars 2                                                                   | <span style="color:green">Yes!!</span>    |
+| ACA NeoGeo: Baseball Stars Professional                                                        | <span style="color:green">Yes!!</span>    |
+| ACA NeoGeo: Blazing Star                                                                       | <span style="color:red">No.</span>        |
+| ACA NeoGeo: Blue's Journey                                                                     | <span style="color:red">No.</span>        |
+| ACA NeoGeo: Burning Fight                                                                      | <span style="color:red">No.</span>        |
+| ACA NeoGeo: Crossed Swords                                                                     | <span style="color:green">Yes!!</span>    |
+| ACA NeoGeo: Cyber-Lip                                                                          | <span style="color:green">Yes!!</span>    |
+| ACA NeoGeo: Fatal Fury                                                                         | <span style="color:green">Yes!!</span>    |
+| ACA NeoGeo: Fatal Fury 2                                                                       | <span style="color:red">No.</span>        |
+| ACA NeoGeo: Fatal Fury 3                                                                       | <span style="color:green">Yes!!</span>    |
+| ACA NeoGeo: Fatal Fury Special                                                                 | <span style="color:red">No.</span>        |
+| ACA NeoGeo: Football Frenzy                                                                    | <span style="color:green">Yes!!</span>    |
+| ACA NeoGeo: Galaxy Fight - Universal Warriors                                                  | <span style="color:red">No.</span>        |
+| ACA NeoGeo: Ghost Pilots                                                                       | <span style="color:green">Yes!!</span>    |
+| ACA NeoGeo: Gururin                                                                            | <span style="color:green">Yes!!</span>    |
+| ACA NeoGeo: Karnov's Revenge                                                                   | <span style="color:red">No.</span>        |
+| ACA NeoGeo: King of Fighters '94, The                                                          | <span style="color:green">Yes!!</span>    |
+| ACA NeoGeo: King of Fighters '95, The                                                          | <span style="color:red">No.</span>        |
+| ACA NeoGeo: King of Fighters '98, The                                                          | <span style="color:green">Yes!!</span>    |
+| ACA NeoGeo: King of Fighters 2001, The                                                         | <span style="color:green">Yes!!</span>    |
+| ACA NeoGeo: King of Fighters 2002, The                                                         | <span style="color:green">Yes!!</span>    |
+| ACA NeoGeo: King of Fighters 2003, The                                                         | <span style="color:green">Yes!!</span>    |
+| ACA NeoGeo: King of the Monsters                                                               | <span style="color:red">No.</span>        |
+| ACA NeoGeo: King of the Monsters 2                                                             | <span style="color:green">Yes!!</span>    |
+| ACA NeoGeo: Kizuna Encounter                                                                   | <span style="color:green">Yes!!</span>    |
+| ACA NeoGeo: Last Resort                                                                        | <span style="color:red">No.</span>        |
+| ACA NeoGeo: League Bowling                                                                     | <span style="color:green">Yes!!</span>    |
+| ACA NeoGeo: Magical Drop II                                                                    | <span style="color:red">No.</span>        |
+| ACA NeoGeo: Magical Drop III                                                                   | <span style="color:green">Yes!!</span>    |
+| ACA NeoGeo: Magician Lord                                                                      | <span style="color:red">No.</span>        |
+| ACA NeoGeo: Metal Slug                                                                         | <span style="color:green">Yes!!</span>    |
+| ACA NeoGeo: Metal Slug 2                                                                       | <span style="color:red">No.</span>        |
+| ACA NeoGeo: Metal Slug 3                                                                       | <span style="color:green">Yes!!</span>    |
+| ACA NeoGeo: Metal Slug 4                                                                       | <span style="color:green">Yes!!</span>    |
+| ACA NeoGeo: Metal Slug 5                                                                       | <span style="color:green">Yes!!</span>    |
+| ACA NeoGeo: Metal Slug X                                                                       | <span style="color:red">No.</span>        |
+| ACA NeoGeo: Money Puzzle Exchanger                                                             | <span style="color:green">Yes!!</span>    |
+| ACA NeoGeo: Mutation Nation                                                                    | <span style="color:red">No.</span>        |
+| ACA NeoGeo: NAM-1975                                                                           | <span style="color:red">No.</span>        |
+| ACA NeoGeo: Neo Turf Masters                                                                   | <span style="color:green">Yes!!</span>    |
+| ACA NeoGeo: Neo-Geo Cup '98: The Road to Victory                                               | <span style="color:green">Yes!!</span>    |
+| ACA NeoGeo: Ninja Combat                                                                       | <span style="color:green">Yes!!</span>    |
+| ACA NeoGeo: Ninja Commando                                                                     | <span style="color:green">Yes!!</span>    |
+| ACA NeoGeo: Ninja Masters                                                                      | <span style="color:green">Yes!!</span>    |
+| ACA NeoGeo: Over Top                                                                           | <span style="color:red">No.</span>        |
+| ACA NeoGeo: Pleasure Goal: 5 on 5 Mini Soccer                                                  | <span style="color:green">Yes!!</span>    |
+| ACA NeoGeo: Power Spikes II                                                                    | <span style="color:red">No.</span>        |
+| ACA NeoGeo: Prehistoric Isle 2                                                                 | <span style="color:green">Yes!!</span>    |
+| ACA NeoGeo: Pulstar                                                                            | <span style="color:red">No.</span>        |
+| ACA NeoGeo: Puzzle Bobble                                                                      | <span style="color:green">Yes!!</span>    |
+| ACA NeoGeo: Puzzle Bobble 2                                                                    | <span style="color:green">Yes!!</span>    |
+| ACA NeoGeo: Puzzled                                                                            | <span style="color:red">No.</span>        |
+| ACA NeoGeo: Ragnagard                                                                          | <span style="color:green">Yes!!</span>    |
+| ACA NeoGeo: Real Bout Fatal Fury                                                               | <span style="color:green">Yes!!</span>    |
+| ACA NeoGeo: Real Bout Fatal Fury 2                                                             | <span style="color:green">Yes!!</span>    |
+| ACA NeoGeo: Real Bout Fatal Fury Special                                                       | <span style="color:green">Yes!!</span>    |
+| ACA NeoGeo: Riding Hero                                                                        | <span style="color:green">Yes!!</span>    |
+| ACA NeoGeo: Robo Army                                                                          | <span style="color:red">No.</span>        |
+| ACA NeoGeo: Samurai Shodown                                                                    | <span style="color:green">Yes!!</span>    |
+| ACA NeoGeo: Samurai Shodown II                                                                 | <span style="color:red">No.</span>        |
+| ACA NeoGeo: Samurai Shodown III                                                                | <span style="color:green">Yes!!</span>    |
+| ACA NeoGeo: Samurai Shodown IV                                                                 | <span style="color:red">No.</span>        |
+| ACA NeoGeo: Samurai Shodown V                                                                  | <span style="color:green">Yes!!</span>    |
+| ACA NeoGeo: Samurai Shodown V Special                                                          | <span style="color:green">Yes!!</span>    |
+| ACA NeoGeo: Sengoku                                                                            | <span style="color:red">No.</span>        |
+| ACA NeoGeo: Sengoku 2                                                                          | <span style="color:green">Yes!!</span>    |
+| ACA NeoGeo: Sengoku 3                                                                          | <span style="color:green">Yes!!</span>    |
+| ACA NeoGeo: Shock Troopers                                                                     | <span style="color:red">No.</span>        |
+| ACA NeoGeo: Shock Troopers: 2nd Squad                                                          | <span style="color:red">No.</span>        |
+| ACA NeoGeo: Soccer Brawl                                                                       | <span style="color:red">No.</span>        |
+| ACA NeoGeo: Spin Master                                                                        | <span style="color:red">No.</span>        |
+| ACA NeoGeo: Stakes Winner                                                                      | <span style="color:green">Yes!!</span>    |
+| ACA NeoGeo: Stakes Winner 2                                                                    | <span style="color:green">Yes!!</span>    |
+| ACA NeoGeo: Street Hoop                                                                        | <span style="color:red">No.</span>        |
+| ACA NeoGeo: Strikers 1945 Plus                                                                 | <span style="color:green">Yes!!</span>    |
+| ACA NeoGeo: Super Sidekicks                                                                    | <span style="color:red">No.</span>        |
+| ACA NeoGeo: Super Sidekicks 2                                                                  | <span style="color:green">Yes!!</span>    |
+| ACA NeoGeo: Super Sidekicks 3: The Next Glory                                                  | <span style="color:green">Yes!!</span>    |
+| ACA NeoGeo: The King of Fighters '96                                                           | <span style="color:red">No.</span>        |
+| ACA NeoGeo: The King of Fighters '97                                                           | <span style="color:green">Yes!!</span>    |
+| ACA NeoGeo: The King of Fighters '99                                                           | <span style="color:red">No.</span>        |
+| ACA NeoGeo: The King of Fighters 2000                                                          | <span style="color:red">No.</span>        |
+| ACA NeoGeo: The Last Blade                                                                     | <span style="color:red">No.</span>        |
+| ACA NeoGeo: The Last Blade 2                                                                   | <span style="color:green">Yes!!</span>    |
+| ACA NeoGeo: The Super Spy                                                                      | <span style="color:green">Yes!!</span>    |
+| ACA NeoGeo: The Ultimate 11: SNK Football Championship                                         | <span style="color:green">Yes!!</span>    |
+| ACA NeoGeo: Thrash Rally                                                                       | <span style="color:green">Yes!!</span>    |
+| ACA NeoGeo: Top Hunter: Roddy & Cathy                                                          | <span style="color:red">No.</span>        |
+| ACA NeoGeo: Top Player's Golf                                                                  | <span style="color:green">Yes!!</span>    |
+| ACA NeoGeo: Twinkle Star Sprites                                                               | <span style="color:green">Yes!!</span>    |
+| ACA NeoGeo: Waku Waku 7                                                                        | <span style="color:green">Yes!!</span>    |
+| ACA NeoGeo: World Heroes                                                                       | <span style="color:red">No.</span>        |
+| ACA NeoGeo: World Heroes 2                                                                     | <span style="color:red">No.</span>        |
+| ACA NeoGeo: World Heroes 2 Jet                                                                 | <span style="color:green">Yes!!</span>    |
+| ACA NeoGeo: World Heroes Perfect                                                               | <span style="color:red">No.</span>        |
+| ACA NeoGeo: Zed Blade                                                                          | <span style="color:red">No.</span>        |
+| Aces of the Luftwaffe: Squadron                                                                | <span style="color:green">Yes!!</span>    |
+| Across the Grooves                                                                             | <span style="color:green">Yes!!</span>    |
+| Active Neurons                                                                                 | <span style="color:green">Yes!!</span>    |
+| Active Neurons 2                                                                               | <span style="color:green">Yes!!</span>    |
+| Active Soccer 2019                                                                             | <span style="color:green">Yes!!</span>    |
+| Adam’s Venture: Origins                                                                        | <span style="color:green">Yes!!</span>    |
+| Adrenaline Rush: Miami Drive                                                                   | <span style="color:green">Yes!!</span>    |
+| Adventure Pals, The                                                                            | <span style="color:red">No.</span>        |
+| Adventure Time: Pirates of the Enchiridion                                                     | <span style="color:red">No.</span>        |
+| Adventures of 00 Dilly, The                                                                    | <span style="color:green">Yes!!</span>    |
+| Adventures of Chris                                                                            | <span style="color:green">Yes!!</span>    |
+| Adventures of Elena Temple: Definitive Edition, The                                            | <span style="color:green">Yes!!</span>    |
+| Aeolis Tournament                                                                              | <span style="color:green">Yes!!</span>    |
+| AeternoBlade                                                                                   | <span style="color:green">Yes!!</span>    |
+| AeternoBlade II (Europe)                                                                       | <span style="color:green">Yes!!</span>    |
+| AeternoBlade II (USA)                                                                          | <span style="color:green">Yes!!</span>    |
+| AFL Evolution 2                                                                                | <span style="color:green">Yes!!</span>    |
+| Afterparty                                                                                     | <span style="color:green">Yes!!</span>    |
+| Agatha Christie - The ABC Murders                                                              | <span style="color:green">Yes!!</span>    |
+| Agatha Knife                                                                                   | <span style="color:green">Yes!!</span>    |
+| Ageless                                                                                        | <span style="color:green">Yes!!</span>    |
+| Aggelos                                                                                        | <span style="color:green">Yes!!</span>    |
+| AI: The Somnium Files                                                                          | <span style="color:green">Yes!!</span>    |
+| AI: The Somnium Files (Europe, cartridge)                                                      | <span style="color:green">Yes!!</span>    |
+| Air Conflicts: Pacific Carriers                                                                | <span style="color:green">Yes!!</span>    |
+| Air Conflicts: Secret Wars                                                                     | <span style="color:green">Yes!!</span>    |
+| Air Missions: HIND                                                                             | <span style="color:green">Yes!!</span>    |
+| Aircraft Evolution                                                                             | <span style="color:green">Yes!!</span>    |
+| Akane                                                                                          | <span style="color:green">Yes!!</span>    |
+| Akash: Path of the Five                                                                        | <span style="color:green">Yes!!</span>    |
+| Akihabara CRASH! 123STAGE+1                                                                    | <span style="color:green">Yes!!</span>    |
+| Akihabara: Feel the Rhythm Remixed                                                             | <span style="color:green">Yes!!</span>    |
+| Alchemic Dungeons DX                                                                           | <span style="color:green">Yes!!</span>    |
+| Alder's Blood                                                                                  | <span style="color:green">Yes!!</span>    |
+| Aldred - Knight of Honor                                                                       | <span style="color:green">Yes!!</span>    |
+| Alien Cruise                                                                                   | <span style="color:green">Yes!!</span>    |
+| Alien Escape                                                                                   | <span style="color:green">Yes!!</span>    |
+| Alien: Isolation                                                                               | <span style="color:green">Yes!!</span>    |
+| All-Star Fruit Racing                                                                          | <span style="color:green">Yes!!</span>    |
+| Alliance Alive HD Remastered, The                                                              | <span style="color:green">Yes!!</span>    |
+| Alluris                                                                                        | <span style="color:red">No.</span>        |
+| Almost Gone, The                                                                               | <span style="color:green">Yes!!</span>    |
+| Almost There: The Platformer                                                                   | <span style="color:green">Yes!!</span>    |
+| Alpha                                                                                          | <span style="color:green">Yes!!</span>    |
+| Alteric                                                                                        | <span style="color:green">Yes!!</span>    |
+| Alvastia Chronicles                                                                            | <span style="color:green">Yes!!</span>    |
+| Alwa's Legacy                                                                                  | <span style="color:green">Yes!!</span>    |
+| American Fugitive                                                                              | <span style="color:green">Yes!!</span>    |
+| American Ninja Warrior: Challenge                                                              | <span style="color:green">Yes!!</span>    |
+| Amnesia Collection                                                                             | <span style="color:green">Yes!!</span>    |
+| Amoeba Battle - Microscopic RTS Action                                                         | <span style="color:green">Yes!!</span>    |
+| Among the Sleep: Enhanced Edition                                                              | <span style="color:green">Yes!!</span>    |
+| Anarcute                                                                                       | <span style="color:green">Yes!!</span>    |
+| Angels of Death                                                                                | <span style="color:green">Yes!!</span>    |
+| AngerForce: Reloaded                                                                           | <span style="color:green">Yes!!</span>    |
+| Angry Video Game Nerd I & II Deluxe                                                            | <span style="color:green">Yes!!</span>    |
+| Anima: Gate of Memories                                                                        | <span style="color:red">No.</span>        |
+| Anima: Gate of Memories - Arcane Edition                                                       | <span style="color:red">No.</span>        |
+| Animal Crossing: New Horizons                                                                  | <span style="color:green">Yes!!</span>    |
+| Animal Fight Club                                                                              | <span style="color:green">Yes!!</span>    |
+| Animal Super Squad                                                                             | <span style="color:green">Yes!!</span>    |
+| Animated Jigsaws: Japanese Women                                                               | <span style="color:green">Yes!!</span>    |
+| Animus                                                                                         | <span style="color:green">Yes!!</span>    |
+| ANIMUS: Harbinger                                                                              | <span style="color:green">Yes!!</span>    |
+| Anode                                                                                          | <span style="color:green">Yes!!</span>    |
+| Another World                                                                                  | <span style="color:green">Yes!!</span>    |
+| AntVentor                                                                                      | <span style="color:green">Yes!!</span>    |
+| AO Tennis 2                                                                                    | <span style="color:green">Yes!!</span>    |
+| Aokana - Four Rhythms Across the Blue                                                          | <span style="color:red">No.</span>        |
+| Ape Out                                                                                        | <span style="color:green">Yes!!</span>    |
+| Apocalipsis: Wormwood Edition                                                                  | <span style="color:green">Yes!!</span>    |
+| Aqua Lungers                                                                                   | <span style="color:green">Yes!!</span>    |
+| Aqua Moto Racing Utopia                                                                        | <span style="color:red">No.</span>        |
+| Aqua TV                                                                                        | <span style="color:green">Yes!!</span>    |
+| Ara Fell: Enhanced Edition                                                                     | <span style="color:green">Yes!!</span>    |
+| Aragami: Shadow Edition                                                                        | <span style="color:green">Yes!!</span>    |
+| Arc of Alchemist                                                                               | <span style="color:green">Yes!!</span>    |
+| Arc of Alchemist                                                                               | <span style="color:green">Yes!!</span>    |
+| Arcade Archives Bells & Whistles                                                               | <span style="color:green">Yes!!</span>    |
+| Arcade Archives MAGMAX                                                                         | <span style="color:green">Yes!!</span>    |
+| Arcade Archives: 10-Yard Fight                                                                 | <span style="color:green">Yes!!</span>    |
+| Arcade Archives: Alpha Mission                                                                 | <span style="color:green">Yes!!</span>    |
+| Arcade Archives: Argus                                                                         | <span style="color:green">Yes!!</span>    |
+| Arcade Archives: Armed F                                                                       | <span style="color:green">Yes!!</span>    |
+| Arcade Archives: Athena                                                                        | <span style="color:green">Yes!!</span>    |
+| Arcade Archives: Atomic Robo-Kid                                                               | <span style="color:green">Yes!!</span>    |
+| Arcade Archives: Ben Bero Beh                                                                  | <span style="color:green">Yes!!</span>    |
+| Arcade Archives: Bomb Jack                                                                     | <span style="color:green">Yes!!</span>    |
+| Arcade Archives: City Connection                                                               | <span style="color:green">Yes!!</span>    |
+| Arcade Archives: Clu Clu Land                                                                  | <span style="color:green">Yes!!</span>    |
+| Arcade Archives: Crazy Climber                                                                 | <span style="color:red">No.</span>        |
+| Arcade Archives: Donkey Kong                                                                   | <span style="color:green">Yes!!</span>    |
+| Arcade Archives: Donkey Kong 3                                                                 | <span style="color:green">Yes!!</span>    |
+| Arcade Archives: Donkey Kong Jr.                                                               | <span style="color:green">Yes!!</span>    |
+| Arcade Archives: Double Dragon                                                                 | <span style="color:red">No.</span>        |
+| Arcade Archives: Double Dragon II - The Revenge                                                | <span style="color:green">Yes!!</span>    |
+| Arcade Archives: Earth Defense Force                                                           | <span style="color:green">Yes!!</span>    |
+| Arcade Archives: Elevator Action                                                               | <span style="color:green">Yes!!</span>    |
+| Arcade Archives: Front Line                                                                    | <span style="color:green">Yes!!</span>    |
+| Arcade Archives: Gemini Wing                                                                   | <span style="color:green">Yes!!</span>    |
+| Arcade Archives: Gradius                                                                       | <span style="color:green">Yes!!</span>    |
+| Arcade Archives: Heroic Episode                                                                | <span style="color:green">Yes!!</span>    |
+| Arcade Archives: Hyper Sports                                                                  | <span style="color:green">Yes!!</span>    |
+| Arcade Archives: Ice Climber                                                                   | <span style="color:green">Yes!!</span>    |
+| Arcade Archives: Ikari Warriors                                                                | <span style="color:green">Yes!!</span>    |
+| Arcade Archives: Ikki                                                                          | <span style="color:green">Yes!!</span>    |
+| Arcade Archives: Image Fight                                                                   | <span style="color:green">Yes!!</span>    |
+| Arcade Archives: Kid Niki Radical Ninja                                                        | <span style="color:red">No.</span>        |
+| Arcade Archives: Kid's HoreHore Daisakusen                                                     | <span style="color:green">Yes!!</span>    |
+| Arcade Archives: Lightning Fighters                                                            | <span style="color:green">Yes!!</span>    |
+| Arcade Archives: Mario Bros.                                                                   | <span style="color:red">No.</span>        |
+| Arcade Archives: Moon Cresta                                                                   | <span style="color:green">Yes!!</span>    |
+| Arcade Archives: Moon Patrol                                                                   | <span style="color:green">Yes!!</span>    |
+| Arcade Archives: Ninja Gaiden                                                                  | <span style="color:green">Yes!!</span>    |
+| Arcade Archives: Ninja-Kid                                                                     | <span style="color:green">Yes!!</span>    |
+| Arcade Archives: Omega Fighter                                                                 | <span style="color:green">Yes!!</span>    |
+| Arcade Archives: Penguin-Kun Wars                                                              | <span style="color:green">Yes!!</span>    |
+| Arcade Archives: Psycho Soldier                                                                | <span style="color:green">Yes!!</span>    |
+| Arcade Archives: Punch-Out!                                                                    | <span style="color:green">Yes!!</span>    |
+| Arcade Archives: Renegade                                                                      | <span style="color:green">Yes!!</span>    |
+| Arcade Archives: Road Fighter                                                                  | <span style="color:green">Yes!!</span>    |
+| Arcade Archives: Route 16                                                                      | <span style="color:green">Yes!!</span>    |
+| Arcade Archives: Rygar                                                                         | <span style="color:green">Yes!!</span>    |
+| Arcade Archives: Shusse Ozumo                                                                  | <span style="color:green">Yes!!</span>    |
+| Arcade Archives: Sky Skipper                                                                   | <span style="color:green">Yes!!</span>    |
+| Arcade Archives: Star Force                                                                    | <span style="color:green">Yes!!</span>    |
+| Arcade Archives: Terra Cresta                                                                  | <span style="color:green">Yes!!</span>    |
+| Arcade Archives: Terra Force                                                                   | <span style="color:green">Yes!!</span>    |
+| Arcade Archives: The Ninja Warriors                                                            | <span style="color:green">Yes!!</span>    |
+| Arcade Archives: Time Pilot                                                                    | <span style="color:green">Yes!!</span>    |
+| Arcade Archives: Traverse USA                                                                  | <span style="color:red">No.</span>        |
+| Arcade Archives: TwinBee                                                                       | <span style="color:green">Yes!!</span>    |
+| Arcade Archives: Urban Champion                                                                | <span style="color:green">Yes!!</span>    |
+| Arcade Archives: Victory Road                                                                  | <span style="color:green">Yes!!</span>    |
+| Arcade Archives: Vs. Super Mario Bros.                                                         | <span style="color:green">Yes!!</span>    |
+| Arcade Archives: X Multiply                                                                    | <span style="color:green">Yes!!</span>    |
+| Arcade Archives: Yie Ar Kung Fu                                                                | <span style="color:green">Yes!!</span>    |
+| Arcade Classics Anniversary Collection                                                         | <span style="color:green">Yes!!</span>    |
+| ARCADE FUZZ                                                                                    | <span style="color:green">Yes!!</span>    |
+| Arcade Spirits                                                                                 | <span style="color:green">Yes!!</span>    |
+| Archlion Saga                                                                                  | <span style="color:green">Yes!!</span>    |
+| Arena of Valor                                                                                 | <span style="color:red">No.</span>        |
+| ARK: Survival Evolved                                                                          | <span style="color:green">Yes!!</span>    |
+| Armello                                                                                        | <span style="color:green">Yes!!</span>    |
+| ARMS                                                                                           | <span style="color:green">Yes!!</span>    |
+| Art Sqool                                                                                      | <span style="color:green">Yes!!</span>    |
+| Artifact Adventure Gaiden DX                                                                   | <span style="color:green">Yes!!</span>    |
+| Ary and the Secret of Seasons                                                                  | <span style="color:green">Yes!!</span>    |
+| ASCENDANCE                                                                                     | <span style="color:green">Yes!!</span>    |
+| Asdivine Hearts                                                                                | <span style="color:red">No.</span>        |
+| Asdivine Hearts II                                                                             | <span style="color:green">Yes!!</span>    |
+| Ash of Gods: Redemption                                                                        | <span style="color:green">Yes!!</span>    |
+| Asphalt 9: Legends                                                                             | <span style="color:green">Yes!!</span>    |
+| Assassin's Creed III Remastered                                                                | <span style="color:green">Yes!!</span>    |
+| Assault Android Cactus +                                                                       | <span style="color:green">Yes!!</span>    |
+| Assault On Metaltron                                                                           | <span style="color:green">Yes!!</span>    |
+| Asterix & Obelix XXL3: The Crystal Menhir                                                      | <span style="color:green">Yes!!</span>    |
+| Asterix & Obelix XXL: Romastered                                                               | <span style="color:green">Yes!!</span>    |
+| Astral Chain                                                                                   | <span style="color:green">Yes!!</span>    |
+| Astro Bears                                                                                    | <span style="color:green">Yes!!</span>    |
+| Astrology and Horoscope Premium                                                                | <span style="color:green">Yes!!</span>    |
+| Astérix & Obélix XXL 2                                                                         | <span style="color:green">Yes!!</span>    |
+| At Sundown: Shots in the Dark                                                                  | <span style="color:green">Yes!!</span>    |
+| Atari Flashback Classics                                                                       | <span style="color:green">Yes!!</span>    |
+| Atelier Lulua: The Scion of Arland                                                             | <span style="color:green">Yes!!</span>    |
+| Atelier Lydie & Suelle: The Alchemists and the Mysterious Paintings                            | <span style="color:red">No.</span>        |
+| Atelier Meruru: The Apprentice of Arland DX                                                    | <span style="color:green">Yes!!</span>    |
+| Atelier Rorona: The Alchemist of Arland DX                                                     | <span style="color:green">Yes!!</span>    |
+| Atelier Ryza: Ever Darkness & the Secret Hideout                                               | <span style="color:green">Yes!!</span>    |
+| Atelier Totori: The Adventurer of Arland DX                                                    | <span style="color:green">Yes!!</span>    |
+| ATOM RPG                                                                                       | <span style="color:green">Yes!!</span>    |
+| Atomic Heist                                                                                   | <span style="color:green">Yes!!</span>    |
+| Atomicrops                                                                                     | <span style="color:green">Yes!!</span>    |
+| Attack on Titan 2                                                                              | <span style="color:red">No.</span>        |
+| ATV Drift & Tricks                                                                             | <span style="color:green">Yes!!</span>    |
+| Automachef                                                                                     | <span style="color:green">Yes!!</span>    |
+| Avenger Bird                                                                                   | <span style="color:green">Yes!!</span>    |
+| Aviary Attorney: Definitive Edition                                                            | <span style="color:green">Yes!!</span>    |
+| AVICII Invector                                                                                | <span style="color:red">No.</span>        |
+| Away: Journey to the Unexpected                                                                | <span style="color:green">Yes!!</span>    |
+| Awesome Pea                                                                                    | <span style="color:green">Yes!!</span>    |
+| Axiom Verge (cartridge)                                                                        | <span style="color:green">Yes!!</span>    |
+| Axiom Verge (digital)                                                                          | <span style="color:green">Yes!!</span>    |
+| Ayakashi Koi Gikyoku: Forbidden Romance with Mysterious Spirit                                 | <span style="color:green">Yes!!</span>    |
+| Azuran Tales: Trials                                                                           | <span style="color:green">Yes!!</span>    |
+| Azure Reflections                                                                              | <span style="color:green">Yes!!</span>    |
+| Azure Saga: Pathfinder DELUXE Edition                                                          | <span style="color:green">Yes!!</span>    |
+| Azure Striker Gunvolt: Striker Pack (cartridge)                                                | <span style="color:red">No.</span>        |
+| Azure Striker Gunvolt: Striker Pack (digital)                                                  | <span style="color:green">Yes!!</span>    |
+| Baba Is You                                                                                    | <span style="color:green">Yes!!</span>    |
+| Bad North                                                                                      | <span style="color:green">Yes!!</span>    |
+| Bad North Demo                                                                                 | <span style="color:green">Yes!!</span>    |
+| Bake 'n Switch                                                                                 | <span style="color:green">Yes!!</span>    |
+| Bakugan: Champions of Vestroia                                                                 | <span style="color:green">Yes!!</span>    |
+| Baldur's Gate and Baldur's Gate II: Enhanced Editions                                          | <span style="color:green">Yes!!</span>    |
+| BallzOut                                                                                       | <span style="color:green">Yes!!</span>    |
+| Balthazar's Dreams                                                                             | <span style="color:green">Yes!!</span>    |
+| Banner of the Maid                                                                             | <span style="color:green">Yes!!</span>    |
+| Banner Saga 2, The                                                                             | <span style="color:green">Yes!!</span>    |
+| Banner Saga 3, The                                                                             | <span style="color:green">Yes!!</span>    |
+| Banner Saga Trilogy, The                                                                       | <span style="color:green">Yes!!</span>    |
+| Banner Saga, The                                                                               | <span style="color:green">Yes!!</span>    |
+| Baobabs Mausoleum - Ep. 2: 1313 Barnabas Dead End Drive                                        | <span style="color:green">Yes!!</span>    |
+| Bard's Tale ARPG: Remastered and Resnarkled, The                                               | <span style="color:green">Yes!!</span>    |
+| Baron: Fur Is Gonna Fly                                                                        | <span style="color:green">Yes!!</span>    |
+| Bass Pro Shops: The Strike - Championship Edition (Europe)                                     | <span style="color:green">Yes!!</span>    |
+| Bass Pro Shops: The Strike - Championship Edition (USA)                                        | <span style="color:green">Yes!!</span>    |
+| Bastion                                                                                        | <span style="color:green">Yes!!</span>    |
+| Batbarian: Testament of the Primordials                                                        | <span style="color:green">Yes!!</span>    |
+| Batman: The Enemy Within                                                                       | <span style="color:green">Yes!!</span>    |
+| Batman: The Telltale Series                                                                    | <span style="color:green">Yes!!</span>    |
+| Battle & Crash                                                                                 | <span style="color:green">Yes!!</span>    |
+| Battle Chasers: Nightwar                                                                       | <span style="color:red">No.</span>        |
+| Battle Chef Brigade                                                                            | <span style="color:green">Yes!!</span>    |
+| Battle Hunters                                                                                 | <span style="color:green">Yes!!</span>    |
+| Battle of Mahjong, The                                                                         | <span style="color:green">Yes!!</span>    |
+| Battle Planet: Judgement Day                                                                   | <span style="color:green">Yes!!</span>    |
+| Battle Princess Madelyn                                                                        | <span style="color:green">Yes!!</span>    |
+| Battle Supremacy: Ground Assault                                                               | <span style="color:green">Yes!!</span>    |
+| Battle Worlds: Kronos                                                                          | <span style="color:green">Yes!!</span>    |
+| BATTLESHIP                                                                                     | <span style="color:green">Yes!!</span>    |
+| Battlloon                                                                                      | <span style="color:green">Yes!!</span>    |
+| Bayonetta                                                                                      | <span style="color:green">Yes!!</span>    |
+| Bayonetta 2                                                                                    | <span style="color:green">Yes!!</span>    |
+| BDSM: Big Drunk Satanic Massacre                                                               | <span style="color:green">Yes!!</span>    |
+| Bear With Me - The Lost Robots Demo                                                            | <span style="color:green">Yes!!</span>    |
+| Bear With Me: The Lost Robots                                                                  | <span style="color:green">Yes!!</span>    |
+| Beast Quest                                                                                    | <span style="color:green">Yes!!</span>    |
+| Beat Cop                                                                                       | <span style="color:green">Yes!!</span>    |
+| Bee Simulator                                                                                  | <span style="color:green">Yes!!</span>    |
+| Behind the Screen                                                                              | <span style="color:green">Yes!!</span>    |
+| Behold the Kickmen                                                                             | <span style="color:green">Yes!!</span>    |
+| Beholder 2                                                                                     | <span style="color:green">Yes!!</span>    |
+| Beholder: Complete Edition                                                                     | <span style="color:green">Yes!!</span>    |
+| Ben 10                                                                                         | <span style="color:red">No.</span>        |
+| Ben 10: Power Trip!                                                                            | <span style="color:green">Yes!!</span>    |
+| Bendy and the Ink Machine (Europe)                                                             | <span style="color:green">Yes!!</span>    |
+| Bendy and the Ink Machine (USA)                                                                | <span style="color:green">Yes!!</span>    |
+| Bertram Fiddle Episode 2: A Bleaker Predicklement                                              | <span style="color:green">Yes!!</span>    |
+| Best Friend Forever                                                                            | <span style="color:green">Yes!!</span>    |
+| Beyond Enemy Lines: Covert Operations                                                          | <span style="color:red">No.</span>        |
+| Beyond Enemy Lines: Essentials                                                                 | <span style="color:red">No.</span>        |
+| Bibi & Tina at the horse farm                                                                  | <span style="color:red">No.</span>        |
+| Big Bash Boom                                                                                  | <span style="color:green">Yes!!</span>    |
+| Big Buck Hunter Arcade (Europe)                                                                | <span style="color:green">Yes!!</span>    |
+| Big Buck Hunter Arcade (USA)                                                                   | <span style="color:green">Yes!!</span>    |
+| Big Crown: Showdown                                                                            | <span style="color:green">Yes!!</span>    |
+| Big Pharma                                                                                     | <span style="color:green">Yes!!</span>    |
+| Billion Road                                                                                   | <span style="color:green">Yes!!</span>    |
+| Binding of Isaac: Afterbirth +, The (Europe, cartridge)                                        | <span style="color:green">Yes!!</span>    |
+| Binding of Isaac: Afterbirth +, The (Europe, digital)                                          | <span style="color:green">Yes!!</span>    |
+| Binding of Isaac: Afterbirth +, The (USA)                                                      | <span style="color:green">Yes!!</span>    |
+| Biolab Wars                                                                                    | <span style="color:green">Yes!!</span>    |
+| BioShock 2 Remastered                                                                          | <span style="color:green">Yes!!</span>    |
+| BioShock Infinite: The Complete Edition                                                        | <span style="color:green">Yes!!</span>    |
+| BioShock Remastered                                                                            | <span style="color:green">Yes!!</span>    |
+| Biped                                                                                          | <span style="color:green">Yes!!</span>    |
+| Bite the Bullet                                                                                | <span style="color:green">Yes!!</span>    |
+| Bitlogic - A Cyberpunk Arcade Adventure                                                        | <span style="color:green">Yes!!</span>    |
+| Black Bird                                                                                     | <span style="color:green">Yes!!</span>    |
+| Black Future '88                                                                               | <span style="color:green">Yes!!</span>    |
+| Black Hole                                                                                     | <span style="color:green">Yes!!</span>    |
+| Black Paradox                                                                                  | <span style="color:green">Yes!!</span>    |
+| Blackmoor 2                                                                                    | <span style="color:green">Yes!!</span>    |
+| Blacksad: Under the Skin                                                                       | <span style="color:green">Yes!!</span>    |
+| Blade II - The Return of Evil                                                                  | <span style="color:red">No.</span>        |
+| Blade Strangers                                                                                | <span style="color:green">Yes!!</span>    |
+| Blades of Time                                                                                 | <span style="color:green">Yes!!</span>    |
+| Blair Witch                                                                                    | <span style="color:red">No.</span>        |
+| Blasphemous                                                                                    | <span style="color:green">Yes!!</span>    |
+| Blaster Master Zero                                                                            | <span style="color:green">Yes!!</span>    |
+| Blaster Master Zero 2                                                                          | <span style="color:green">Yes!!</span>    |
+| BlazBlue: Central Fiction - Special Edition (Europe)                                           | <span style="color:green">Yes!!</span>    |
+| BlazBlue: Central Fiction - Special Edition (USA)                                              | <span style="color:green">Yes!!</span>    |
+| BlazBlue: Cross Tag Battle (Europe)                                                            | <span style="color:green">Yes!!</span>    |
+| BlazBlue: Cross Tag Battle (USA)                                                               | <span style="color:green">Yes!!</span>    |
+| Blazing Beaks                                                                                  | <span style="color:green">Yes!!</span>    |
+| Blazing Chrome                                                                                 | <span style="color:green">Yes!!</span>    |
+| Bleep Bloop                                                                                    | <span style="color:green">Yes!!</span>    |
+| Bloo Kid 2                                                                                     | <span style="color:green">Yes!!</span>    |
+| Blood Breed                                                                                    | <span style="color:green">Yes!!</span>    |
+| Blood Waves                                                                                    | <span style="color:green">Yes!!</span>    |
+| Blood will be Spilled                                                                          | <span style="color:green">Yes!!</span>    |
+| Bloodroots                                                                                     | <span style="color:green">Yes!!</span>    |
+| Bloodstained: Curse of the Moon                                                                | <span style="color:green">Yes!!</span>    |
+| Bloodstained: Curse of the Moon 2                                                              | <span style="color:green">Yes!!</span>    |
+| Blossom Tales: The Sleeping King                                                               | <span style="color:green">Yes!!</span>    |
+| Bluecoats: North & South, The                                                                  | <span style="color:green">Yes!!</span>    |
+| Bomb Chicken                                                                                   | <span style="color:green">Yes!!</span>    |
+| Bomber Crew                                                                                    | <span style="color:red">No.</span>        |
+| BOMBFEST                                                                                       | <span style="color:green">Yes!!</span>    |
+| Book of Demons                                                                                 | <span style="color:green">Yes!!</span>    |
+| Book of Unwritten Tales 2, The                                                                 | <span style="color:green">Yes!!</span>    |
+| Boomerang Fu                                                                                   | <span style="color:green">Yes!!</span>    |
+| Boot Hill Bounties                                                                             | <span style="color:green">Yes!!</span>    |
+| Borderlands 2: Game of the Year Edition                                                        | <span style="color:green">Yes!!</span>    |
+| Borderlands: Game of the Year Edition                                                          | <span style="color:green">Yes!!</span>    |
+| Borderlands: The Pre-Sequel Ultimate Edition                                                   | <span style="color:green">Yes!!</span>    |
+| Boreal Blade                                                                                   | <span style="color:green">Yes!!</span>    |
+| Boreal Blade Demo                                                                              | <span style="color:green">Yes!!</span>    |
+| Bossgard                                                                                       | <span style="color:green">Yes!!</span>    |
+| Bot Vice                                                                                       | <span style="color:green">Yes!!</span>    |
+| Boulder Dash - 30th Anniversary                                                                | <span style="color:green">Yes!!</span>    |
+| Bounty Battle                                                                                  | <span style="color:green">Yes!!</span>    |
+| Box Align                                                                                      | <span style="color:green">Yes!!</span>    |
+| BOXBOY! + BOXGIRL!                                                                             | <span style="color:green">Yes!!</span>    |
+| BQM -BlockQuest Maker-                                                                         | <span style="color:green">Yes!!</span>    |
+| Bradwell Conspiracy, The                                                                       | <span style="color:green">Yes!!</span>    |
+| Brawlhalla                                                                                     | <span style="color:green">Yes!!</span>    |
+| Brawlout (digital)                                                                             | <span style="color:green">Yes!!</span>    |
+| Brawlout (Europe, cartridge)                                                                   | <span style="color:green">Yes!!</span>    |
+| Brawlout (USA, cartridge)                                                                      | <span style="color:green">Yes!!</span>    |
+| BREAK DOT                                                                                      | <span style="color:green">Yes!!</span>    |
+| Breakpoint (Europe)                                                                            | <span style="color:green">Yes!!</span>    |
+| Breakpoint (USA)                                                                               | <span style="color:green">Yes!!</span>    |
+| Breeder Homegrown: Director's Cut                                                              | <span style="color:green">Yes!!</span>    |
+| Brick Breaker                                                                                  | <span style="color:green">Yes!!</span>    |
+| Bridge Builder Adventure                                                                       | <span style="color:green">Yes!!</span>    |
+| Bridge Constructor Portal                                                                      | <span style="color:green">Yes!!</span>    |
+| Brigandine: The Legend of Runersia                                                             | <span style="color:green">Yes!!</span>    |
+| Bring Them Home                                                                                | <span style="color:green">Yes!!</span>    |
+| Broforce                                                                                       | <span style="color:green">Yes!!</span>    |
+| Broken Age                                                                                     | <span style="color:green">Yes!!</span>    |
+| Broken Lines                                                                                   | <span style="color:green">Yes!!</span>    |
+| Broken Sword 5 - The Serpent's Curse                                                           | <span style="color:green">Yes!!</span>    |
+| Brotherhood United                                                                             | <span style="color:green">Yes!!</span>    |
+| Brotherhood United Demo                                                                        | <span style="color:green">Yes!!</span>    |
+| Brothers: A Tale of Two Sons                                                                   | <span style="color:green">Yes!!</span>    |
+| Brunch Club                                                                                    | <span style="color:green">Yes!!</span>    |
+| Bubble Bobble 4 Friends                                                                        | <span style="color:green">Yes!!</span>    |
+| Bucket Knight                                                                                  | <span style="color:green">Yes!!</span>    |
+| Bud Spencer & Terence Hill: Slaps and Beans                                                    | <span style="color:green">Yes!!</span>    |
+| Bug Fables: The Everlasting Sapling                                                            | <span style="color:green">Yes!!</span>    |
+| Build a Bridge!                                                                                | <span style="color:green">Yes!!</span>    |
+| Bullet Beat                                                                                    | <span style="color:green">Yes!!</span>    |
+| Bunker, The                                                                                    | <span style="color:red">No.</span>        |
+| Burger Chef Tycoon                                                                             | <span style="color:green">Yes!!</span>    |
+| Buried Stars                                                                                   | <span style="color:green">Yes!!</span>    |
+| Bury me, my Love                                                                               | <span style="color:green">Yes!!</span>    |
+| Button Button Up!                                                                              | <span style="color:green">Yes!!</span>    |
+| Cabela's The Hunt: Championship Edition (Europe)                                               | <span style="color:green">Yes!!</span>    |
+| Cabela's The Hunt: Championship Edition (USA)                                                  | <span style="color:green">Yes!!</span>    |
+| Cadence of Hyrule: Crypt of the NecroDancer featuring The Legend of Zelda                      | <span style="color:green">Yes!!</span>    |
+| Cafeteria Nipponica                                                                            | <span style="color:green">Yes!!</span>    |
+| Caladrius Blaze                                                                                | <span style="color:green">Yes!!</span>    |
+| Calculation Castle: Greco's Ghostly Challenge "Division"                                       | <span style="color:green">Yes!!</span>    |
+| Caligula Effect: Overdose, The                                                                 | <span style="color:green">Yes!!</span>    |
+| Call of Cthulhu                                                                                | <span style="color:green">Yes!!</span>    |
+| Call of Juarez: Gunslinger                                                                     | <span style="color:green">Yes!!</span>    |
+| CAN ANDROIDS PRAY: BLUE                                                                        | <span style="color:green">Yes!!</span>    |
+| Candle: The Power of the Flame                                                                 | <span style="color:green">Yes!!</span>    |
+| Candle: The Power of the Flame                                                                 | <span style="color:green">Yes!!</span>    |
+| Candleman                                                                                      | <span style="color:green">Yes!!</span>    |
+| Cannibal Cuisine                                                                               | <span style="color:green">Yes!!</span>    |
+| Capcom Beat 'Em Up Bundle (Europe)                                                             | <span style="color:green">Yes!!</span>    |
+| Capcom Beat 'Em Up Bundle (USA)                                                                | <span style="color:green">Yes!!</span>    |
+| Captain StarONE                                                                                | <span style="color:green">Yes!!</span>    |
+| Captain Toad: Treasure Tracker                                                                 | <span style="color:green">Yes!!</span>    |
+| Captain Tsubasa: Rise of New Champions (Europe)                                                | <span style="color:red">No.</span>        |
+| Captain Tsubasa: Rise of New Champions (USA)                                                   | <span style="color:red">No.</span>        |
+| Car Mayhem                                                                                     | <span style="color:green">Yes!!</span>    |
+| Car Mechanic Manager                                                                           | <span style="color:green">Yes!!</span>    |
+| Car Mechanic Simulator Pocket Edition                                                          | <span style="color:green">Yes!!</span>    |
+| Car Quest                                                                                      | <span style="color:green">Yes!!</span>    |
+| Cardpocalypse                                                                                  | <span style="color:green">Yes!!</span>    |
+| Carnival Games                                                                                 | <span style="color:green">Yes!!</span>    |
+| Carrion                                                                                        | <span style="color:green">Yes!!</span>    |
+| Cars 3: Driven to Win (Europe)                                                                 | <span style="color:red">No.</span>        |
+| Cars 3: Driven to Win (USA)                                                                    | <span style="color:red">No.</span>        |
+| Cartoon Network: Battle Crashers (Europe)                                                      | <span style="color:red">No.</span>        |
+| Cartoon Network: Battle Crashers (USA)                                                         | <span style="color:red">No.</span>        |
+| CASE 2: Animatronics Survival                                                                  | <span style="color:red">No.</span>        |
+| Castle Crashers Remastered                                                                     | <span style="color:green">Yes!!</span>    |
+| Castle of No Escape 2                                                                          | <span style="color:green">Yes!!</span>    |
+| CastleStorm                                                                                    | <span style="color:green">Yes!!</span>    |
+| CastleStorm II                                                                                 | <span style="color:green">Yes!!</span>    |
+| Castlevania Anniversary Collection                                                             | <span style="color:green">Yes!!</span>    |
+| Cat Quest                                                                                      | <span style="color:red">No.</span>        |
+| Cat Quest II                                                                                   | <span style="color:green">Yes!!</span>    |
+| Catan                                                                                          | <span style="color:green">Yes!!</span>    |
+| Catch 'Em! Goldfish Scooping                                                                   | <span style="color:green">Yes!!</span>    |
+| Catch a Duck                                                                                   | <span style="color:green">Yes!!</span>    |
+| Caterpillar Royale                                                                             | <span style="color:green">Yes!!</span>    |
+| Catherine: Full Body                                                                           | <span style="color:green">Yes!!</span>    |
+| Cattails                                                                                       | <span style="color:green">Yes!!</span>    |
+| Cave Story + (Europe)                                                                          | <span style="color:red">No.</span>        |
+| Cave Story + (USA)                                                                             | <span style="color:red">No.</span>        |
+| Caveblazers                                                                                    | <span style="color:green">Yes!!</span>    |
+| Caveman Warriors                                                                               | <span style="color:red">No.</span>        |
+| Celeste                                                                                        | <span style="color:green">Yes!!</span>    |
+| Chapeau                                                                                        | <span style="color:green">Yes!!</span>    |
+| Charterstone: Digital Edition                                                                  | <span style="color:green">Yes!!</span>    |
+| Chasm                                                                                          | <span style="color:green">Yes!!</span>    |
+| Chess Ultra                                                                                    | <span style="color:red">No.</span>        |
+| Chicken Range                                                                                  | <span style="color:green">Yes!!</span>    |
+| Chicken Rider                                                                                  | <span style="color:green">Yes!!</span>    |
+| Chiki-Chiki Boxy Pro Wrestling                                                                 | <span style="color:green">Yes!!</span>    |
+| Child of Light: Ultimate Edition                                                               | <span style="color:green">Yes!!</span>    |
+| Children of Morta                                                                              | <span style="color:green">Yes!!</span>    |
+| Chinese Parents                                                                                | <span style="color:green">Yes!!</span>    |
+| Chocobo's Mystery Dungeon: Every Buddy!                                                        | <span style="color:green">Yes!!</span>    |
+| CHOP                                                                                           | <span style="color:green">Yes!!</span>    |
+| Chroma Squad                                                                                   | <span style="color:green">Yes!!</span>    |
+| Chrono Clash: Fantasy Tactics                                                                  | <span style="color:green">Yes!!</span>    |
+| Church in the Darkness, The                                                                    | <span style="color:green">Yes!!</span>    |
+| Ciel Fledge: A Daughter Raising Simulator                                                      | <span style="color:green">Yes!!</span>    |
+| Cinders                                                                                        | <span style="color:green">Yes!!</span>    |
+| Circle of Sumo: Online Rumble!                                                                 | <span style="color:green">Yes!!</span>    |
+| Circuit Dude                                                                                   | <span style="color:green">Yes!!</span>    |
+| Cities: Skylines - Nintendo Switch Edition                                                     | <span style="color:green">Yes!!</span>    |
+| Citizens of Space                                                                              | <span style="color:green">Yes!!</span>    |
+| City of Brass                                                                                  | <span style="color:green">Yes!!</span>    |
+| Civilization VI                                                                                | <span style="color:green">Yes!!</span>    |
+| Clan N                                                                                         | <span style="color:green">Yes!!</span>    |
+| Clannad                                                                                        | <span style="color:red">No.</span>        |
+| Classic Snake Adventures                                                                       | <span style="color:green">Yes!!</span>    |
+| Clea                                                                                           | <span style="color:green">Yes!!</span>    |
+| Cloudbase Prime                                                                                | <span style="color:green">Yes!!</span>    |
+| Cloudpunk                                                                                      | <span style="color:green">Yes!!</span>    |
+| Clubhouse Games: 51 Worldwide Classics                                                         | <span style="color:green">Yes!!</span>    |
+| Clubhouse Games: Guest Pass                                                                    | <span style="color:green">Yes!!</span>    |
+| Clue                                                                                           | <span style="color:green">Yes!!</span>    |
+| Cluedo                                                                                         | <span style="color:green">Yes!!</span>    |
+| Coast Guard: Beach Rescue Team                                                                 | <span style="color:green">Yes!!</span>    |
+| Cobra Kai: The Karate Kid Saga Continues (Europe)                                              | <span style="color:green">Yes!!</span>    |
+| Cobra Kai: The Karate Kid Saga Continues (USA)                                                 | <span style="color:green">Yes!!</span>    |
+| Code of Princess EX                                                                            | <span style="color:green">Yes!!</span>    |
+| Code Shifter                                                                                   | <span style="color:green">Yes!!</span>    |
+| Coffee Talk                                                                                    | <span style="color:green">Yes!!</span>    |
+| Collapsed                                                                                      | <span style="color:green">Yes!!</span>    |
+| Collar x Malice                                                                                | <span style="color:green">Yes!!</span>    |
+| Collar x Malice                                                                                | <span style="color:green">Yes!!</span>    |
+| Collection of Mana                                                                             | <span style="color:green">Yes!!</span>    |
+| Collection of SaGa: Final Fantasy Legend                                                       | <span style="color:green">Yes!!</span>    |
+| Collidalot                                                                                     | <span style="color:green">Yes!!</span>    |
+| Collidalot Demo                                                                                | <span style="color:green">Yes!!</span>    |
+| Colloc                                                                                         | <span style="color:green">Yes!!</span>    |
+| Color Zen                                                                                      | <span style="color:green">Yes!!</span>    |
+| Coloring Book                                                                                  | <span style="color:green">Yes!!</span>    |
+| Colors Live                                                                                    | <span style="color:green">Yes!!</span>    |
+| Colt Canyon                                                                                    | <span style="color:green">Yes!!</span>    |
+| Coma 2: Vicious Sisters, The                                                                   | <span style="color:green">Yes!!</span>    |
+| Coma: Recut, The                                                                               | <span style="color:red">No.</span>        |
+| Combat Core                                                                                    | <span style="color:green">Yes!!</span>    |
+| Commander Keen in Keen Dreams: Definitive Edition                                              | <span style="color:green">Yes!!</span>    |
+| Community INC                                                                                  | <span style="color:green">Yes!!</span>    |
+| Complex, The                                                                                   | <span style="color:green">Yes!!</span>    |
+| Conduct TOGETHER!                                                                              | <span style="color:green">Yes!!</span>    |
+| Conjurer Andy's Repeatable Dungeon                                                             | <span style="color:green">Yes!!</span>    |
+| Constructor Plus                                                                               | <span style="color:green">Yes!!</span>    |
+| Contra Anniversary Collection                                                                  | <span style="color:green">Yes!!</span>    |
+| Contra: Rogue Corps                                                                            | <span style="color:green">Yes!!</span>    |
+| Control Ultimate Edition - Cloud Version                                                       | <span style="color:green">Yes!!</span>    |
+| Convoy                                                                                         | <span style="color:green">Yes!!</span>    |
+| Cook, Serve, Delicious! 2!!                                                                    | <span style="color:green">Yes!!</span>    |
+| Cooking Mama: Cookstar                                                                         | <span style="color:green">Yes!!</span>    |
+| Cooking Simulator                                                                              | <span style="color:green">Yes!!</span>    |
+| Cooking Tycoons 2: 3 in 1 Bundle                                                               | <span style="color:green">Yes!!</span>    |
+| Cooking Tycoons: 3 in 1 Bundle                                                                 | <span style="color:green">Yes!!</span>    |
+| Copper Canyon Dixie Dash, The                                                                  | <span style="color:green">Yes!!</span>    |
+| Cosmic Defenders                                                                               | <span style="color:green">Yes!!</span>    |
+| Cosmic Star Heroine (Europe)                                                                   | <span style="color:green">Yes!!</span>    |
+| Cosmic Star Heroine (USA)                                                                      | <span style="color:green">Yes!!</span>    |
+| Count Lucanor, The                                                                             | <span style="color:red">No.</span>        |
+| Crash Bandicoot N. Sane Trilogy                                                                | <span style="color:red">No.</span>        |
+| Crash Dummy                                                                                    | <span style="color:green">Yes!!</span>    |
+| Crash Team Racing: Nitro-Fueled                                                                | <span style="color:green">Yes!!</span>    |
+| Crashbots                                                                                      | <span style="color:green">Yes!!</span>    |
+| Crashlands                                                                                     | <span style="color:green">Yes!!</span>    |
+| Crayola Scoot                                                                                  | <span style="color:green">Yes!!</span>    |
+| Crayon Shin-chan The Storm Called! Flaming Kasukabe Runner!                                    | <span style="color:green">Yes!!</span>    |
+| Crazy Zen Mini Golf                                                                            | <span style="color:green">Yes!!</span>    |
+| Creature in the Well                                                                           | <span style="color:green">Yes!!</span>    |
+| Creepy Brawlers                                                                                | <span style="color:green">Yes!!</span>    |
+| Creepy Road                                                                                    | <span style="color:green">Yes!!</span>    |
+| Creepy Tale                                                                                    | <span style="color:green">Yes!!</span>    |
+| Cricket 19                                                                                     | <span style="color:green">Yes!!</span>    |
+| Cris Tales Demo                                                                                | <span style="color:green">Yes!!</span>    |
+| Croc's World                                                                                   | <span style="color:green">Yes!!</span>    |
+| Croc's World 2 Demo                                                                            | <span style="color:green">Yes!!</span>    |
+| Croixleur Sigma                                                                                | <span style="color:green">Yes!!</span>    |
+| CrossCode                                                                                      | <span style="color:green">Yes!!</span>    |
+| CROSSNIQ+                                                                                      | <span style="color:green">Yes!!</span>    |
+| Crown Trick                                                                                    | <span style="color:green">Yes!!</span>    |
+| Cruel Bands Career                                                                             | <span style="color:green">Yes!!</span>    |
+| CrunchTime                                                                                     | <span style="color:green">Yes!!</span>    |
+| Cryogear                                                                                       | <span style="color:green">Yes!!</span>    |
+| Crypt of the Necrodancer                                                                       | <span style="color:green">Yes!!</span>    |
+| Crypto by POWGI                                                                                | <span style="color:green">Yes!!</span>    |
+| Crysis Remastered                                                                              | <span style="color:green">Yes!!</span>    |
+| Crystal Crisis                                                                                 | <span style="color:green">Yes!!</span>    |
+| Cubers: Arena                                                                                  | <span style="color:red">No.</span>        |
+| Cubikolor                                                                                      | <span style="color:green">Yes!!</span>    |
+| Cuphead                                                                                        | <span style="color:green">Yes!!</span>    |
+| Curious Cases                                                                                  | <span style="color:green">Yes!!</span>    |
+| Curious Expedition                                                                             | <span style="color:green">Yes!!</span>    |
+| Cyber Complex                                                                                  | <span style="color:green">Yes!!</span>    |
+| Cyber Protocol                                                                                 | <span style="color:green">Yes!!</span>    |
+| Cytus α (cartridge)                                                                            | <span style="color:green">Yes!!</span>    |
+| Cytus α (digital)                                                                              | <span style="color:green">Yes!!</span>    |
+| D/Generation: The Original                                                                     | <span style="color:green">Yes!!</span>    |
+| Daemon X Machina                                                                               | <span style="color:green">Yes!!</span>    |
+| DAEMON X MACHINA Prologue (demo)                                                               | <span style="color:green">Yes!!</span>    |
+| Daemon X Machina: Prototype Missions                                                           | <span style="color:green">Yes!!</span>    |
+| Damascus Gear: Operation Tokyo                                                                 | <span style="color:green">Yes!!</span>    |
+| Dandara                                                                                        | <span style="color:green">Yes!!</span>    |
+| Dandy Dungeon: Legend of Brave Yamada                                                          | <span style="color:green">Yes!!</span>    |
+| Danger Gazers                                                                                  | <span style="color:green">Yes!!</span>    |
+| Danmaku Unlimited 3                                                                            | <span style="color:green">Yes!!</span>    |
+| Dark Crystal: Age of Resistance Tactics, The                                                   | <span style="color:green">Yes!!</span>    |
+| Dark Devotion                                                                                  | <span style="color:green">Yes!!</span>    |
+| Dark Quest 2                                                                                   | <span style="color:green">Yes!!</span>    |
+| Dark Souls Remastered                                                                          | <span style="color:green">Yes!!</span>    |
+| Dark Witch Music Episode: Rudymical                                                            | <span style="color:red">No.</span>        |
+| Darkest Dungeon (digital)                                                                      | <span style="color:green">Yes!!</span>    |
+| Darkest Dungeon (Europe, cartridge)                                                            | <span style="color:green">Yes!!</span>    |
+| Darkest Dungeon (USA, cartridge)                                                               | <span style="color:green">Yes!!</span>    |
+| Darkest Hunters                                                                                | <span style="color:green">Yes!!</span>    |
+| Darkestville Castle                                                                            | <span style="color:green">Yes!!</span>    |
+| Darkestville Castle Demo(n) Version                                                            | <span style="color:green">Yes!!</span>    |
+| Darkside Detective, The                                                                        | <span style="color:green">Yes!!</span>    |
+| Darksiders Genesis                                                                             | <span style="color:green">Yes!!</span>    |
+| Darksiders II: Deathinitive Edition                                                            | <span style="color:green">Yes!!</span>    |
+| Darksiders: Warmastered Edition                                                                | <span style="color:green">Yes!!</span>    |
+| Darkwood                                                                                       | <span style="color:green">Yes!!</span>    |
+| Dauntless                                                                                      | <span style="color:green">Yes!!</span>    |
+| Dawn of Survivors                                                                              | <span style="color:green">Yes!!</span>    |
+| Dawn of the Breakers                                                                           | <span style="color:green">Yes!!</span>    |
+| DC Universe Online                                                                             | <span style="color:red">No.</span>        |
+| de Blob                                                                                        | <span style="color:green">Yes!!</span>    |
+| de Blob 2                                                                                      | <span style="color:green">Yes!!</span>    |
+| Dead by Daylight                                                                               | <span style="color:green">Yes!!</span>    |
+| Dead Cells                                                                                     | <span style="color:green">Yes!!</span>    |
+| Dead End Job                                                                                   | <span style="color:green">Yes!!</span>    |
+| Dead In Vinland: True Viking Edition                                                           | <span style="color:green">Yes!!</span>    |
+| Dead Z Meat                                                                                    | <span style="color:red">No.</span>        |
+| Deadly Days                                                                                    | <span style="color:green">Yes!!</span>    |
+| Deadly Fighter 2                                                                               | <span style="color:green">Yes!!</span>    |
+| Deadly Premonition 2: A Blessing in Disguise                                                   | <span style="color:green">Yes!!</span>    |
+| Deadly Premonition Origins                                                                     | <span style="color:green">Yes!!</span>    |
+| Deadly Premonition Origins (cartridge)                                                         | <span style="color:green">Yes!!</span>    |
+| Deadly Premonition Origins (cartridge)                                                         | <span style="color:green">Yes!!</span>    |
+| Death and Taxes                                                                                | <span style="color:green">Yes!!</span>    |
+| Death Come True                                                                                | <span style="color:red">No.</span>        |
+| Death Coming                                                                                   | <span style="color:green">Yes!!</span>    |
+| Death Mark (Europe)                                                                            | <span style="color:green">Yes!!</span>    |
+| Death Mark (USA)                                                                               | <span style="color:green">Yes!!</span>    |
+| Death Road to Canada                                                                           | <span style="color:green">Yes!!</span>    |
+| Death Squared                                                                                  | <span style="color:red">No.</span>        |
+| Debris Infinity                                                                                | <span style="color:green">Yes!!</span>    |
+| Decay of Logos                                                                                 | <span style="color:green">Yes!!</span>    |
+| Decay of Logos                                                                                 | <span style="color:green">Yes!!</span>    |
+| Deemo (cartridge)                                                                              | <span style="color:green">Yes!!</span>    |
+| Deemo (digital)                                                                                | <span style="color:green">Yes!!</span>    |
+| Deep Diving Adventures                                                                         | <span style="color:green">Yes!!</span>    |
+| Deep Sky Derelicts Definitive Edition                                                          | <span style="color:green">Yes!!</span>    |
+| Defense Grid 2                                                                                 | <span style="color:green">Yes!!</span>    |
+| Defunct                                                                                        | <span style="color:green">Yes!!</span>    |
+| Degrees of Separation                                                                          | <span style="color:green">Yes!!</span>    |
+| Deleveled (Europe)                                                                             | <span style="color:green">Yes!!</span>    |
+| Deleveled (USA)                                                                                | <span style="color:green">Yes!!</span>    |
+| Delta Squad                                                                                    | <span style="color:green">Yes!!</span>    |
+| Deltarune: Chapter 1                                                                           | <span style="color:green">Yes!!</span>    |
+| Demolition Crew                                                                                | <span style="color:green">Yes!!</span>    |
+| Demon Pit                                                                                      | <span style="color:green">Yes!!</span>    |
+| Demon's Rise: War for the Deep                                                                 | <span style="color:green">Yes!!</span>    |
+| Demon's Tier+                                                                                  | <span style="color:green">Yes!!</span>    |
+| DEMON'S TILT                                                                                   | <span style="color:green">Yes!!</span>    |
+| Depixtion (Europe)                                                                             | <span style="color:green">Yes!!</span>    |
+| Depixtion (USA)                                                                                | <span style="color:green">Yes!!</span>    |
+| Deponia                                                                                        | <span style="color:green">Yes!!</span>    |
+| Depth of Extinction                                                                            | <span style="color:green">Yes!!</span>    |
+| Descenders                                                                                     | <span style="color:red">No.</span>        |
+| Desert Child                                                                                   | <span style="color:green">Yes!!</span>    |
+| Despotism 3k                                                                                   | <span style="color:green">Yes!!</span>    |
+| Destrobots                                                                                     | <span style="color:green">Yes!!</span>    |
+| Detective Case and Clown Bot in: Murder in the Hotel Lisbon                                    | <span style="color:green">Yes!!</span>    |
+| Detective Gallo                                                                                | <span style="color:green">Yes!!</span>    |
+| Devil Engine                                                                                   | <span style="color:green">Yes!!</span>    |
+| Devil May Cry 3: Special Edition                                                               | <span style="color:green">Yes!!</span>    |
+| Devious Dungeon 2                                                                              | <span style="color:green">Yes!!</span>    |
+| Diablo III: Eternal Collection                                                                 | <span style="color:green">Yes!!</span>    |
+| Die for Valhalla!                                                                              | <span style="color:green">Yes!!</span>    |
+| Dig Dog                                                                                        | <span style="color:green">Yes!!</span>    |
+| Digerati Indie Bundle: INK & Hacky Zack                                                        | <span style="color:green">Yes!!</span>    |
+| Diggerman                                                                                      | <span style="color:green">Yes!!</span>    |
+| Digimon Story Cyber Sleuth: Complete Edition                                                   | <span style="color:green">Yes!!</span>    |
+| Dimension Drive                                                                                | <span style="color:red">No.</span>        |
+| Ding Dong XL                                                                                   | <span style="color:green">Yes!!</span>    |
+| Dirt Trackin 2                                                                                 | <span style="color:green">Yes!!</span>    |
+| Disaster Report 4: Summer Memories                                                             | <span style="color:red">No.</span>        |
+| Disc Jam                                                                                       | <span style="color:green">Yes!!</span>    |
+| Disc Room                                                                                      | <span style="color:green">Yes!!</span>    |
+| Discmaster                                                                                     | <span style="color:green">Yes!!</span>    |
+| Disgaea 1 Complete                                                                             | <span style="color:green">Yes!!</span>    |
+| Disgaea 4 Complete +                                                                           | <span style="color:green">Yes!!</span>    |
+| Disgaea 5 Complete                                                                             | <span style="color:red">No.</span>        |
+| Disney Tsum Tsum Festival                                                                      | <span style="color:green">Yes!!</span>    |
+| DISTRAINT 2                                                                                    | <span style="color:green">Yes!!</span>    |
+| Divinity: Original Sin II - Definitive Edition                                                 | <span style="color:red">No.</span>        |
+| Do not feed the monkeys                                                                        | <span style="color:green">Yes!!</span>    |
+| Do Not Feed the Monkeys Demo                                                                   | <span style="color:green">Yes!!</span>    |
+| Dog Duty                                                                                       | <span style="color:red">No.</span>        |
+| Doggie Ninja The Burning Strikers                                                              | <span style="color:green">Yes!!</span>    |
+| Doggie Ninja: The Golden Mission                                                               | <span style="color:green">Yes!!</span>    |
+| Dogurai                                                                                        | <span style="color:green">Yes!!</span>    |
+| Don't Get Caught                                                                               | <span style="color:green">Yes!!</span>    |
+| Don't Starve: Nintendo Switch Edition                                                          | <span style="color:green">Yes!!</span>    |
+| Donkey Kong Country: Tropical Freeze                                                           | <span style="color:green">Yes!!</span>    |
+| Donut County                                                                                   | <span style="color:green">Yes!!</span>    |
+| Doodle Derby                                                                                   | <span style="color:green">Yes!!</span>    |
+| Doodle God: Crime City                                                                         | <span style="color:green">Yes!!</span>    |
+| Doodle God: Evolution                                                                          | <span style="color:green">Yes!!</span>    |
+| Doodle God: Evolution Demo                                                                     | <span style="color:green">Yes!!</span>    |
+| DOOM                                                                                           | <span style="color:green">Yes!!</span>    |
+| DOOM                                                                                           | <span style="color:green">Yes!!</span>    |
+| Doom & Destiny                                                                                 | <span style="color:green">Yes!!</span>    |
+| DOOM 3                                                                                         | <span style="color:green">Yes!!</span>    |
+| DOOM 64                                                                                        | <span style="color:green">Yes!!</span>    |
+| DOOM II                                                                                        | <span style="color:green">Yes!!</span>    |
+| Door Kickers: Action Squad                                                                     | <span style="color:green">Yes!!</span>    |
+| Doraemon: Story of Seasons                                                                     | <span style="color:green">Yes!!</span>    |
+| Double Cross (Europe)                                                                          | <span style="color:green">Yes!!</span>    |
+| Double Cross (USA)                                                                             | <span style="color:green">Yes!!</span>    |
+| DOUBLE DRAGON                                                                                  | <span style="color:green">Yes!!</span>    |
+| Double Dragon IV                                                                               | <span style="color:red">No.</span>        |
+| DOUBLE DRAGON Ⅱ: The Revenge                                                                   | <span style="color:green">Yes!!</span>    |
+| DOUBLE DRAGON Ⅲ: The Sacred Stones                                                             | <span style="color:green">Yes!!</span>    |
+| Double Kick Heroes                                                                             | <span style="color:green">Yes!!</span>    |
+| Doughlings: Arcade                                                                             | <span style="color:green">Yes!!</span>    |
+| Downwell                                                                                       | <span style="color:green">Yes!!</span>    |
+| DragoDino                                                                                      | <span style="color:red">No.</span>        |
+| Dragon Ball FighterZ                                                                           | <span style="color:green">Yes!!</span>    |
+| Dragon Ball: Xenoverse 2                                                                       | <span style="color:red">No.</span>        |
+| Dragon Ball: Xenoverse 2 for Nintendo Switch Lite                                              | <span style="color:red">No.</span>        |
+| Dragon Blaze for Nintendo Switch                                                               | <span style="color:green">Yes!!</span>    |
+| Dragon Marked for Death                                                                        | <span style="color:green">Yes!!</span>    |
+| Dragon Quest Builders                                                                          | <span style="color:red">No.</span>        |
+| Dragon Quest Builders 2                                                                        | <span style="color:green">Yes!!</span>    |
+| DRAGON QUEST BUILDERS 2 JUMBO DEMO                                                             | <span style="color:green">Yes!!</span>    |
+| Dragon Quest XI S: Echoes of an Elusive Age - Definitive Edition                               | <span style="color:green">Yes!!</span>    |
+| DRAGON QUEST XI S: Echoes of an Elusive Age – Definitive Edition [Demo version]                | <span style="color:green">Yes!!</span>    |
+| Dragon's Dogma: Dark Arisen                                                                    | <span style="color:green">Yes!!</span>    |
+| Dragon's Lair Trilogy                                                                          | <span style="color:green">Yes!!</span>    |
+| DragonFangZ: The Rose & Dungeon of Time                                                        | <span style="color:green">Yes!!</span>    |
+| Draw a Stickman: EPIC 2 (Europe)                                                               | <span style="color:green">Yes!!</span>    |
+| Draw a Stickman: EPIC 2 (USA)                                                                  | <span style="color:green">Yes!!</span>    |
+| DRAW CHILLY                                                                                    | <span style="color:green">Yes!!</span>    |
+| Drawngeon: Dungeons of Ink and Paper                                                           | <span style="color:green">Yes!!</span>    |
+| Dreamo                                                                                         | <span style="color:green">Yes!!</span>    |
+| Dreamwalker                                                                                    | <span style="color:green">Yes!!</span>    |
+| Dreamwalker: Never Fall Asleep                                                                 | <span style="color:green">Yes!!</span>    |
+| DreamWorks Dragons Dawn of New Riders                                                          | <span style="color:green">Yes!!</span>    |
+| Dresden Files Cooperative Card Game                                                            | <span style="color:green">Yes!!</span>    |
+| Drift Legends                                                                                  | <span style="color:green">Yes!!</span>    |
+| Drift Zone Arcade                                                                              | <span style="color:green">Yes!!</span>    |
+| Drink More Glurp                                                                               | <span style="color:green">Yes!!</span>    |
+| Drowning                                                                                       | <span style="color:green">Yes!!</span>    |
+| Dual Brain Vol.1: Calculation                                                                  | <span style="color:green">Yes!!</span>    |
+| Duck Game                                                                                      | <span style="color:green">Yes!!</span>    |
+| Dude, Stop                                                                                     | <span style="color:green">Yes!!</span>    |
+| Duke Nukem 3D: 20th Anniversary World Tour                                                     | <span style="color:green">Yes!!</span>    |
+| Dune Sea                                                                                       | <span style="color:green">Yes!!</span>    |
+| Dungeon of the Endless                                                                         | <span style="color:green">Yes!!</span>    |
+| Dungeon of the Endless                                                                         | <span style="color:green">Yes!!</span>    |
+| Dungeon Rushers                                                                                | <span style="color:red">No.</span>        |
+| Dungeon Stars                                                                                  | <span style="color:green">Yes!!</span>    |
+| Dungeon Village                                                                                | <span style="color:green">Yes!!</span>    |
+| Dungeon Warfare                                                                                | <span style="color:green">Yes!!</span>    |
+| Dusk Diver                                                                                     | <span style="color:green">Yes!!</span>    |
+| Dust: An Elysian Tail                                                                          | <span style="color:green">Yes!!</span>    |
+| Dying: Reborn                                                                                  | <span style="color:green">Yes!!</span>    |
+| Dyna Bomb                                                                                      | <span style="color:green">Yes!!</span>    |
+| Dynasty Warriors 8: Xtreme Legends - Definitive Edition                                        | <span style="color:green">Yes!!</span>    |
+| Eagle Island                                                                                   | <span style="color:green">Yes!!</span>    |
+| Earthfall: Alien Horde                                                                         | <span style="color:red">No.</span>        |
+| Earthlock                                                                                      | <span style="color:red">No.</span>        |
+| Eastville Chronicles: The Drama Queen Murder                                                   | <span style="color:green">Yes!!</span>    |
+| EAT BEAT DEADSPIKE-san Demo                                                                    | <span style="color:red">No.</span>        |
+| Eclipse: Edge of Light                                                                         | <span style="color:green">Yes!!</span>    |
+| Edgar - Bokbok in Boulzac                                                                      | <span style="color:green">Yes!!</span>    |
+| Edna & Harvey: Harvey's New Eyes                                                               | <span style="color:green">Yes!!</span>    |
+| Ego Protocol: Remastered                                                                       | <span style="color:green">Yes!!</span>    |
+| Eight-Minute Empire: Complete Edition                                                          | <span style="color:green">Yes!!</span>    |
+| Elden: Path of the Forgotten                                                                   | <span style="color:red">No.</span>        |
+| Elder Scrolls V: Skyrim, The                                                                   | <span style="color:green">Yes!!</span>    |
+| Elder Scrolls: Blades, The                                                                     | <span style="color:green">Yes!!</span>    |
+| Electronic Super Joy                                                                           | <span style="color:green">Yes!!</span>    |
+| Elemental Knights R                                                                            | <span style="color:green">Yes!!</span>    |
+| Eliza                                                                                          | <span style="color:green">Yes!!</span>    |
+| Ellen                                                                                          | <span style="color:green">Yes!!</span>    |
+| Elli                                                                                           | <span style="color:green">Yes!!</span>    |
+| Ellipsis                                                                                       | <span style="color:green">Yes!!</span>    |
+| Enchanted in the Moonlight - Kiryu, Chikage & Yukinojo -                                       | <span style="color:green">Yes!!</span>    |
+| Enchanted in the Moonlight - Miyabi, Kyoga & Samon -                                           | <span style="color:green">Yes!!</span>    |
+| End Is Nigh, The                                                                               | <span style="color:red">No.</span>        |
+| Enter the Gungeon                                                                              | <span style="color:green">Yes!!</span>    |
+| Epic Clicker Journey                                                                           | <span style="color:green">Yes!!</span>    |
+| Epic Word Search Collection 2                                                                  | <span style="color:green">Yes!!</span>    |
+| Escape First                                                                                   | <span style="color:green">Yes!!</span>    |
+| Escape from Chernobyl                                                                          | <span style="color:green">Yes!!</span>    |
+| Escape from the Universe                                                                       | <span style="color:green">Yes!!</span>    |
+| Escape Game Fort Boyard                                                                        | <span style="color:green">Yes!!</span>    |
+| Escape Trick: 35 Fateful Enigmas                                                               | <span style="color:red">No.</span>        |
+| Escapists 2, The                                                                               | <span style="color:red">No.</span>        |
+| Escapists: Complete Edition, The                                                               | <span style="color:green">Yes!!</span>    |
+| ESport Manager                                                                                 | <span style="color:green">Yes!!</span>    |
+| eSports Legend                                                                                 | <span style="color:green">Yes!!</span>    |
+| Eternal Card Game                                                                              | <span style="color:green">Yes!!</span>    |
+| Eternal Castle [REMASTERED], The                                                               | <span style="color:green">Yes!!</span>    |
+| Eternum EX                                                                                     | <span style="color:green">Yes!!</span>    |
+| Etherborn                                                                                      | <span style="color:green">Yes!!</span>    |
+| European Conqueror X                                                                           | <span style="color:green">Yes!!</span>    |
+| Evan's Remains                                                                                 | <span style="color:green">Yes!!</span>    |
+| Event Horizon                                                                                  | <span style="color:green">Yes!!</span>    |
+| Event Horizon: Space Defense                                                                   | <span style="color:green">Yes!!</span>    |
+| Evergate                                                                                       | <span style="color:green">Yes!!</span>    |
+| EVERSPACE: Stellar Edition                                                                     | <span style="color:red">No.</span>        |
+| Everybody, Hearts!                                                                             | <span style="color:green">Yes!!</span>    |
+| Everything                                                                                     | <span style="color:green">Yes!!</span>    |
+| Evoland: Legendary Edition                                                                     | <span style="color:green">Yes!!</span>    |
+| Exception                                                                                      | <span style="color:green">Yes!!</span>    |
+| Executioner, The                                                                               | <span style="color:green">Yes!!</span>    |
+| Exit the Gungeon                                                                               | <span style="color:green">Yes!!</span>    |
+| eXplosive Dinosaurs                                                                            | <span style="color:green">Yes!!</span>    |
+| Explosive Jake                                                                                 | <span style="color:green">Yes!!</span>    |
+| EXTREME POKER                                                                                  | <span style="color:green">Yes!!</span>    |
+| Eyes: The Horror Game                                                                          | <span style="color:green">Yes!!</span>    |
+| F-117A Stealth Fighter                                                                         | <span style="color:green">Yes!!</span>    |
+| Faeria                                                                                         | <span style="color:green">Yes!!</span>    |
+| Fairune Collection (cartridge)                                                                 | <span style="color:green">Yes!!</span>    |
+| Fairune Collection (digital)                                                                   | <span style="color:green">Yes!!</span>    |
+| Fairy Fencer F: Advent Dark Force (Europe)                                                     | <span style="color:green">Yes!!</span>    |
+| Fairy Fencer F: Advent Dark Force (USA)                                                        | <span style="color:green">Yes!!</span>    |
+| Fairy Knights                                                                                  | <span style="color:green">Yes!!</span>    |
+| Fairy Tail                                                                                     | <span style="color:green">Yes!!</span>    |
+| Fallen Legion: Rise to Glory                                                                   | <span style="color:green">Yes!!</span>    |
+| Fantasy Strike                                                                                 | <span style="color:green">Yes!!</span>    |
+| Fantasy Tower Defense                                                                          | <span style="color:green">Yes!!</span>    |
+| Farabel                                                                                        | <span style="color:green">Yes!!</span>    |
+| Farm Together                                                                                  | <span style="color:green">Yes!!</span>    |
+| Farming Simulator 20                                                                           | <span style="color:green">Yes!!</span>    |
+| Farming Simulator: Nintendo Switch Edition                                                     | <span style="color:red">No.</span>        |
+| Fast RMX                                                                                       | <span style="color:red">No.</span>        |
+| Fate/Extella Link (Europe)                                                                     | <span style="color:green">Yes!!</span>    |
+| Fate/Extella Link (USA)                                                                        | <span style="color:green">Yes!!</span>    |
+| Fate/Extella: The Umbral Star                                                                  | <span style="color:red">No.</span>        |
+| Fault: Milestone One                                                                           | <span style="color:green">Yes!!</span>    |
+| Fe                                                                                             | <span style="color:green">Yes!!</span>    |
+| Feather                                                                                        | <span style="color:green">Yes!!</span>    |
+| Feathery Ears                                                                                  | <span style="color:green">Yes!!</span>    |
+| Felix the Reaper                                                                               | <span style="color:green">Yes!!</span>    |
+| Fell Seal: Arbiter's Mark                                                                      | <span style="color:green">Yes!!</span>    |
+| Feral Fury                                                                                     | <span style="color:green">Yes!!</span>    |
+| Feudal Alloy                                                                                   | <span style="color:green">Yes!!</span>    |
+| FIA European Truck Racing Championship                                                         | <span style="color:green">Yes!!</span>    |
+| FIFA 18                                                                                        | <span style="color:green">Yes!!</span>    |
+| FIFA 19                                                                                        | <span style="color:green">Yes!!</span>    |
+| FIFA 20: Legacy Edition                                                                        | <span style="color:green">Yes!!</span>    |
+| FIFA 21 Legacy Edition                                                                         | <span style="color:green">Yes!!</span>    |
+| Fifty Words by POWGI                                                                           | <span style="color:green">Yes!!</span>    |
+| Fifty Words by POWGI Demo                                                                      | <span style="color:green">Yes!!</span>    |
+| Fight Crab                                                                                     | <span style="color:yellow">Unknown</span> |
+| Fight of Animals                                                                               | <span style="color:green">Yes!!</span>    |
+| Fight'N Rage                                                                                   | <span style="color:green">Yes!!</span>    |
+| Fimbul                                                                                         | <span style="color:red">No.</span>        |
+| Fin and the Ancient Mystery                                                                    | <span style="color:green">Yes!!</span>    |
+| Final Fantasy Crystal Chronicles: Remastered Edition (Europe)                                  | <span style="color:green">Yes!!</span>    |
+| Final Fantasy Crystal Chronicles: Remastered Edition (USA)                                     | <span style="color:green">Yes!!</span>    |
+| Final Fantasy Crystal Chronicles: Remastered Edition Lite (Europe)                             | <span style="color:green">Yes!!</span>    |
+| Final Fantasy Crystal Chronicles: Remastered Edition Lite (USA)                                | <span style="color:green">Yes!!</span>    |
+| Final Fantasy IX                                                                               | <span style="color:green">Yes!!</span>    |
+| Final Fantasy VII                                                                              | <span style="color:green">Yes!!</span>    |
+| Final Fantasy VIII Remastered                                                                  | <span style="color:green">Yes!!</span>    |
+| Final Fantasy X / X-2 HD Remaster                                                              | <span style="color:green">Yes!!</span>    |
+| Final Fantasy XII: The Zodiac Age                                                              | <span style="color:green">Yes!!</span>    |
+| Final Fantasy XV Pocket Edition HD                                                             | <span style="color:red">No.</span>        |
+| Final Sword                                                                                    | <span style="color:green">Yes!!</span>    |
+| Finding Teddy 2: Definitive Edition                                                            | <span style="color:green">Yes!!</span>    |
+| Fire Emblem Warriors                                                                           | <span style="color:green">Yes!!</span>    |
+| Fire Emblem: Three Houses                                                                      | <span style="color:green">Yes!!</span>    |
+| Firework                                                                                       | <span style="color:green">Yes!!</span>    |
+| First Tree, The                                                                                | <span style="color:green">Yes!!</span>    |
+| Fishing Universe Simulator                                                                     | <span style="color:green">Yes!!</span>    |
+| Fishing: Barents Sea - Complete Edition                                                        | <span style="color:green">Yes!!</span>    |
+| Fitness Boxing                                                                                 | <span style="color:red">No.</span>        |
+| Five Dates                                                                                     | <span style="color:green">Yes!!</span>    |
+| Five Nights at Freddy's                                                                        | <span style="color:green">Yes!!</span>    |
+| Five Nights at Freddy's 2                                                                      | <span style="color:green">Yes!!</span>    |
+| Five Nights at Freddy's 3                                                                      | <span style="color:green">Yes!!</span>    |
+| Five Nights at Freddy's 4                                                                      | <span style="color:green">Yes!!</span>    |
+| Five Nights at Freddy's: Help Wanted                                                           | <span style="color:green">Yes!!</span>    |
+| Five Nights at Freddy's: Sister Location                                                       | <span style="color:green">Yes!!</span>    |
+| Flame in the Flood, The                                                                        | <span style="color:green">Yes!!</span>    |
+| Flan                                                                                           | <span style="color:green">Yes!!</span>    |
+| Flashback: 25th Anniversary                                                                    | <span style="color:green">Yes!!</span>    |
+| Fledgling Heroes                                                                               | <span style="color:green">Yes!!</span>    |
+| Flinthook                                                                                      | <span style="color:green">Yes!!</span>    |
+| Flipon                                                                                         | <span style="color:green">Yes!!</span>    |
+| Flipping Death (cartridge)                                                                     | <span style="color:green">Yes!!</span>    |
+| Floor Kids                                                                                     | <span style="color:green">Yes!!</span>    |
+| Fluxteria                                                                                      | <span style="color:red">No.</span>        |
+| Fly Punch Boom!                                                                                | <span style="color:green">Yes!!</span>    |
+| Fly Punch Boom! DEMO                                                                           | <span style="color:green">Yes!!</span>    |
+| Food Truck Tycoon                                                                              | <span style="color:green">Yes!!</span>    |
+| Food Truck Tycoon - Asian Cuisine                                                              | <span style="color:green">Yes!!</span>    |
+| Football Manager 2019 Touch                                                                    | <span style="color:green">Yes!!</span>    |
+| Football Manager 2020 Touch                                                                    | <span style="color:green">Yes!!</span>    |
+| Football, Tactics & Glory                                                                      | <span style="color:green">Yes!!</span>    |
+| For the King                                                                                   | <span style="color:green">Yes!!</span>    |
+| Forager                                                                                        | <span style="color:green">Yes!!</span>    |
+| Forbidden Arts, The                                                                            | <span style="color:green">Yes!!</span>    |
+| Foregone                                                                                       | <span style="color:green">Yes!!</span>    |
+| Forever Forest                                                                                 | <span style="color:green">Yes!!</span>    |
+| Forgotten Land, The                                                                            | <span style="color:green">Yes!!</span>    |
+| Forgotton Anne                                                                                 | <span style="color:green">Yes!!</span>    |
+| Forklift - The Simulation                                                                      | <span style="color:red">No.</span>        |
+| Fort Boyard                                                                                    | <span style="color:green">Yes!!</span>    |
+| Fortnite                                                                                       | <span style="color:red">No.</span>        |
+| Fox Awaits Me, The                                                                             | <span style="color:green">Yes!!</span>    |
+| FOX n FORESTS                                                                                  | <span style="color:red">No.</span>        |
+| Fracter                                                                                        | <span style="color:green">Yes!!</span>    |
+| Fractured Minds                                                                                | <span style="color:green">Yes!!</span>    |
+| Frag doch mal...die Maus!                                                                      | <span style="color:red">No.</span>        |
+| Fred3ric                                                                                       | <span style="color:green">Yes!!</span>    |
+| Freedom Finger                                                                                 | <span style="color:green">Yes!!</span>    |
+| Freedom Planet                                                                                 | <span style="color:green">Yes!!</span>    |
+| Friday The 13th: The Game - Ultimate Slasher Edition                                           | <span style="color:red">No.</span>        |
+| Friends of Ringo Ishikawa, The                                                                 | <span style="color:green">Yes!!</span>    |
+| FruitFall Crush                                                                                | <span style="color:green">Yes!!</span>    |
+| Full Metal Furies                                                                              | <span style="color:green">Yes!!</span>    |
+| Funny Bunny Adventures                                                                         | <span style="color:green">Yes!!</span>    |
+| Furi (cartridge)                                                                               | <span style="color:red">No.</span>        |
+| Furi (digital)                                                                                 | <span style="color:red">No.</span>        |
+| Furwind                                                                                        | <span style="color:green">Yes!!</span>    |
+| Fury Unleashed                                                                                 | <span style="color:green">Yes!!</span>    |
+| Fuser                                                                                          | <span style="color:red">No.</span>        |
+| FutureGrind                                                                                    | <span style="color:green">Yes!!</span>    |
+| FUZE4 Nintendo Switch                                                                          | <span style="color:green">Yes!!</span>    |
+| FuzzBall                                                                                       | <span style="color:green">Yes!!</span>    |
+| G.I. Joe: Operation Blackout                                                                   | <span style="color:green">Yes!!</span>    |
+| G.R.E.E.N. The Life Algorithm                                                                  | <span style="color:green">Yes!!</span>    |
+| Gal Metal                                                                                      | <span style="color:red">No.</span>        |
+| Gal Metal (Europe, cartridge)                                                                  | <span style="color:red">No.</span>        |
+| Gal*Gun 2                                                                                      | <span style="color:red">No.</span>        |
+| Galacide                                                                                       | <span style="color:green">Yes!!</span>    |
+| Galactic Defence Squadron                                                                      | <span style="color:green">Yes!!</span>    |
+| GALAK-Z: The Void: Deluxe Edition                                                              | <span style="color:green">Yes!!</span>    |
+| Galak-Z: Variant S                                                                             | <span style="color:green">Yes!!</span>    |
+| Galaxy Champions TV                                                                            | <span style="color:green">Yes!!</span>    |
+| Galaxy Champions TV Demo                                                                       | <span style="color:green">Yes!!</span>    |
+| Galaxy of Pen & Paper +1 Edition                                                               | <span style="color:green">Yes!!</span>    |
+| Galaxy Warfighter                                                                              | <span style="color:green">Yes!!</span>    |
+| Game Dev Story                                                                                 | <span style="color:green">Yes!!</span>    |
+| Game Dev Tycoon                                                                                | <span style="color:green">Yes!!</span>    |
+| Garfield Kart: Furious Racing                                                                  | <span style="color:green">Yes!!</span>    |
+| Gato Roboto                                                                                    | <span style="color:green">Yes!!</span>    |
+| Gear.Club Unlimited                                                                            | <span style="color:red">No.</span>        |
+| Gear.Club Unlimited 2                                                                          | <span style="color:green">Yes!!</span>    |
+| Gekido: Kintaro's Revenge                                                                      | <span style="color:green">Yes!!</span>    |
+| Gelly Break                                                                                    | <span style="color:green">Yes!!</span>    |
+| Gemini Arms                                                                                    | <span style="color:green">Yes!!</span>    |
+| Gems of War                                                                                    | <span style="color:green">Yes!!</span>    |
+| Gemstone Keeper                                                                                | <span style="color:green">Yes!!</span>    |
+| Genetic Disaster                                                                               | <span style="color:green">Yes!!</span>    |
+| Gensokyo Defenders                                                                             | <span style="color:red">No.</span>        |
+| Gensou Skydrift                                                                                | <span style="color:green">Yes!!</span>    |
+| Georifters                                                                                     | <span style="color:green">Yes!!</span>    |
+| Gerritory                                                                                      | <span style="color:green">Yes!!</span>    |
+| Gerrrms                                                                                        | <span style="color:green">Yes!!</span>    |
+| Get 10 Quest                                                                                   | <span style="color:green">Yes!!</span>    |
+| GetAmped Mobile                                                                                | <span style="color:green">Yes!!</span>    |
+| Ghost Blade HD                                                                                 | <span style="color:green">Yes!!</span>    |
+| Ghost Files: Memory of a Crime                                                                 | <span style="color:green">Yes!!</span>    |
+| Ghost Parade                                                                                   | <span style="color:green">Yes!!</span>    |
+| Ghost Parade                                                                                   | <span style="color:green">Yes!!</span>    |
+| Ghost Sweeper                                                                                  | <span style="color:green">Yes!!</span>    |
+| Ghostbusters: The Video Game Remastered                                                        | <span style="color:green">Yes!!</span>    |
+| Ghostrunner                                                                                    | <span style="color:red">No.</span>        |
+| GhoulBoy                                                                                       | <span style="color:green">Yes!!</span>    |
+| Giana Sisters: Twisted Dreams - Owltimate Edition                                              | <span style="color:green">Yes!!</span>    |
+| Giga Wrecker Alt.                                                                              | <span style="color:green">Yes!!</span>    |
+| Gigantic Army                                                                                  | <span style="color:green">Yes!!</span>    |
+| Ginger: Beyond the Crystal                                                                     | <span style="color:red">No.</span>        |
+| Giraffe and Annika                                                                             | <span style="color:green">Yes!!</span>    |
+| Glaive: Brick Breaker                                                                          | <span style="color:green">Yes!!</span>    |
+| Gleamlight                                                                                     | <span style="color:green">Yes!!</span>    |
+| Gleaner Heights                                                                                | <span style="color:green">Yes!!</span>    |
+| Gnome More War                                                                                 | <span style="color:green">Yes!!</span>    |
+| Go All Out                                                                                     | <span style="color:green">Yes!!</span>    |
+| Go Vacation                                                                                    | <span style="color:green">Yes!!</span>    |
+| Goat Simulator: The GOATY                                                                      | <span style="color:green">Yes!!</span>    |
+| Goblin Sword                                                                                   | <span style="color:green">Yes!!</span>    |
+| God Eater 3                                                                                    | <span style="color:green">Yes!!</span>    |
+| God Wars: The Complete Legend                                                                  | <span style="color:red">No.</span>        |
+| GODS Remastered                                                                                | <span style="color:green">Yes!!</span>    |
+| GoFishing 3D                                                                                   | <span style="color:green">Yes!!</span>    |
+| Going Under                                                                                    | <span style="color:green">Yes!!</span>    |
+| Golem Gates                                                                                    | <span style="color:red">No.</span>        |
+| Golf Peaks                                                                                     | <span style="color:green">Yes!!</span>    |
+| Golf Story (cartridge)                                                                         | <span style="color:green">Yes!!</span>    |
+| Golf Story (digital)                                                                           | <span style="color:red">No.</span>        |
+| Golf With Your Friends                                                                         | <span style="color:red">No.</span>        |
+| Golf, The                                                                                      | <span style="color:green">Yes!!</span>    |
+| Gone Home                                                                                      | <span style="color:green">Yes!!</span>    |
+| GoNNER                                                                                         | <span style="color:green">Yes!!</span>    |
+| Good Pizza, Great Pizza                                                                        | <span style="color:green">Yes!!</span>    |
+| Goonya Fighter                                                                                 | <span style="color:green">Yes!!</span>    |
+| Goosebumps: The Game (Europe)                                                                  | <span style="color:green">Yes!!</span>    |
+| Goosebumps: The Game (USA)                                                                     | <span style="color:green">Yes!!</span>    |
+| GORSD                                                                                          | <span style="color:green">Yes!!</span>    |
+| Graceful Explosion Machine                                                                     | <span style="color:green">Yes!!</span>    |
+| Grand Brix Shooter                                                                             | <span style="color:green">Yes!!</span>    |
+| GrandGuilds                                                                                    | <span style="color:red">No.</span>        |
+| Grandia HD Collection                                                                          | <span style="color:green">Yes!!</span>    |
+| Grass Cutter: Mutated Lawns                                                                    | <span style="color:green">Yes!!</span>    |
+| Grave Keeper                                                                                   | <span style="color:red">No.</span>        |
+| Graveyard Keeper                                                                               | <span style="color:green">Yes!!</span>    |
+| Greco's Hall of Kanji Learn Japanese <Beginner>                                                | <span style="color:green">Yes!!</span>    |
+| Greedroid                                                                                      | <span style="color:green">Yes!!</span>    |
+| Green Hell                                                                                     | <span style="color:green">Yes!!</span>    |
+| GRID Autosport                                                                                 | <span style="color:green">Yes!!</span>    |
+| Grimshade                                                                                      | <span style="color:green">Yes!!</span>    |
+| GRIP: Combat Racing                                                                            | <span style="color:green">Yes!!</span>    |
+| GRIS                                                                                           | <span style="color:green">Yes!!</span>    |
+| Grisaia Phantom Trigger 01 & 02                                                                | <span style="color:red">No.</span>        |
+| Grisaia Phantom Trigger 04                                                                     | <span style="color:red">No.</span>        |
+| Grisaia Trilogy, The                                                                           | <span style="color:red">No.</span>        |
+| Grizzland                                                                                      | <span style="color:green">Yes!!</span>    |
+| Grood                                                                                          | <span style="color:green">Yes!!</span>    |
+| Groove Coaster: Wai Wai Party!!!!                                                              | <span style="color:red">No.</span>        |
+| Growtopia                                                                                      | <span style="color:green">Yes!!</span>    |
+| Guacamelee! 2                                                                                  | <span style="color:green">Yes!!</span>    |
+| Guilt Battle Arena                                                                             | <span style="color:green">Yes!!</span>    |
+| Guilty Gear (Europe)                                                                           | <span style="color:green">Yes!!</span>    |
+| Guilty Gear (USA)                                                                              | <span style="color:green">Yes!!</span>    |
+| Guilty Gear XX Accent Core Plus R (Europe)                                                     | <span style="color:green">Yes!!</span>    |
+| Guilty Gear XX Accent Core Plus R (USA)                                                        | <span style="color:green">Yes!!</span>    |
+| Gun Gun Pixies                                                                                 | <span style="color:green">Yes!!</span>    |
+| Gunbarich for Nintendo Switch                                                                  | <span style="color:green">Yes!!</span>    |
+| Gunbird 2 for Nintendo Switch                                                                  | <span style="color:green">Yes!!</span>    |
+| Gunbird for Nintendo Switch                                                                    | <span style="color:green">Yes!!</span>    |
+| Gunbrick: Reloaded                                                                             | <span style="color:green">Yes!!</span>    |
+| Gunhouse                                                                                       | <span style="color:red">No.</span>        |
+| GunLord X                                                                                      | <span style="color:green">Yes!!</span>    |
+| Gunma's Ambition -You and me are Gunma-                                                        | <span style="color:green">Yes!!</span>    |
+| Gunman Clive HD Collection                                                                     | <span style="color:green">Yes!!</span>    |
+| Gunpowder on the Teeth: Arcade                                                                 | <span style="color:green">Yes!!</span>    |
+| Guns of Mercy: Rangers Edition                                                                 | <span style="color:green">Yes!!</span>    |
+| Guns, Gore and Cannoli                                                                         | <span style="color:red">No.</span>        |
+| Guns, Gore and Cannoli 2                                                                       | <span style="color:green">Yes!!</span>    |
+| Gunvolt Chronicles: Luminous Avenger iX                                                        | <span style="color:green">Yes!!</span>    |
+| Guts and Glory                                                                                 | <span style="color:green">Yes!!</span>    |
+| Gym Hero - Idle Fitness Tycoon                                                                 | <span style="color:green">Yes!!</span>    |
+| Habroxia                                                                                       | <span style="color:green">Yes!!</span>    |
+| Hades                                                                                          | <span style="color:green">Yes!!</span>    |
+| Hakoniwa Explorer Plus                                                                         | <span style="color:green">Yes!!</span>    |
+| Halcyon 6: Starbase Commander                                                                  | <span style="color:green">Yes!!</span>    |
+| Half Past Fate                                                                                 | <span style="color:green">Yes!!</span>    |
+| Halloween Pinball                                                                              | <span style="color:green">Yes!!</span>    |
+| Hammerwatch                                                                                    | <span style="color:green">Yes!!</span>    |
+| Hamsterdam                                                                                     | <span style="color:green">Yes!!</span>    |
+| Hand of Fate 2                                                                                 | <span style="color:green">Yes!!</span>    |
+| Happy Birthdays                                                                                | <span style="color:green">Yes!!</span>    |
+| Happy Words                                                                                    | <span style="color:green">Yes!!</span>    |
+| Hard West                                                                                      | <span style="color:green">Yes!!</span>    |
+| Hardcore Maze Cube                                                                             | <span style="color:green">Yes!!</span>    |
+| Hardcore Mecha                                                                                 | <span style="color:green">Yes!!</span>    |
+| Harvest Life                                                                                   | <span style="color:green">Yes!!</span>    |
+| Harvest Moon: Light of Hope (Europe)                                                           | <span style="color:green">Yes!!</span>    |
+| Harvest Moon: Light of Hope (USA)                                                              | <span style="color:green">Yes!!</span>    |
+| Harvest Moon: Mad Dash                                                                         | <span style="color:green">Yes!!</span>    |
+| Has-Been Heroes                                                                                | <span style="color:red">No.</span>        |
+| Hatsune Miku: Project DIVA Mega Mix                                                            | <span style="color:red">No.</span>        |
+| Haunted Halloween 86                                                                           | <span style="color:green">Yes!!</span>    |
+| Hayfever                                                                                       | <span style="color:green">Yes!!</span>    |
+| Headliner: NoviNews                                                                            | <span style="color:green">Yes!!</span>    |
+| Headsnatchers                                                                                  | <span style="color:green">Yes!!</span>    |
+| Headspun                                                                                       | <span style="color:green">Yes!!</span>    |
+| Heave Ho                                                                                       | <span style="color:green">Yes!!</span>    |
+| Heaven Dust                                                                                    | <span style="color:green">Yes!!</span>    |
+| Helheim Hassle                                                                                 | <span style="color:green">Yes!!</span>    |
+| Hell is Other Demons                                                                           | <span style="color:green">Yes!!</span>    |
+| Hell Warders                                                                                   | <span style="color:green">Yes!!</span>    |
+| Hellblade: Senua's Sacrifice                                                                   | <span style="color:red">No.</span>        |
+| Hellmut: The Badass from Hell                                                                  | <span style="color:green">Yes!!</span>    |
+| Hello Kitty Kruisers with Sanrio Friends                                                       | <span style="color:red">No.</span>        |
+| Hello Neighbor                                                                                 | <span style="color:green">Yes!!</span>    |
+| Hello Neighbor: Hide & Seek                                                                    | <span style="color:red">No.</span>        |
+| Help Will Come Tomorrow                                                                        | <span style="color:green">Yes!!</span>    |
+| Hero Express                                                                                   | <span style="color:green">Yes!!</span>    |
+| Hero Hours Contract                                                                            | <span style="color:green">Yes!!</span>    |
+| Hero must die. Again                                                                           | <span style="color:green">Yes!!</span>    |
+| Heroes of Hammerwatch - Ultimate Edition                                                       | <span style="color:green">Yes!!</span>    |
+| Heroes of the Monkey Tavern demo                                                               | <span style="color:red">No.</span>        |
+| Hexagroove Demo                                                                                | <span style="color:green">Yes!!</span>    |
+| Hexagroove: Tactical DJ                                                                        | <span style="color:green">Yes!!</span>    |
+| HexON                                                                                          | <span style="color:green">Yes!!</span>    |
+| Hidden Folks                                                                                   | <span style="color:green">Yes!!</span>    |
+| Hidden Through Time                                                                            | <span style="color:green">Yes!!</span>    |
+| High Noon Revolver                                                                             | <span style="color:green">Yes!!</span>    |
+| Hob: The Definitive Edition                                                                    | <span style="color:green">Yes!!</span>    |
+| Hollow Knight                                                                                  | <span style="color:red">No.</span>        |
+| Holy Potatoes! A Weapon Shop?!                                                                 | <span style="color:green">Yes!!</span>    |
+| Holy Potatoes! We're In Space?!                                                                | <span style="color:green">Yes!!</span>    |
+| Home Run High                                                                                  | <span style="color:green">Yes!!</span>    |
+| Home Sheep Home: Farmageddon Party Edition                                                     | <span style="color:green">Yes!!</span>    |
+| Hopping girl KOHANE Jumping Kingdom: Princess of the Black Rabbit                              | <span style="color:green">Yes!!</span>    |
+| Horizon Chase Turbo                                                                            | <span style="color:green">Yes!!</span>    |
+| Horizon Chase Turbo (cartridge)                                                                | <span style="color:green">Yes!!</span>    |
+| Horizon Shift '81                                                                              | <span style="color:green">Yes!!</span>    |
+| Hot Gimmick Cosplay-jong for Nintendo Switch                                                   | <span style="color:green">Yes!!</span>    |
+| Hotel Sowls                                                                                    | <span style="color:green">Yes!!</span>    |
+| Hotel Transylvania 3: Monsters Overboard                                                       | <span style="color:red">No.</span>        |
+| Hotline Miami Collection                                                                       | <span style="color:green">Yes!!</span>    |
+| Hotshot Racing                                                                                 | <span style="color:green">Yes!!</span>    |
+| House Flipper                                                                                  | <span style="color:green">Yes!!</span>    |
+| House Flipper                                                                                  | <span style="color:green">Yes!!</span>    |
+| House of Da Vinci 2, The                                                                       | <span style="color:green">Yes!!</span>    |
+| House of Golf                                                                                  | <span style="color:green">Yes!!</span>    |
+| Hulu                                                                                           | <span style="color:red">No.</span>        |
+| Human Resource Machine                                                                         | <span style="color:red">No.</span>        |
+| Human: Fall Flat                                                                               | <span style="color:green">Yes!!</span>    |
+| Huntdown                                                                                       | <span style="color:green">Yes!!</span>    |
+| Hunting Simulator                                                                              | <span style="color:green">Yes!!</span>    |
+| Hunting Simulator 2                                                                            | <span style="color:red">No.</span>        |
+| Hyper Light Drifter - Special Edition                                                          | <span style="color:green">Yes!!</span>    |
+| HYPERCHARGE: Unboxed                                                                           | <span style="color:green">Yes!!</span>    |
+| Hyperforma                                                                                     | <span style="color:green">Yes!!</span>    |
+| Hyperide: Vector Raid                                                                          | <span style="color:green">Yes!!</span>    |
+| HyperParasite                                                                                  | <span style="color:red">No.</span>        |
+| Hypnospace Outlaw                                                                              | <span style="color:green">Yes!!</span>    |
+| Hyrule Warriors: Definitive Edition                                                            | <span style="color:red">No.</span>        |
+| I Am Dead                                                                                      | <span style="color:green">Yes!!</span>    |
+| I Am Setsuna                                                                                   | <span style="color:red">No.</span>        |
+| I Am the Hero                                                                                  | <span style="color:green">Yes!!</span>    |
+| Ice Age: Scrat's Nutty Adventure                                                               | <span style="color:green">Yes!!</span>    |
+| Ice Cream Surfer                                                                               | <span style="color:green">Yes!!</span>    |
+| Iconoclasts                                                                                    | <span style="color:green">Yes!!</span>    |
+| Idle Champions of the Forgotten Realms                                                         | <span style="color:green">Yes!!</span>    |
+| If My Heart Had Wings                                                                          | <span style="color:green">Yes!!</span>    |
+| Ikaruga                                                                                        | <span style="color:red">No.</span>        |
+| Ikenfell                                                                                       | <span style="color:green">Yes!!</span>    |
+| Illusion of L'Phalcia                                                                          | <span style="color:green">Yes!!</span>    |
+| Immerse Land                                                                                   | <span style="color:green">Yes!!</span>    |
+| Immortal Planet                                                                                | <span style="color:green">Yes!!</span>    |
+| Immortal Realms: Vampire Wars                                                                  | <span style="color:green">Yes!!</span>    |
+| Impossible Mission                                                                             | <span style="color:green">Yes!!</span>    |
+| In Other Waters                                                                                | <span style="color:green">Yes!!</span>    |
+| inbento                                                                                        | <span style="color:green">Yes!!</span>    |
+| Incredible Mandy                                                                               | <span style="color:green">Yes!!</span>    |
+| Indie Gems Bundle - Nonograms edition                                                          | <span style="color:green">Yes!!</span>    |
+| Indiecalypse                                                                                   | <span style="color:green">Yes!!</span>    |
+| Indivisible                                                                                    | <span style="color:green">Yes!!</span>    |
+| Inertial Drift                                                                                 | <span style="color:green">Yes!!</span>    |
+| Infectra                                                                                       | <span style="color:green">Yes!!</span>    |
+| Inferno 2                                                                                      | <span style="color:green">Yes!!</span>    |
+| Inferno Climber: Reborn                                                                        | <span style="color:red">No.</span>        |
+| Infliction                                                                                     | <span style="color:green">Yes!!</span>    |
+| InkyPen                                                                                        | <span style="color:red">No.</span>        |
+| Inmost                                                                                         | <span style="color:green">Yes!!</span>    |
+| INOPS                                                                                          | <span style="color:green">Yes!!</span>    |
+| Instant Sports Summer Games                                                                    | <span style="color:green">Yes!!</span>    |
+| INSTANT TENNIS                                                                                 | <span style="color:green">Yes!!</span>    |
+| Interrogation: You will be deceived                                                            | <span style="color:green">Yes!!</span>    |
+| Into the Breach                                                                                | <span style="color:green">Yes!!</span>    |
+| Into the Dead 2                                                                                | <span style="color:green">Yes!!</span>    |
+| Invasion of Alien X: Earth in Crisis                                                           | <span style="color:green">Yes!!</span>    |
+| INVERSUS Deluxe                                                                                | <span style="color:green">Yes!!</span>    |
+| INVERSUS Deluxe Demo                                                                           | <span style="color:green">Yes!!</span>    |
+| Invisiballs                                                                                    | <span style="color:green">Yes!!</span>    |
+| Invisigun Reloaded                                                                             | <span style="color:green">Yes!!</span>    |
+| Ion Fury                                                                                       | <span style="color:green">Yes!!</span>    |
+| Iris School of Wizardry -Vinculum Hearts-                                                      | <span style="color:green">Yes!!</span>    |
+| Iron Crypticle                                                                                 | <span style="color:green">Yes!!</span>    |
+| Irony Curtain: From Matryoshka with Love                                                       | <span style="color:green">Yes!!</span>    |
+| Island Flight Simulator                                                                        | <span style="color:red">No.</span>        |
+| Island Saver by NatWest                                                                        | <span style="color:green">Yes!!</span>    |
+| Isoland 2: Ashes of Time                                                                       | <span style="color:green">Yes!!</span>    |
+| Istanbul: Digital Edition                                                                      | <span style="color:green">Yes!!</span>    |
+| It came from space and ate our brains                                                          | <span style="color:green">Yes!!</span>    |
+| ITTA                                                                                           | <span style="color:green">Yes!!</span>    |
+| Ittle Dew                                                                                      | <span style="color:green">Yes!!</span>    |
+| Ittle Dew 2 +                                                                                  | <span style="color:red">No.</span>        |
+| Izneo                                                                                          | <span style="color:red">No.</span>        |
+| Jackbox Party Pack 3, The                                                                      | <span style="color:red">No.</span>        |
+| Jackbox Party Pack 6, The                                                                      | <span style="color:green">Yes!!</span>    |
+| Jackbox Party Pack 7, The                                                                      | <span style="color:green">Yes!!</span>    |
+| JackQuest: The Tale of the Sword                                                               | <span style="color:green">Yes!!</span>    |
+| James Pond: Codename Robocod                                                                   | <span style="color:green">Yes!!</span>    |
+| Jamestown+                                                                                     | <span style="color:green">Yes!!</span>    |
+| Jay and Silent Bob: Mall Brawl                                                                 | <span style="color:green">Yes!!</span>    |
+| JCB Pioneer: Mars                                                                              | <span style="color:red">No.</span>        |
+| JDM Racing                                                                                     | <span style="color:green">Yes!!</span>    |
+| Jenny LeClue - Detectivu                                                                       | <span style="color:green">Yes!!</span>    |
+| Jeopardy!                                                                                      | <span style="color:green">Yes!!</span>    |
+| Jet Kave Adventure                                                                             | <span style="color:green">Yes!!</span>    |
+| Jet Lancer                                                                                     | <span style="color:green">Yes!!</span>    |
+| Jet Set Knights                                                                                | <span style="color:green">Yes!!</span>    |
+| Jewel Fever 2                                                                                  | <span style="color:green">Yes!!</span>    |
+| Jigsaw Masterpieces                                                                            | <span style="color:red">No.</span>        |
+| Jim Is Moving Out!                                                                             | <span style="color:green">Yes!!</span>    |
+| Job the Leprechaun                                                                             | <span style="color:green">Yes!!</span>    |
+| Joe Jump Impossible Quest                                                                      | <span style="color:green">Yes!!</span>    |
+| Joggernauts                                                                                    | <span style="color:green">Yes!!</span>    |
+| Johnny Rocket                                                                                  | <span style="color:green">Yes!!</span>    |
+| Johnny Turbo's Arcade: Heavy Burger                                                            | <span style="color:green">Yes!!</span>    |
+| Journey Down: Chapter One, The                                                                 | <span style="color:green">Yes!!</span>    |
+| Journey Down: Chapter Three, The                                                               | <span style="color:green">Yes!!</span>    |
+| Journey Down: Chapter Two, The                                                                 | <span style="color:green">Yes!!</span>    |
+| Journey To The Savage Planet                                                                   | <span style="color:red">No.</span>        |
+| Juicy Realm                                                                                    | <span style="color:green">Yes!!</span>    |
+| Julie's Sweets                                                                                 | <span style="color:green">Yes!!</span>    |
+| Jumanji                                                                                        | <span style="color:green">Yes!!</span>    |
+| Jump Force: Deluxe Edition (Europe)                                                            | <span style="color:red">No.</span>        |
+| Jump Force: Deluxe Edition (USA)                                                               | <span style="color:red">No.</span>        |
+| Jump King                                                                                      | <span style="color:green">Yes!!</span>    |
+| Jump Rope Challenge                                                                            | <span style="color:green">Yes!!</span>    |
+| JumpHead: Battle4Fun!                                                                          | <span style="color:green">Yes!!</span>    |
+| Junk Jack                                                                                      | <span style="color:green">Yes!!</span>    |
+| Jurassic Excite                                                                                | <span style="color:green">Yes!!</span>    |
+| Jurassic World Evolution                                                                       | <span style="color:green">Yes!!</span>    |
+| Just Dance 2017                                                                                | <span style="color:red">No.</span>        |
+| Just Dance 2018                                                                                | <span style="color:red">No.</span>        |
+| Just Dance 2019                                                                                | <span style="color:red">No.</span>        |
+| Just Dance 2020                                                                                | <span style="color:red">No.</span>        |
+| Just Dance 2020                                                                                | <span style="color:red">No.</span>        |
+| Just Dance 2021                                                                                | <span style="color:red">No.</span>        |
+| Just Shapes & Beats                                                                            | <span style="color:green">Yes!!</span>    |
+| Kamiko                                                                                         | <span style="color:red">No.</span>        |
+| Kaptain Brawe                                                                                  | <span style="color:green">Yes!!</span>    |
+| Katamari Damacy REROLL                                                                         | <span style="color:green">Yes!!</span>    |
+| KATANA KAMI: A Way of the Samurai Story                                                        | <span style="color:green">Yes!!</span>    |
+| Katana ZERO                                                                                    | <span style="color:green">Yes!!</span>    |
+| Kawaii Deathu Desu                                                                             | <span style="color:green">Yes!!</span>    |
+| Keep Talking and Nobody Explodes                                                               | <span style="color:green">Yes!!</span>    |
+| Kemono Heroes                                                                                  | <span style="color:green">Yes!!</span>    |
+| Kentucky Route Zero: TV Edition                                                                | <span style="color:green">Yes!!</span>    |
+| Kill la Kill: IF (Europe)                                                                      | <span style="color:green">Yes!!</span>    |
+| Kill la Kill: IF (USA)                                                                         | <span style="color:green">Yes!!</span>    |
+| Killer Queen Black                                                                             | <span style="color:green">Yes!!</span>    |
+| King's Bird, The                                                                               | <span style="color:green">Yes!!</span>    |
+| Kingdom Rush Frontiers                                                                         | <span style="color:green">Yes!!</span>    |
+| Kingdom: New Lands                                                                             | <span style="color:red">No.</span>        |
+| Kingdom: Two Crowns                                                                            | <span style="color:green">Yes!!</span>    |
+| Kingmaker: Rise to the Throne                                                                  | <span style="color:green">Yes!!</span>    |
+| Kirby Star Allies                                                                              | <span style="color:green">Yes!!</span>    |
+| Kissed by the Baddest Bidder                                                                   | <span style="color:green">Yes!!</span>    |
+| Kitty Powers' Matchmaker Deluxe                                                                | <span style="color:green">Yes!!</span>    |
+| Klondike Solitaire                                                                             | <span style="color:green">Yes!!</span>    |
+| Knight Squad                                                                                   | <span style="color:green">Yes!!</span>    |
+| Knight Swap                                                                                    | <span style="color:green">Yes!!</span>    |
+| Knights and Bikes                                                                              | <span style="color:green">Yes!!</span>    |
+| Knights of Pen & Paper 2: Deluxiest Edition                                                    | <span style="color:green">Yes!!</span>    |
+| Knights of Pen and Paper +1 Deluxier Edition                                                   | <span style="color:red">No.</span>        |
+| Knights of Pen and Paper Bundle                                                                | <span style="color:green">Yes!!</span>    |
+| Knock 'Em Down! Bowling                                                                        | <span style="color:green">Yes!!</span>    |
+| Knowledge Trainer                                                                              | <span style="color:green">Yes!!</span>    |
+| Koloro                                                                                         | <span style="color:green">Yes!!</span>    |
+| KORG Gadget                                                                                    | <span style="color:green">Yes!!</span>    |
+| Kotodama: The 7 Mysteries of Fujisawa                                                          | <span style="color:green">Yes!!</span>    |
+| KUNAI                                                                                          | <span style="color:green">Yes!!</span>    |
+| kuso                                                                                           | <span style="color:green">Yes!!</span>    |
+| KUUKIYOMI 2: Consider It More! - New Era                                                       | <span style="color:green">Yes!!</span>    |
+| Kwaidan ～Azuma manor story～                                                                  | <span style="color:green">Yes!!</span>    |
+| L.A. Noire                                                                                     | <span style="color:red">No.</span>        |
+| L.O.L. Surprise! Remix: We Rule the World                                                      | <span style="color:green">Yes!!</span>    |
+| La-Mulana                                                                                      | <span style="color:green">Yes!!</span>    |
+| La-Mulana 1 & 2: Hidden Treasures Edition                                                      | <span style="color:green">Yes!!</span>    |
+| La-Mulana 2                                                                                    | <span style="color:green">Yes!!</span>    |
+| Labyrinth of Refrain: Coven of Dusk                                                            | <span style="color:green">Yes!!</span>    |
+| Labyrinth of the Witch                                                                         | <span style="color:green">Yes!!</span>    |
+| Lair of the Clockwork God                                                                      | <span style="color:green">Yes!!</span>    |
+| Lanota                                                                                         | <span style="color:green">Yes!!</span>    |
+| Lapis x Labyrinth                                                                              | <span style="color:green">Yes!!</span>    |
+| Last Blade: Beyond the Destiny, The                                                            | <span style="color:green">Yes!!</span>    |
+| Last Campfire, The                                                                             | <span style="color:green">Yes!!</span>    |
+| Last Door - Complete Edition, The                                                              | <span style="color:green">Yes!!</span>    |
+| Last Encounter                                                                                 | <span style="color:green">Yes!!</span>    |
+| Last Remnant Remastered, The                                                                   | <span style="color:green">Yes!!</span>    |
+| Later Daters                                                                                   | <span style="color:green">Yes!!</span>    |
+| Layers of Fear: Legacy                                                                         | <span style="color:red">No.</span>        |
+| Layton's Mystery Journey: Katrielle and the Millionaires' Conspiracy – Deluxe Edition (Europe) | <span style="color:green">Yes!!</span>    |
+| Layton's Mystery Journey: Katrielle and the Millionaires' Conspiracy – Deluxe Edition (USA)    | <span style="color:green">Yes!!</span>    |
+| League of the Shield                                                                           | <span style="color:green">Yes!!</span>    |
+| Legend of Dark Witch: Chronicle 2D Act, The                                                    | <span style="color:green">Yes!!</span>    |
+| Legend of Evil, The                                                                            | <span style="color:green">Yes!!</span>    |
+| Legend of Heroes: Trails of Cold Steel III, The                                                | <span style="color:green">Yes!!</span>    |
+| Legend of Kay Anniversary                                                                      | <span style="color:green">Yes!!</span>    |
+| Legend of Ninja, The                                                                           | <span style="color:green">Yes!!</span>    |
+| Legend of the Blue Warrior, The                                                                | <span style="color:green">Yes!!</span>    |
+| Legend of Zelda: Breath of the Wild, The                                                       | <span style="color:green">Yes!!</span>    |
+| Legend of Zelda: Link's Awakening, The                                                         | <span style="color:green">Yes!!</span>    |
+| Legendary Eleven                                                                               | <span style="color:green">Yes!!</span>    |
+| Legendary Fishing                                                                              | <span style="color:green">Yes!!</span>    |
+| Legends of Amberland                                                                           | <span style="color:green">Yes!!</span>    |
+| LEGO City Undercover (Europe)                                                                  | <span style="color:green">Yes!!</span>    |
+| LEGO City Undercover (USA)                                                                     | <span style="color:green">Yes!!</span>    |
+| LEGO DC Super-Villains                                                                         | <span style="color:green">Yes!!</span>    |
+| LEGO Harry Potter Collection                                                                   | <span style="color:green">Yes!!</span>    |
+| LEGO Jurassic World                                                                            | <span style="color:red">No.</span>        |
+| LEGO Marvel Super Heroes 2 (Europe)                                                            | <span style="color:green">Yes!!</span>    |
+| LEGO Marvel Super Heroes 2 (USA)                                                               | <span style="color:green">Yes!!</span>    |
+| LEGO Movie 2 Videogame, The                                                                    | <span style="color:red">No.</span>        |
+| LEGO NINJAGO Movie Video Game, The (Europe)                                                    | <span style="color:red">No.</span>        |
+| LEGO NINJAGO Movie Video Game, The (USA)                                                       | <span style="color:red">No.</span>        |
+| LEGO The Incredibles (Europe)                                                                  | <span style="color:red">No.</span>        |
+| LEGO The Incredibles (USA)                                                                     | <span style="color:red">No.</span>        |
+| LEGO Worlds                                                                                    | <span style="color:red">No.</span>        |
+| LEGRAND LEGACY: Tale of the Fatebounds                                                         | <span style="color:green">Yes!!</span>    |
+| Leisure Suit Larry: Wet Dreams Don't Dry                                                       | <span style="color:green">Yes!!</span>    |
+| Let's Go Nuts!                                                                                 | <span style="color:red">No.</span>        |
+| Let's Sing 10 (Spain)                                                                          | <span style="color:red">No.</span>        |
+| Let's Sing 12 (Spain)                                                                          | <span style="color:red">No.</span>        |
+| Let's Sing 2018 (Europe)                                                                       | <span style="color:red">No.</span>        |
+| Let's Sing 2018 (USA)                                                                          | <span style="color:red">No.</span>        |
+| Let's Sing 2019 (Europe)                                                                       | <span style="color:red">No.</span>        |
+| Let's Sing 2020                                                                                | <span style="color:red">No.</span>        |
+| Let's Sing 2020: Hits Français et Internationaux                                               | <span style="color:red">No.</span>        |
+| Let's Sing 2021: Hits Français et Internationaux                                               | <span style="color:red">No.</span>        |
+| Let's Sing Country                                                                             | <span style="color:red">No.</span>        |
+| Let's Sing Queen                                                                               | <span style="color:red">No.</span>        |
+| Lethal League Blaze                                                                            | <span style="color:green">Yes!!</span>    |
+| Lethal League Blaze Demo                                                                       | <span style="color:green">Yes!!</span>    |
+| Lethis - Path of Progress                                                                      | <span style="color:green">Yes!!</span>    |
+| Levelhead                                                                                      | <span style="color:green">Yes!!</span>    |
+| Liar Princess and the Blind Prince, The                                                        | <span style="color:green">Yes!!</span>    |
+| Liberated                                                                                      | <span style="color:green">Yes!!</span>    |
+| Lichtspeer: Double Speer Edition                                                               | <span style="color:red">No.</span>        |
+| Liege Dragon                                                                                   | <span style="color:green">Yes!!</span>    |
+| Light Fall                                                                                     | <span style="color:red">No.</span>        |
+| Light Fingers                                                                                  | <span style="color:red">No.</span>        |
+| Lightseekers                                                                                   | <span style="color:green">Yes!!</span>    |
+| Lines XL                                                                                       | <span style="color:green">Yes!!</span>    |
+| Linn: Path of Orchards                                                                         | <span style="color:green">Yes!!</span>    |
+| Lion's Song, The                                                                               | <span style="color:green">Yes!!</span>    |
+| Little Acre, The                                                                               | <span style="color:green">Yes!!</span>    |
+| Little Big Workshop                                                                            | <span style="color:green">Yes!!</span>    |
+| Little Dragons Café (Europe)                                                                   | <span style="color:red">No.</span>        |
+| Little Dragons Café (USA)                                                                      | <span style="color:red">No.</span>        |
+| Little Nightmares: Complete Edition                                                            | <span style="color:red">No.</span>        |
+| Little Racer                                                                                   | <span style="color:green">Yes!!</span>    |
+| Little Town Hero                                                                               | <span style="color:green">Yes!!</span>    |
+| Little Town Hero                                                                               | <span style="color:green">Yes!!</span>    |
+| Little Triangle                                                                                | <span style="color:red">No.</span>        |
+| Locomotion                                                                                     | <span style="color:green">Yes!!</span>    |
+| Lode Runner Legacy                                                                             | <span style="color:red">No.</span>        |
+| Lone Wolf, Joe Dever's                                                                         | <span style="color:red">No.</span>        |
+| Lonely Mountains: Downhill                                                                     | <span style="color:green">Yes!!</span>    |
+| Long Dark, The                                                                                 | <span style="color:green">Yes!!</span>    |
+| Longest Five Minutes, The                                                                      | <span style="color:red">No.</span>        |
+| Lord of the Rings: Adventure Card Game, The                                                    | <span style="color:green">Yes!!</span>    |
+| Lost Child, The                                                                                | <span style="color:red">No.</span>        |
+| Lost Ember                                                                                     | <span style="color:green">Yes!!</span>    |
+| Lost Horizon                                                                                   | <span style="color:green">Yes!!</span>    |
+| Lost Horizon 2                                                                                 | <span style="color:green">Yes!!</span>    |
+| Lost King's Lullaby                                                                            | <span style="color:green">Yes!!</span>    |
+| Lost Light of Sisu, The                                                                        | <span style="color:green">Yes!!</span>    |
+| Lost Orbit: Terminal Velocity                                                                  | <span style="color:green">Yes!!</span>    |
+| Lost Sphear                                                                                    | <span style="color:red">No.</span>        |
+| LOVE                                                                                           | <span style="color:green">Yes!!</span>    |
+| Love Letter from Thief X                                                                       | <span style="color:green">Yes!!</span>    |
+| Lovecraft's Untold Stories                                                                     | <span style="color:green">Yes!!</span>    |
+| Lovers in a Dangerous Spacetime                                                                | <span style="color:red">No.</span>        |
+| Lucah: Born of a Dream                                                                         | <span style="color:green">Yes!!</span>    |
+| Luigi's Mansion 3                                                                              | <span style="color:green">Yes!!</span>    |
+| Lumines Remastered                                                                             | <span style="color:red">No.</span>        |
+| Lumini                                                                                         | <span style="color:green">Yes!!</span>    |
+| Lumo                                                                                           | <span style="color:red">No.</span>        |
+| Lust for Darkness                                                                              | <span style="color:green">Yes!!</span>    |
+| Lust For Darkness: Dawn Edition                                                                | <span style="color:green">Yes!!</span>    |
+| Luxar                                                                                          | <span style="color:green">Yes!!</span>    |
+| Lyrica                                                                                         | <span style="color:green">Yes!!</span>    |
+| Mable & The Wood                                                                               | <span style="color:green">Yes!!</span>    |
+| Macbat 64                                                                                      | <span style="color:yellow">Unknown</span> |
+| Machi Knights: Blood Bagos                                                                     | <span style="color:green">Yes!!</span>    |
+| Machinarium                                                                                    | <span style="color:green">Yes!!</span>    |
+| Mad Age & This Guy                                                                             | <span style="color:green">Yes!!</span>    |
+| Mad Father                                                                                     | <span style="color:green">Yes!!</span>    |
+| Mad Games Tycoon                                                                               | <span style="color:green">Yes!!</span>    |
+| Mad Rat Dead                                                                                   | <span style="color:green">Yes!!</span>    |
+| Madorica Real Estate                                                                           | <span style="color:green">Yes!!</span>    |
+| Mages of Mystralia                                                                             | <span style="color:green">Yes!!</span>    |
+| Magic Nations                                                                                  | <span style="color:green">Yes!!</span>    |
+| Magic Scroll Tactics                                                                           | <span style="color:green">Yes!!</span>    |
+| Magicolors                                                                                     | <span style="color:green">Yes!!</span>    |
+| Mah-jongg Puzzle Pai-Sen                                                                       | <span style="color:green">Yes!!</span>    |
+| Mahjong Solitaire Refresh                                                                      | <span style="color:green">Yes!!</span>    |
+| Mainlining                                                                                     | <span style="color:green">Yes!!</span>    |
+| Maitetsu: Pure Station                                                                         | <span style="color:green">Yes!!</span>    |
+| Man With The Ivory Cane, The                                                                   | <span style="color:green">Yes!!</span>    |
+| Mana Spark                                                                                     | <span style="color:green">Yes!!</span>    |
+| Manifold Garden                                                                                | <span style="color:green">Yes!!</span>    |
+| Mantis Burn Racing                                                                             | <span style="color:green">Yes!!</span>    |
+| Marble It Up!                                                                                  | <span style="color:green">Yes!!</span>    |
+| Marble Power Blast                                                                             | <span style="color:green">Yes!!</span>    |
+| Marblelous Animals                                                                             | <span style="color:green">Yes!!</span>    |
+| Mario & Sonic at the Olympic Games: Tokyo 2020 (Europe)                                        | <span style="color:green">Yes!!</span>    |
+| Mario & Sonic at the Olympic Games: Tokyo 2020 (USA)                                           | <span style="color:green">Yes!!</span>    |
+| Mario + Rabbids: Kingdom Battle                                                                | <span style="color:green">Yes!!</span>    |
+| Mario Kart 8 Deluxe                                                                            | <span style="color:green">Yes!!</span>    |
+| Mario Kart Live: Home Circuit                                                                  | <span style="color:red">No.</span>        |
+| Mario Tennis Aces                                                                              | <span style="color:green">Yes!!</span>    |
+| Mark of the Ninja: Remastered                                                                  | <span style="color:green">Yes!!</span>    |
+| Marooners                                                                                      | <span style="color:green">Yes!!</span>    |
+| Mars Horizon                                                                                   | <span style="color:green">Yes!!</span>    |
+| Mars Power Industries                                                                          | <span style="color:green">Yes!!</span>    |
+| Marvel Ultimate Alliance 3: The Black Order                                                    | <span style="color:green">Yes!!</span>    |
+| Mary Skelter 2                                                                                 | <span style="color:green">Yes!!</span>    |
+| MathLand                                                                                       | <span style="color:green">Yes!!</span>    |
+| Max: The Curse of Brotherhood (cartridge)                                                      | <span style="color:red">No.</span>        |
+| Max: The Curse of Brotherhood (digital)                                                        | <span style="color:red">No.</span>        |
+| Maze                                                                                           | <span style="color:green">Yes!!</span>    |
+| MazM: Jekyll and Hyde                                                                          | <span style="color:green">Yes!!</span>    |
+| MechaNika                                                                                      | <span style="color:green">Yes!!</span>    |
+| Mecho Wars: Desert Ashes                                                                       | <span style="color:green">Yes!!</span>    |
+| Mechstermination Force                                                                         | <span style="color:green">Yes!!</span>    |
+| Mega Man 11                                                                                    | <span style="color:green">Yes!!</span>    |
+| Mega Man Legacy Collection                                                                     | <span style="color:green">Yes!!</span>    |
+| Mega Man Legacy Collection 2                                                                   | <span style="color:green">Yes!!</span>    |
+| Mega Man X Legacy Collection                                                                   | <span style="color:green">Yes!!</span>    |
+| Mega Man X Legacy Collection 2                                                                 | <span style="color:green">Yes!!</span>    |
+| Mega Man Zero/ZX Legacy Collection                                                             | <span style="color:green">Yes!!</span>    |
+| Megabyte Punch                                                                                 | <span style="color:green">Yes!!</span>    |
+| Megadimension Neptunia VII                                                                     | <span style="color:green">Yes!!</span>    |
+| Megadimension Neptunia VII                                                                     | <span style="color:green">Yes!!</span>    |
+| Megaquarium                                                                                    | <span style="color:green">Yes!!</span>    |
+| Melbits World                                                                                  | <span style="color:green">Yes!!</span>    |
+| Memoranda                                                                                      | <span style="color:green">Yes!!</span>    |
+| Men of Yoshiwara: Ohgiya, The                                                                  | <span style="color:red">No.</span>        |
+| Meow Motors                                                                                    | <span style="color:green">Yes!!</span>    |
+| Mercenaries Saga Chronicles                                                                    | <span style="color:red">No.</span>        |
+| Mercenary Kings: Reloaded Edition                                                              | <span style="color:green">Yes!!</span>    |
+| Mercury Race                                                                                   | <span style="color:green">Yes!!</span>    |
+| Messenger, The                                                                                 | <span style="color:green">Yes!!</span>    |
+| MetaChampions                                                                                  | <span style="color:red">No.</span>        |
+| METAGAL                                                                                        | <span style="color:green">Yes!!</span>    |
+| Metaloid: Origin                                                                               | <span style="color:green">Yes!!</span>    |
+| Metamorphosis                                                                                  | <span style="color:green">Yes!!</span>    |
+| Metropolis: Lux Obscura                                                                        | <span style="color:red">No.</span>        |
+| Metropolis: Lux Obscura (Demo)                                                                 | <span style="color:red">No.</span>        |
+| Micro Pico Racers                                                                              | <span style="color:green">Yes!!</span>    |
+| Mighty Gunvolt Burst                                                                           | <span style="color:green">Yes!!</span>    |
+| Mighty Switch Force! Collection                                                                | <span style="color:green">Yes!!</span>    |
+| Miles & Kilo                                                                                   | <span style="color:green">Yes!!</span>    |
+| MilkChoco                                                                                      | <span style="color:green">Yes!!</span>    |
+| Mims: Beginning, The                                                                           | <span style="color:green">Yes!!</span>    |
+| MIND: Path to Thalamus                                                                         | <span style="color:red">No.</span>        |
+| Mindball Play                                                                                  | <span style="color:red">No.</span>        |
+| MindSeize                                                                                      | <span style="color:green">Yes!!</span>    |
+| Minecraft                                                                                      | <span style="color:green">Yes!!</span>    |
+| Minecraft Dungeons                                                                             | <span style="color:red">No.</span>        |
+| Minecraft: Story Mode - A Telltale Games Series - The Complete Adventure                       | <span style="color:red">No.</span>        |
+| Minecraft: Switch Edition                                                                      | <span style="color:green">Yes!!</span>    |
+| Minefield                                                                                      | <span style="color:green">Yes!!</span>    |
+| Minesweeper Genius                                                                             | <span style="color:green">Yes!!</span>    |
+| Mini Island Challenge Bundle                                                                   | <span style="color:green">Yes!!</span>    |
+| Mini Metro                                                                                     | <span style="color:green">Yes!!</span>    |
+| Miniature - The Story Puzzle                                                                   | <span style="color:red">No.</span>        |
+| Ministry of Broadcast                                                                          | <span style="color:green">Yes!!</span>    |
+| Ministry of Broadcast                                                                          | <span style="color:green">Yes!!</span>    |
+| Minit                                                                                          | <span style="color:green">Yes!!</span>    |
+| Minoria                                                                                        | <span style="color:green">Yes!!</span>    |
+| Mirror                                                                                         | <span style="color:green">Yes!!</span>    |
+| Missile Command: Recharged                                                                     | <span style="color:green">Yes!!</span>    |
+| MISSING: J.J. Macfield and the Island of Memories, The                                         | <span style="color:green">Yes!!</span>    |
+| MISTOVER                                                                                       | <span style="color:green">Yes!!</span>    |
+| MISTOVER DEMO                                                                                  | <span style="color:green">Yes!!</span>    |
+| Mitsurugi Kamui Hikae                                                                          | <span style="color:green">Yes!!</span>    |
+| Mittelborg: City of Mages                                                                      | <span style="color:green">Yes!!</span>    |
+| Moai VI: Unexpected Guests                                                                     | <span style="color:green">Yes!!</span>    |
+| Modern Combat Blackout                                                                         | <span style="color:green">Yes!!</span>    |
+| Moero Chronicle Hyper                                                                          | <span style="color:green">Yes!!</span>    |
+| Momodora: Reverie Under the Moonlight                                                          | <span style="color:green">Yes!!</span>    |
+| Momonga Pinball Adventures                                                                     | <span style="color:green">Yes!!</span>    |
+| Monaco: Complete Edition                                                                       | <span style="color:green">Yes!!</span>    |
+| Monkey Barrels                                                                                 | <span style="color:green">Yes!!</span>    |
+| Monochrome World                                                                               | <span style="color:red">No.</span>        |
+| Mononoke Slashdown                                                                             | <span style="color:green">Yes!!</span>    |
+| Monopoly for Nintendo Switch                                                                   | <span style="color:red">No.</span>        |
+| Monster Boy and the Cursed Kingdom                                                             | <span style="color:green">Yes!!</span>    |
+| Monster Energy Supercross - The Official Videogame 3                                           | <span style="color:green">Yes!!</span>    |
+| Monster Energy Supercross: The Official Videogame                                              | <span style="color:red">No.</span>        |
+| Monster Energy Supercross: The Official Videogame 2                                            | <span style="color:green">Yes!!</span>    |
+| Monster Hunter Generations Ultimate                                                            | <span style="color:green">Yes!!</span>    |
+| MONSTER HUNTER GENERATIONS ULTIMATE DEMO                                                       | <span style="color:green">Yes!!</span>    |
+| Monster Jam: Crush It! (Europe)                                                                | <span style="color:red">No.</span>        |
+| Monster Jam: Crush It! (USA)                                                                   | <span style="color:red">No.</span>        |
+| Monster Jam: Steel Titans                                                                      | <span style="color:green">Yes!!</span>    |
+| Monster Prom XXL                                                                               | <span style="color:green">Yes!!</span>    |
+| Monster Puzzle                                                                                 | <span style="color:green">Yes!!</span>    |
+| Monster Slayers                                                                                | <span style="color:green">Yes!!</span>    |
+| Monster Truck Championship                                                                     | <span style="color:green">Yes!!</span>    |
+| Monstrum                                                                                       | <span style="color:green">Yes!!</span>    |
+| Moonlighter                                                                                    | <span style="color:green">Yes!!</span>    |
+| Mordheim: Warband Skirmish                                                                     | <span style="color:green">Yes!!</span>    |
+| Morphies Law: Remorphed                                                                        | <span style="color:red">No.</span>        |
+| Mortal Kombat 11                                                                               | <span style="color:red">No.</span>        |
+| Mosaic                                                                                         | <span style="color:green">Yes!!</span>    |
+| Mother Russia Bleeds                                                                           | <span style="color:green">Yes!!</span>    |
+| Moto Racer 4                                                                                   | <span style="color:green">Yes!!</span>    |
+| Moto Rush GT                                                                                   | <span style="color:green">Yes!!</span>    |
+| MotoGP 18                                                                                      | <span style="color:green">Yes!!</span>    |
+| MotoGP 19                                                                                      | <span style="color:green">Yes!!</span>    |
+| MotoGP 20                                                                                      | <span style="color:green">Yes!!</span>    |
+| Motorcycle Mechanic Simulator                                                                  | <span style="color:green">Yes!!</span>    |
+| Motorsport Manager for Nintendo Switch                                                         | <span style="color:green">Yes!!</span>    |
+| Mountain Rescue Simulator                                                                      | <span style="color:green">Yes!!</span>    |
+| Moving Out                                                                                     | <span style="color:green">Yes!!</span>    |
+| Mr. DRILLER DrillLand (DEMO)                                                                   | <span style="color:green">Yes!!</span>    |
+| Mr. Driller: Drill Land                                                                        | <span style="color:green">Yes!!</span>    |
+| Ms. Splosion Man                                                                               | <span style="color:green">Yes!!</span>    |
+| Mulaka                                                                                         | <span style="color:red">No.</span>        |
+| Mummy Demastered, The                                                                          | <span style="color:red">No.</span>        |
+| Munchkin: Quacked Quest                                                                        | <span style="color:green">Yes!!</span>    |
+| Murder by Numbers                                                                              | <span style="color:green">Yes!!</span>    |
+| Muse Dash                                                                                      | <span style="color:green">Yes!!</span>    |
+| Mushroom Heroes                                                                                | <span style="color:green">Yes!!</span>    |
+| Music Racer                                                                                    | <span style="color:green">Yes!!</span>    |
+| Musynx (USA)                                                                                   | <span style="color:green">Yes!!</span>    |
+| Mutant Football League: Dynasty Edition                                                        | <span style="color:green">Yes!!</span>    |
+| Mutant Mudds Collection (cartridge)                                                            | <span style="color:green">Yes!!</span>    |
+| Mutant Mudds Collection (digital)                                                              | <span style="color:green">Yes!!</span>    |
+| Mutant Year Zero: Road to Eden - Deluxe Edition                                                | <span style="color:green">Yes!!</span>    |
+| MX vs. ATV All Out                                                                             | <span style="color:green">Yes!!</span>    |
+| MXGP3: The Official Motocross Videogame                                                        | <span style="color:red">No.</span>        |
+| My Bewitching Perfume                                                                          | <span style="color:green">Yes!!</span>    |
+| My Bewitching Perfume Trial Version                                                            | <span style="color:green">Yes!!</span>    |
+| My Breakfast Bar                                                                               | <span style="color:green">Yes!!</span>    |
+| My Forged Wedding                                                                              | <span style="color:green">Yes!!</span>    |
+| My Friend Pedro                                                                                | <span style="color:green">Yes!!</span>    |
+| My Girlfriend is a Mermaid!?                                                                   | <span style="color:green">Yes!!</span>    |
+| My Hero One's Justice                                                                          | <span style="color:green">Yes!!</span>    |
+| My Hero One's Justice 2                                                                        | <span style="color:green">Yes!!</span>    |
+| My Little Riding Champion                                                                      | <span style="color:green">Yes!!</span>    |
+| My Lovely Daughter                                                                             | <span style="color:green">Yes!!</span>    |
+| My Riding Stables 2: A New Adventure                                                           | <span style="color:green">Yes!!</span>    |
+| My Riding Stables: Life with Horses (Europe)                                                   | <span style="color:green">Yes!!</span>    |
+| My Time At Portia                                                                              | <span style="color:red">No.</span>        |
+| My Universe - Fashion Boutique                                                                 | <span style="color:green">Yes!!</span>    |
+| My Universe - My Baby                                                                          | <span style="color:green">Yes!!</span>    |
+| My Universe - School Teacher                                                                   | <span style="color:green">Yes!!</span>    |
+| Mystery of Woolley Mountain, The                                                               | <span style="color:green">Yes!!</span>    |
+| N++                                                                                            | <span style="color:green">Yes!!</span>    |
+| Namco Museum Arcade Pac                                                                        | <span style="color:red">No.</span>        |
+| Namco Museum Archives Vol. 1                                                                   | <span style="color:green">Yes!!</span>    |
+| Namco Museum Archives Vol. 2                                                                   | <span style="color:green">Yes!!</span>    |
+| Narcos: Rise of the Cartels                                                                    | <span style="color:green">Yes!!</span>    |
+| Naruto Shippuden: Ultimate Ninja Storm 4 - Road to Boruto (Europe)                             | <span style="color:green">Yes!!</span>    |
+| Naruto Shippuden: Ultimate Ninja Storm 4 - Road to Boruto (USA)                                | <span style="color:green">Yes!!</span>    |
+| Naruto Shippuden: Ultimate Ninja Storm Trilogy                                                 | <span style="color:green">Yes!!</span>    |
+| Naught                                                                                         | <span style="color:green">Yes!!</span>    |
+| NBA 2K Playgrounds 2                                                                           | <span style="color:green">Yes!!</span>    |
+| NBA 2K18                                                                                       | <span style="color:red">No.</span>        |
+| NBA 2K19                                                                                       | <span style="color:green">Yes!!</span>    |
+| NBA 2K20                                                                                       | <span style="color:red">No.</span>        |
+| NBA 2K20 Demo                                                                                  | <span style="color:red">No.</span>        |
+| NBA 2K21                                                                                       | <span style="color:red">No.</span>        |
+| Necrosphere Deluxe                                                                             | <span style="color:green">Yes!!</span>    |
+| NecroWorm                                                                                      | <span style="color:green">Yes!!</span>    |
+| Need a packet?                                                                                 | <span style="color:green">Yes!!</span>    |
+| Need for Speed: Hot Pursuit Remastered                                                         | <span style="color:green">Yes!!</span>    |
+| Neighbours back From Hell                                                                      | <span style="color:green">Yes!!</span>    |
+| Neko Navy: Daydream Edition                                                                    | <span style="color:green">Yes!!</span>    |
+| NEKOPARA Vol.1                                                                                 | <span style="color:green">Yes!!</span>    |
+| NEKOPARA Vol.2                                                                                 | <span style="color:green">Yes!!</span>    |
+| NEKOPARA Vol.3                                                                                 | <span style="color:green">Yes!!</span>    |
+| Nelke & the Legendary Alchemists ~Ateliers of the New World~                                   | <span style="color:green">Yes!!</span>    |
+| Nelly Cootalot: The Fowl Fleet                                                                 | <span style="color:green">Yes!!</span>    |
+| Neo Atlas 1469 (cartridge)                                                                     | <span style="color:red">No.</span>        |
+| Neo Atlas 1469 (digital)                                                                       | <span style="color:red">No.</span>        |
+| Neo Cab                                                                                        | <span style="color:green">Yes!!</span>    |
+| Neo Cab Demo                                                                                   | <span style="color:green">Yes!!</span>    |
+| Neon Abyss                                                                                     | <span style="color:green">Yes!!</span>    |
+| Neon Abyss Demo                                                                                | <span style="color:green">Yes!!</span>    |
+| Neon City Riders                                                                               | <span style="color:green">Yes!!</span>    |
+| Neonwall                                                                                       | <span style="color:green">Yes!!</span>    |
+| Nevaeh                                                                                         | <span style="color:green">Yes!!</span>    |
+| Never Breakup                                                                                  | <span style="color:green">Yes!!</span>    |
+| Never Give Up                                                                                  | <span style="color:green">Yes!!</span>    |
+| Neverout                                                                                       | <span style="color:red">No.</span>        |
+| Neversong                                                                                      | <span style="color:green">Yes!!</span>    |
+| Neverwinter Nights: Enhanced Edition                                                           | <span style="color:green">Yes!!</span>    |
+| New Star Manager                                                                               | <span style="color:green">Yes!!</span>    |
+| New Super Lucky's Tale                                                                         | <span style="color:green">Yes!!</span>    |
+| New Super Lucky's Tale (Europe, cartridge)                                                     | <span style="color:green">Yes!!</span>    |
+| New Super Mario Bros. U Deluxe                                                                 | <span style="color:green">Yes!!</span>    |
+| Newt One                                                                                       | <span style="color:green">Yes!!</span>    |
+| Newton's Cradle Puzzle Game                                                                    | <span style="color:green">Yes!!</span>    |
+| Nexomon: Extinction                                                                            | <span style="color:green">Yes!!</span>    |
+| Ni no Kuni: Wrath of the White Witch                                                           | <span style="color:green">Yes!!</span>    |
+| Nice Slice                                                                                     | <span style="color:green">Yes!!</span>    |
+| Niche - a genetics survival game                                                               | <span style="color:green">Yes!!</span>    |
+| Nickelodeon Kart Racers (Europe)                                                               | <span style="color:green">Yes!!</span>    |
+| Nickelodeon Kart Racers (USA)                                                                  | <span style="color:green">Yes!!</span>    |
+| Nickelodeon Kart Racers 2: Grand Prix                                                          | <span style="color:green">Yes!!</span>    |
+| Nicky: The Home Alone Golf Ball                                                                | <span style="color:green">Yes!!</span>    |
+| Niffelheim                                                                                     | <span style="color:green">Yes!!</span>    |
+| Night Call                                                                                     | <span style="color:green">Yes!!</span>    |
+| Night Trap: 25th Anniversary Edition (Europe)                                                  | <span style="color:red">No.</span>        |
+| Night Trap: 25th Anniversary Edition (USA)                                                     | <span style="color:red">No.</span>        |
+| Nightfall, The                                                                                 | <span style="color:green">Yes!!</span>    |
+| Nightmare Boy                                                                                  | <span style="color:red">No.</span>        |
+| Nights of Azure 2: Bride of the New Moon                                                       | <span style="color:red">No.</span>        |
+| Nine Parchments Demo                                                                           | <span style="color:red">No.</span>        |
+| Nine Witches                                                                                   | <span style="color:green">Yes!!</span>    |
+| Ninja Village                                                                                  | <span style="color:green">Yes!!</span>    |
+| Ninjala                                                                                        | <span style="color:green">Yes!!</span>    |
+| Ninjala Exclusive Ninja Club                                                                   | <span style="color:green">Yes!!</span>    |
+| Nintendo Entertainment System - Nintendo Switch Online                                         | <span style="color:green">Yes!!</span>    |
+| Nintendo Labo Toy-Con 02: Robot Kit                                                            | <span style="color:green">Yes!!</span>    |
+| Nintendo Labo Toy-Con 03: Vehicle Kit                                                          | <span style="color:green">Yes!!</span>    |
+| Nippon Marathon                                                                                | <span style="color:green">Yes!!</span>    |
+| Nirvana Pilot Yume                                                                             | <span style="color:green">Yes!!</span>    |
+| No More Heroes                                                                                 | <span style="color:green">Yes!!</span>    |
+| No More Heroes 2: Desperate Struggle                                                           | <span style="color:green">Yes!!</span>    |
+| No Straight Roads                                                                              | <span style="color:green">Yes!!</span>    |
+| No Time to Relax                                                                               | <span style="color:green">Yes!!</span>    |
+| Northgard                                                                                      | <span style="color:green">Yes!!</span>    |
+| Not Not - A Brain Buster                                                                       | <span style="color:green">Yes!!</span>    |
+| Not Tonight: Take Back Control Edition                                                         | <span style="color:green">Yes!!</span>    |
+| Nowhere Prophet                                                                                | <span style="color:green">Yes!!</span>    |
+| Nuclear Throne                                                                                 | <span style="color:green">Yes!!</span>    |
+| Number Place 10000                                                                             | <span style="color:green">Yes!!</span>    |
+| Nyan Cat: Lost in Space                                                                        | <span style="color:green">Yes!!</span>    |
+| Obakeidoro!                                                                                    | <span style="color:green">Yes!!</span>    |
+| Oceanhorn 2: Knights of the Lost Realm                                                         | <span style="color:green">Yes!!</span>    |
+| Oceanhorn: Monster of Uncharted Seas                                                           | <span style="color:green">Yes!!</span>    |
+| Octahedron: Transfixed Edition                                                                 | <span style="color:green">Yes!!</span>    |
+| Octopath Traveler                                                                              | <span style="color:red">No.</span>        |
+| Odallus: The Dark Call                                                                         | <span style="color:green">Yes!!</span>    |
+| Oddmar                                                                                         | <span style="color:green">Yes!!</span>    |
+| Oddworld: Munch's Oddysee                                                                      | <span style="color:green">Yes!!</span>    |
+| Oddworld: Stranger's Wrath HD                                                                  | <span style="color:green">Yes!!</span>    |
+| Odium to the Core                                                                              | <span style="color:green">Yes!!</span>    |
+| Office Quest, The                                                                              | <span style="color:red">No.</span>        |
+| Offroad Racing - Buggy X ATV X Moto                                                            | <span style="color:green">Yes!!</span>    |
+| Okami HD                                                                                       | <span style="color:green">Yes!!</span>    |
+| Okinaki                                                                                        | <span style="color:green">Yes!!</span>    |
+| OkunoKA                                                                                        | <span style="color:green">Yes!!</span>    |
+| Old Man's Journey                                                                              | <span style="color:green">Yes!!</span>    |
+| Old School Musical                                                                             | <span style="color:green">Yes!!</span>    |
+| Old School Racer 2                                                                             | <span style="color:green">Yes!!</span>    |
+| OlliOlli: Switch Stance                                                                        | <span style="color:green">Yes!!</span>    |
+| Omega Labyrinth Life                                                                           | <span style="color:green">Yes!!</span>    |
+| Omensight: Definitive Edition                                                                  | <span style="color:red">No.</span>        |
+| OMG Police - Car Chase TV Simulator                                                            | <span style="color:green">Yes!!</span>    |
+| Omvorm                                                                                         | <span style="color:green">Yes!!</span>    |
+| One Finger Death Punch 2                                                                       | <span style="color:green">Yes!!</span>    |
+| One Piece: Pirate Warriors 3 - Deluxe Edition                                                  | <span style="color:red">No.</span>        |
+| One Piece: Pirate Warriors 4 (Europe)                                                          | <span style="color:green">Yes!!</span>    |
+| One Piece: Pirate Warriors 4 (USA)                                                             | <span style="color:green">Yes!!</span>    |
+| One Piece: Unlimited World Red - Deluxe Edition                                                | <span style="color:red">No.</span>        |
+| One Step From Eden                                                                             | <span style="color:green">Yes!!</span>    |
+| One Strike                                                                                     | <span style="color:green">Yes!!</span>    |
+| One Way Heroics Plus                                                                           | <span style="color:green">Yes!!</span>    |
+| One-Way Ticket                                                                                 | <span style="color:green">Yes!!</span>    |
+| Oneiros                                                                                        | <span style="color:green">Yes!!</span>    |
+| Onigiri                                                                                        | <span style="color:green">Yes!!</span>    |
+| Oniken: Unstoppable Edition                                                                    | <span style="color:green">Yes!!</span>    |
+| Onimusha: Warlords                                                                             | <span style="color:green">Yes!!</span>    |
+| ONINAKI Demo                                                                                   | <span style="color:green">Yes!!</span>    |
+| oOo: Ascension                                                                                 | <span style="color:green">Yes!!</span>    |
+| Operación Triunfo 2017                                                                         | <span style="color:green">Yes!!</span>    |
+| OPUS Collection (cartridge)                                                                    | <span style="color:green">Yes!!</span>    |
+| OPUS: Rocket of Whispers                                                                       | <span style="color:green">Yes!!</span>    |
+| OPUS: The Day We Found Earth                                                                   | <span style="color:green">Yes!!</span>    |
+| Orangeblood                                                                                    | <span style="color:green">Yes!!</span>    |
+| Ori and the Will of the Wisps                                                                  | <span style="color:green">Yes!!</span>    |
+| Original Mobile Games, The                                                                     | <span style="color:green">Yes!!</span>    |
+| Othercide                                                                                      | <span style="color:green">Yes!!</span>    |
+| Otokomizu                                                                                      | <span style="color:green">Yes!!</span>    |
+| OTTTD: Over The Top Tower Defense                                                              | <span style="color:green">Yes!!</span>    |
+| Our Two Bedroom Story                                                                          | <span style="color:green">Yes!!</span>    |
+| Our World Is Ended.                                                                            | <span style="color:green">Yes!!</span>    |
+| Outbuddies DX                                                                                  | <span style="color:green">Yes!!</span>    |
+| Outer Worlds, The                                                                              | <span style="color:red">No.</span>        |
+| Outlast 2                                                                                      | <span style="color:green">Yes!!</span>    |
+| Outlast: Bundle of Terror                                                                      | <span style="color:green">Yes!!</span>    |
+| Outpost Delta                                                                                  | <span style="color:green">Yes!!</span>    |
+| Overcooked! 2                                                                                  | <span style="color:green">Yes!!</span>    |
+| Overcooked!: Special Edition                                                                   | <span style="color:red">No.</span>        |
+| Overdriven Reloaded: Special Edition                                                           | <span style="color:green">Yes!!</span>    |
+| Overland                                                                                       | <span style="color:green">Yes!!</span>    |
+| Overlanders                                                                                    | <span style="color:red">No.</span>        |
+| Overpass                                                                                       | <span style="color:green">Yes!!</span>    |
+| Overwatch                                                                                      | <span style="color:red">No.</span>        |
+| Overwhelm                                                                                      | <span style="color:green">Yes!!</span>    |
+| Owlboy (cartridge)                                                                             | <span style="color:green">Yes!!</span>    |
+| Owlboy (digital)                                                                               | <span style="color:green">Yes!!</span>    |
+| Oxenfree (cartridge)                                                                           | <span style="color:red">No.</span>        |
+| Oxenfree (digital)                                                                             | <span style="color:red">No.</span>        |
+| Oxyjet                                                                                         | <span style="color:green">Yes!!</span>    |
+| Pac-Man Championship Edition 2 Plus                                                            | <span style="color:red">No.</span>        |
+| Pachi Pachi on a roll                                                                          | <span style="color:green">Yes!!</span>    |
+| Paladins: Champions of the Realm                                                               | <span style="color:red">No.</span>        |
+| Panda Hero                                                                                     | <span style="color:green">Yes!!</span>    |
+| Pandemic                                                                                       | <span style="color:green">Yes!!</span>    |
+| Pang Adventures                                                                                | <span style="color:green">Yes!!</span>    |
+| Pankapu                                                                                        | <span style="color:green">Yes!!</span>    |
+| Panty Party                                                                                    | <span style="color:green">Yes!!</span>    |
+| Panzer Dragoon: Remake                                                                         | <span style="color:green">Yes!!</span>    |
+| Panzer Paladin                                                                                 | <span style="color:green">Yes!!</span>    |
+| Paper Mario: The Origami King                                                                  | <span style="color:green">Yes!!</span>    |
+| Paper Train                                                                                    | <span style="color:green">Yes!!</span>    |
+| Paradise Killer                                                                                | <span style="color:green">Yes!!</span>    |
+| Park, The                                                                                      | <span style="color:green">Yes!!</span>    |
+| Party Arcade                                                                                   | <span style="color:green">Yes!!</span>    |
+| Party Hard                                                                                     | <span style="color:green">Yes!!</span>    |
+| Party Hard 2                                                                                   | <span style="color:green">Yes!!</span>    |
+| Party Planet                                                                                   | <span style="color:red">No.</span>        |
+| Passpartout: The Starving Artist                                                               | <span style="color:green">Yes!!</span>    |
+| Pato Box                                                                                       | <span style="color:green">Yes!!</span>    |
+| Paw Patrol: Mighty Pups Save Adventure Bay!                                                    | <span style="color:green">Yes!!</span>    |
+| PAW Patrol: On a Roll                                                                          | <span style="color:green">Yes!!</span>    |
+| Pawarumi                                                                                       | <span style="color:green">Yes!!</span>    |
+| Payday 2                                                                                       | <span style="color:red">No.</span>        |
+| PBA Pro Bowling                                                                                | <span style="color:green">Yes!!</span>    |
+| PC Building Simulator                                                                          | <span style="color:green">Yes!!</span>    |
+| Pen and Paper Games Bundle                                                                     | <span style="color:green">Yes!!</span>    |
+| Penny-Punching Princess                                                                        | <span style="color:red">No.</span>        |
+| Perfect Traffic Simulator                                                                      | <span style="color:green">Yes!!</span>    |
+| Perils of Baking                                                                               | <span style="color:green">Yes!!</span>    |
+| Perseverance                                                                                   | <span style="color:green">Yes!!</span>    |
+| Persistence, The                                                                               | <span style="color:green">Yes!!</span>    |
+| Pet Shop Snacks                                                                                | <span style="color:green">Yes!!</span>    |
+| Petal Crash                                                                                    | <span style="color:green">Yes!!</span>    |
+| Petoons Party                                                                                  | <span style="color:green">Yes!!</span>    |
+| PGA Tour 2K21                                                                                  | <span style="color:red">No.</span>        |
+| Phantom Breaker: Battle Grounds Overdrive                                                      | <span style="color:red">No.</span>        |
+| Phar Lap: Horse Racing Challenge                                                               | <span style="color:green">Yes!!</span>    |
+| Phoenix Wright: Ace Attorney Trilogy                                                           | <span style="color:green">Yes!!</span>    |
+| Phoenotopia Awakening                                                                          | <span style="color:green">Yes!!</span>    |
+| Phoenotopia: Awakening                                                                         | <span style="color:green">Yes!!</span>    |
+| Pianista: The Legendary Virtuoso                                                               | <span style="color:green">Yes!!</span>    |
+| Pic-a-Pix Deluxe                                                                               | <span style="color:green">Yes!!</span>    |
+| Pic-a-Pix Pieces                                                                               | <span style="color:green">Yes!!</span>    |
+| PICO PARK                                                                                      | <span style="color:green">Yes!!</span>    |
+| Picross S                                                                                      | <span style="color:green">Yes!!</span>    |
+| Picross S2                                                                                     | <span style="color:green">Yes!!</span>    |
+| Picross S3                                                                                     | <span style="color:green">Yes!!</span>    |
+| Picross: Lord of the Nazarick                                                                  | <span style="color:green">Yes!!</span>    |
+| PictoQuest                                                                                     | <span style="color:green">Yes!!</span>    |
+| Picture Painting Puzzle 1000!                                                                  | <span style="color:green">Yes!!</span>    |
+| Piczle Colors                                                                                  | <span style="color:green">Yes!!</span>    |
+| Piczle Cross Adventure                                                                         | <span style="color:green">Yes!!</span>    |
+| Piczle Lines DX                                                                                | <span style="color:red">No.</span>        |
+| Piffle                                                                                         | <span style="color:green">Yes!!</span>    |
+| Pikmin 3 Deluxe                                                                                | <span style="color:green">Yes!!</span>    |
+| Pikuniku                                                                                       | <span style="color:green">Yes!!</span>    |
+| Pillars of Eternity: Complete Edition                                                          | <span style="color:green">Yes!!</span>    |
+| Pilot Sports                                                                                   | <span style="color:green">Yes!!</span>    |
+| Pinball FX3                                                                                    | <span style="color:green">Yes!!</span>    |
+| Pine                                                                                           | <span style="color:green">Yes!!</span>    |
+| Piofiore: Fated Memories                                                                       | <span style="color:green">Yes!!</span>    |
+| Piofiore: Fated Memories                                                                       | <span style="color:green">Yes!!</span>    |
+| Pipe Push Paradise                                                                             | <span style="color:green">Yes!!</span>    |
+| Pitfall Planet                                                                                 | <span style="color:green">Yes!!</span>    |
+| Pix the Cat                                                                                    | <span style="color:green">Yes!!</span>    |
+| PixARK                                                                                         | <span style="color:green">Yes!!</span>    |
+| Pixboy                                                                                         | <span style="color:green">Yes!!</span>    |
+| Pixel Action Heroes                                                                            | <span style="color:green">Yes!!</span>    |
+| Pixel Devil and the Broken Cartridge                                                           | <span style="color:green">Yes!!</span>    |
+| PixelJunk Monsters 2                                                                           | <span style="color:red">No.</span>        |
+| PixelJunk Monsters 2                                                                           | <span style="color:red">No.</span>        |
+| Pizza Bar Tycoon                                                                               | <span style="color:green">Yes!!</span>    |
+| Plague Inc: Evolved                                                                            | <span style="color:green">Yes!!</span>    |
+| Planescape: Torment and Icewind Dale: Enhanced Editions                                        | <span style="color:green">Yes!!</span>    |
+| planetarian                                                                                    | <span style="color:red">No.</span>        |
+| Planetary Defense Force                                                                        | <span style="color:green">Yes!!</span>    |
+| PlataGO! Super Platform Game Maker                                                             | <span style="color:green">Yes!!</span>    |
+| Please, Don't Touch Anything                                                                   | <span style="color:green">Yes!!</span>    |
+| Ploid Saga                                                                                     | <span style="color:green">Yes!!</span>    |
+| Plunge                                                                                         | <span style="color:green">Yes!!</span>    |
+| Pocket Academy                                                                                 | <span style="color:green">Yes!!</span>    |
+| Pocket Clothier                                                                                | <span style="color:green">Yes!!</span>    |
+| Pode                                                                                           | <span style="color:green">Yes!!</span>    |
+| Poi: Explorer Edition (digital)                                                                | <span style="color:red">No.</span>        |
+| Poker Hands                                                                                    | <span style="color:green">Yes!!</span>    |
+| Pokken Tournament DX                                                                           | <span style="color:green">Yes!!</span>    |
+| Pokémon Café Mix                                                                               | <span style="color:green">Yes!!</span>    |
+| Pokémon HOME                                                                                   | <span style="color:green">Yes!!</span>    |
+| Pokémon Mystery Dungeon Rescue Team DX                                                         | <span style="color:green">Yes!!</span>    |
+| Pokémon Shield                                                                                 | <span style="color:green">Yes!!</span>    |
+| Pokémon Shield                                                                                 | <span style="color:green">Yes!!</span>    |
+| Pokémon Sword                                                                                  | <span style="color:green">Yes!!</span>    |
+| Pokémon Sword                                                                                  | <span style="color:green">Yes!!</span>    |
+| Pokémon: Let's Go, Eevee!                                                                      | <span style="color:green">Yes!!</span>    |
+| Pokémon: Let's Go, Pikachu!                                                                    | <span style="color:green">Yes!!</span>    |
+| Polandball: Can Into Space!                                                                    | <span style="color:green">Yes!!</span>    |
+| Police Stories                                                                                 | <span style="color:green">Yes!!</span>    |
+| Poly Bridge                                                                                    | <span style="color:red">No.</span>        |
+| Poly Puzzle                                                                                    | <span style="color:green">Yes!!</span>    |
+| Polyroll                                                                                       | <span style="color:green">Yes!!</span>    |
+| PONG Quest                                                                                     | <span style="color:green">Yes!!</span>    |
+| Portal Dogs                                                                                    | <span style="color:green">Yes!!</span>    |
+| Portal Knights                                                                                 | <span style="color:green">Yes!!</span>    |
+| Portal Knights Demo                                                                            | <span style="color:green">Yes!!</span>    |
+| Postal REDUX                                                                                   | <span style="color:green">Yes!!</span>    |
+| Potata: Fairy Flower                                                                           | <span style="color:green">Yes!!</span>    |
+| Power Rangers: Battle for the Grid                                                             | <span style="color:green">Yes!!</span>    |
+| Prime World Defenders                                                                          | <span style="color:green">Yes!!</span>    |
+| Princess Guide, The                                                                            | <span style="color:green">Yes!!</span>    |
+| Princess Maker Go!Go! Princess                                                                 | <span style="color:green">Yes!!</span>    |
+| Princess Maker: Faery Tales Come True                                                          | <span style="color:green">Yes!!</span>    |
+| Prinny 2: Dawn of Operation Panties, Dood!                                                     | <span style="color:green">Yes!!</span>    |
+| Prinny: Can I Really Be the Hero?                                                              | <span style="color:green">Yes!!</span>    |
+| Prison Architect: Nintendo Switch Edition                                                      | <span style="color:green">Yes!!</span>    |
+| Prison Princess                                                                                | <span style="color:green">Yes!!</span>    |
+| Professor Lupo and his Horrible Pets                                                           | <span style="color:green">Yes!!</span>    |
+| Professor Lupo and his Horrible Pets (Demo)                                                    | <span style="color:green">Yes!!</span>    |
+| Professor Rubik's Brain Fitness                                                                | <span style="color:green">Yes!!</span>    |
+| Project Highrise: Architect's Edition                                                          | <span style="color:green">Yes!!</span>    |
+| Project Nimbus: Complete Edition                                                               | <span style="color:green">Yes!!</span>    |
+| Project Warlock                                                                                | <span style="color:green">Yes!!</span>    |
+| Projection: First Light                                                                        | <span style="color:green">Yes!!</span>    |
+| Puddle Knights                                                                                 | <span style="color:green">Yes!!</span>    |
+| Pumped BMX Pro                                                                                 | <span style="color:green">Yes!!</span>    |
+| Pumpkin Jack                                                                                   | <span style="color:green">Yes!!</span>    |
+| PuPaiPo Space Deluxe                                                                           | <span style="color:green">Yes!!</span>    |
+| Pure / Electric Love Everyone else! - Ema Sakura -                                             | <span style="color:red">No.</span>        |
+| Pure / Electric Love Look at my eyes! - Moe Yamauchi -                                         | <span style="color:red">No.</span>        |
+| Pure / Electric Love What do you want? - Eri Kitami -                                          | <span style="color:red">No.</span>        |
+| Pure Mahjong                                                                                   | <span style="color:green">Yes!!</span>    |
+| Purrs in heaven                                                                                | <span style="color:green">Yes!!</span>    |
+| Push the Box - Puzzle Game                                                                     | <span style="color:green">Yes!!</span>    |
+| Puyo Puyo Champions                                                                            | <span style="color:green">Yes!!</span>    |
+| Puyo Puyo Tetris (Europe)                                                                      | <span style="color:red">No.</span>        |
+| Puyo Puyo Tetris (USA)                                                                         | <span style="color:red">No.</span>        |
+| Puzzle Book                                                                                    | <span style="color:green">Yes!!</span>    |
+| Puzzle Box Maker                                                                               | <span style="color:green">Yes!!</span>    |
+| Puzzle Quest: The Legend Returns                                                               | <span style="color:green">Yes!!</span>    |
+| Puzzles for Toddlers & Kids: Animals, Cars and more                                            | <span style="color:green">Yes!!</span>    |
+| Pyraplex, The                                                                                  | <span style="color:green">Yes!!</span>    |
+| Q-YO Blaster                                                                                   | <span style="color:green">Yes!!</span>    |
+| Q.U.B.E. 2                                                                                     | <span style="color:green">Yes!!</span>    |
+| Quench                                                                                         | <span style="color:green">Yes!!</span>    |
+| Quest Hunter                                                                                   | <span style="color:green">Yes!!</span>    |
+| Quest Hunter Demo                                                                              | <span style="color:green">Yes!!</span>    |
+| R-Type Dimensions EX                                                                           | <span style="color:green">Yes!!</span>    |
+| R.B.I. Baseball 17                                                                             | <span style="color:red">No.</span>        |
+| R.B.I. Baseball 19                                                                             | <span style="color:green">Yes!!</span>    |
+| R.B.I. Baseball 20                                                                             | <span style="color:green">Yes!!</span>    |
+| Rabi-Ribi                                                                                      | <span style="color:green">Yes!!</span>    |
+| Race With Ryan                                                                                 | <span style="color:red">No.</span>        |
+| Rack N Ruin                                                                                    | <span style="color:green">Yes!!</span>    |
+| Rad                                                                                            | <span style="color:red">No.</span>        |
+| Rad Rodgers: Radical Edition                                                                   | <span style="color:green">Yes!!</span>    |
+| Radiation City                                                                                 | <span style="color:green">Yes!!</span>    |
+| Radical Rabbit Stew                                                                            | <span style="color:green">Yes!!</span>    |
+| Raging Justice                                                                                 | <span style="color:green">Yes!!</span>    |
+| Raiden V: Director's Cut                                                                       | <span style="color:green">Yes!!</span>    |
+| Raiders of the North Sea                                                                       | <span style="color:green">Yes!!</span>    |
+| Railway Empire                                                                                 | <span style="color:green">Yes!!</span>    |
+| Rain City                                                                                      | <span style="color:green">Yes!!</span>    |
+| Rain World                                                                                     | <span style="color:green">Yes!!</span>    |
+| Rainbows, toilets & unicorns                                                                   | <span style="color:green">Yes!!</span>    |
+| Raining Blobs                                                                                  | <span style="color:green">Yes!!</span>    |
+| Rainswept                                                                                      | <span style="color:green">Yes!!</span>    |
+| Raji:An Ancient Epic                                                                           | <span style="color:green">Yes!!</span>    |
+| Rally Racers                                                                                   | <span style="color:red">No.</span>        |
+| Rally Rock 'N Racing                                                                           | <span style="color:green">Yes!!</span>    |
+| Ramen Sensei, The                                                                              | <span style="color:green">Yes!!</span>    |
+| Rapala Fishing Pro Series (Europe)                                                             | <span style="color:green">Yes!!</span>    |
+| Rapala Fishing Pro Series (USA)                                                                | <span style="color:green">Yes!!</span>    |
+| Rascal Fight                                                                                   | <span style="color:green">Yes!!</span>    |
+| Raven Remastered, The                                                                          | <span style="color:green">Yes!!</span>    |
+| Rawr-Off                                                                                       | <span style="color:green">Yes!!</span>    |
+| Rayman Legends: Definitive Edition                                                             | <span style="color:red">No.</span>        |
+| Rayman Legends: Definitive Edition (Demo)                                                      | <span style="color:red">No.</span>        |
+| Realm Royale                                                                                   | <span style="color:red">No.</span>        |
+| realMyst: Masterpiece Edition                                                                  | <span style="color:green">Yes!!</span>    |
+| Reaper                                                                                         | <span style="color:green">Yes!!</span>    |
+| Rebel Cops                                                                                     | <span style="color:green">Yes!!</span>    |
+| Red Lantern, The                                                                               | <span style="color:green">Yes!!</span>    |
+| Red Siren: Space Defense                                                                       | <span style="color:red">No.</span>        |
+| Red Strings Club, The                                                                          | <span style="color:green">Yes!!</span>    |
+| Red Wings: Aces of the Sky                                                                     | <span style="color:green">Yes!!</span>    |
+| Redeemer: Enhanced Edition                                                                     | <span style="color:green">Yes!!</span>    |
+| Redout                                                                                         | <span style="color:green">Yes!!</span>    |
+| Reflex Unit 2                                                                                  | <span style="color:green">Yes!!</span>    |
+| Regalia: Of Men and Monarchs - Royal Edition                                                   | <span style="color:green">Yes!!</span>    |
+| Regina & Mac                                                                                   | <span style="color:green">Yes!!</span>    |
+| Regions of Ruin                                                                                | <span style="color:green">Yes!!</span>    |
+| REKT! High Octane Stunts                                                                       | <span style="color:green">Yes!!</span>    |
+| Relic Hunters Zero: Remix                                                                      | <span style="color:green">Yes!!</span>    |
+| RemiLore                                                                                       | <span style="color:green">Yes!!</span>    |
+| Remnants of Naezith                                                                            | <span style="color:green">Yes!!</span>    |
+| Remothered Tormented Fathers (cartridge)                                                       | <span style="color:red">No.</span>        |
+| Remothered: Broken Porcelain                                                                   | <span style="color:green">Yes!!</span>    |
+| Remothered: Tormented Fathers                                                                  | <span style="color:red">No.</span>        |
+| Renegade                                                                                       | <span style="color:green">Yes!!</span>    |
+| Rento Fortune                                                                                  | <span style="color:green">Yes!!</span>    |
+| Replica                                                                                        | <span style="color:green">Yes!!</span>    |
+| Rescue Tale                                                                                    | <span style="color:green">Yes!!</span>    |
+| Resident Evil                                                                                  | <span style="color:green">Yes!!</span>    |
+| Resident Evil 0                                                                                | <span style="color:green">Yes!!</span>    |
+| Resident Evil 4                                                                                | <span style="color:green">Yes!!</span>    |
+| Resident Evil: Revelations                                                                     | <span style="color:red">No.</span>        |
+| Resident Evil: Revelations 2                                                                   | <span style="color:red">No.</span>        |
+| Resolutiion                                                                                    | <span style="color:green">Yes!!</span>    |
+| Rest in Pieces                                                                                 | <span style="color:green">Yes!!</span>    |
+| Restless Hero                                                                                  | <span style="color:green">Yes!!</span>    |
+| Retimed                                                                                        | <span style="color:green">Yes!!</span>    |
+| Retimed Demo                                                                                   | <span style="color:green">Yes!!</span>    |
+| Retro City Rampage DX                                                                          | <span style="color:green">Yes!!</span>    |
+| Revenant Dogma                                                                                 | <span style="color:green">Yes!!</span>    |
+| Reventure                                                                                      | <span style="color:green">Yes!!</span>    |
+| Reverie: Sweet As Edition                                                                      | <span style="color:green">Yes!!</span>    |
+| Revertia                                                                                       | <span style="color:green">Yes!!</span>    |
+| REZ PLZ                                                                                        | <span style="color:green">Yes!!</span>    |
+| Rhythm of the Gods                                                                             | <span style="color:green">Yes!!</span>    |
+| RICO                                                                                           | <span style="color:green">Yes!!</span>    |
+| Riddled Corpses EX                                                                             | <span style="color:green">Yes!!</span>    |
+| Rigid Force Redux                                                                              | <span style="color:green">Yes!!</span>    |
+| RiME                                                                                           | <span style="color:red">No.</span>        |
+| Ring Fit Adventure                                                                             | <span style="color:green">Yes!!</span>    |
+| Ring of Pain                                                                                   | <span style="color:green">Yes!!</span>    |
+| RIOT: Civil Unrest                                                                             | <span style="color:green">Yes!!</span>    |
+| RISE: Race to the Future                                                                       | <span style="color:green">Yes!!</span>    |
+| Risk of Rain                                                                                   | <span style="color:green">Yes!!</span>    |
+| Risk of Rain 2                                                                                 | <span style="color:green">Yes!!</span>    |
+| RISK: The Game of Global Domination                                                            | <span style="color:green">Yes!!</span>    |
+| Ritual                                                                                         | <span style="color:green">Yes!!</span>    |
+| Ritual: Crown of Horns                                                                         | <span style="color:green">Yes!!</span>    |
+| Rival Megagun                                                                                  | <span style="color:green">Yes!!</span>    |
+| RIVE: Ultimate Edition                                                                         | <span style="color:green">Yes!!</span>    |
+| River City Girls                                                                               | <span style="color:green">Yes!!</span>    |
+| River City Melee Mach!!                                                                        | <span style="color:green">Yes!!</span>    |
+| River City Ransom                                                                              | <span style="color:green">Yes!!</span>    |
+| RMX Real Motorcross                                                                            | <span style="color:green">Yes!!</span>    |
+| Road Redemption                                                                                | <span style="color:green">Yes!!</span>    |
+| Robot Squad Simulator 2017                                                                     | <span style="color:green">Yes!!</span>    |
+| Robothorium                                                                                    | <span style="color:green">Yes!!</span>    |
+| Rock of Ages 2: Bigger & Boulder                                                               | <span style="color:red">No.</span>        |
+| Rock of Ages 3: Make & Break                                                                   | <span style="color:red">No.</span>        |
+| Rocket League                                                                                  | <span style="color:green">Yes!!</span>    |
+| Rogue Company                                                                                  | <span style="color:red">No.</span>        |
+| Rogue Company Demo                                                                             | <span style="color:red">No.</span>        |
+| Rogue Legacy                                                                                   | <span style="color:green">Yes!!</span>    |
+| Rogue Robots                                                                                   | <span style="color:green">Yes!!</span>    |
+| Rogue Singularity                                                                              | <span style="color:green">Yes!!</span>    |
+| RollerCoaster Tycoon 3: Complete Edition                                                       | <span style="color:green">Yes!!</span>    |
+| RollerCoaster Tycoon Adventures                                                                | <span style="color:red">No.</span>        |
+| Rollin' Eggz                                                                                   | <span style="color:green">Yes!!</span>    |
+| Rolling Gunner                                                                                 | <span style="color:green">Yes!!</span>    |
+| Romancing SaGa 2                                                                               | <span style="color:red">No.</span>        |
+| Romancing SaGa 3                                                                               | <span style="color:green">Yes!!</span>    |
+| Roof Rage                                                                                      | <span style="color:green">Yes!!</span>    |
+| Room, The                                                                                      | <span style="color:green">Yes!!</span>    |
+| Roombo: First Blood                                                                            | <span style="color:green">Yes!!</span>    |
+| Rooms: The Adventure of Anne & George                                                          | <span style="color:green">Yes!!</span>    |
+| Root Letter: Last Answer                                                                       | <span style="color:green">Yes!!</span>    |
+| Roundguard                                                                                     | <span style="color:green">Yes!!</span>    |
+| Roundguard (USA)                                                                               | <span style="color:green">Yes!!</span>    |
+| Rover Wars                                                                                     | <span style="color:green">Yes!!</span>    |
+| RPG Maker MV                                                                                   | <span style="color:green">Yes!!</span>    |
+| Rugby Challenge 4                                                                              | <span style="color:green">Yes!!</span>    |
+| Run the Fan                                                                                    | <span style="color:green">Yes!!</span>    |
+| Runbow                                                                                         | <span style="color:green">Yes!!</span>    |
+| Runbow - Deluxe Edition (Europe, cartridge)                                                    | <span style="color:green">Yes!!</span>    |
+| Runbow - Deluxe Edition (USA, cartridge)                                                       | <span style="color:green">Yes!!</span>    |
+| Rune Factory 4 Special (Europe)                                                                | <span style="color:green">Yes!!</span>    |
+| Rune Factory 4 Special (USA)                                                                   | <span style="color:green">Yes!!</span>    |
+| Runner3 (cartridge)                                                                            | <span style="color:green">Yes!!</span>    |
+| Runner3 (digital)                                                                              | <span style="color:green">Yes!!</span>    |
+| Rush Rally 3                                                                                   | <span style="color:green">Yes!!</span>    |
+| RXN: Raijin                                                                                    | <span style="color:green">Yes!!</span>    |
+| Réussir : Code de la route                                                                     | <span style="color:green">Yes!!</span>    |
+| Röki                                                                                           | <span style="color:green">Yes!!</span>    |
+| Saboteur II: Avenging Angel                                                                    | <span style="color:green">Yes!!</span>    |
+| Saboteur SiO                                                                                   | <span style="color:green">Yes!!</span>    |
+| Saboteur!                                                                                      | <span style="color:green">Yes!!</span>    |
+| SaGa: Scarlet Grace - Ambitions                                                                | <span style="color:green">Yes!!</span>    |
+| Sagebrush                                                                                      | <span style="color:green">Yes!!</span>    |
+| Sagrada                                                                                        | <span style="color:green">Yes!!</span>    |
+| Saints Row IV                                                                                  | <span style="color:green">Yes!!</span>    |
+| Saints Row: The Third - The Full Package                                                       | <span style="color:green">Yes!!</span>    |
+| Sakuna: Of Rice and Ruin (Europe)                                                              | <span style="color:green">Yes!!</span>    |
+| Sakuna: Of Rice and Ruin (USA)                                                                 | <span style="color:green">Yes!!</span>    |
+| Salad Bar Tycoon                                                                               | <span style="color:green">Yes!!</span>    |
+| Salt and Sanctuary                                                                             | <span style="color:green">Yes!!</span>    |
+| Sam & Max Save the World                                                                       | <span style="color:green">Yes!!</span>    |
+| Samurai Aces for Nintendo Switch                                                               | <span style="color:green">Yes!!</span>    |
+| Samurai Jack: Battle Through Time                                                              | <span style="color:green">Yes!!</span>    |
+| SAMURAI SHODOWN                                                                                | <span style="color:green">Yes!!</span>    |
+| SAMURAI SHODOWN                                                                                | <span style="color:green">Yes!!</span>    |
+| Samurai Shodown NeoGeo Collection                                                              | <span style="color:green">Yes!!</span>    |
+| Samurai Shodown! 2                                                                             | <span style="color:green">Yes!!</span>    |
+| Santa Tracker                                                                                  | <span style="color:green">Yes!!</span>    |
+| Satazius NEXT                                                                                  | <span style="color:green">Yes!!</span>    |
+| Saturday Morning RPG (Europe)                                                                  | <span style="color:red">No.</span>        |
+| Saturday Morning RPG (USA)                                                                     | <span style="color:red">No.</span>        |
+| Save Koch                                                                                      | <span style="color:green">Yes!!</span>    |
+| Save me Mr Tako: Tasukete Tako-San (Europe)                                                    | <span style="color:red">No.</span>        |
+| Save me Mr Tako: Tasukete Tako-San (USA)                                                       | <span style="color:red">No.</span>        |
+| Save Your Nuts                                                                                 | <span style="color:green">Yes!!</span>    |
+| Save Your Nuts DEMO                                                                            | <span style="color:green">Yes!!</span>    |
+| Savior's Gang, The                                                                             | <span style="color:red">No.</span>        |
+| Sayonara Wild Hearts                                                                           | <span style="color:green">Yes!!</span>    |
+| ScourgeBringer                                                                                 | <span style="color:green">Yes!!</span>    |
+| ScourgeBringer (demo)                                                                          | <span style="color:green">Yes!!</span>    |
+| SCRAP                                                                                          | <span style="color:green">Yes!!</span>    |
+| Scrap Rush!!                                                                                   | <span style="color:green">Yes!!</span>    |
+| Screencheat: Unplugged                                                                         | <span style="color:green">Yes!!</span>    |
+| Scribblenauts Mega Pack                                                                        | <span style="color:green">Yes!!</span>    |
+| Scribblenauts Showdown                                                                         | <span style="color:red">No.</span>        |
+| Sea King                                                                                       | <span style="color:green">Yes!!</span>    |
+| Sea Salt                                                                                       | <span style="color:green">Yes!!</span>    |
+| SeaBed                                                                                         | <span style="color:green">Yes!!</span>    |
+| Season Match 2                                                                                 | <span style="color:green">Yes!!</span>    |
+| Secret Files 2: Puritas Cordis                                                                 | <span style="color:green">Yes!!</span>    |
+| Secret Files: Sam Peters                                                                       | <span style="color:green">Yes!!</span>    |
+| Secret Files: Tunguska                                                                         | <span style="color:green">Yes!!</span>    |
+| Seeds of Resilience                                                                            | <span style="color:green">Yes!!</span>    |
+| Seers Isle                                                                                     | <span style="color:green">Yes!!</span>    |
+| Sega Ages: Alex Kidd in Miracle World                                                          | <span style="color:green">Yes!!</span>    |
+| Sega Ages: Columns II: A Voyage Through Time                                                   | <span style="color:green">Yes!!</span>    |
+| Sega Ages: Fantasy Zone                                                                        | <span style="color:green">Yes!!</span>    |
+| Sega Ages: Gain Ground                                                                         | <span style="color:green">Yes!!</span>    |
+| Sega Ages: Ichidant-R                                                                          | <span style="color:green">Yes!!</span>    |
+| Sega Ages: OutRun                                                                              | <span style="color:green">Yes!!</span>    |
+| Sega Ages: Phantasy Star                                                                       | <span style="color:green">Yes!!</span>    |
+| Sega Ages: Puyo Puyo 2                                                                         | <span style="color:green">Yes!!</span>    |
+| Sega Ages: Shinobi                                                                             | <span style="color:green">Yes!!</span>    |
+| Sega Ages: Sonic the Hedgehog                                                                  | <span style="color:green">Yes!!</span>    |
+| Sega Ages: Sonic the Hedgehog 2                                                                | <span style="color:green">Yes!!</span>    |
+| Sega Ages: Space Harrier                                                                       | <span style="color:green">Yes!!</span>    |
+| Sega Ages: Thunder Force IV                                                                    | <span style="color:green">Yes!!</span>    |
+| Sega Ages: Virtua Racing                                                                       | <span style="color:green">Yes!!</span>    |
+| Sega Ages: Wonder Boy in Monster Land                                                          | <span style="color:green">Yes!!</span>    |
+| SEGA Genesis Classics                                                                          | <span style="color:green">Yes!!</span>    |
+| SEGA Mega Drive Classics                                                                       | <span style="color:green">Yes!!</span>    |
+| SELF                                                                                           | <span style="color:green">Yes!!</span>    |
+| Senran Kagura Reflexions                                                                       | <span style="color:red">No.</span>        |
+| Senran Kagura: Peach Ball (Europe)                                                             | <span style="color:red">No.</span>        |
+| Senran Kagura: Peach Ball (USA)                                                                | <span style="color:red">No.</span>        |
+| Sentinels of Freedom                                                                           | <span style="color:green">Yes!!</span>    |
+| Sephirothic Stories                                                                            | <span style="color:green">Yes!!</span>    |
+| Serious Sam Collection                                                                         | <span style="color:green">Yes!!</span>    |
+| Served!                                                                                        | <span style="color:green">Yes!!</span>    |
+| Seven Knights -Time Wanderer-                                                                  | <span style="color:green">Yes!!</span>    |
+| Severed                                                                                        | <span style="color:red">No.</span>        |
+| Sexy Brutale, The                                                                              | <span style="color:red">No.</span>        |
+| Shadowgate                                                                                     | <span style="color:green">Yes!!</span>    |
+| Shadows 2: Perfidia                                                                            | <span style="color:green">Yes!!</span>    |
+| Shadows of Adam                                                                                | <span style="color:green">Yes!!</span>    |
+| Shakedown: Hawaii                                                                              | <span style="color:green">Yes!!</span>    |
+| Shanky: The Vegan's Nightmare                                                                  | <span style="color:green">Yes!!</span>    |
+| Shantae and the Pirate's Curse                                                                 | <span style="color:green">Yes!!</span>    |
+| Shantae and the Seven Sirens                                                                   | <span style="color:green">Yes!!</span>    |
+| Shantae: Half-Genie Hero                                                                       | <span style="color:red">No.</span>        |
+| Shantae: Half-Genie Hero - Ultimate Edition                                                    | <span style="color:green">Yes!!</span>    |
+| Shaolin vs. Wutang: Eastern Heroes                                                             | <span style="color:green">Yes!!</span>    |
+| Shapeshifting Detective, The                                                                   | <span style="color:green">Yes!!</span>    |
+| Shaq Fu: A Legend Reborn (cartridge)                                                           | <span style="color:red">No.</span>        |
+| Shaq Fu: A Legend Reborn (digital)                                                             | <span style="color:red">No.</span>        |
+| She and the Light Bearer                                                                       | <span style="color:green">Yes!!</span>    |
+| She Remembered Caterpillars                                                                    | <span style="color:green">Yes!!</span>    |
+| Sheep in Hell                                                                                  | <span style="color:green">Yes!!</span>    |
+| Shelter Generations (digital)                                                                  | <span style="color:red">No.</span>        |
+| Sheltered                                                                                      | <span style="color:green">Yes!!</span>    |
+| Shikhondo: Soul Eater                                                                          | <span style="color:green">Yes!!</span>    |
+| Shining Resonance Refrain                                                                      | <span style="color:green">Yes!!</span>    |
+| Shinobi Spirits S: Legend of Heroes                                                            | <span style="color:green">Yes!!</span>    |
+| Ships                                                                                          | <span style="color:green">Yes!!</span>    |
+| Shovel Knight Showdown                                                                         | <span style="color:green">Yes!!</span>    |
+| Shovel Knight: King of Cards                                                                   | <span style="color:green">Yes!!</span>    |
+| Shovel Knight: Specter of Torment                                                              | <span style="color:green">Yes!!</span>    |
+| Shovel Knight: Treasure Trove                                                                  | <span style="color:green">Yes!!</span>    |
+| Shred! 2 - Freeride Mountainbiking                                                             | <span style="color:green">Yes!!</span>    |
+| Sigi: A Fart for Melusina                                                                      | <span style="color:green">Yes!!</span>    |
+| Silence                                                                                        | <span style="color:green">Yes!!</span>    |
+| Silent World                                                                                   | <span style="color:green">Yes!!</span>    |
+| Silk                                                                                           | <span style="color:green">Yes!!</span>    |
+| SIMULACRA                                                                                      | <span style="color:green">Yes!!</span>    |
+| Sine Mora EX                                                                                   | <span style="color:red">No.</span>        |
+| Singled Out                                                                                    | <span style="color:green">Yes!!</span>    |
+| Sinking City, The                                                                              | <span style="color:red">No.</span>        |
+| SINNER: Sacrifice for Redemption                                                               | <span style="color:red">No.</span>        |
+| Siralim 3                                                                                      | <span style="color:green">Yes!!</span>    |
+| Sisters Royale: Five Sisters Under Fire                                                        | <span style="color:green">Yes!!</span>    |
+| Skelittle: A Giant Party!!                                                                     | <span style="color:red">No.</span>        |
+| Skellboy                                                                                       | <span style="color:green">Yes!!</span>    |
+| Skies of Fury DX                                                                               | <span style="color:red">No.</span>        |
+| Skullgirls: 2nd Encore                                                                         | <span style="color:green">Yes!!</span>    |
+| Skulls of the Shogun: Bone-A-Fide Edition                                                      | <span style="color:green">Yes!!</span>    |
+| Skully                                                                                         | <span style="color:green">Yes!!</span>    |
+| Sky Gamblers: Afterburner                                                                      | <span style="color:green">Yes!!</span>    |
+| Sky Gamblers: Storm Raiders 2                                                                  | <span style="color:green">Yes!!</span>    |
+| Sky Racket                                                                                     | <span style="color:green">Yes!!</span>    |
+| Sky Rogue                                                                                      | <span style="color:green">Yes!!</span>    |
+| Skybolt Zack                                                                                   | <span style="color:green">Yes!!</span>    |
+| Skybolt Zack Demo                                                                              | <span style="color:green">Yes!!</span>    |
+| Skyhill                                                                                        | <span style="color:green">Yes!!</span>    |
+| Skylanders Imaginators                                                                         | <span style="color:red">No.</span>        |
+| SkyScrappers                                                                                   | <span style="color:green">Yes!!</span>    |
+| SkyTime                                                                                        | <span style="color:green">Yes!!</span>    |
+| SlabWell                                                                                       | <span style="color:green">Yes!!</span>    |
+| Slain: Back from Hell                                                                          | <span style="color:red">No.</span>        |
+| Slay the Spire                                                                                 | <span style="color:green">Yes!!</span>    |
+| Slayin 2                                                                                       | <span style="color:green">Yes!!</span>    |
+| Sleep Attack                                                                                   | <span style="color:green">Yes!!</span>    |
+| Slide Stars                                                                                    | <span style="color:green">Yes!!</span>    |
+| Slime Tactics                                                                                  | <span style="color:green">Yes!!</span>    |
+| Slime-san                                                                                      | <span style="color:red">No.</span>        |
+| Slither Loop                                                                                   | <span style="color:green">Yes!!</span>    |
+| Smashing the Battle                                                                            | <span style="color:green">Yes!!</span>    |
+| SMITE                                                                                          | <span style="color:green">Yes!!</span>    |
+| Smoke and Sacrifice                                                                            | <span style="color:green">Yes!!</span>    |
+| Smoots World Cup Tennis                                                                        | <span style="color:green">Yes!!</span>    |
+| SmuggleCraft                                                                                   | <span style="color:green">Yes!!</span>    |
+| Snake Pass                                                                                     | <span style="color:red">No.</span>        |
+| Snake vs. Snake                                                                                | <span style="color:green">Yes!!</span>    |
+| Sniper Elite 4                                                                                 | <span style="color:green">Yes!!</span>    |
+| Sniper Elite III Ultimate Edition                                                              | <span style="color:green">Yes!!</span>    |
+| Sniper Elite V2 Remastered                                                                     | <span style="color:green">Yes!!</span>    |
+| SNK 40th Anniversary Collection                                                                | <span style="color:green">Yes!!</span>    |
+| SNK Gals' Fighters                                                                             | <span style="color:green">Yes!!</span>    |
+| SNK Heroines: Tag Team Frenzy (Europe)                                                         | <span style="color:green">Yes!!</span>    |
+| SNK Heroines: Tag Team Frenzy (USA)                                                            | <span style="color:green">Yes!!</span>    |
+| Snooker 19                                                                                     | <span style="color:green">Yes!!</span>    |
+| Snow Battle Princess Sayuki                                                                    | <span style="color:green">Yes!!</span>    |
+| Snow Moto Racing Freedom                                                                       | <span style="color:red">No.</span>        |
+| Snowboarding The Next Phase                                                                    | <span style="color:green">Yes!!</span>    |
+| So Many Me: Extended Edition                                                                   | <span style="color:green">Yes!!</span>    |
+| Soccer, Tactics & Glory                                                                        | <span style="color:green">Yes!!</span>    |
+| Sol Divide: Sword of Darkness                                                                  | <span style="color:green">Yes!!</span>    |
+| Soldam: Drop, Connect, Erase (USA)                                                             | <span style="color:red">No.</span>        |
+| Solitaire Klondike BLACK                                                                       | <span style="color:green">Yes!!</span>    |
+| Solo: Islands of the Heart                                                                     | <span style="color:green">Yes!!</span>    |
+| SolSeraph                                                                                      | <span style="color:red">No.</span>        |
+| Solstice Chronicles: MIA                                                                       | <span style="color:green">Yes!!</span>    |
+| Son of a Witch (Europe)                                                                        | <span style="color:green">Yes!!</span>    |
+| Son of a Witch (USA)                                                                           | <span style="color:green">Yes!!</span>    |
+| Songbird Symphony                                                                              | <span style="color:green">Yes!!</span>    |
+| Sonic Forces (Europe)                                                                          | <span style="color:red">No.</span>        |
+| Sonic Forces (USA)                                                                             | <span style="color:red">No.</span>        |
+| Sonic Mania                                                                                    | <span style="color:green">Yes!!</span>    |
+| Soul Axiom Rebooted                                                                            | <span style="color:green">Yes!!</span>    |
+| Soul Knight                                                                                    | <span style="color:green">Yes!!</span>    |
+| Soul Searching                                                                                 | <span style="color:green">Yes!!</span>    |
+| Soulslayer                                                                                     | <span style="color:green">Yes!!</span>    |
+| South Park: The Fractured But Whole                                                            | <span style="color:red">No.</span>        |
+| South Park: The Stick of Truth (Europe)                                                        | <span style="color:green">Yes!!</span>    |
+| South Park: The Stick of Truth (USA)                                                           | <span style="color:green">Yes!!</span>    |
+| Space Crew                                                                                     | <span style="color:green">Yes!!</span>    |
+| Space Lift Danger Panic!                                                                       | <span style="color:green">Yes!!</span>    |
+| Space Pioneer                                                                                  | <span style="color:green">Yes!!</span>    |
+| Space Ribbon                                                                                   | <span style="color:green">Yes!!</span>    |
+| Space War Arena                                                                                | <span style="color:green">Yes!!</span>    |
+| Spaceland                                                                                      | <span style="color:green">Yes!!</span>    |
+| Sparklite                                                                                      | <span style="color:green">Yes!!</span>    |
+| Spartan                                                                                        | <span style="color:green">Yes!!</span>    |
+| Speaking Simulator                                                                             | <span style="color:red">No.</span>        |
+| Speed 3: Grand Prix                                                                            | <span style="color:green">Yes!!</span>    |
+| Speed Brawl                                                                                    | <span style="color:green">Yes!!</span>    |
+| Speedway Racing                                                                                | <span style="color:green">Yes!!</span>    |
+| Spell Casting: Purrfectly Portable Edition                                                     | <span style="color:green">Yes!!</span>    |
+| Spellbreak                                                                                     | <span style="color:green">Yes!!</span>    |
+| Spelunker Party                                                                                | <span style="color:red">No.</span>        |
+| Spencer                                                                                        | <span style="color:green">Yes!!</span>    |
+| Sphinx and the Cursed Mummy                                                                    | <span style="color:green">Yes!!</span>    |
+| Spider Solitaire                                                                               | <span style="color:green">Yes!!</span>    |
+| Spinch                                                                                         | <span style="color:green">Yes!!</span>    |
+| Spintires: Mudrunner - American Wilds Edition                                                  | <span style="color:green">Yes!!</span>    |
+| Spirit Hunter: NG                                                                              | <span style="color:green">Yes!!</span>    |
+| Spirit of the North                                                                            | <span style="color:green">Yes!!</span>    |
+| Spiritfarer                                                                                    | <span style="color:green">Yes!!</span>    |
+| Spitlings                                                                                      | <span style="color:green">Yes!!</span>    |
+| Splash Blast Panic                                                                             | <span style="color:green">Yes!!</span>    |
+| Splatoon 2 (Europe)                                                                            | <span style="color:green">Yes!!</span>    |
+| Splatoon 2 (USA)                                                                               | <span style="color:green">Yes!!</span>    |
+| Splatoon 2 Splatfest World Premiere                                                            | <span style="color:red">No.</span>        |
+| Splatoon 2: Special Demo                                                                       | <span style="color:green">Yes!!</span>    |
+| Splatoon 2: Special Demo                                                                       | <span style="color:green">Yes!!</span>    |
+| Spoiler Alert                                                                                  | <span style="color:green">Yes!!</span>    |
+| SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated                                   | <span style="color:red">No.</span>        |
+| Sports Party                                                                                   | <span style="color:green">Yes!!</span>    |
+| SpyHack                                                                                        | <span style="color:green">Yes!!</span>    |
+| Spyro Reignited Trilogy                                                                        | <span style="color:green">Yes!!</span>    |
+| Squareboy vs Bullies: Arena Edition DEMO                                                       | <span style="color:red">No.</span>        |
+| Squidgies Takeover                                                                             | <span style="color:green">Yes!!</span>    |
+| STANDBY                                                                                        | <span style="color:green">Yes!!</span>    |
+| Star Horizon                                                                                   | <span style="color:green">Yes!!</span>    |
+| Star Ocean: First Departure R                                                                  | <span style="color:green">Yes!!</span>    |
+| Star Wars Episode I: Racer                                                                     | <span style="color:green">Yes!!</span>    |
+| Star Wars Jedi Knight II: Jedi Outcast                                                         | <span style="color:green">Yes!!</span>    |
+| Star Wars Jedi Knight: Jedi Academy                                                            | <span style="color:green">Yes!!</span>    |
+| Star-Crossed Myth - The Department of Punishments -                                            | <span style="color:green">Yes!!</span>    |
+| Star-Crossed Myth - The Department of Wishes -                                                 | <span style="color:green">Yes!!</span>    |
+| StarCrossed                                                                                    | <span style="color:green">Yes!!</span>    |
+| Stardew Valley                                                                                 | <span style="color:green">Yes!!</span>    |
+| Stardust Galaxy Warriors: Stellar Climax                                                       | <span style="color:green">Yes!!</span>    |
+| Starlink: Battle for Atlas                                                                     | <span style="color:green">Yes!!</span>    |
+| Starlit Adventures                                                                             | <span style="color:green">Yes!!</span>    |
+| Startide                                                                                       | <span style="color:green">Yes!!</span>    |
+| STAY                                                                                           | <span style="color:green">Yes!!</span>    |
+| Steam Tactics                                                                                  | <span style="color:green">Yes!!</span>    |
+| SteamWorld Dig 2 (cartridge)                                                                   | <span style="color:red">No.</span>        |
+| SteamWorld Dig 2 (digital)                                                                     | <span style="color:red">No.</span>        |
+| SteamWorld Dig: A Fistful of Dirt                                                              | <span style="color:red">No.</span>        |
+| SteamWorld Heist: Ultimate Edition                                                             | <span style="color:red">No.</span>        |
+| SteamWorld Quest: Hand of Gilgamech                                                            | <span style="color:green">Yes!!</span>    |
+| Steel Rain                                                                                     | <span style="color:green">Yes!!</span>    |
+| Steins;Gate Elite                                                                              | <span style="color:green">Yes!!</span>    |
+| Stellar Interface                                                                              | <span style="color:green">Yes!!</span>    |
+| Steredenn: Binary Stars                                                                        | <span style="color:green">Yes!!</span>    |
+| Stern Pinball Arcade (digital)                                                                 | <span style="color:green">Yes!!</span>    |
+| Stern Pinball Arcade (Europe, cartridge)                                                       | <span style="color:green">Yes!!</span>    |
+| Stern Pinball Arcade (USA, cartridge)                                                          | <span style="color:green">Yes!!</span>    |
+| Steven Universe: Save the Light                                                                | <span style="color:green">Yes!!</span>    |
+| Still There                                                                                    | <span style="color:green">Yes!!</span>    |
+| Stillness of the Wind, The                                                                     | <span style="color:green">Yes!!</span>    |
+| Stones of the Revenant                                                                         | <span style="color:green">Yes!!</span>    |
+| Stories Untold                                                                                 | <span style="color:green">Yes!!</span>    |
+| Story of a Gladiator                                                                           | <span style="color:green">Yes!!</span>    |
+| Story of Seasons: Friends of Mineral Town (Europe)                                             | <span style="color:green">Yes!!</span>    |
+| Story of Seasons: Friends of Mineral Town (USA)                                                | <span style="color:green">Yes!!</span>    |
+| Stranded Sails: Explorers of the Cursed Islands                                                | <span style="color:green">Yes!!</span>    |
+| Stranger Things 3: The Game                                                                    | <span style="color:green">Yes!!</span>    |
+| Strangers of the Power 3                                                                       | <span style="color:green">Yes!!</span>    |
+| Street Fighter: 30th Anniversary Collection                                                    | <span style="color:green">Yes!!</span>    |
+| Street Outlaws: The List (Europe)                                                              | <span style="color:green">Yes!!</span>    |
+| Street Outlaws: The List (USA)                                                                 | <span style="color:green">Yes!!</span>    |
+| Street Power Football (aka. Street Power Soccer)                                               | <span style="color:green">Yes!!</span>    |
+| Streets of Rage 4                                                                              | <span style="color:green">Yes!!</span>    |
+| Streets of Rage 4 (cartridge)                                                                  | <span style="color:green">Yes!!</span>    |
+| Streets of Red: Devil's Dare Deluxe                                                            | <span style="color:red">No.</span>        |
+| Streets of Rogue                                                                               | <span style="color:green">Yes!!</span>    |
+| Strife: Veteran Edition                                                                        | <span style="color:green">Yes!!</span>    |
+| Strike Suit Zero: Director's Cut                                                               | <span style="color:green">Yes!!</span>    |
+| Strike! Ten Pin Bowling                                                                        | <span style="color:green">Yes!!</span>    |
+| Strike! Ten Pin Bowling Demo                                                                   | <span style="color:green">Yes!!</span>    |
+| Strikers 1945 for Nintendo Switch                                                              | <span style="color:green">Yes!!</span>    |
+| Strikers 1945 II                                                                               | <span style="color:green">Yes!!</span>    |
+| Strikey Sisters                                                                                | <span style="color:green">Yes!!</span>    |
+| Struggling                                                                                     | <span style="color:green">Yes!!</span>    |
+| Stunt Kite Party                                                                               | <span style="color:green">Yes!!</span>    |
+| Sturmwind EX                                                                                   | <span style="color:green">Yes!!</span>    |
+| Subdivision Infinity DX                                                                        | <span style="color:green">Yes!!</span>    |
+| Sudoku Relax                                                                                   | <span style="color:green">Yes!!</span>    |
+| Sudoku Relax 3: Autumn Leaves                                                                  | <span style="color:green">Yes!!</span>    |
+| Sudoku Universe                                                                                | <span style="color:green">Yes!!</span>    |
+| Sumer                                                                                          | <span style="color:green">Yes!!</span>    |
+| Summer in Mara                                                                                 | <span style="color:green">Yes!!</span>    |
+| Summer Sweetheart                                                                              | <span style="color:green">Yes!!</span>    |
+| Sundered: Eldritch Edition                                                                     | <span style="color:green">Yes!!</span>    |
+| Sunless Sea: Zubmariner Edititon                                                               | <span style="color:green">Yes!!</span>    |
+| Super Bit Blaster XL                                                                           | <span style="color:green">Yes!!</span>    |
+| Super Blood Hockey                                                                             | <span style="color:green">Yes!!</span>    |
+| Super Bomberman R                                                                              | <span style="color:red">No.</span>        |
+| Super Cane Magic ZERO                                                                          | <span style="color:green">Yes!!</span>    |
+| Super Chariot                                                                                  | <span style="color:red">No.</span>        |
+| Super Chariot Demo                                                                             | <span style="color:red">No.</span>        |
+| Super Club Tennis                                                                              | <span style="color:green">Yes!!</span>    |
+| Super Crate Box                                                                                | <span style="color:green">Yes!!</span>    |
+| Super Crush KO                                                                                 | <span style="color:green">Yes!!</span>    |
+| Super Daryl Deluxe                                                                             | <span style="color:green">Yes!!</span>    |
+| Super Dodge Ball                                                                               | <span style="color:green">Yes!!</span>    |
+| SUPER DRAGON BALL HEROES WORLD MISSION Demo Version                                            | <span style="color:green">Yes!!</span>    |
+| SUPER DRAGON BALL HEROES WORLD MISSION Demo Version                                            | <span style="color:green">Yes!!</span>    |
+| Super Dragon Ball Heroes: World Mission (Europe)                                               | <span style="color:green">Yes!!</span>    |
+| Super Dragon Ball Heroes: World Mission (USA)                                                  | <span style="color:green">Yes!!</span>    |
+| Super Hydorah                                                                                  | <span style="color:green">Yes!!</span>    |
+| Super Inefficient Golf                                                                         | <span style="color:red">No.</span>        |
+| Super Jumpy Ball                                                                               | <span style="color:green">Yes!!</span>    |
+| Super Kickers League                                                                           | <span style="color:green">Yes!!</span>    |
+| Super Kirby Clash                                                                              | <span style="color:green">Yes!!</span>    |
+| Super Life of Pixel                                                                            | <span style="color:green">Yes!!</span>    |
+| Super Mario 3D All-Stars                                                                       | <span style="color:green">Yes!!</span>    |
+| Super Mario Bros. 35                                                                           | <span style="color:green">Yes!!</span>    |
+| Super Mario Maker 2                                                                            | <span style="color:green">Yes!!</span>    |
+| Super Mario Odyssey                                                                            | <span style="color:green">Yes!!</span>    |
+| Super Mario Party                                                                              | <span style="color:green">Yes!!</span>    |
+| Super Meat Boy                                                                                 | <span style="color:green">Yes!!</span>    |
+| Super Mega Baseball 2 Demo                                                                     | <span style="color:green">Yes!!</span>    |
+| Super Mega Baseball 2: Ultimate Edition                                                        | <span style="color:green">Yes!!</span>    |
+| Super Mega Baseball 3                                                                          | <span style="color:green">Yes!!</span>    |
+| Super Mega Baseball 3 Demo                                                                     | <span style="color:green">Yes!!</span>    |
+| Super Mega Space Blaster Special Turbo                                                         | <span style="color:green">Yes!!</span>    |
+| Super Monkey Ball: Banana Blitz HD                                                             | <span style="color:green">Yes!!</span>    |
+| Super Neptunia RPG (Europe)                                                                    | <span style="color:green">Yes!!</span>    |
+| Super Neptunia RPG (USA)                                                                       | <span style="color:green">Yes!!</span>    |
+| Super Nintendo Entertainment System - Nintendo Switch Online                                   | <span style="color:green">Yes!!</span>    |
+| Super One More Jump Demo                                                                       | <span style="color:red">No.</span>        |
+| Super Phantom Cat: Remake                                                                      | <span style="color:green">Yes!!</span>    |
+| Super Punch Patrol                                                                             | <span style="color:green">Yes!!</span>    |
+| Super Putty Squad                                                                              | <span style="color:red">No.</span>        |
+| Super Puzzle Pack                                                                              | <span style="color:green">Yes!!</span>    |
+| Super Saurio Fly                                                                               | <span style="color:green">Yes!!</span>    |
+| Super Skelemania                                                                               | <span style="color:green">Yes!!</span>    |
+| Super Smash Bros. Ultimate                                                                     | <span style="color:red">No.</span>        |
+| Super Soccer Blast                                                                             | <span style="color:green">Yes!!</span>    |
+| Super Sportmatchen                                                                             | <span style="color:green">Yes!!</span>    |
+| Super Star Blast                                                                               | <span style="color:green">Yes!!</span>    |
+| Super Tennis                                                                                   | <span style="color:green">Yes!!</span>    |
+| Super Tennis Blast                                                                             | <span style="color:green">Yes!!</span>    |
+| Super Toy Cars 2                                                                               | <span style="color:green">Yes!!</span>    |
+| Super Weekend Mode                                                                             | <span style="color:green">Yes!!</span>    |
+| Super Wiloo Demake                                                                             | <span style="color:green">Yes!!</span>    |
+| SUPERBEAT: XONiC                                                                               | <span style="color:green">Yes!!</span>    |
+| SUPERBEAT: XONiC EX                                                                            | <span style="color:green">Yes!!</span>    |
+| SuperEpic: The Entertainment War                                                               | <span style="color:green">Yes!!</span>    |
+| SuperEpic: The Entertainment War                                                               | <span style="color:green">Yes!!</span>    |
+| SUPERHOT                                                                                       | <span style="color:green">Yes!!</span>    |
+| SuperMash                                                                                      | <span style="color:green">Yes!!</span>    |
+| Supraland                                                                                      | <span style="color:red">No.</span>        |
+| Survivalists Demo, The                                                                         | <span style="color:green">Yes!!</span>    |
+| Survivalists, The                                                                              | <span style="color:green">Yes!!</span>    |
+| SUSHI REVERSI                                                                                  | <span style="color:green">Yes!!</span>    |
+| Sushi Spinnery, The                                                                            | <span style="color:green">Yes!!</span>    |
+| Sushi Striker: The Way of Sushido                                                              | <span style="color:green">Yes!!</span>    |
+| Sushi Time!                                                                                    | <span style="color:green">Yes!!</span>    |
+| Swap This!                                                                                     | <span style="color:green">Yes!!</span>    |
+| Sweet Witches                                                                                  | <span style="color:green">Yes!!</span>    |
+| Swim Out                                                                                       | <span style="color:green">Yes!!</span>    |
+| Swimsanity!                                                                                    | <span style="color:green">Yes!!</span>    |
+| Sword Art Online: Fatal Bullet - Complete Edition                                              | <span style="color:green">Yes!!</span>    |
+| Sword Art Online: Hollow Realization - Deluxe Edition (Europe)                                 | <span style="color:green">Yes!!</span>    |
+| Sword Art Online: Hollow Realization - Deluxe Edition (USA)                                    | <span style="color:green">Yes!!</span>    |
+| Sword of the Guardian                                                                          | <span style="color:green">Yes!!</span>    |
+| Swords & Soldiers                                                                              | <span style="color:green">Yes!!</span>    |
+| Swords of Ditto: Mormo's Curse, The                                                            | <span style="color:green">Yes!!</span>    |
+| Syberia                                                                                        | <span style="color:red">No.</span>        |
+| Syberia 1 & 2                                                                                  | <span style="color:red">No.</span>        |
+| Syberia 2                                                                                      | <span style="color:red">No.</span>        |
+| Syberia 3                                                                                      | <span style="color:green">Yes!!</span>    |
+| Syder Reloaded                                                                                 | <span style="color:green">Yes!!</span>    |
+| Sydney Hunter and the Curse of the Mayan                                                       | <span style="color:green">Yes!!</span>    |
+| Synaptic Drive                                                                                 | <span style="color:green">Yes!!</span>    |
+| Tactics V: "Obsidian Brigade"                                                                  | <span style="color:green">Yes!!</span>    |
+| Taiko no Tatsujin: Drum 'n' Fun!                                                               | <span style="color:green">Yes!!</span>    |
+| Taimumari: Complete Edition                                                                    | <span style="color:green">Yes!!</span>    |
+| Takeshi and Hiroshi                                                                            | <span style="color:green">Yes!!</span>    |
+| Tales of Vesperia: Definitive Edition                                                          | <span style="color:green">Yes!!</span>    |
+| Talisman: Digital Edition                                                                      | <span style="color:green">Yes!!</span>    |
+| Talk it Out: Handheld Game                                                                     | <span style="color:green">Yes!!</span>    |
+| Talos Principle: Deluxe Edition, The                                                           | <span style="color:green">Yes!!</span>    |
+| Tangle Tower                                                                                   | <span style="color:green">Yes!!</span>    |
+| Tangledeep                                                                                     | <span style="color:green">Yes!!</span>    |
+| TaniNani                                                                                       | <span style="color:green">Yes!!</span>    |
+| Tank Mechanic Simulator                                                                        | <span style="color:green">Yes!!</span>    |
+| Task Force Kampas                                                                              | <span style="color:green">Yes!!</span>    |
+| TAURONOS                                                                                       | <span style="color:green">Yes!!</span>    |
+| Taxi Sim 2020                                                                                  | <span style="color:green">Yes!!</span>    |
+| Tcheco in the Castle of Lucio                                                                  | <span style="color:green">Yes!!</span>    |
+| Team Sonic Racing (Europe)                                                                     | <span style="color:green">Yes!!</span>    |
+| Team Sonic Racing (USA)                                                                        | <span style="color:green">Yes!!</span>    |
+| TENGAI for Nintendo Switch                                                                     | <span style="color:green">Yes!!</span>    |
+| Tennis 1920s                                                                                   | <span style="color:green">Yes!!</span>    |
+| Tennis World Tour                                                                              | <span style="color:green">Yes!!</span>    |
+| Tennis World Tour 2                                                                            | <span style="color:green">Yes!!</span>    |
+| Tenth Line: Special Edition, The                                                               | <span style="color:green">Yes!!</span>    |
+| Terraria                                                                                       | <span style="color:green">Yes!!</span>    |
+| Tesla vs. Lovecraft                                                                            | <span style="color:green">Yes!!</span>    |
+| Tetris 99                                                                                      | <span style="color:green">Yes!!</span>    |
+| Tetsumo Party                                                                                  | <span style="color:green">Yes!!</span>    |
+| Tharsis                                                                                        | <span style="color:green">Yes!!</span>    |
+| THE Card: Poker, Texas Hold 'em, Blackjack, Page One                                           | <span style="color:green">Yes!!</span>    |
+| The Witcher 3: Wild Hunt — Complete Edition (Europe, cartridge)                                | <span style="color:red">No.</span>        |
+| Thea: The Awakening                                                                            | <span style="color:green">Yes!!</span>    |
+| Them Bombs!                                                                                    | <span style="color:green">Yes!!</span>    |
+| They Breathe                                                                                   | <span style="color:green">Yes!!</span>    |
+| Thief Simulator                                                                                | <span style="color:green">Yes!!</span>    |
+| Thimbleweed Park                                                                               | <span style="color:red">No.</span>        |
+| This is the Police                                                                             | <span style="color:red">No.</span>        |
+| This is the Police 2                                                                           | <span style="color:green">Yes!!</span>    |
+| This War of Mine: Complete Edition                                                             | <span style="color:red">No.</span>        |
+| Throne Quest Deluxe                                                                            | <span style="color:green">Yes!!</span>    |
+| Thronebreaker: The Witcher Tales                                                               | <span style="color:green">Yes!!</span>    |
+| Through the Darkest of Times                                                                   | <span style="color:green">Yes!!</span>    |
+| Thumper                                                                                        | <span style="color:green">Yes!!</span>    |
+| Tick Tock: A Tale for Two                                                                      | <span style="color:green">Yes!!</span>    |
+| Tilt Pack                                                                                      | <span style="color:green">Yes!!</span>    |
+| Timber Tennis: Versus                                                                          | <span style="color:red">No.</span>        |
+| Timberman VS                                                                                   | <span style="color:green">Yes!!</span>    |
+| Timespinner                                                                                    | <span style="color:green">Yes!!</span>    |
+| Tin & Kuna                                                                                     | <span style="color:green">Yes!!</span>    |
+| Tin & Kuna                                                                                     | <span style="color:green">Yes!!</span>    |
+| Tiny Bang Story, The                                                                           | <span style="color:green">Yes!!</span>    |
+| Tiny Barbarian DX                                                                              | <span style="color:red">No.</span>        |
+| Tiny Gladiators                                                                                | <span style="color:green">Yes!!</span>    |
+| Tiny Hands Adventure                                                                           | <span style="color:green">Yes!!</span>    |
+| Tiny Metal                                                                                     | <span style="color:green">Yes!!</span>    |
+| Tiny Metal: Full Metal Rumble                                                                  | <span style="color:green">Yes!!</span>    |
+| TINY METAL: FULL METAL RUMBLE ~DEMO~                                                           | <span style="color:green">Yes!!</span>    |
+| Titan Glory                                                                                    | <span style="color:green">Yes!!</span>    |
+| Titan Quest                                                                                    | <span style="color:green">Yes!!</span>    |
+| Titeuf Mega Party                                                                              | <span style="color:green">Yes!!</span>    |
+| To the Moon                                                                                    | <span style="color:green">Yes!!</span>    |
+| ToeJam & Earl: Back in the Groove!                                                             | <span style="color:green">Yes!!</span>    |
+| Toki                                                                                           | <span style="color:green">Yes!!</span>    |
+| Toki Tori                                                                                      | <span style="color:green">Yes!!</span>    |
+| Toki Tori 2 +                                                                                  | <span style="color:green">Yes!!</span>    |
+| Toki Tori 2 + Demo                                                                             | <span style="color:green">Yes!!</span>    |
+| Tokyo Dark: Remembrance                                                                        | <span style="color:green">Yes!!</span>    |
+| Tokyo School Life                                                                              | <span style="color:green">Yes!!</span>    |
+| Tomoyo After -It's a Wonderful Life- CS Edition                                                | <span style="color:red">No.</span>        |
+| Tools Up!                                                                                      | <span style="color:green">Yes!!</span>    |
+| Top Run                                                                                        | <span style="color:green">Yes!!</span>    |
+| Top Speed: Drag & Fast Racing                                                                  | <span style="color:green">Yes!!</span>    |
+| Torchlight II                                                                                  | <span style="color:green">Yes!!</span>    |
+| Torchlight III                                                                                 | <span style="color:green">Yes!!</span>    |
+| TORIDAMA: Brave Challenge                                                                      | <span style="color:green">Yes!!</span>    |
+| Totally Reliable Delivery Service                                                              | <span style="color:green">Yes!!</span>    |
+| Touchdown Pinball                                                                              | <span style="color:green">Yes!!</span>    |
+| Touhou Genso Wanderer Reloaded                                                                 | <span style="color:green">Yes!!</span>    |
+| Touhou Kobuto V: Burst Battle                                                                  | <span style="color:green">Yes!!</span>    |
+| Touhou Sky Arena: Matsuri Climax                                                               | <span style="color:green">Yes!!</span>    |
+| Touhou Spell Bubble Demo                                                                       | <span style="color:green">Yes!!</span>    |
+| Touryst, The                                                                                   | <span style="color:green">Yes!!</span>    |
+| Tower of Babel - no mercy                                                                      | <span style="color:green">Yes!!</span>    |
+| Tower of Beatrice, The                                                                         | <span style="color:green">Yes!!</span>    |
+| Tower of Time                                                                                  | <span style="color:green">Yes!!</span>    |
+| TowerFall                                                                                      | <span style="color:green">Yes!!</span>    |
+| Town of Light: Deluxe Edition, The                                                             | <span style="color:green">Yes!!</span>    |
+| Townsmen                                                                                       | <span style="color:green">Yes!!</span>    |
+| Trailblazers                                                                                   | <span style="color:red">No.</span>        |
+| Transformers: Battlegrounds                                                                    | <span style="color:green">Yes!!</span>    |
+| Transistor                                                                                     | <span style="color:green">Yes!!</span>    |
+| Travis Strikes Again: No More Heroes                                                           | <span style="color:red">No.</span>        |
+| Treachery In Beatdown City                                                                     | <span style="color:green">Yes!!</span>    |
+| Treasure Stack                                                                                 | <span style="color:green">Yes!!</span>    |
+| Trials of Mana                                                                                 | <span style="color:green">Yes!!</span>    |
+| Trials Rising                                                                                  | <span style="color:green">Yes!!</span>    |
+| Tricky Towers                                                                                  | <span style="color:green">Yes!!</span>    |
+| Trine 2: Complete Story                                                                        | <span style="color:green">Yes!!</span>    |
+| Trine 3: The Artifacts of Power                                                                | <span style="color:green">Yes!!</span>    |
+| Trine 4: The Nightmare Prince                                                                  | <span style="color:green">Yes!!</span>    |
+| Trine: Enchanted Edition                                                                       | <span style="color:green">Yes!!</span>    |
+| Trivial Pursuit Live!                                                                          | <span style="color:green">Yes!!</span>    |
+| Troll and I                                                                                    | <span style="color:red">No.</span>        |
+| Trollhunters: Defenders of Arcadia                                                             | <span style="color:green">Yes!!</span>    |
+| Tropico 6                                                                                      | <span style="color:green">Yes!!</span>    |
+| Troubleshooter                                                                                 | <span style="color:green">Yes!!</span>    |
+| Truck Racing Championship                                                                      | <span style="color:green">Yes!!</span>    |
+| True Fear: Forsaken Souls                                                                      | <span style="color:green">Yes!!</span>    |
+| True Fear: Forsaken Souls Demo                                                                 | <span style="color:green">Yes!!</span>    |
+| True Fear: Forsaken Souls Part 2                                                               | <span style="color:green">Yes!!</span>    |
+| True Fear: Forsaken Souls Part 2 Demo                                                          | <span style="color:green">Yes!!</span>    |
+| Trybit Logic                                                                                   | <span style="color:green">Yes!!</span>    |
+| Trüberbrook (digital)                                                                          | <span style="color:green">Yes!!</span>    |
+| Trüberbrook (USA, cartridge)                                                                   | <span style="color:green">Yes!!</span>    |
+| TT Isle of Man: Ride On The Edge                                                               | <span style="color:green">Yes!!</span>    |
+| TT Isle of Man: Ride On The Edge 2                                                             | <span style="color:green">Yes!!</span>    |
+| TumbleSeed                                                                                     | <span style="color:red">No.</span>        |
+| Turmoil                                                                                        | <span style="color:green">Yes!!</span>    |
+| Turok                                                                                          | <span style="color:green">Yes!!</span>    |
+| Twin Breaker: A Sacred Symbols Adventure                                                       | <span style="color:green">Yes!!</span>    |
+| Two Point Hospital                                                                             | <span style="color:green">Yes!!</span>    |
+| Ty the Tasmanian Tiger HD                                                                      | <span style="color:green">Yes!!</span>    |
+| Tyd wag vir Niemand                                                                            | <span style="color:green">Yes!!</span>    |
+| Type:Rider                                                                                     | <span style="color:green">Yes!!</span>    |
+| UBERMOSH:OMEGA                                                                                 | <span style="color:green">Yes!!</span>    |
+| UglyDolls: An Imperfect Adventure                                                              | <span style="color:red">No.</span>        |
+| Ultimate Chicken Horse                                                                         | <span style="color:green">Yes!!</span>    |
+| Ultimate Racing 2D                                                                             | <span style="color:green">Yes!!</span>    |
+| Ultimate Runner                                                                                | <span style="color:green">Yes!!</span>    |
+| Ultimate Ski Jumping 2020                                                                      | <span style="color:green">Yes!!</span>    |
+| Ultra Street Fighter II: The Final Challengers (Europe)                                        | <span style="color:red">No.</span>        |
+| Ultra Street Fighter II: The Final Challengers (USA)                                           | <span style="color:red">No.</span>        |
+| Ultrawings                                                                                     | <span style="color:green">Yes!!</span>    |
+| Umihara Kawase Fresh!                                                                          | <span style="color:green">Yes!!</span>    |
+| Unbox: Newbie's Adventure                                                                      | <span style="color:red">No.</span>        |
+| Uncanny Valley                                                                                 | <span style="color:green">Yes!!</span>    |
+| Undead & Beyond                                                                                | <span style="color:green">Yes!!</span>    |
+| Undead Darlings ~no cure for love~                                                             | <span style="color:green">Yes!!</span>    |
+| Undead's Building                                                                              | <span style="color:green">Yes!!</span>    |
+| Under Night In-Birth Exe:Late[cl-r]                                                            | <span style="color:green">Yes!!</span>    |
+| Under Night In-Birth Exe:Late[cl-r]                                                            | <span style="color:green">Yes!!</span>    |
+| Under the Jolly Roger                                                                          | <span style="color:green">Yes!!</span>    |
+| UnderHero                                                                                      | <span style="color:green">Yes!!</span>    |
+| Undertale                                                                                      | <span style="color:green">Yes!!</span>    |
+| Unholy Society, The                                                                            | <span style="color:green">Yes!!</span>    |
+| UNI                                                                                            | <span style="color:green">Yes!!</span>    |
+| Unitied                                                                                        | <span style="color:green">Yes!!</span>    |
+| Unlock the King                                                                                | <span style="color:green">Yes!!</span>    |
+| UNO                                                                                            | <span style="color:green">Yes!!</span>    |
+| Unrailed! Demo                                                                                 | <span style="color:green">Yes!!</span>    |
+| Unravel Two                                                                                    | <span style="color:green">Yes!!</span>    |
+| Unruly Heroes                                                                                  | <span style="color:green">Yes!!</span>    |
+| Untitled Goose Game                                                                            | <span style="color:green">Yes!!</span>    |
+| UORiS DX                                                                                       | <span style="color:green">Yes!!</span>    |
+| Urban Flow                                                                                     | <span style="color:green">Yes!!</span>    |
+| Urban Trial Playground                                                                         | <span style="color:green">Yes!!</span>    |
+| Urban Trial Tricky                                                                             | <span style="color:green">Yes!!</span>    |
+| Use Your Words                                                                                 | <span style="color:green">Yes!!</span>    |
+| UTOPIA 9 - A Volatile Vacation                                                                 | <span style="color:green">Yes!!</span>    |
+| V-Rally 4                                                                                      | <span style="color:green">Yes!!</span>    |
+| VA-11 Hall-A: Cyberpunk Bartender Action                                                       | <span style="color:green">Yes!!</span>    |
+| Valfaris (cartridge)                                                                           | <span style="color:green">Yes!!</span>    |
+| Valfaris (digital)                                                                             | <span style="color:green">Yes!!</span>    |
+| Valiant Hearts: The Great War                                                                  | <span style="color:green">Yes!!</span>    |
+| Valthirian Arc: Hero School Story                                                              | <span style="color:green">Yes!!</span>    |
+| Vambrace: Cold Soul                                                                            | <span style="color:green">Yes!!</span>    |
+| Vampire: The Masquerade - Coteries of New York                                                 | <span style="color:green">Yes!!</span>    |
+| Vampyr                                                                                         | <span style="color:red">No.</span>        |
+| Vandals                                                                                        | <span style="color:green">Yes!!</span>    |
+| Vanishing of Ethan Carter, The                                                                 | <span style="color:green">Yes!!</span>    |
+| Vaporum                                                                                        | <span style="color:green">Yes!!</span>    |
+| Varion                                                                                         | <span style="color:green">Yes!!</span>    |
+| VASARA Collection                                                                              | <span style="color:green">Yes!!</span>    |
+| Vasilis                                                                                        | <span style="color:green">Yes!!</span>    |
+| Vectronom                                                                                      | <span style="color:green">Yes!!</span>    |
+| Vektor Wars                                                                                    | <span style="color:green">Yes!!</span>    |
+| Velocity 2X                                                                                    | <span style="color:green">Yes!!</span>    |
+| Venture Kid                                                                                    | <span style="color:green">Yes!!</span>    |
+| Verlet Swing                                                                                   | <span style="color:green">Yes!!</span>    |
+| Victor Vran: Overkill Edition (cartridge)                                                      | <span style="color:green">Yes!!</span>    |
+| Victor Vran: Overkill Edition (digital)                                                        | <span style="color:green">Yes!!</span>    |
+| Vigil: The Longest Night                                                                       | <span style="color:green">Yes!!</span>    |
+| Vigor                                                                                          | <span style="color:green">Yes!!</span>    |
+| Vitamin Connection                                                                             | <span style="color:green">Yes!!</span>    |
+| Viviette                                                                                       | <span style="color:green">Yes!!</span>    |
+| VOEZ (digital)                                                                                 | <span style="color:red">No.</span>        |
+| VOEZ (USA, cartridge)                                                                          | <span style="color:red">No.</span>        |
+| VOEZ Demo                                                                                      | <span style="color:red">No.</span>        |
+| Void Bastards                                                                                  | <span style="color:green">Yes!!</span>    |
+| Volta-X                                                                                        | <span style="color:green">Yes!!</span>    |
+| Vortex Attack EX                                                                               | <span style="color:green">Yes!!</span>    |
+| Vostok Inc. (cartridge)                                                                        | <span style="color:red">No.</span>        |
+| Vostok Inc. (digital)                                                                          | <span style="color:red">No.</span>        |
+| Vostok Inc. Demo                                                                               | <span style="color:red">No.</span>        |
+| Voxel Galaxy                                                                                   | <span style="color:green">Yes!!</span>    |
+| Voxel Galaxy (cartridge)                                                                       | <span style="color:green">Yes!!</span>    |
+| Voxel Pirates                                                                                  | <span style="color:green">Yes!!</span>    |
+| Voxel Pirates                                                                                  | <span style="color:green">Yes!!</span>    |
+| Voxel Sword                                                                                    | <span style="color:green">Yes!!</span>    |
+| Voxelgram                                                                                      | <span style="color:green">Yes!!</span>    |
+| VVVVVV                                                                                         | <span style="color:red">No.</span>        |
+| Waifu Uncovered                                                                                | <span style="color:green">Yes!!</span>    |
+| Waifu Uncovered                                                                                | <span style="color:green">Yes!!</span>    |
+| Walking Dead: A Telltale Games Series, The                                                     | <span style="color:green">Yes!!</span>    |
+| Walking Dead: The Telltale Series - The Final Season, The                                      | <span style="color:green">Yes!!</span>    |
+| Wallachia: Reign of Dracula                                                                    | <span style="color:green">Yes!!</span>    |
+| Wanba Warriors                                                                                 | <span style="color:green">Yes!!</span>    |
+| Wanderer: Frankenstein's Creature, The                                                         | <span style="color:green">Yes!!</span>    |
+| Wandersong                                                                                     | <span style="color:green">Yes!!</span>    |
+| War Tech Fighters                                                                              | <span style="color:green">Yes!!</span>    |
+| War Theatre                                                                                    | <span style="color:green">Yes!!</span>    |
+| Warborn                                                                                        | <span style="color:green">Yes!!</span>    |
+| Warface                                                                                        | <span style="color:green">Yes!!</span>    |
+| Warframe                                                                                       | <span style="color:red">No.</span>        |
+| Wargroove                                                                                      | <span style="color:green">Yes!!</span>    |
+| Warhammer 40,000: Mechanicus                                                                   | <span style="color:green">Yes!!</span>    |
+| Warhammer 40,000: Space Wolf                                                                   | <span style="color:green">Yes!!</span>    |
+| Warhammer Age of Sigmar: Champions                                                             | <span style="color:green">Yes!!</span>    |
+| Warhammer Quest                                                                                | <span style="color:green">Yes!!</span>    |
+| Warhammer Quest 2: The End Times                                                               | <span style="color:green">Yes!!</span>    |
+| Warlock's Tower                                                                                | <span style="color:green">Yes!!</span>    |
+| Warparty                                                                                       | <span style="color:green">Yes!!</span>    |
+| Warplanes: WW2 Dogfight                                                                        | <span style="color:green">Yes!!</span>    |
+| Warriors Orochi 4                                                                              | <span style="color:green">Yes!!</span>    |
+| Warsaw                                                                                         | <span style="color:green">Yes!!</span>    |
+| Wartile Complete Edition                                                                       | <span style="color:green">Yes!!</span>    |
+| Wasteland 2: Director's Cut                                                                    | <span style="color:green">Yes!!</span>    |
+| Way Remastered, The                                                                            | <span style="color:green">Yes!!</span>    |
+| We should talk.                                                                                | <span style="color:green">Yes!!</span>    |
+| We. The Revolution                                                                             | <span style="color:green">Yes!!</span>    |
+| West of Dead                                                                                   | <span style="color:green">Yes!!</span>    |
+| West of Loathing                                                                               | <span style="color:green">Yes!!</span>    |
+| Wheel of Fortune                                                                               | <span style="color:green">Yes!!</span>    |
+| When Ski Lifts Go Wrong                                                                        | <span style="color:green">Yes!!</span>    |
+| Where Angels Cry                                                                               | <span style="color:green">Yes!!</span>    |
+| Where Angels Cry: Tears of the Fallen Collector's Edition                                      | <span style="color:green">Yes!!</span>    |
+| Where the Bees Make Honey                                                                      | <span style="color:red">No.</span>        |
+| while True: learn()                                                                            | <span style="color:green">Yes!!</span>    |
+| Whipseey and the Lost Atlas                                                                    | <span style="color:green">Yes!!</span>    |
+| Whispering Willows                                                                             | <span style="color:green">Yes!!</span>    |
+| Who Wants to Be a Millionaire?                                                                 | <span style="color:green">Yes!!</span>    |
+| Wide Ocean Big Jacket                                                                          | <span style="color:green">Yes!!</span>    |
+| Widget Satchel                                                                                 | <span style="color:green">Yes!!</span>    |
+| WildTrax Racing                                                                                | <span style="color:green">Yes!!</span>    |
+| WILL: A Wonderful World                                                                        | <span style="color:green">Yes!!</span>    |
+| WILL: A Wonderful World                                                                        | <span style="color:green">Yes!!</span>    |
+| Willy Jetman: Astromonkey's Revenge                                                            | <span style="color:green">Yes!!</span>    |
+| Wilmot's Warehouse                                                                             | <span style="color:green">Yes!!</span>    |
+| Windbound                                                                                      | <span style="color:green">Yes!!</span>    |
+| WindJammers                                                                                    | <span style="color:green">Yes!!</span>    |
+| Windmill Kings                                                                                 | <span style="color:green">Yes!!</span>    |
+| Windstorm                                                                                      | <span style="color:green">Yes!!</span>    |
+| Windstorm - Ari's Arrival                                                                      | <span style="color:red">No.</span>        |
+| Wintermoor Tactics Club                                                                        | <span style="color:green">Yes!!</span>    |
+| Witch & Hero                                                                                   | <span style="color:green">Yes!!</span>    |
+| Witcher 3: Wild Hunt - Complete Edition, The (Australia)                                       | <span style="color:red">No.</span>        |
+| Witcher 3: Wild Hunt - Complete Edition, The (Europe, digital)                                 | <span style="color:red">No.</span>        |
+| Witcher 3: Wild Hunt - Complete Edition, The (Poland)                                          | <span style="color:red">No.</span>        |
+| Witcher 3: Wild Hunt - Complete Edition, The (Russia)                                          | <span style="color:red">No.</span>        |
+| Witcher 3: Wild Hunt — Complete Edition, The (USA)                                             | <span style="color:red">No.</span>        |
+| Witcheye                                                                                       | <span style="color:green">Yes!!</span>    |
+| Without Escape                                                                                 | <span style="color:green">Yes!!</span>    |
+| Wizard of Legend                                                                               | <span style="color:green">Yes!!</span>    |
+| Wolfenstein II: The New Colossus                                                               | <span style="color:red">No.</span>        |
+| Wolfenstein: Youngblood (Europe)                                                               | <span style="color:red">No.</span>        |
+| Wonder Boy Returns Remix                                                                       | <span style="color:green">Yes!!</span>    |
+| Wonder Boy: The Dragon's Trap (digital)                                                        | <span style="color:green">Yes!!</span>    |
+| Wonder Boy: The Dragon's Trap (USA, cartridge)                                                 | <span style="color:green">Yes!!</span>    |
+| Wonderful 101: Remastered, The                                                                 | <span style="color:green">Yes!!</span>    |
+| Woodle Tree 2: Deluxe                                                                          | <span style="color:green">Yes!!</span>    |
+| Woodsalt                                                                                       | <span style="color:green">Yes!!</span>    |
+| Word Sudoku by POWGI                                                                           | <span style="color:green">Yes!!</span>    |
+| WordHerd                                                                                       | <span style="color:green">Yes!!</span>    |
+| Working Zombies                                                                                | <span style="color:green">Yes!!</span>    |
+| World Conqueror X                                                                              | <span style="color:green">Yes!!</span>    |
+| World End Syndrome                                                                             | <span style="color:green">Yes!!</span>    |
+| World End Syndrome (Europe)                                                                    | <span style="color:green">Yes!!</span>    |
+| World for Two                                                                                  | <span style="color:green">Yes!!</span>    |
+| World Next Door, The                                                                           | <span style="color:green">Yes!!</span>    |
+| World of Final Fantasy Maxima                                                                  | <span style="color:green">Yes!!</span>    |
+| World of Goo                                                                                   | <span style="color:red">No.</span>        |
+| World of Riders                                                                                | <span style="color:green">Yes!!</span>    |
+| World of Solitaire                                                                             | <span style="color:green">Yes!!</span>    |
+| World of Tanks Blitz                                                                           | <span style="color:green">Yes!!</span>    |
+| World Tree Marché                                                                              | <span style="color:green">Yes!!</span>    |
+| WorldNeverland: Elnea Kingdom                                                                  | <span style="color:green">Yes!!</span>    |
+| Worm Jazz                                                                                      | <span style="color:green">Yes!!</span>    |
+| Worms W.M.D                                                                                    | <span style="color:green">Yes!!</span>    |
+| WRC 8 FIA World Rally Championship                                                             | <span style="color:green">Yes!!</span>    |
+| Wulverblade                                                                                    | <span style="color:green">Yes!!</span>    |
+| Wunderling                                                                                     | <span style="color:green">Yes!!</span>    |
+| Wuppo: Definitive Edition                                                                      | <span style="color:green">Yes!!</span>    |
+| Wurroom                                                                                        | <span style="color:green">Yes!!</span>    |
+| WWE 2K Battlegrounds                                                                           | <span style="color:green">Yes!!</span>    |
+| WWE 2K18                                                                                       | <span style="color:red">No.</span>        |
+| X-Morph: Defense                                                                               | <span style="color:green">Yes!!</span>    |
+| XCOM 2 Collection                                                                              | <span style="color:red">No.</span>        |
+| Xeno Crisis                                                                                    | <span style="color:green">Yes!!</span>    |
+| Xenoblade Chronicles 2                                                                         | <span style="color:red">No.</span>        |
+| Xenoblade Chronicles 2: Torna - The Golden Country                                             | <span style="color:red">No.</span>        |
+| Xenoblade Chronicles Definitive Edition                                                        | <span style="color:green">Yes!!</span>    |
+| Xenon Racer                                                                                    | <span style="color:red">No.</span>        |
+| Xenon Valkyrie +                                                                               | <span style="color:green">Yes!!</span>    |
+| Xenon Valkyrie + Demo                                                                          | <span style="color:green">Yes!!</span>    |
+| Yaga                                                                                           | <span style="color:green">Yes!!</span>    |
+| Yellow Fins                                                                                    | <span style="color:green">Yes!!</span>    |
+| Yes, Your Grace                                                                                | <span style="color:green">Yes!!</span>    |
+| Yesterday Origins                                                                              | <span style="color:red">No.</span>        |
+| Yet Another Zombie Defense HD                                                                  | <span style="color:green">Yes!!</span>    |
+| YIIK: A Postmodern RPG                                                                         | <span style="color:green">Yes!!</span>    |
+| Yoga Master                                                                                    | <span style="color:green">Yes!!</span>    |
+| Yoku's Island Express                                                                          | <span style="color:green">Yes!!</span>    |
+| Yomawari: The Long Night Collection                                                            | <span style="color:green">Yes!!</span>    |
+| Yonder: The Cloud Catcher Chronicles (digital)                                                 | <span style="color:red">No.</span>        |
+| Yonder: The Cloud Catcher Chronicles (Europe, cartridge)                                       | <span style="color:red">No.</span>        |
+| Yonder: The Cloud Catcher Chronicles (USA, cartridge)                                          | <span style="color:red">No.</span>        |
+| Yono and the Celestial Elephants                                                               | <span style="color:red">No.</span>        |
+| Yooka-Laylee (cartridge)                                                                       | <span style="color:red">No.</span>        |
+| Yooka-Laylee (digital)                                                                         | <span style="color:red">No.</span>        |
+| Yooka-Laylee and the Impossible Lair                                                           | <span style="color:green">Yes!!</span>    |
+| Yoshi's Crafted World                                                                          | <span style="color:green">Yes!!</span>    |
+| Yoshi's Crafted World Demo Version                                                             | <span style="color:green">Yes!!</span>    |
+| You Died but a Necromancer revived you                                                         | <span style="color:green">Yes!!</span>    |
+| Your Toy                                                                                       | <span style="color:green">Yes!!</span>    |
+| YouTube                                                                                        | <span style="color:red">No.</span>        |
+| Youtubers Life: OMG Edition (cartridge)                                                        | <span style="color:green">Yes!!</span>    |
+| Youtubers Life: OMG Edition (digital)                                                          | <span style="color:green">Yes!!</span>    |
+| Ys VIII: Lacrimosa of DANA                                                                     | <span style="color:green">Yes!!</span>    |
+| Yu-Gi-Oh! Legacy of the Duelist : Link Evolution                                               | <span style="color:green">Yes!!</span>    |
+| YU-NO: A Girl Who Chants Love at the Bound of this World (Europe, cartridge)                   | <span style="color:red">No.</span>        |
+| Yume Nikki: Dream Diary                                                                        | <span style="color:green">Yes!!</span>    |
+| Yuso                                                                                           | <span style="color:green">Yes!!</span>    |
+| Zaccaria Pinball                                                                               | <span style="color:green">Yes!!</span>    |
+| Zenith                                                                                         | <span style="color:green">Yes!!</span>    |
+| Zero Gunner 2- for Nintendo Switch                                                             | <span style="color:green">Yes!!</span>    |
+| Ziggurat                                                                                       | <span style="color:green">Yes!!</span>    |
+| ZikSquare                                                                                      | <span style="color:green">Yes!!</span>    |
+| Zombie Army Trilogy                                                                            | <span style="color:green">Yes!!</span>    |
+| Zombie Night Terror                                                                            | <span style="color:green">Yes!!</span>    |
+| Zombie Panic in Wonderland DX                                                                  | <span style="color:green">Yes!!</span>    |
+| Zombie'sCool                                                                                   | <span style="color:green">Yes!!</span>    |
+| Zombieland: Double Tap - Road Trip (Europe)                                                    | <span style="color:green">Yes!!</span>    |
+| Zombieland: Double Tap - Road Trip (USA)                                                       | <span style="color:green">Yes!!</span>    |
+| Zumba: Burn It Up!                                                                             | <span style="color:red">No.</span>        |
+| 夕鬼 零 Yuoni: Rises                                                                           | <span style="color:green">Yes!!</span>     
