@@ -189,9 +189,10 @@ On occassion, people will ask on discord how they can show SysDVR in OBS to stre
 
 Add a new source, this source being a Window capture. Select SysDVR-Client as the window, and uncheck Capture Cursor. 
 
-<p align="center">
-  <img src="assets/images/misc/SysDVR-OBS.gif"/>
-</p>
+<video controls autoplay loop muted playsinline width="100%">
+  <source src="assets/video/misc/SysDVR-OBS.mp4" type="video/mp4">
+  <source src="assets/video/misc/SysDVR-OBS.webm" type="video/webm">
+</video>
 
 # Troubleshooting
 

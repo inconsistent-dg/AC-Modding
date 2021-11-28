@@ -125,9 +125,10 @@ Assuming you're on the right drive, right click the device, and delete the parti
 
 If you need visuals, below is a video.
 
-<p align="center">
-  <img src="./assets/images/Linux/GParted.gif"/>
-</p>
+<video controls autoplay loop muted playsinline width="100%">
+  <source src="assets/video/linux/GParted.mp4" type="video/mp4">
+  <source src="assets/video/linux/GParted.webm" type="video/webm">
+</video>
 
 ## Required Files
 
