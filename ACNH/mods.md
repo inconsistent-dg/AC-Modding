@@ -5,6 +5,14 @@ description: Learn to install or create Switch mods
 
 <big><big>**Follow this guide for dumping your romFS, as you'll need it to create mods.**</big></big>
 
+<p align="center">
+<big><a href="https://www.youtube.com/watch?v=4SbMkAQmsI0">This guide is available on Youtube!</a></big> 
+
+<iframe id="ytplayer" type="text/html" width="800" height="450"
+src="https://www.youtube.com/embed/4SbMkAQmsI0"
+frameborder="0" allowfullscreen></iframe>
+</p>
+
 <big>**Table of Contents**</big>
 - [Dumping romFS](#dumping-romfs)
 - [Switch Toolbox](#switch-toolbox)
@@ -61,7 +69,7 @@ Extract the zip using [7-zip](https://www.7-zip.org/), and open the folder. Insi
 # Loading Mods
 Now that we're here, you should create the layeredFs folder. The layeredFs is what actually allows you to load in the edited game files. In *atmosphere/contents/*, create a new folder which has the title ID of Animal Crossing. The title ID is `01006F8002326800`. Once this folder is created, make another called romFs inside it. Your directory should now look like this: `atmosphere/contents/01006F8002326800/romFs/`. In your romFs, create the directory *System/Resource/* and create a new resource size table. This can be done by creating an empty text file, and renaming it to `ResourceSizeTable.srsizetable`. Under normal circumstances with ACNH, loading a file that's much larger or smaller than the original causes the game to crash. This resource size table disables the games RAM management, so it will load any mod no matter the size.  
 
-**Any created mods must follow the same naming scheme as in the romFs, or the mod will not load.** So if you edit the dialog, then you need to create a folder called Message and any archives must be in there.
+**Any created mods must follow the same naming scheme as in the romFs, or the mod will not load.** So if you edit the *TalkFtr_USen.sarc.zs*, then you need to create a folder called Message and any archives must be in there.
 
 It is also important to say that in the case you have multiple of one folder (e.g. Model_0, Model_1, etc) then you do not include the `_X`. Bringing this up because I was in this predicament 😔 So it would just be *Model*, not *Model_0*.
 
