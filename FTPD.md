@@ -3,15 +3,12 @@ title: FTPD
 description: An app that lets you transfer files wirelessly.
 ---
 
-# FTPD
-
 **FTPD**, being developed by [mtheall](https://github.com/mtheall), is an app that allows you to transfer files to your Switch/3ds via Wi-Fi, meaning that you won't have to remove your SD card or turn off your switch everytime you need to put something on there.
 
 FTPD requires a local Wi-Fi connection, so both your Switch/3ds and your PC need to be connected to the same internet.
 
 <big>**Table of Contents**</big>
 
-- [FTPD](#ftpd)
 - [Prerequisites](#prerequisites)
 - [Downloading](#downloading)
 - [Installing](#installing)

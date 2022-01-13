@@ -3,8 +3,6 @@ title: SysDVR
 description: Learn SysDVR to stream your Switch to your PC 
 ---
 
-# SysDVR
-
 <sub>Last updated: June 25, 2021. If anything's changed, sorry! LMK on Discord.</sub>
 
 <sup>It should also be noted that most of the information here was *obviously* taken from the [wiki](https://github.com/exelix11/SysDVR/wiki/), but to make things easier to understand.</sup>
@@ -15,7 +13,6 @@ It is important to note that only games supporting video capture will work with 
 
 <big>**Table of Contents**</big>
 
-- [SysDVR](#sysdvr)
 - [Prerequisites](#prerequisites)
 - [Installing](#installing)
 - [Setup](#setup)

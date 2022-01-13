@@ -4,7 +4,7 @@ description: Learn to install or create Switch mods
 ---
 
 <p align="center">
-<big><big><b>Follow this guide for dumping your romFS, as you'll need it to create mods.</b></big></big>
+<big><big><b>Follow this guide for dumping your romFS, it's needed to create mods.</b></big></big>
 </p>
 
 <p align="center">

@@ -3,20 +3,15 @@ title: Switch Guide
 description: A guide for getting sysCFW Atmosphere
 ---
 
-# Switch CFW Setup
-
-**This guide is not trying to be its own "standalone guide" that everyone should go to, it's simple and does not get into the real nitty-gritty aspects for the WONDROUS world of magic. If you want an actually good guide, follow the [Nintendo Homebrew Switch Guide](https://nh-server.github.io/switch-guide/). This guide mostly follows that, except simplifying things by a LOT, and removing the optional emuNAND Route.**
+**This is not trying to be its own "standalone guide" that everyone should go to, it's simple and does not get into the real nitty-gritty aspects for the WONDROUS world of magic. If you want a good guide, follow the [Nintendo Homebrew Switch Guide](https://nh-server.github.io/switch-guide/). This guide mostly follows that, except simplifying things by a LOT, and removing the optional emuNAND Route.**
 
 <big><big>
 **Be aware that, no matter what, EVERY time you modify the console, there's a chance of an UNRECOVERABLE BRICK.** These are very, *very* rare, but still a possibility, so always make sure that you follow any directions EXACTLY.
 </big></big>
 
-Note: This page has not yet been fully completed. Once it has, you'll be able to answer all your questions!
+**Table of Contents**
 
-# Table of Contents
-
-- [Switch CFW Setup](#switch-cfw-setup)
-- [Table of Contents](#table-of-contents)
+- [Why shouldn't I use emuNAND?](#why-shouldnt-i-use-emunand)
 - [Finding your serial number](#finding-your-serial-number)
 - [Preparing the SD](#preparing-the-sd)
   - [Formatting the SD](#formatting-the-sd)
@@ -30,6 +25,16 @@ Note: This page has not yet been fully completed. Once it has, you'll be able to
   - [Switch NAND](#switch-nand)
   - [Switch keys](#switch-keys)
 - [Launching CFW](#launching-cfw)
+
+# Why shouldn't I use emuNAND?
+
+**emuNAND** (aka emuMMC) is, essentially, a second switch. It is stored completely on your SD card, on a separate partition, and not the internal storage. Because of this, whatever you do on your emuNAND will not be on your sysNAND, and whatever you do on your sysNAND will not be on your emuNAND.
+
+For the most part, emuNAND is used to do things that could get you banned, but to always keep it OFFLINE, then only go online with sysNAND. So since all of the bannable actions were done on the emuNAND, keeping it forever offline let’s you get away with being banned. Another way it could be used is to prevent a brick, something that could render your device completely useless. Do note however, your sysNAND and emuNAND do share a couple of things, such as the system/cartridge fuses, as well as your ban state. So if you DO get banned, there's nothing you can do.
+
+This guide does not go over setting up emuNAND. It is not needed, nor is it recommended, unless you want to pirate, or do other bannable actions. [A good tl;dr of what can/wont get you banned can be found here](https://nx.eiphax.tech/ban). In the case of Animal Crossing, no matter what mods you have or what you do in the game, you can't be banned. The most that will happen is the game prevents you from going online, until you remove the downloaded mods. And when they're removed, it's like nothing happened. You shouldn’t go online with emuNAND and then go online with sysNAND, as mismatched logs will be the reason you get banned. Plus, the entire point of emuNAND is to keep it offline.
+
+To not worry about this, simply go online with sysCFW. Not only does it give you the benefits of Custom Firmware, but because sysCFW is on your sysNAND (hence the name) you don't have to worry about mismatched logs, as the logs will be the same on both. 
 
 # Finding your serial number
 
@@ -97,7 +102,7 @@ If you get an error that looks like this, you just need to make sure that your f
 
 ### **Formatting on MacOS**
 
-I don't have a CrapOS, so I can't provide any extra screenshots, however you can [follow the Apple Support page for formatting](https://support.apple.com/guide/disk-utility/format-a-disk-for-windows-computers-dskutl1010/mac). At the top of the page, you can change which version of CrapOS you're using.
+I don't have a Mac, so I can't provide any extra screenshots, however you can [follow the Apple Support page for formatting](https://support.apple.com/guide/disk-utility/format-a-disk-for-windows-computers-dskutl1010/mac).
 
 ### **Formatting on Linux**
 
@@ -108,10 +113,10 @@ GParted is included by default in some distros, however if it isn't you can look
 | Linux Distro | Package                                                                   | Terminal Command                   |
 |-------------:|---------------------------------------------------------------------------|------------------------------------|
 |       Debian | [gparted](https://packages.debian.org/search?keywords=gparted)            | ```sudo apt-get install gparted``` |
+|       Ubuntu | [gparted](https://packages.ubuntu.com/search?keywords=gparted)            | ```sudo apt-get install gparted``` |
 |       Fedora | [gparted](https://koji.fedoraproject.org/koji/packageinfo?packageID=1950) | ```su -c "yum install gparted"```  |
 |      Mangeia | [gparted](https://madb.mageia.org/package/show/name/gparted)              | ```sudo urpmi gparted```           |
 |     OpenSUSE | [gparted](https://software.opensuse.org/package/gparted)                  | ```sudo zypper install gparted```  |
-|       Ubuntu | [gparted](https://packages.ubuntu.com/search?keywords=gparted)            | ```sudo apt-get install gparted``` |
 
 If your distro isn't listed here, you can either try to find it in it's package manager or simply [check out the official download instructions](https://gparted.org/download.php).
 
