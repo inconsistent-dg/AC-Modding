@@ -25,6 +25,11 @@ description: A guide for getting sysCFW Atmosphere
   - [Switch NAND](#switch-nand)
   - [Switch keys](#switch-keys)
 - [Launching CFW](#launching-cfw)
+- [Updating CFW](#updating-cfw)
+  - [**Updating Atmosphere**](#updating-atmosphere)
+  - [**Updating Hekate**](#updating-hekate)
+  - [**Updating Firmware**](#updating-firmware)
+    - [What constitutes an update?](#what-constitutes-an-update)
 
 # Why shouldn't I use emuNAND?
 
@@ -206,9 +211,9 @@ I might show how to inject on other platforms in the future, but for now, if you
 
 4. *Insert* your Jig into the right joy-con slot, making sure the pins aren't visible, and then press the Power button and VOL+ at the same time. Your Switch screen should stay black; if it turns on normally, retry from step 2.
 
-<img align="right" src="./assets/images/hbrew/rcm.png">
-
 5. If you see RCM O.K in the bottom left of Tegra, then you know your switch is in RCM. This is where you can actually inject a payload!!
+
+<img align="right" src="./assets/images/hbrew/rcm.png">
 
 Once your switch is in RCM, you can inject payloads. We'll be injecting Hekate.
 
@@ -231,6 +236,8 @@ You ARE going to need at**least** 32gb of free space to dump your Switch NAND (u
 3. Close this screen then select `eMMC RAW GPP`. It should take some time, since the Switch's rawnand.bin is quite large. (it'll take even longer if you're dumping it 4gb at a time). This can take anywhere from 15minutes up to an hour and a half, all depends on the speed of your SD card.
 4. Tap on Close twice to return to the tools menu, and copy the `backup` folder to your computer (or someplace safe). Once you got your `backup` folder copied someplace else, you can delete the `backup` folder on your SD. To save a bit of space, you can compress the backup folder in a .zip, .7z, or something similar. 
 
+I'd recommend that whenever a major update comes out for the Switch, that you also redump your NAND. Creating a backup of 10.0.0 and trying to restore it on 13.2.1 would either fail, or downgrade your switch (which can cause trouble down the line). Refer here for what's considered a major update.
+
 ## Switch keys
 
 Your Switch keys aren't that large, so you don't have to worry about spending another hour backing them up.
@@ -249,3 +256,45 @@ Now that you've finished those steps, you're basically finished at this point! A
 To launch into CFW, on the Hekate `Home` tab, select `Launch`, then select `CFW (SYSNAND)`. If you get an error like <span style="color:yellow">No main boot entries found...</span>, then you haven't downloaded the hekate_ipl.ini and put it in your bootloader folder. If this is the case, download the [hekate_ipl.ini](assets/hekate_ipl.ini) config file (open the link, right click > save page as)
 
 But if you don't get that error, then you're in CFW! You ARE gonna have to inject a payload everytime you want to enter CFW though, so remember that as soon as you turn off your switch you'll be back in normie territory.
+
+# Updating CFW
+
+When a new system update is released, there's 3 things that need updating: Atmosphere, Hekate, and your firmware. 
+
+## **Updating Atmosphere**
+
+1. Turn off your Switch and put the SD card in your computer
+2. Download the latest release of Atmosphere (the `atmosphere-(version)-master-(version)+hbl-(version)+hbmenu-(version).zip`)
+3. Copy *the contents* of the Atmosphere.zip to your SD card
+4. (If Hekate needs updating, follow the next section)
+5. Put your SD card in your switch and launch CFW
+
+## **Updating Hekate**
+
+1. Turn off your Switch and put the SD card in your computer
+2. Download the latest release of Hekate (the `hekate_ctcaer_(version).zip`)
+3. Copy the `bootloader` folder from the Hekate.zip to your SD card. If asked to overwrite or merge files, select yes.
+4. Put your SD card in your switch and launch Hekate
+5. Go to the Options tab of Hekate in the top right. If it isn't already, enable `Update Reboot 2 Payload`, then `Save Options`.
+6. Launch CFW
+
+## **Updating Firmware**
+
+Before updating your firmware, first check that Atmosphere *and* Hekate support the firmware you're updating to. The releases page on both will tell you the latest version that's supported. 
+
+<p align="center">
+  <img src="./assets/images/hbrew/hos_support.png"/>
+</p>
+
+### What constitutes an update?
+
+Surprisingly, not all *firmware* updates require Atmosphere and Hekate to update as well. There are 3 types of updates: Major, Minor, and Patches.<br>Major updates will almost always require Atmosphere and Hekate to update.<br>Minor won't break compatability as often, but the chance is still there.<br>It is extremely unlikely for patch updates to break compatability.
+
+It's great to know that you *can* update to a patch or minor update without Atmosphere, but that doesn't mean you should. It might bring errors, and no one likes those. And you don't wanna be the person to find out the minor update prevents booting. So you should wait for official word from CTCaer or SciresM saying it's okay to update the firmware, or if you'll have to wait.
+
+<p align="center">
+  <img src="./assets/images/misc/switch_update_compatability.png"/>
+</p>
+
+
+<!-- line 300!! -->
