@@ -131,13 +131,13 @@ Now that you have GParted installed, open it. Find your SD Card in the top right
 
 With that being said, now would be a great time to backup your data (if you have any data on it). If you've used your SD on your switch already and have taken some pictures that you just can't afford to lose, back them up! 
 
-Assuming you're on the right drive, right click the device, and delete the partition. This will make everything on the drive unallocated, and once it is right click the unallocated space then select New. This takes you to the `Create New Partition` screen. Once you're here, change the filesystem type to `fat32` and, if you want, give the partition a label. After you've done that, click `Add`, then the green checkmark at the top of the window to apply the changes.
+Assuming you're on the right drive, right click the partition, Select `Format to` and then `fat32`. After you've done that, click the green checkmark at the top of the window to apply the changes.
 
 If you need visuals, below is a video.
 
 <video controls autoplay loop muted playsinline width="100%">
-  <source src="assets/video/linux/GParted.mp4" type="video/mp4">
-  <source src="assets/video/linux/GParted.webm" type="video/webm">
+  <source src="assets/video/linux/GPartedK.mp4" type="video/mp4">
+  <source src="assets/video/linux/GPartedK.webm" type="video/webm">
 </video>
 
 ## Required Files
@@ -236,7 +236,7 @@ You ARE going to need at**least** 32gb of free space to dump your Switch NAND (u
 3. Close this screen then select `eMMC RAW GPP`. It should take some time, since the Switch's rawnand.bin is quite large. (it'll take even longer if you're dumping it 4gb at a time). This can take anywhere from 15minutes up to an hour and a half, all depends on the speed of your SD card.
 4. Tap on Close twice to return to the tools menu, and copy the `backup` folder to your computer (or someplace safe). Once you got your `backup` folder copied someplace else, you can delete the `backup` folder on your SD. To save a bit of space, you can compress the backup folder in a .zip, .7z, or something similar. 
 
-I'd recommend that whenever a major update comes out for the Switch, that you also redump your NAND. Creating a backup of 10.0.0 and trying to restore it on 13.2.1 would either fail, or downgrade your switch (which can cause trouble down the line). Refer here for what's considered a major update.
+I'd recommend that whenever a major update comes out for the Switch, that you also redump your NAND. Creating a backup of 10.0.0 and trying to restore it on 13.2.1 would either fail, or downgrade your switch (which can cause trouble down the line). [Refer here](./assets/images/misc/switch_update_compatability.png) for what's considered a major update.
 
 ## Switch keys
 
