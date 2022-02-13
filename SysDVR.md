@@ -3,13 +3,13 @@ title: SysDVR
 description: Learn SysDVR to stream your Switch to your PC 
 ---
 
-<sub>Last updated: June 25, 2021. If anything's changed, sorry! LMK on Discord.</sub>
+<sub>Last updated: Feb 12, 2022. If anything's changed, sorry! LMK on Discord.</sub>
 
 <sup>It should also be noted that most of the information here was *obviously* taken from the [wiki](https://github.com/exelix11/SysDVR/wiki/), but to make things easier to understand.</sup>
 
 Streaming your Switch to your computer is possible without needing any additional hardware, like a capture card. This is possible with a cross platform <sup><sub>(PC, Mac, Linux)</sub></sup> homebrew app called SysDVR, being developed by [exelix11](https://github.com/exelix11) The only thing you need is Custom Firmware, your common sense and your parents permission!
 
-It is important to note that only games supporting video capture will work with SysDVR, so if you planned to stream a game that doesn't support it, you're out of luck and need to buy a capture card. [You can read this page to see if the game you're trying to stream is compatible.](../pages/gamesw-video-capture.md)
+It is important to note that only games supporting video capture will work with SysDVR, so if you planned to stream a game that doesn't support it, you're out of luck and need to buy a capture card. [You can read this page to see if the game you're trying to stream is compatible.](./pages/gamesw-video-capture)
 
 <big>**Table of Contents**</big>
 
@@ -18,10 +18,12 @@ It is important to note that only games supporting video capture will work with 
 - [Setup](#setup)
   - [Windows Setup](#windows-setup)
   - [Linux Setup](#linux-setup)
-  - [CrapOS Setup](#crapos-setup)
+  - [MacOS Setup](#macos-setup)
 - [Streaming](#streaming)
   - [TCP Bridge](#tcp-bridge)
   - [USB Streaming](#usb-streaming)
+    - [Windows Driver Setup](#windows-driver-setup)
+    - [Linux and MacOS Driver Setup](#linux-and-macos-driver-setup)
 - [Using SysDVR with OBS](#using-sysdvr-with-obs)
 - [Troubleshooting](#troubleshooting)
 
@@ -36,7 +38,7 @@ It is important to note that only games supporting video capture will work with 
 
 # Installing
 
-[Download the latest version of `SysDVR-Client.7z` and `SysDVR.zip`](https://github.com/exelix11/SysDVR/releases/). <big>**Unless you have very specific reasons you should use the full version, regardless of if you're only going to stream via USB.**</big> At the time of writing this, the latest version is v5.1, and thus that is the version that this page will be going over. However the process should be the same for any future versions. You're also going to need something like [`7-zip`](https://www.7-zip.org/) to actually extract the contents of them.
+[Download the latest version of `SysDVR-Client.7z` and `SysDVR.zip`](https://github.com/exelix11/SysDVR/releases/). <big>**Unless you have very specific reasons you should use the full version, regardless of if you're only going to stream via USB.**</big> You're also going to need something like [`7-zip`](https://www.7-zip.org/) to actually extract the contents of them.
 
 Extract the contents of `SysDVR.zip` to your SD card. **You should NOT have a folder/file called SysDVR on root.** Your directory should look like this, and if it does that's how you know you have it installed correctly. If your switch is already running when you put these files on the SD, then you'll have to restart your switch for the changes to take effect.
 
@@ -71,10 +73,10 @@ Depending on what platform you're using, there will be different ways to setup S
 
 ---
 
-1. First, you need to download and install [**.NET 5**](https://dotnet.microsoft.com/download). **You must download the x64 version.**
-   - The **.NET Framework** and **.NET core 3** are not the same thing. You still need [**.NET 5**](https://dotnet.microsoft.com/download)
-   - This isn't always needed, but you might have to also install the latest [MSVC libs](https://support.microsoft.com/en-us/help/2977003/the-latest-supported-visual-c-downloads).
-2. Now that it's installed, you should be all hooked up! Launch SysDVR-Client.exe from the terminal or open SysDVR-ClientGUI.exe.
+1. Download and install [**.NET**](https://dotnet.microsoft.com/download?initial-os=windows). **You must download the x64 version.**
+   - The **.NET Framework** and **.NET core 3** are not the same thing. You still need [**.NET 5 or 6**](https://dotnet.microsoft.com/download?initial-os=windows)
+2. This isn't always needed, but you might have to install the latest [MSVC libs](https://support.microsoft.com/en-us/help/2977003/the-latest-supported-visual-c-downloads).
+3. With it installed, you should be ready! Launch SysDVR-Client.exe from the terminal or open SysDVR-ClientGUI.exe.
 
 ## Linux Setup
 
@@ -82,33 +84,27 @@ Depending on what platform you're using, there will be different ways to setup S
 
 These commands are for the default Ubuntu package manager. If you've got a different distro then you have to look for equivalent commands yourself.
 
-1. First, you need to download and install [**.NET 5**](https://docs.microsoft.com/en-us/dotnet/core/install/linux).
-   - Like said with windows, you NEED [**.NET 5**](https://docs.microsoft.com/en-us/dotnet/core/install/linux). Nothing else will work.
-2. Open the terminal, and install both **ffmpeg** and **SDL2** with these commands
-<pre>
-sudo apt install ffmpeg
-sudo apt install libsdl2-dev
-</pre>
-3. Now that those are installed, you should be all hooked up!
+1. Download and install [**.NET**](https://dotnet.microsoft.com/download?initial-os=linux).
+   - Mono and .NET Core will not work. You STILL need [**.NET 5 or 6**](https://dotnet.microsoft.com/download?initial-os=linux).
+2. Install **ffmpeg** `sudo apt install ffmpeg`
+3. Install **SDL2** `sudo apt install libsdl2-dev`
+4. With these installed, you should be ready. 
 
-## CrapOS Setup
+## MacOS Setup
 
 ---
 
 These commands use brew. If you use a different package manager then you have to look for equivalent commands yourself.
 
-1. First, you need to download and install [**.NET 5**](https://dotnet.microsoft.com/download?initial-os=macos)
-   - Like said with Windows, you NEED [**.NET 5**](https://dotnet.microsoft.com/download?initial-os=macos). Nothing else will work.
-2. Open the terminal, and install both **ffmpeg** and **SDL2**
-<pre>
-brew install ffmpeg
-brew install SDL2
-</pre>
-3. Now that those are installed, you should be all hooked up!
+1. Download and install [**.NET**](https://dotnet.microsoft.com/download?initial-os=macos)
+   - Mono and .NET Core will not work. You STILL NEED [**.NET 5 or 6**](https://dotnet.microsoft.com/download?initial-os=macos).
+2. Install **ffmpeg** `brew install ffmpeg`
+3. Install **SDL2** `brew install SDL2`
+4. With these installed, you should be ready.
 
 # Streaming
 
-Now we get to the actual fun part! There are 3 different modes for streaming, those modes being RTSP, TCP bridge, and USB. If you have a good cable, then streaming with USB will give you the best quality. For wireless, TCP bridge is the best. Although RTSP mode us *decent*, it's basically the worst out of all three, which is why I won't be going over using it. If you want to stream via RTSP anyway, you can check out the [page on the wiki for it.](https://github.com/exelix11/SysDVR/wiki/Network-RTSP-mode-(default-mode))
+Now we get to the actual fun part! There are 3 different modes for streaming, those modes being Simple Network (RTSP), TCP bridge, and USB. If you have a good cable, then streaming with USB will give you the best quality. For wireless, TCP bridge is the best. Although simple network mode is *decent*, it's basically the worst out of all three, which is why I won't be going over using it. If you want to stream via RTSP anyway, you can check out the [page on the wiki for it.](https://github.com/exelix11/SysDVR/wiki/Network-RTSP-mode-(default-mode))
 
 ## TCP Bridge
 
@@ -133,13 +129,13 @@ Below is a picture of where to look for your Switch's IP address.
 
 Make sure you've selected `TCP Bridge` from within the SysDVR app on your Switch, CD into your SysDVR directory, and launch it like this: `dotnet SysDVR-Client.dll bridge <ip address>`, obviously replacing `<ip address>` with your Switch's IP.
 
-When using the terminal, you can add the flags `--no-audio` and `--no-video` to disable either audio or video.
+You can add the flags `--no-audio` or `--no-video` to disable the audio, video, or both.
 
 ## USB Streaming
 
 Streaming via USB is a little bit harder, as it requires installing custom USB drivers for the Switch.
 
-<big>Setting up the driver on Windows</big>
+### Windows Driver Setup
 
 Plug your Switch into your computer, then [download and launch Zadig.](https://zadig.akeo.ie/) If you haven't installed a driver for SysDVR before you should see 2 of them, those two being `SysDVR - Video (Interface 0)` and `SysDVR - Audio (Interface 1)`. Install the `WinUSB` driver for both of them. If you have indeed downloaded a driver before, you might only see a single `SysDVR (Nintendo Switch)` device. Replace that driver by installing the WinUSB.
 
@@ -147,21 +143,15 @@ Plug your Switch into your computer, then [download and launch Zadig.](https://z
 
 **Before installing the drivers, make sure that the USB ID is `057e 3006`.** If it's different, then SysDVR's sys-module might not be working. Try waiting a bit longer for it to register (about 20 seconds after restarting your Switch). If waiting doesn't fix it, try reinstalling SysDVR.
 
-<big>Setting up the driver on Linux and CrapOS</big>
+### Linux and MacOS Driver Setup
 
 This is easier on Linux and Mac! You probably already have the required libray installed. If not, this is how you install it.
 
 As said before, this goes over installing it for Ubuntu. If you use other distros, you're smart enough to figure out the command for your own package manager 🥴
 
-Linux:
-<pre>
-sudo apt install libusb-1.0-0
-</pre>
+Linux: `sudo apt install libusb-1.0-0`
 
-MadOS:
-<pre>
-brew install libusb
-</pre>
+MacOS: `brew install libusb`
 
 On some installations, `libusb-1.0` might go by a different name. You can make a symlink to the correct one, which is shown on [the LibUsbDotNet repo](https://github.com/LibUsbDotNet/LibUsbDotNet#linux-users)
 
@@ -178,7 +168,7 @@ Make sure that you've selected USB from within the SysDVR Settings on your Switc
 
 Make sure you've selected `USB` from within the SysDVR app on your Switch, CD into your SysDVR directory, and launch it like this: `dotnet SysDVR-Client.dll usb`
 
-When using the terminal, you can add the flags `--no-audio` and `--no-video` to disable either audio or video.
+You can add the flags `--no-audio` or `--no-video` to disable the audio, video, or both.
 
 # Using SysDVR with OBS
 
