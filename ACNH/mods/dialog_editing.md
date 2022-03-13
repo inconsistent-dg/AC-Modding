@@ -3,7 +3,7 @@ title: Dialog Editing
 description: Tutorial for editing ACNH Dialog
 ---
 
-Dialog in this game is stored in Message Studio Binary Text (**MSBT**) files. There are separate archive files that the MSBT files will be in depending on its type of dialog, and it is named based on its region and language. All dialog files are stored in the *Message* directory in the games romFS, [which you've hopefully dumped before](../mods#dumping-romfs). You'll also need to download [Kuriimu](https://github.com/FanTranslatorsInternational/Kuriimu2), which is what you'll be using to edit the dialog.
+Dialog in this game is stored in **MSBT** (Message Studio Binary Text) files. There are separate archive files that the MSBT files will be in depending on its type of dialog, and it is named based on its region and language. All dialog files are stored in the *Message* directory in the games romFS, [which you've hopefully dumped before](../mods#dumping-romfs). You'll also need to download [Kuriimu](https://github.com/FanTranslatorsInternational/Kuriimu2), which is what you'll be using to edit the dialog.
 
 <big>Table of Contents</big>
 - [Dialog Types](#dialog-types)

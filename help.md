@@ -3,13 +3,15 @@ title: HELP
 description: Troubleshooting page for Switch modding.
 ---
 
-<sub># Note: this page probably doesnt have everything that it deserves, but for now i'd call it pretty Pog!</sub>
+<sub># Note: this page probably doesn't have everything that it deserves, but for now i'd call it pretty Pog!</sub>
 
-# **Be aware that, no matter what, EVERY time you modify the console, there's a chance of an UNRECOVERABLE BRICK.** These are very, *very* rare, but still a possibility, so always make sure that you follow any directions EXACTLY.
+<big><big>
+**Be aware that, no matter what, EVERY time you modify the console, there's a chance of an UNRECOVERABLE BRICK.** These are very, *very* rare, but still a possibility, so always make sure that you follow any directions EXACTLY.
+</big></big>
 
 This help page tries to go through each and every question one might ask about anything shown in the guides.
 
-# Table of contents
+**Table of contents**
 
 - [Homebrew](#homebrew)
   - [What's homebrew?](#whats-homebrew)
@@ -27,7 +29,7 @@ This help page tries to go through each and every question one might ask about a
 
 This can include anything from save editors, to editors, to full games (and more, if you're creative enough)
 
-If you're trying to run homebrew on your switch, you CAN! If you have a v1/unpatched switch, an sd card, and a USB-C cable.
+If you're trying to run homebrew on your switch, you CAN! If you have a v1/unpatched switch, an SD card, and a USB-C cable.
 
 ## What's a patched or unpatched switch? And how do I know which I have?
 `Unpatched` / v1 switches are any switches that were made before early June of 2018. Any switch made after that is what's called a `Patched` / v2 switch. The difference from the two, is that the original Switch (v1) was made with a Tegra x1 chip. These chips, when they're in Recovery Mode (RCM), are able to execute unverified code. This one exploit allows people to develop payloads for the switch, which can then be injected. NVIDIA *has* [publicly responded to this.](https://nvidia.custhelp.com/app/answers/detail/a_id/4660/~/security-notice%3A-nvidia-tegra-rcm-vulnerability)
@@ -60,11 +62,11 @@ Once you click it, it will show your Serial Number at the top of the screen. I h
 | XKW or XKJ     |                            |                              | Mariko switches, all patched. |
 
 ## What's emuNAND/sysNAND, and do I need it?
-`emuNAND` (aka emuMMC) is, essentially, a second switch. It is stored completely on your SD card, not the internal storage, so you can have games that can't be accessed without being in CFW. <sub><sup>(i see you with omega labyrinth life)</sup></sub>
+**emuNAND** (aka emuMMC) is, essentially, a second switch. It is stored completely on your SD card, on a separate partition, and not the internal storage. Because of this, whatever you do on your emuNAND will not be on your sysNAND, and whatever you do on your sysNAND will not be on your emuNAND.
 
-For the most part, emuNAND is used to do things that could get you banned, but always keep it OFFLINE, then only go online with sysNAND. So all bannable actions were done on the emuNAND, keeping that forever offline let's you get away with murder. Another way it could be used is to prevent a `brick`, something that could render your device completely useless. *Do note however*, your sysNAND and emuNAND do share a couple of things, such as the system/cartridge fuses, as well as your ban state. So if you DO get caught with murder, looks like you're out of luck.
+For the most part, emuNAND is used to do things that could get you banned, but to always keep it OFFLINE, then only go online with sysNAND. So since all of the bannable actions were done on the emuNAND, keeping it forever offline let’s you get away with being banned. Another way it could be used is to prevent a brick, something that could render your device completely useless. Do note however, your sysNAND and emuNAND do share a couple of things, such as the system/cartridge fuses, as well as your ban state. So if you DO get banned, there's nothing you can do.
 
-It is not needed unless you want to pirate, want to use mods that could get you banned, or are just paranoid about getting banned. You shouldn't go online with emuNAND and then go online with sysNAND, as mismatched logs will be the reason you get banned.
+This guide does not go over setting up emuNAND. It is not needed, nor is it recommended, unless you want to pirate, or do other bannable actions. [A good tl;dr of what can/wont get you banned can be found here](https://nx.eiphax.tech/ban). In the case of Animal Crossing, no matter what mods you have or what you do in the game, you can't be banned. The most that will happen is the game prevents you from going online, until you remove the downloaded mods. And when they're removed, it's like nothing happened. You shouldn’t go online with emuNAND and then go online with sysNAND, as mismatched logs will be the reason you get banned. Plus, the entire point of emuNAND is to keep it offline.
 
 `sysNAND` is the storage built into your switch, so... you probably shouldn't take it out. People use sysNAND to go online and not have to worry about being banned.
 
@@ -79,18 +81,17 @@ Because of this exploit, people who actually know what they're doing can create 
 
 ## What's a Jig? (and how to get inside RCM)
 
-A Jig is a molded piece of plastic with metal wiring in it. It was made to be more reliable and safer than using papercips or foil. Once you have a Jig, you slide it into the Right Joycon slot, so the metal can touch the 1st and 10th pins on the underside of the slot.  
+A Jig is a molded piece of plastic with metal wiring in it. It was made to be more reliable and safer than using paperclips or foil. Once you have a Jig, you slide it into the Right Joycon slot, so the metal can touch the 1st and 10th pins on the underside of the slot.  
 
-<sub>A Switch Jig is shown below. The one shown on the right has a light shining on it, to show the metal better.</sub>
 <p align="center">
-  <img src="./assets/images/hbrew/SwitchJigSbS.jpg" alt="Switch Jig, right has light shining on it to show the metal better."/>
+  <img src="./assets/images/misc/jig.jpg" alt="Switch Jig"/>
 </p>
 
-<sub>Below is the Jig in the Right Joycon slot. You do not need to disassemble the Switch or anything to get in RCM.</sub>
-
+<sub>You do not need to disassemble the Switch or anything to get in RCM.
+Note that to enter RCM, the jig has to be entered fully with the pins not visible. This picture has the pins out to show which way to enter it.</sub>
 
 <p align="center">
-  <img src="./assets/images/hbrew/JiggyintheThingy.jpg" alt="Jig in the right joycon slot."/>
+  <img src="./assets/images/misc/jigger.jpg" alt="Jig in the right joycon slot."/>
 </p>
 
 Once it's in there, hold down the Power button and Volume Up button. If the screen stays black, you're most likely in RCM!

@@ -5,9 +5,11 @@ This website is to help out the googlers, typing in things like "how to make a t
 
 You can follow my tutorial on [setting up Switch CFW](switch-guide), as you will need it to mod the game. 
 
-## To go to the title of Animal Crossing that you want to mod, click the title of the game.
+If you already have a modded switch, [follow my modding series](ACNH/mods) to mod the game.
+
+## Click the title of the game to see all available pages for it
 [Animal Crossing: New Horizons](/ACNH)
 
-# **This site is not finished. Everything will be added eventually, from New Horizons down to the OG title.**
+<big><span style="color:#78bff7">**This site is not finished. Everything will be added eventually, from New Horizons down to the OG title.**</span></big>
 
 [Click here to look at a list of all available pages](219)

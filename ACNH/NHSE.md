@@ -50,7 +50,7 @@ description: A guide for the New Horizons Save Editor
 
 ## What is NHSE?
 
-`NHSE` (New Horizons: Save Editor) is, as the name suggests, a save editor for New Horizons. It was made by Kurt ([kwsch](https://github.com/kwsch)), written in C#, and is the longest standing save editor for NH. [MyHorizons](https://github.com/Cuyler36/MyHorizons) by [Cuyler36](https://github.com/Cuyler36) was (and still is, afaik) the only other save editor for NHSE, however, it has been discontinued.
+**NHSE** (New Horizons: Save Editor) is, as the name suggests, a save editor for New Horizons. It was made by Kurt ([kwsch](https://github.com/kwsch)), written in C#, and is the longest standing save editor for NH. [MyHorizons](https://github.com/Cuyler36/MyHorizons) by [Cuyler36](https://github.com/Cuyler36) was (and still is, afaik) the only other save editor for NHSE, however, it has been discontinued.
 
 ## Downloading NHSE
 
@@ -186,24 +186,24 @@ It's recommended to earn all these through normal gameplay, instead of just givi
 
 ### **Editing Flags**
 
-Clicking on `Edit Player...` and then `Edit Flags` will allow you to change your player flags. Flags keep track of what you have done/completed during your playthrough. They're true/false statements, 0 being false and 1 being true. So to enable a flag, set it to 1, and to disable it set it to 0. No matter what, as always, it's best to achieve all flags in-game, as there could be other flags affected during normal playthrough that aren't known about right now, which could potentially mess up your save. 
+Clicking on `Edit Player...` and then `Edit Flags` will allow you to change your player flags. Flags keep track of what you have done/completed during your playthrough. They're true/false statements, 0 being false and 1 being true. So to enable a flag, set it to 1, and to disable it set it to 0. Only change these flags if absolutely necessary. It's best to achieve all flags in-game, as there could be other flags affected during normal playthrough that aren't known about right now, which could potentially mess up your save. Some flags aren't fully working anymore either, and might softlock it. So if you do have to change them, ***make a backup.***
 
 ```
-Terraforming:                 513, 565-574, 644
-Designer app:                 513
-Paving:                       828
-3 Star Evaluaion / KK Unlock: 776
-Harvey's Island:              535, 544
-Reactions UI:                 140
-Pro Designs:                  353, 702, 714
-Pro Designs+:                 1172
-Custom Design Portal:         1310
-Nook Shopping App:            319
-Hair styles:                  559-562
-Hair Color:                   563
-Halloween Customizations:     1142-1144
-Afro Hairstyles:              1219
-Incline/Bridge Kit Dialo:     126 (set to 4)
+Terraforming:                  513, 565-574, 644
+Designer app:                  513
+Paving:                        828
+3 Star Evaluation / KK Unlock: 776
+Harvey's Island:               535, 544
+Reactions UI:                  140
+Pro Designs:                   353, 702, 714
+Pro Designs+:                  1172
+Custom Design Portal:          1310
+Nook Shopping App:             319
+Hair styles:                   559-562
+Hair Color:                    563
+Halloween Customizations:      1142-1144
+Afro Hairstyles:               1219
+Incline/Bridge Kit Dialog:     126 (set to 4)
 ```
 
 <p align="center">
