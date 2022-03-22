@@ -7,9 +7,9 @@ You can follow my tutorial on [setting up Switch CFW](switch-guide), as you will
 
 If you already have a modded switch, [follow my modding series](ACNH/mods) to mod the game.
 
-## Click the title of the game to see all available pages for it
+Some guides aren't specific to Animal Crossing, like the [FTPD](FTPD) guide, which can be used to transfer files from your SD to your PC. You can [click here to look at a list of all available pages](219).
+
+## Click an entry to see all available pages for it
 [Animal Crossing: New Horizons](/ACNH)
 
 <big><span style="color:#78bff7">**This site is not finished. Everything will be added eventually, from New Horizons down to the OG title.**</span></big>
-
-[Click here to look at a list of all available pages](219)
