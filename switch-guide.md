@@ -3,15 +3,14 @@ title: Switch Guide
 description: A guide for getting sysCFW Atmosphere
 ---
 
-**This is not trying to be its own "standalone guide" that everyone should go to, it's simple and does not get into the real nitty-gritty aspects for the WONDROUS world of magic. If you want a good guide, follow the [Nintendo Homebrew Switch Guide](https://nh-server.github.io/switch-guide/). This guide mostly follows that, except simplifying things by a LOT, and removing the optional emuNAND Route.**
+**This is not trying to be its own "standalone guide" that everyone should go to, it's simple and does not get into the real nitty-gritty aspects for the WONDROUS world of magic. If you want a good guide, follow the [Nintendo Homebrew Switch Guide](https://nh-server.github.io/switch-guide/). This guide mostly follows that, except simplifying things by a LOT, and removing the optional emuNAND Route. Read [this](pages/ban-risks) to see why.**
 
-<big><big>
-**Be aware that, no matter what, EVERY time you modify the console, there's a chance of an UNRECOVERABLE BRICK.** These are very, *very* rare, but still a possibility, so always make sure that you follow any directions EXACTLY.
-</big></big>
+---
+**Be aware that, no matter what, EVERY time you modify the console, there's a chance of an UNRECOVERABLE BRICK.** These are very, *very* rare, but still a possibility, so always make sure that you follow any directions EXACTLY.  
+---
 
 **Table of Contents**
 
-- [Why shouldn't I use emuNAND?](#why-shouldnt-i-use-emunand)
 - [Finding your serial number](#finding-your-serial-number)
 - [Preparing the SD](#preparing-the-sd)
   - [Formatting the SD](#formatting-the-sd)
@@ -30,16 +29,9 @@ description: A guide for getting sysCFW Atmosphere
   - [**Updating Hekate**](#updating-hekate)
   - [**Updating Firmware**](#updating-firmware)
     - [What constitutes an update?](#what-constitutes-an-update)
-
-# Why shouldn't I use emuNAND?
-
-**emuNAND** (aka emuMMC) is, essentially, a second switch. It is stored completely on your SD card, on a separate partition, and not the internal storage. Because of this, whatever you do on your emuNAND will not be on your sysNAND, and whatever you do on your sysNAND will not be on your emuNAND.
-
-For the most part, emuNAND is used to do things that could get you banned, but to always keep it OFFLINE, then only go online with sysNAND. So since all of the bannable actions were done on the emuNAND, keeping it forever offline let’s you get away with being banned. Another way it could be used is to prevent a brick, something that could render your device completely useless. Do note however, your sysNAND and emuNAND do share a couple of things, such as the system/cartridge fuses, as well as your ban state. So if you DO get banned, there's nothing you can do.
-
-This guide does not go over setting up emuNAND. It is not needed, nor is it recommended, unless you want to pirate, or do other bannable actions. [A good tl;dr of what can/wont get you banned can be found here](https://nx.eiphax.tech/ban). In the case of Animal Crossing, no matter what mods you have or what you do in the game, you can't be banned. The most that will happen is the game prevents you from going online, until you remove the downloaded mods. And when they're removed, it's like nothing happened. You shouldn’t go online with emuNAND and then go online with sysNAND, as mismatched logs will be the reason you get banned. Plus, the entire point of emuNAND is to keep it offline.
-
-To not worry about this, simply go online with sysCFW. Not only does it give you the benefits of Custom Firmware, but because sysCFW is on your sysNAND (hence the name) you don't have to worry about mismatched logs, as the logs will be the same on both. 
+- [Troubleshooting](#troubleshooting)
+  - [Gamecard can't be read](#gamecard-cant-be-read)
+  - [Yellow Screen](#yellow-screen)
 
 # Finding your serial number
 
@@ -81,7 +73,7 @@ Your SD card *should* be formatted to FAT32. Using exFAT on the Switch should be
 
 For formatting on Windows, this guide uses GUIFormat. GUIFormat is used because it allows you to format drives that are higher than 32gb, where using the default format tool doesn't allow you to go any higher.
 
-You can download from the official website, or you can download it from my github repository. It's here because the official website seems to go down every other week, so if it's down you can download it there.
+You can download from the official website, or you can download it from my Github repository. It's here because the official website seems to go down every other week, so if it's down you can download it there.
 
 [Official Download](http://ridgecrop.co.uk/index.htm?guiformat.htm)
 
@@ -142,7 +134,7 @@ If you need visuals, below is a video.
 
 ## Required Files
 
-We're now going to place the required files for CFW, with some added homebrew files. Yeah, we could just use Atmosphere's own bootloader (called fusee), however we'll be using Hekate instead, just so we can backup the systems NAND, and use some features that'll be helpful in the future.
+We're now going to place the required files for CFW, with some added homebrew files. Yeah, we could just use Atmosphere's own bootloader (called fusée), however we'll be using Hekate instead, just so we can backup the systems NAND, and use some features that'll be helpful in the future.
 
 A [hekate_ipl.ini](assets/hekate_ipl.ini) config file (open the link, right click > save page as)
 
@@ -255,7 +247,7 @@ Now that you've finished those steps, you're basically finished at this point! A
 
 To launch into CFW, on the Hekate `Home` tab, select `Launch`, then select `CFW (SYSNAND)`. If you get an error like <span style="color:yellow">No main boot entries found...</span>, then you haven't downloaded the hekate_ipl.ini and put it in your bootloader folder. If this is the case, download the [hekate_ipl.ini](assets/hekate_ipl.ini) config file (open the link, right click > save page as)
 
-But if you don't get that error, then you're in CFW! You ARE gonna have to inject a payload everytime you want to enter CFW though, so remember that as soon as you turn off your switch you'll be back in normie territory.
+But if you don't get that error, then you're in CFW! You ARE gonna have to inject a payload every time you want to enter CFW though, so remember that as soon as you turn off your switch you'll be back in normie territory.
 
 # Updating CFW
 
@@ -288,7 +280,7 @@ Before updating your firmware, first check that Atmosphere *and* Hekate support 
 
 ### What constitutes an update?
 
-Surprisingly, not all *firmware* updates require Atmosphere and Hekate to update as well. There are 3 types of updates: Major, Minor, and Patches.<br>Major updates will almost always require Atmosphere and Hekate to update.<br>Minor won't break compatability as often, but the chance is still there.<br>It is extremely unlikely for patch updates to break compatability.
+Surprisingly, not all *firmware* updates require Atmosphere and Hekate to update as well. There are 3 types of updates: Major, Minor, and Patches.<br>Major updates will almost always require Atmosphere and Hekate to update.<br>Minor won't break compatibility as often, but the chance is still there.<br>It is extremely unlikely for patch updates to break compatibility.
 
 It's great to know that you *can* update to a patch or minor update without Atmosphere, but that doesn't mean you should. It might bring errors, and no one likes those. And you don't wanna be the person to find out the minor update prevents booting. So you should wait for official word from CTCaer or SciresM saying it's okay to update the firmware, or if you'll have to wait.
 
@@ -296,5 +288,29 @@ It's great to know that you *can* update to a patch or minor update without Atmo
   <img src="./assets/images/misc/switch_update_compatability.png"/>
 </p>
 
+# Troubleshooting
 
-<!-- line 300!! -->
+## Gamecard can't be read
+
+If you're getting a "game card could not be read" after updating your switch, go into the options tab in Hekate and toggle `Auto NoGC` to off. 
+
+<p align="center">
+  <img src="./assets/images/hbrew/nogc.png"/>
+</p>
+
+If that doesn't work, try this instead: 
+
+1. Open `atmosphere/config/stratosphere.ini` in a text editor, like notepad <br> (if that file doesn't exist, copy it from the template in atmosphere/config_templates/)
+2. Force disable NoGC by adding the line `nogc = 0`
+
+Once you've done this, your document should look like the screenshot below. Save it by pressing **CTRL + S**, and reboot into CFW. It should work.
+
+<p align="center">
+  <img src="./assets/images/misc/stratosphere.png"/>
+</p>
+
+## Yellow Screen 
+
+Yellow screen errors are most likely the result of your mesosphere being outdated. Completely reinstalling atmosphere should fix the issue.
+
+Make sure that the Atmosphere version you've downloaded is the latest. Now backup the atmosphere/contents folder on your SD card somewhere, like your PC. Delete the entire atmosphere folder on your SD card, then drag the latest onto your SD card. Transfer the atmosphere/contents back, and it should be fixed.
