@@ -15,6 +15,7 @@ frameborder="0" allowfullscreen></iframe>
 
 <big>**Table of Contents**</big>
 - [Dumping romFS](#dumping-romfs)
+  - [Dumping portion of romFs](#dumping-portion-of-romfs)
 - [Switch Toolbox](#switch-toolbox)
 - [Loading Mods](#loading-mods)
 - [Creating Mods](#creating-mods)
@@ -35,6 +36,13 @@ After injecting Hekate, select *payloads* and then **Lockpick**. Select "*Dump f
 <span style="color:red">f</span><span style="color:orange">l</span><span style="color:yellow">a</span><span style="color:green">s</span><span style="color:blue">h</span><span style="color:cyan">y</span> <span style="color:red">c</span><span style="color:orange">o</span><span style="color:yellow">l</span><span style="color:green">o</span><span style="color:blue">r</span><span style="color:cyan">s</span> and a confirmation that the keys were written to where they needed to be. Press the power button again to return to the menu, then navigate to Reboot (RCM). Reinject the Hekate payload, boot CFW, and launch any game via title takeover (opening the game while holding R). It's better to launch homebrew apps this way, as it gives them full system resources.
 
 Here, the process differs a bit if you own the game physically instead of digitally. Press "*Dump gamecard content*" if you do own it physically, otherwise press "*Dump installed SD card / eMMC content*". Select the game, and then *RomFS Options*. If it's available to you, use the left/right buttons to cycle through the available updates for the game, so you can dump those as well. The option won't show if you don't have any available updates. Make sure *Split files bigger than 4 GiB* is also selected. Now you select the *RomFS section data dump* and wait for the process to finish. How long it takes depends on your SD card speed. And now, your romFS is dumped! You should copy the romFS folder from your SD card to your PC, as the romFS is 6gb+. It also makes it easier to edit whenever it's needed, instead of only editing when your SD's on your computer.
+
+---
+
+## Dumping portion of romFs
+You might not need the entire romFS, because you'll only be editing portions of it. Luckily, you can choose which parts of the romFs to dump. 
+
+Open NXDumptool, and go to New Horizons. In the romFS options of NH, select browse romFS section. Let's say you only want to dump the Message entry. Open the folder, and press **Y** to dump everything in that directory. If you only want to dump a single file though, go to the file and press **A**. 
 
 # Switch Toolbox
 
@@ -69,7 +77,7 @@ Extract the zip using [7-zip](https://www.7-zip.org/), and open the folder. Insi
 | System            |                                                         |                                                                           |
 
 # Loading Mods
-Now that we're here, you should create the layeredFs folder. The layeredFs is what actually allows you to load in the edited game files. In *atmosphere/contents/*, create a new folder which has the title ID of Animal Crossing. The title ID is `01006F8002326800`. Once this folder is created, make another called romFs inside it. Your directory should now look like this: `atmosphere/contents/01006F8002326800/romFs/`. In your romFs, create the directory *System/Resource/* and create a new resource size table. This can be done by creating an empty text file, and renaming it to `ResourceSizeTable.srsizetable`. Under normal circumstances with ACNH, loading a file that's much larger or smaller than the original causes the game to crash. This resource size table disables the games RAM management, so it will load any mod no matter the size.  
+Now that we're here, you should create the layeredFs folder. The layeredFs is what actually allows you to load in the edited game files. In *atmosphere/contents/*, create a new folder which has the title ID of Animal Crossing. The title ID is `01006F8002326000`. Once this folder is created, make another called romFs inside it. Your directory should now look like this: `atmosphere/contents/01006F8002326000/romFs/`. In your romFs, create the directory *System/Resource/* and create a new resource size table. This can be done by creating an empty text file, and renaming it to `ResourceSizeTable.srsizetable`. Under normal circumstances with ACNH, loading a file that's much larger or smaller than the original causes the game to crash. This resource size table disables the games RAM management, so it will load any mod no matter the size.  
 
 **Any mods must follow the same naming scheme as in the romFs, or the mod will not load.** So if you edit the *TalkFtr_USen.sarc.zs*, then you need to create a folder called Message and any archives must be in there. This also applies if you aren't creating mods, and just loading them. While most creators provide the full `atmosphere/contents` directory, if they don't. they'll say to put the edited file in the directory where it belongs. 
 
