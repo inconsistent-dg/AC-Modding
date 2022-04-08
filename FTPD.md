@@ -5,7 +5,7 @@ description: An app that lets you transfer files wirelessly.
 
 <p align="center">
 <big><a href="https://www.youtube.com/watch?v=fm5VqstAKmw">This guide is available on Youtube!</a></big> <iframe id="ytplayer" type="text/html" width="800" height="450"
-src="https://www.youtube.com/watch?v=fm5VqstAKmw"
+src="https://www.youtube.com/embed/fm5VqstAKmw"
 frameborder="0" allowfullscreen></iframe>
 </p>
 
