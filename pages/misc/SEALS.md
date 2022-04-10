@@ -575,3 +575,5 @@ Heading level 2
 │   └── validate-html<br>
 ├── switch-guide.md<br>
 └── SysDVR.md<br>
+
+[collapsible](SEALS/collapsible)

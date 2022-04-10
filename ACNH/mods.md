@@ -19,8 +19,8 @@ frameborder="0" allowfullscreen></iframe>
 - [Switch Toolbox](#switch-toolbox)
 - [Loading Mods](#loading-mods)
 - [Creating Mods](#creating-mods)
-  - [Dialog Editing](#dialog-editing)
-  - [Editing Textures](#editing-textures)
+  - [**Dialog Editing**](#dialog-editing)
+  - [**Editing Textures**](#editing-textures)
   - [Model Swapping](#model-swapping)
   - [Music Mods](#music-mods)
 
@@ -42,7 +42,7 @@ Here, the process differs a bit if you own the game physically instead of digita
 ## Dumping portion of romFs
 You might not need the entire romFS, because you'll only be editing portions of it. Luckily, you can choose which parts of the romFs to dump. 
 
-Open NXDumptool, and go to New Horizons. In the romFS options of NH, select browse romFS section. Let's say you only want to dump the Message entry. Open the folder, and press **Y** to dump everything in that directory. If you only want to dump a single file though, go to the file and press **A**. 
+Open NXDumptool, and go to New Horizons. In the romFS options of NH, select browse romFS section. Let's say you only want to dump the Sound entry. Open the Sound folder, and press **Y** to dump everything in that directory. If you only want to dump a single file though, go to the file and press **A**. 
 
 # Switch Toolbox
 
@@ -89,9 +89,9 @@ It is also important to say that in the case you have multiple of one folder (e.
 
 **Simply click on the header for that section.**
 
-## [Dialog Editing](mods/dialog_editing)
+## [**Dialog Editing**](mods/dialog_editing)
 
-## [Editing Textures](mods/editing_textures)
+## [**Editing Textures**](mods/editing_textures)
 
 ## [Model Swapping](mods/model_swapping)
 

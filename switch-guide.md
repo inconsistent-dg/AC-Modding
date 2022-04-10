@@ -32,6 +32,7 @@ description: A guide for getting sysCFW Atmosphere
 - [Troubleshooting](#troubleshooting)
   - [Gamecard can't be read](#gamecard-cant-be-read)
   - [Yellow Screen](#yellow-screen)
+  - [2001-0123 Error Code](#2001-0123-error-code)
 
 # Finding your serial number
 
@@ -309,8 +310,18 @@ Once you've done this, your document should look like the screenshot below. Save
   <img src="./assets/images/misc/stratosphere.png"/>
 </p>
 
+---
+
 ## Yellow Screen 
 
 Yellow screen errors are most likely the result of your mesosphere being outdated. Completely reinstalling atmosphere should fix the issue.
 
-Make sure that the Atmosphere version you've downloaded is the latest. Now backup the atmosphere/contents folder on your SD card somewhere, like your PC. Delete the entire atmosphere folder on your SD card, then drag the latest onto your SD card. Transfer the atmosphere/contents back, and it should be fixed.
+Make sure that the Atmosphere version you've downloaded is the latest. Now backup the `atmosphere/contents` folder on your SD card somewhere, like your PC. Delete the entire atmosphere folder on your SD card, then drag the latest onto your SD card. Transfer the `atmosphere/contents` back, and it should be fixed.
+
+---
+
+## 2001-0123 Error Code
+
+The 2001-0123 error code is caused by a partial update being applied to Atmosphere, instead of a full one. This means that NCAs from the latest update are installed but BOOT0 still contains an earlier version. Completely reinstalling atmosphere should fix the issue. 
+
+Make sure that the Atmosphere version you've downloaded is the latest. Now backup the `atmosphere/contents` folder on your SD card somewhere, like your PC. Delete the entire atmosphere folder on your SD card, then drag the latest onto your SD card. Transfer the `atmosphere/contents` back, and it should be fixed.
