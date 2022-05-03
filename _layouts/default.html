@@ -6,7 +6,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
-    <link rel="shortcut icon" type="image/x-icon" href="../fasil.ico" />
+    <link rel="shortcut icon" type="image/x-icon" href="https://ac-modding.com/fasil.ico" />
 
 {% seo %}
   </head>
@@ -24,7 +24,8 @@
           {% if site.show_downloads %}
           {% endif %}
           <a href="{{ site.github.repository_url }}" class="btn btn-github"><span class="icon"></span>View on GitHub</a>
-          <a href="../contact" class="btn"></span>Ways of Contact</a>
+          <a href="https://ac-modding.com/contact" class="btn"></span>Ways of Contact</a>
+          <a href="https://ac-modding.com/privacy" class="btn"></span>Privacy</a>
         </section>
       </div>
     </header>
@@ -45,6 +46,15 @@
         ga('send', 'pageview');
       </script>
     {% endif %}
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-K4Z6G4GC6C"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag() { dataLayer.push(arguments); }
+      gtag('js', new Date());
+
+      gtag('config', 'G-K4Z6G4GC6C');
+    </script>
   </body>
 <meta property='og:image' content='https://raw.githubusercontent.com/inconsistent-dg/AC-Modding/main/assets/images/acm.png'>
 <meta name="twitter:card" content="summary_large_image">

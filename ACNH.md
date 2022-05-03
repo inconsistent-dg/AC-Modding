@@ -6,10 +6,11 @@ description: Available pages on tools for NH
 # What would you like to look at?
 **Simply click on the hyperlink at the start of the section.**
 
-1. [Save Editing](#save-editing)
-2. [Streaming](#streaming)
-3. [Mods](#mods)
-4. [Emulating](#emulating)
+- [What would you like to look at?](#what-would-you-like-to-look-at)
+  - [Save Editing](#save-editing)
+  - [Streaming](#streaming)
+  - [Mods](#mods)
+  - [Emulating](#emulating)
 
 ## Save Editing
 <img align="left" src="./assets/images/NH/NHSE.png">
@@ -29,8 +30,6 @@ description: Available pages on tools for NH
 
 ## Emulating
 
-[Learn how to play Animal Crossing on your PC with either Yuzu or Ryujinx.](/ACNH/emulation) Emulating requires pretty decent hardware for the game to run at full speed, no lag. So if your Macbook Air from 2012 can't open Chrome without the thing dying, then you probably shouldn't even try. Emulating is also good if you want to use mods but dont want to put them on your Switch, if you're scared of being banned, or just want to test it out quickly without having to put it on there. It is a bit hard to set it up, but it's useful for what I've previously mentioned.
-
-It's also useful to mention that both Yuzu and Ryujinx have their pros and cons. Yuzu doesn't require you to have a top end device, so it's more compatible with lower ends. However, Ryujinx is more CPU intensive. A quick con with Yuzu, it's not very ACNH compatible. It requires custom patches for glitches (like fog appearing black), *and* **LayeredFS** is barely supported. If any LayeredFS mods are loaded for ACNH with Yuzu, it can then take anywhere from 10 minutes to 10 hours for it to load. Sometimes, it just won't. Ryujinx doesn't have these problems.
+[Learn how to play Animal Crossing on your PC with either Yuzu or Ryujinx.](/ACNH/emulation) Emulating requires pretty decent hardware for the game to run at full speed, no lag. So if your Macbook Air from 2012 can't open Chrome without the thing dying, then you probably shouldn't even try. Emulating is also good if you want to use mods but don't want to put them on your Switch, because you're scared of being banned, or just want to test it out quickly without having to put it on there. It is a bit hard to set it up, but it's useful for what I've previously mentioned. There are some pros that Yuzu has over Ryujinx though, which is explained on the page.
 
 <img src="./assets/images/NH/Yuzu.png"> 
