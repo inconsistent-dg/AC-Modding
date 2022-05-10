@@ -89,6 +89,10 @@ To use the Automatic BARS patcher, you’ll need the dumps of your romFs on the 
 
 With that done, exit NXDumptool by pressing `+` and launch the automatic bars patcher.
 
+Press A to select ACNH, and review the file paths shown to you. Make sure they’re correct, and if not, press B to edit them. Once everything’s set, press A to Accept & Patch. Hopefully, it’s a success, and if not, review the error message. It should tell you what went wrong.
+
+Now go home and launch Animal Crossing. You should hear the patched songs.
+
 # Extracting Tracks
 
 To extract the audio from a bwav, first make sure you have Citric Composer installed. Now, open the games romFs and go to the */Sound/Resource/Stream/* directory. All music can be found here. When you installed Citric Composer, it should've changed all file type associations for bwav to it. If it didn't, right click any bwav, select properties, and change `Opens With:` to Citric Composer.
