@@ -106,9 +106,9 @@ NHSE is a **Save Editor** (hence the name New Horizons: Save Editor). This obvio
 
 ---
 
-1. Download the [`JK has to go back to work edition` release of JKSV](https://github.com/J-D-K/JKSV/releases/download/06.07.2020/JKSV.nro). This version is recommended more than latest.
+1. Download the [latest release of JKSV](https://github.com/J-D-K/JKSV/releases).
 2. Drag `JKSV.nro` into the `switch` folder on root.
-   - No, **not in a folder called `root`**. Open your SD card, and without being in any folders already, you'll see a `switch` folder. **Drag it in there.**
+   - No, **not in a folder called `root`**. This [root](https://raw.githubusercontent.com/inconsistent-dg/AC-Modding/main/assets/images/misc/root.png). Open your SD card, and without being in any folders already, you'll see a `switch` folder. **Drag it in there.**
 3. Boot into Custom Firmware, then open the Homebrew Launcher. Find JKSV, then open it.
    - You'll be fine opening the HBmenu in the album, but app takeover is still an option.
 4. Open `Device Saves`, then ACNH.
