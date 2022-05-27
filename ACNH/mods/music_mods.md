@@ -13,7 +13,7 @@ Music in this game is stored in **BWAV** (Binary Wave) files. All music can be f
   - [Conversion](#conversion)
   - [Loop Points](#loop-points)
 - [Creating BWAV (in Open Revolution)](#creating-bwav-in-open-revolution)
-  - [Split Stereo Track](#split-stereo-track-1)
+  - [Conversion](#conversion-1)
 - [BARS Patching](#bars-patching)
 - [Extracting Tracks](#extracting-tracks)
     - [K.K. Music List](#kk-music-list)
@@ -55,20 +55,9 @@ Using the layeredFs folder that you [should’ve created here](../mods#loading-m
 # Creating BWAV (in Open Revolution)
 If you're on Windows, download [Open Revolution here](https://github.com/ic-scm/openrevolution/releases). <br> If you're on Arch Linux, download it from the [Arch User Repository](https://aur.archlinux.org/packages/openrevolution-git/). <br> If you're on MacOS, install it with Homebrew through [freeapp2014/stuff](https://github.com/FreeApp2014/homebrew-stuff).
 
-Open Revolution requires a .wav as its input. If your song is not a wav already, download [Audacity](https://www.fosshub.com/Audacity.html) from this link. Download the version corresponding to your OS. Open the app, go to **Edit > Preferences**, and select **Import/Export**. Make sure **Use Advanced Mixing Options** is checked. All songs, excluding KK sliders, have 2 channels. For your song to play correctly, it needs the right amount of channels, which is 2. If you’re replacing a KK slider song, skip this section, as you don’t need 2 channels.
+Open Revolution requires a .wav as its input. If your song is not a wav already, download [Audacity](https://www.fosshub.com/Audacity.html) from this link. Download the version corresponding to your OS. When installed, drag the song to Audacity, then go to **File > Export > Export as WAV**.
 
-<p align="center">
-<img src="./../../assets/images/apps/audacity-prefs.png"> 
-</p>
-
-## Split Stereo Track
-With the song you want to import, drag it into the Audacity window. Select the track, then select **Split Stereo Track**. This will give you 2 channels. 
-
-<p align="center">
-<img src="./../../assets/images/apps/audacity-split.png"> 
-</p>
-
-Since your song might be a bit too loud when imported into the game, press CTRL + A, go to **Effects**, and select **Limiter**. Choose Soft Limit as your type and change the limit to -5dB. Now go to **File > Export > Export as MP3**. Save it wherever you’d like. Make sure there’s 2 output channels, the left connecting to the right, and export.
+## Conversion
 
 On Windows, extract the zip and open the folder in the CMD prompt. This can be done by typing `cmd` inside the searchbar.
 
@@ -80,6 +69,8 @@ On Linux or Mac, open the terminal in the same location as the wav. Now, run thi
 ```
 brstm_converter input.wav -o output.bwav
 ```
+On Windows, add `.exe` to the end of `brstm_converter`.
+Make sure your output.bwav is named the same as in the games romFs, or the song will not load. 
 
 # BARS Patching
 Switch Games that use BWAV files have information stored about them in a separate BARS archive. When replacing a BWAV with your own custom music, you’ll also need to replace the information about the BWAV in the BARS file.
