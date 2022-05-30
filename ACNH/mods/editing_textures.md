@@ -91,7 +91,7 @@ In Animal Crossing: New Horizons, all of the seasonal grass colours are stored i
   <img src="../../assets/images/NH/mods/mGrass_Grd.png" alt="mGrass_Grd"/>
 </p>
 
-And this is how the game maps these colours to the actual grass texture in-game
+And this is how the game maps these colours to the actual grass texture in-game:
 
 <p align="center">
   <img src="../../assets/images/NH/mods/mGrass_Grd_Edit.png" alt="mGrass_Grd Edited to highlight used colours"/>
