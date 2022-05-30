@@ -95,5 +95,7 @@ And this is how the game maps these colours to the actual grass texture in-game
 
 <p align="center">
   <img src="../../assets/images/NH/mods/mGrass_Grd_Edit.png" alt="mGrass_Grd Edited to highlight used colours"/>
+</p>
+<p align="center">
   <img src="../../assets/images/NH/mods/Grass_colours_ingame.jpg" alt="Grass colour map shown in-game"/>
 </p>
