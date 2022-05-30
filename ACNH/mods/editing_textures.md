@@ -82,3 +82,20 @@ Like any other mod, the file must go into the [layeredFs folder](../mods#loading
 <p align="center">
   <img src="../../assets/images/NH/mods/ToolboxTex_Museum-game.jpg" alt="Saving Archive"/>
 </p>
+
+# Grass colour scheme editing
+
+In Animal Crossing: New Horizons, all of the seasonal grass colours are stored in a single texture, and depending on the time of year, the game will grab a different horizontal slice of colour from the texture. This texture is called `mGrass_Grd` and is stored in `FldUnit.Nin_NX_NVN.zs` in the `Models` folder. This is what it looks like:
+
+<p align="center">
+  <img src="../../assets/images/NH/mods/mGrass_Grd.png" alt="mGrass_Grd"/>
+</p>
+
+And this is how the game maps these colours to the actual grass texture in-game:
+
+<p align="center">
+  <img src="../../assets/images/NH/mods/mGrass_Grd_Edit.png" alt="mGrass_Grd Edited to highlight used colours"/>
+</p>
+<p align="center">
+  <img src="../../assets/images/NH/mods/Grass_colours_ingame.jpg" alt="Grass colour map shown in-game"/>
+</p>
