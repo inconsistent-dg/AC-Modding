@@ -3,56 +3,53 @@ title: NHSE
 description: A guide for the New Horizons Save Editor
 ---
 
-# NHSE
-
 <big>**Table of Contents**</big>
 
-- [NHSE](#nhse)
-  - [What is NHSE?](#what-is-nhse)
-  - [Downloading NHSE](#downloading-nhse)
-  - [Opening NHSE](#opening-nhse)
-    - [Extracting Save with JKSV](#extracting-save-with-jksv)
-    - [Importing Save to NHSE](#importing-save-to-nhse)
-  - [Using NHSE](#using-nhse)
+- [What is NHSE?](#what-is-nhse)
+- [Downloading NHSE](#downloading-nhse)
+- [Opening NHSE](#opening-nhse)
+  - [Extracting Save with JKSV](#extracting-save-with-jksv)
+  - [Importing Save to NHSE](#importing-save-to-nhse)
+- [Using NHSE](#using-nhse)
   - [Internal Items](#internal-items)
-  - [Players Tab](#players-tab)
-    - [**Editing Storage**](#editing-storage)
-    - [**Editing Received Items**](#editing-received-items)
-    - [**Editing Achievements**](#editing-achievements)
-    - [**Editing Recipes**](#editing-recipes)
-    - [**Editing Flags**](#editing-flags)
-    - [**Editing Reactions**](#editing-reactions)
-    - [**Editing Misc**](#editing-misc)
-  - [Villagers Tab](#villagers-tab)
-    - [**Changing Villager**](#changing-villager)
-    - [**Changing Villager House**](#changing-villager-house)
-    - [**Moving Villager Out**](#moving-villager-out)
-    - [**Editing Furniture**](#editing-furniture)
-    - [**Editing Wear**](#editing-wear)
-    - [**Editing Room**](#editing-room)
-    - [**Editing Memories**](#editing-memories)
-    - [**Editing DIY Timer**](#editing-diy-timer)
-  - [Map Tab](#map-tab)
-    - [**Editing Turnip Exchange**](#editing-turnip-exchange)
-    - [**Editing Recycle Bin**](#editing-recycle-bin)
-    - [**Editing Hemisphere**](#editing-hemisphere)
-    - [**Editing Airport Color**](#editing-airport-color)
-    - [**Editing Designs**](#editing-designs)
-    - [**Editing Player Houses**](#editing-player-houses)
-    - [**Editing Weather Seed**](#editing-weather-seed)
-    - [**Editing Flags**](#editing-flags-1)
-    - [**Editing Bulletin Board**](#editing-bulletin-board)
-    - [**Editing Field Goods**](#editing-field-goods)
-    - [**Editing Museum**](#editing-museum)
-    - [**Editing Visitors**](#editing-visitors)
-    - [**Editing Field Items**](#editing-field-items)
+- [Players Tab](#players-tab)
+  - [**Editing Storage**](#editing-storage)
+  - [**Editing Received Items**](#editing-received-items)
+  - [**Editing Achievements**](#editing-achievements)
+  - [**Editing Recipes**](#editing-recipes)
+  - [**Editing Flags**](#editing-flags)
+  - [**Editing Reactions**](#editing-reactions)
+  - [**Editing Misc**](#editing-misc)
+- [Villagers Tab](#villagers-tab)
+  - [**Changing Villager**](#changing-villager)
+  - [**Changing Villager House**](#changing-villager-house)
+  - [**Moving Villager Out**](#moving-villager-out)
+  - [**Editing Furniture**](#editing-furniture)
+  - [**Editing Wear**](#editing-wear)
+  - [**Editing Room**](#editing-room)
+  - [**Editing Memories**](#editing-memories)
+  - [**Editing DIY Timer**](#editing-diy-timer)
+- [Map Tab](#map-tab)
+  - [**Editing Turnip Exchange**](#editing-turnip-exchange)
+  - [**Editing Recycle Bin**](#editing-recycle-bin)
+  - [**Editing Hemisphere**](#editing-hemisphere)
+  - [**Editing Airport Color**](#editing-airport-color)
+  - [**Editing Designs**](#editing-designs)
+  - [**Editing Player Houses**](#editing-player-houses)
+  - [**Editing Weather Seed**](#editing-weather-seed)
+  - [**Editing Flags**](#editing-flags-1)
+  - [**Editing Bulletin Board**](#editing-bulletin-board)
+  - [**Editing Field Goods**](#editing-field-goods)
+  - [**Editing Museum**](#editing-museum)
+  - [**Editing Visitors**](#editing-visitors)
+- [**Editing Field Items**](#editing-field-items)
 - [Loading Save](#loading-save)
 
-## What is NHSE?
+# What is NHSE?
 
 **NHSE** (New Horizons: Save Editor) is, as the name suggests, a save editor for New Horizons. It was made by Kurt ([kwsch](https://github.com/kwsch)), written in C#, and is the longest standing save editor for NH. [MyHorizons](https://github.com/Cuyler36/MyHorizons) by [Cuyler36](https://github.com/Cuyler36) was (and still is, afaik) the only other save editor for NHSE, however, it has been discontinued.
 
-## Downloading NHSE
+# Downloading NHSE
 
 There are 2 ways to download NHSE. The easiest is shown first
 
@@ -86,7 +83,7 @@ A gif tutorial is shown, to help out a bit
 <img src="../assets/images/NH/Artifacts.gif"> 
 </p>
 
-## Opening NHSE
+# Opening NHSE
 
 Extract the `NHSE.zip` you've just downloaded and open `NHSE.exe`. **You MUST extract the zip to use NHSE**. If you don't, you will get an error that looks a little something like this. If you get this, you know what you did wrong. [You can use 7-zip to extract.](https://www.7-zip.org/)
 
@@ -96,7 +93,7 @@ Extract the `NHSE.zip` you've just downloaded and open `NHSE.exe`. **You MUST ex
 
 This page assumes you already have CFW, and if you don't, then you can [follow a guide here.](../switch-guide)
 
-### Extracting Save with JKSV
+## Extracting Save with JKSV
 
 NHSE is a **Save Editor** (hence the name New Horizons: Save Editor). This obviously means that you're gonna need to extract your save for use with NHSE! JKSV currently is the only homebrew app that can do this. This is because ACNH uses Device Saves, and Checkpoint (another big save extractor) doesn't support this.
 
@@ -117,7 +114,7 @@ NHSE is a **Save Editor** (hence the name New Horizons: Save Editor). This obvio
 
 Now that you have your save, you can actually use NHSE! You really, *really* should make a backup of the save you just made. You might make a terrible mistake on accident, and then you won't have any save to fallback on. A great man once said, the best backup's the one you **have** but don't need, and the worst backup's the one you **need** but don't have.
 
-### Importing Save to NHSE
+## Importing Save to NHSE
 
 Open NHSE, and drag your save folder (from `sd:/JKSV/Animal Crossing  New Horizons`) into the NHSE window. After a couple seconds, it should load, and you'll be ready to edit!
 
@@ -127,7 +124,7 @@ Open NHSE, and drag your save folder (from `sd:/JKSV/Animal Crossing  New Horizo
 <img src="../assets/images/NH/NHSE_SaveDrag.gif"> 
 </p>
 
-## Using NHSE
+# Using NHSE
 
 ## Internal Items
 
@@ -135,7 +132,7 @@ Before going any further, it's important to mention `internal items`. Internal i
 
 <big>[**Please read this list by Berichan to see what these internal items are, and prevent yourself from placing them down.**](https://github.com/berichan/ACNHMobileSpawner/wiki/List-of-internal-items)</big>
 
-## Players Tab
+# Players Tab
 
 <p>
 <img align="right" src="../assets/images/NH/NHSEVillager69.png">
@@ -144,7 +141,7 @@ All of the tabs (including this one) are pretty self explanatory for the most pa
 
 If you have multiple players on your island, you can click on `Villager0` to change between them.
 
-### **Editing Storage**
+## **Editing Storage**
 
 Clicking on `Edit Player...` and then `Edit Storage` will allow you to edit your storage (no surprise). You can either dump or load an `NHI` (New Horizons Inventory) of your storage to import into other places that allow it. You can press `Clear`, which will delete all items of your choosing. Or `Sort` to sort all your items in alphabetical order, or by the type of item.
 
@@ -152,7 +149,7 @@ Clicking on `Edit Player...` and then `Edit Storage` will allow you to edit your
   <img src="../assets/images/NH/NHSE_EPlayer-Storage.png"/>
 </p>
 
-### **Editing Received Items**
+## **Editing Received Items**
 
 Clicking on `Edit Player...` and then `Edit Received Items` will allow you to edit all of the items you've Received throughout your playthrough. You can click `Give All` to automatically give you every item there, or you can simply check the boxes next to the item name to manually give yourself the item.
 
@@ -162,7 +159,7 @@ It's recommended to earn all these through normal gameplay. But hey, it's not my
   <img src="../assets/images/NH/NHSE_EPlayer-ReceivedItems.png"/>
 </p>
 
-### **Editing Achievements**
+## **Editing Achievements**
 
 Clicking on `Edit Player...` and then `Edit Achievements` will allow you to edit your achievements. You can click `Give All` which will complete every achievement there, or you can click `Clear All` which will completely erase all achievements you've earned so far. If NHSE doesn't do it for you, you should check each achievement and make sure that `Read` is checked, otherwise you'll have to go through your Nook Miles app and read them all yourself.
 
@@ -174,7 +171,7 @@ The achievements aren't named the same way that they are in game, and that's bec
   <img src="../assets/images/NH/NHSE_EPlayer-Achievements.png"/>
 </p>
 
-### **Editing Recipes**
+## **Editing Recipes**
 
 This one should be pretty self explanatory. Clicking on `Edit Player...` and then `Edit Recipes` will allow you to edit your recipes. Using the `goto` dropdown box at the top, you can go to the specific recipe that you want and then click on **Known**, **Crafted**, **Favorite**, or **New** which will give the recipe that property. If you don't want to go through every recipe and add/remove a property, you can select `Learn All`, which will apply the **Known** and **New** properties to that recipe.
 
@@ -184,7 +181,7 @@ It's recommended to earn all these through normal gameplay, instead of just givi
   <img src="../assets/images/NH/NHSE_EPlayer-Recipe.png"/>
 </p>
 
-### **Editing Flags**
+## **Editing Flags**
 
 Clicking on `Edit Player...` and then `Edit Flags` will allow you to change your player flags. Flags keep track of what you have done/completed during your playthrough. They're true/false statements, 0 being false and 1 being true. So to enable a flag, set it to 1, and to disable it set it to 0. Only change these flags if absolutely necessary. It's best to achieve all flags in-game, as there could be other flags affected during normal playthrough that aren't known about right now, which could potentially mess up your save. Some flags aren't fully working anymore either, and might softlock it. So if you do have to change them, ***make a backup.***
 
@@ -210,7 +207,7 @@ Incline/Bridge Kit Dialog:     126 (set to 4)
   <img src="../assets/images/NH/NHSE_EPlayer-Flags.png"/>
 </p>
 
-### **Editing Reactions**
+## **Editing Reactions**
 
 Clicking on `Edit Player...` and then `Edit Reactions` will allow you to edit your reactions. Click the arrow next to **ManpuBit**, and you'll be able to see all the reactions that you've gotten so far. Clicking on the arrow next to the reaction will allow you to change the reaction to whatever you want. If you want to use the UNUSED reactions, there is a list below.
 
@@ -243,7 +240,7 @@ UNUSED_81 = K.K. Slider, Sitting while thinking
   <img src="../assets/images/NH/NHSE_EPlayer-React.png"/>
 </p>
 
-### **Editing Misc**
+## **Editing Misc**
 
 Clicking on `Edit Player...` and then `Edit Misc` will allow you to change some player settings that don't fit anywhere else. These things being your birthday, the day that you started playing, your island fruit, and whether or not the character you've chosen created the island. Most of these are self explanatory, but know that changing your island fruit from here will only change it on your passport. Because of this, everywhere else it will refer to the old fruit. [Click here]() to see how to change the fruit everywhere.
 
@@ -253,7 +250,7 @@ The **Made Village** option is given to the Island Representative. To change it,
   <img src="../assets/images/NH/NHSE_EPlayer-Misc.png"/>
 </p>
 
-## Villagers Tab
+# Villagers Tab
 
 <p>
 <img align="right" width="350" src="../assets/images/NH/NHSEVillagersTab.png">
@@ -261,7 +258,7 @@ The **Made Village** option is given to the Island Representative. To change it,
 
 The villagers tab shows all the villagers you have on your island, along with their relationship with you, their catchphrase, personality, and everything else you'd expect to see from a save editor. You can change which villager you'd like to edit by changing the villager index. It's recommended to finish the game (get all 10 villagers) before editing *anything*, but especially with villagers. 
 
-### **Changing Villager**
+## **Changing Villager**
 You *could* change the villager by editing the species and variant, however it is not recommended to do it this way. There are a lot of flags different villagers have, so it's recommended to use the Villager Database instead to import villagers.
 
 [Download the villager database here](https://gbatemp.net/attachments/villager-database-complete-zip.206556/). You MUST extract the zip to use with NHSE. [You can use something like 7-zip to extract](https://www.7-zip.org/). Once extracted, you will see a list of ALL villagers in the game, along with their houses. 
@@ -274,11 +271,11 @@ In NHSE, click on **Load Villager**. Now go to the location where you extracted 
 
 Your villager is changed! ...but what about the house?
 
-### **Changing Villager House**
+## **Changing Villager House**
 
 Because the villager house is separate from the villager itself, you will have to import that as well. Be sure to save (File > Save) before changing continuing, as the villager name may not be correct if you don't. Anyway, click **Edit House**. Click on **Load** at the bottom, go to the Villager Database, and open it. Find the villager's house (`nhvh`) and select it. It will change the house values correctly, so the house is now fixed. Before saving, make sure that the **NPC1** number is set to the right villager index. For example, if you're editing Rolf whose villager index is 6, you want to make sure that the NPC1 number is also set to 6.
 
-### **Moving Villager Out**
+## **Moving Villager Out**
 If you have a keen eye, you might've noticed already that there's a **Moving Out** box to the right of the villager. Checking this will put the villager in boxes, to allow someone else to pick them up. But, when checking it, you will get an error that looks something like this.
 
 <p align="center">
@@ -293,19 +290,19 @@ Setting the flag (024 - ForceMoveOut) to 1 works as a forced move out (hence the
 
 <big>Edit Villager</big>
 
-### **Editing Furniture**
+## **Editing Furniture**
 
 Clicking on `Edit Villager` and then `Edit Furniture` will allow you to... change furniture? I believe this is furniture that will randomly be given to you when your friendship with the villager is high enough. I'm not exactly sure though, so I can't say for certain.
 
-### **Editing Wear**
+## **Editing Wear**
 
 Clicking on `Edit Villager` and then `Edit Wear` will allow you to change the clothes your villager will wear. Simply search for the clothing item, place the clothing in the inventory, then save.
 
-### **Editing Room**
+## **Editing Room**
 
 Clicking on `Edit Villager` and then `Edit Room` will allow you to edit your villager's room. You can edit the accent wall, the wall itself, and the floor of the house. Just click on which you'd like to edit, and it will bring up a prompt where you can search for what you'd like to change it to. I'm not sure what changing the direction or InfoBit does, but you can try it and see.
 
-### **Editing Memories**
+## **Editing Memories**
 
 Clicking on `Edit Villager` and then `Edit Player Memories` will allow you to edit the flags of what the villager knows about you. For example, how many days in a row have you spoken to the villager, how many times you've spoken to them in one day, if you've set their greeting/nickname, WHAT you've set their greeting/nickname to, and so on.
 
@@ -313,11 +310,11 @@ Clicking on `Edit Villager` and then `Edit Player Memories` will allow you to ed
   <img src="../assets/images/NH/NHSE_EVillagers-MemoryJogger.png"/>
 </p>
 
-### **Editing DIY Timer**
+## **Editing DIY Timer**
 
 Clicking on `Edit Villager` and then `Edit DIY Timer` will allow you to set when your villager is crafting a DIY recipe, what the recipe will be, and how long they will be crafting the recipe for. This can be used if you want a player to get a DIY from a villager instead of injecting it in your inventory or on your island.
 
-## Map Tab
+# Map Tab
 
 <p>
 <img align="right" height="225" src="../assets/images/NH/NHSEMapTab.png">
@@ -325,7 +322,7 @@ Clicking on `Edit Villager` and then `Edit DIY Timer` will allow you to set when
 
 The Map tab allows you to edit most of the information regarding your map, such as your Hemisphere, Airport Color, Weather Seed, and so on. Despite my warning for changing anything else, there's not much bad that can be done by changing these values. This doesn't change the fact that any editing that's done could potentially mess up the save, so I'll say it again in case you missed it: **TRY FINISHING THE GAME FIRST BEFORE SAVE EDITING!!** And make backups UwU
 
-### **Editing Turnip Exchange**
+## **Editing Turnip Exchange**
 
 <p>
 <img align="right" width="312 " src="../assets/images/NH/NHSE_EMap-TurnipExchange.png">
@@ -349,7 +346,7 @@ Set your values to this.
 <img src="../assets/images/NH/NHSE_EMap-MaxTurnip.png"> 
 </p>
 
-### **Editing Recycle Bin**
+## **Editing Recycle Bin**
 
 On the Map tab, select `Edit Recycle Bin`. There's not much to say about the recycle bin, other than that it stores dropped items on the island or from your villagers. When in the recycle bin, you can "borrow" the items within it, to keep for yourself.
 
@@ -357,17 +354,17 @@ On the Map tab, select `Edit Recycle Bin`. There's not much to say about the rec
 <img src="../assets/images/NH/NHSE_EMap-RecBin.png"> 
 </p>
 
-### **Editing Hemisphere** 
+## **Editing Hemisphere** 
 
 This one is one of the most self explanatory on this entire website. On the Map tab, to your right, you will see a dropdown menu including both the Northern and Southern hemispheres. Select the one you want to use.
 
-### **Editing Airport Color** 
+## **Editing Airport Color** 
 
 I *was* going to also say this one was self explanatory, but maybe not? On the Map tab, next to `Edit Airport Color`, you will see a dropdown menu for airport colors. You can choose between them, changing your airport color (obviously).
 
 The only thing *not* obviously explained here is why changing the airport color from this menu doesn't also change the colors of the various airport-themed items you can redeem. So this change would only be visual, not down to the core level. You will have to change flags somewhere in the game to do this, but it is not documented where this change would be and what to change it to for different airport colors. So for once, you'll have to do your own digging! When you find it, please be sure to contact me so I can add this information.
 
-### **Editing Designs** 
+## **Editing Designs** 
 
 On the Map tab, select `Edit Patterns`, it's pretty much self explanatory what editing this does, it allows you to edit your patterns. You aren't able to make them, but you can dump/import them to give to other people or just as a backup of your own patterns. If you *were* looking for a way to make some yourself, without making them on the Nintendo Switch, you can [check out this website](https://acpatterns.com/editor).
 
@@ -395,7 +392,7 @@ On the Map tab, select `Edit Tailor Designs`, "it's pretty much self explanatory
 
 "With NHSE, you are only able to dump or import as" **.nhpd**" though. These files are formatted the same way as **.ACNH** files though on the [acpatterns.com](https://acpatterns.com/editor) website, so you can just rename the file to .ACNH/".nhpd" and you will be able to import/dump and still have them work."
 
-### **Editing Player Houses** 
+## **Editing Player Houses** 
 
 On the Map tab, select `Edit Player Houses`. It allows you to edit your house.
 
@@ -405,7 +402,7 @@ You can change your house level, the interiors of your house, the exteriors, the
 <img src="../assets/images/NH/NHSE_EMap-PxHouseEdit.png"> 
 </p>
 
-### **Editing Weather Seed**
+## **Editing Weather Seed**
 
 Let's start by asking what a weather seed is in the first place.
 
@@ -427,13 +424,13 @@ If you wanted Celeste on your island with stars, find the day that you'll have t
 
 <big>**Edit Map...**</big>
 
-### **Editing Flags** 
+## **Editing Flags** 
 
 Clicking on `Edit Map...` and then `Edit Flags` will allow you to change your map flags. Flags keep track of what you have done/completed during your playthrough. They're true/false statements, 0 being false and 1 being true. So to enable a flag, set it to 1, and to disable it set it to 0. Map flags aren't actually extremely looked into that much (like most other flags) so there isn't a list of what most of them do. 
 
 No matter what though, as always, it's best to achieve all flags in-game, as there could be other flags affected during normal playthrough that aren't known about right now, which could potentially mess up your save. 
 
-### **Editing Bulletin Board** 
+## **Editing Bulletin Board** 
 
 Clicking on `Edit Map...` and then `Edit Bulletin Board` will allow you to edit your Bulletin Board. The bulletin board is one of the best ways to keep up with events happening on your island, or it can be abused to make villagers say things that were never meant to be said or drawn.
 
@@ -453,7 +450,7 @@ Editing the text is very simple though. In the Bulletin Board editor, under Stoc
 If you do edit the bulletin board, remember to use linebreaks.
 </p>
 
-### **Editing Field Goods** 
+## **Editing Field Goods** 
 
 Clicking on `Edit Map...` and then `Edit Field Goods` allows you to edit your field goods. <span data-audio-url="../assets/misc/frank.mp3" data-audio-url="../assets/misc/franker.mp3" data-audio-url="../assets/misc/frankerfz.mp3">I'll be frank,</span> I'm not sure what editing any of these does. Some of them might be related to the [Edit Player...](#edit-player) Misc options, but I wouldn't know.
 
@@ -469,17 +466,19 @@ $("[data-audio-url]").each(
 );
 </script>
 
-### **Editing Museum** 
+## **Editing Museum** 
 
 Clicking on `Edit Map...` and then `Edit Museum` allows you to edit your museum. You can edit the date you turned in a critter, what the critter was, and which villager turned it in.
 
-### **Editing Visitors** 
+## **Editing Visitors** 
 
 Clicking on `Edit Map...` and then `Edit Visitors` allows you to edit the visitors that will come to your island. This was already touched up upon earlier in the guide, in the [**Editing Weather Seed**](#editing-weather-seed) section. Just go there for more information ❤
 
-### **Editing Field Items** 
+# **Editing Field Items** 
 
-Clicking on `Edit Map...` and then `Edit Field Items` allows you to edit the items on your field, or island. This section will be completed soon, but right now I'm working on other areas of the site.
+Clicking on `Edit Map...` and then `Edit Field Items` allows you to edit the items on your field, or island. Most people who use NHSE use it for this function, as it allows them to create treasure islands.
+
+
 
 # Loading Save
 
