@@ -37,11 +37,11 @@ Lscpu comes preinstalled on most distros, however, if you don’t have it, insta
 
 | Linux Distro | Package                                                                 | Terminal Command                      |
 |-------------:|-------------------------------------------------------------------------|---------------------------------------|
-|       Debian | [gparted](https://packages.debian.org/search?keywords=util-linux)       | ```sudo apt-get install util-linux``` |
-|       Ubuntu | [gparted](https://packages.ubuntu.com/search?keywords=util-linux)       | ```sudo apt-get install util-linux``` |
-|       Fedora | [gparted](https://koji.fedoraproject.org/koji/packageinfo?packageID=34) | ```su -c "yum install util-linux"```  |
-|      Mangeia | [gparted](https://madb.mageia.org/package/show/name/util-linux)         | ```sudo urpmi util-linux```           |
-|     OpenSUSE | [gparted](https://software.opensuse.org/package/util-linux)             | ```sudo zypper install util-linux```  |
+|       Debian | [util-linux](https://packages.debian.org/search?keywords=util-linux)       | ```sudo apt-get install util-linux``` |
+|       Ubuntu | [util-linux](https://packages.ubuntu.com/search?keywords=util-linux)       | ```sudo apt-get install util-linux``` |
+|       Fedora | [util-linux](https://koji.fedoraproject.org/koji/packageinfo?packageID=34) | ```su -c "yum install util-linux"```  |
+|      Mangeia | [util-linux](https://madb.mageia.org/package/show/name/util-linux)         | ```sudo urpmi util-linux```           |
+|     OpenSUSE | [util-linux](https://software.opensuse.org/package/util-linux)             | ```sudo zypper install util-linux```  |
 
 If your distro isn't listed, try finding it in it's package manager.
 
