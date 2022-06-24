@@ -3,6 +3,12 @@ title: Switch Input Display
 description: Using OJD to show Switch controllers 
 ---
 
+<p align="center">
+<big><a href="https://www.youtube.com/watch?v=QuOo9meqZ20">This guide is available on Youtube!</a></big> <iframe id="ytplayer" type="text/html" width="800" height="450"
+src="https://www.youtube.com/embed/QuOo9meqZ20"
+frameborder="0" allowfullscreen></iframe>
+</p>
+
 **Open Joystick Display** (OJD), previously being developed by Kernel Zechs, is a cross-platform software used to show inputs of various controllers. **Open Joystick Display Server NX** (OJDS-NX) is a server that allows the Switch to send its inputs to OJD, showing them as an input display.
 
 **Table of Contents**
