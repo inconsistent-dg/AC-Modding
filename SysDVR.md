@@ -3,7 +3,13 @@ title: SysDVR
 description: Learn SysDVR to stream your Switch to your PC 
 ---
 
-<sub>Last updated: Feb 12, 2022. If anything's changed, sorry! LMK on Discord.</sub>
+<sub>Last updated: Aug 5, 2022. If anything's changed, sorry! LMK on Discord.</sub>
+
+<p align="center">
+<big><a href="https://www.youtube.com/watch?v=SFBomLtRWMc">This guide is available on Youtube!</a></big> <iframe id="ytplayer" type="text/html" width="800" height="450"
+src="https://www.youtube.com/embed/SFBomLtRWMc"
+frameborder="0" allowfullscreen></iframe>
+</p>
 
 <sup>It should also be noted that most of the information here was *obviously* taken from the [wiki](https://github.com/exelix11/SysDVR/wiki/), but to make things easier to understand.</sup>
 
@@ -73,7 +79,7 @@ Depending on what platform you're using, there will be different ways to setup S
 
 ---
 
-1. Download and install [**.NET**](https://dotnet.microsoft.com/download?initial-os=windows). **You must download the x64 version.**
+1. Download and install [**.NET**](https://dotnet.microsoft.com/download?initial-os=windows). 
    - The **.NET Framework** and **.NET core 3** are not the same thing. You still need [**.NET 5 or 6**](https://dotnet.microsoft.com/download?initial-os=windows)
 2. This isn't always needed, but you might have to install the latest [MSVC libs](https://support.microsoft.com/en-us/help/2977003/the-latest-supported-visual-c-downloads).
 3. With it installed, you should be ready! Launch SysDVR-Client.exe from the terminal or open SysDVR-ClientGUI.exe.
@@ -104,7 +110,7 @@ These commands use brew. If you use a different package manager then you have to
 
 # Streaming
 
-Now we get to the actual fun part! There are 3 different modes for streaming, those modes being Simple Network (RTSP), TCP bridge, and USB. If you have a good cable, then streaming with USB will give you the best quality. For wireless, TCP bridge is the best. Although simple network mode is *decent*, it's basically the worst out of all three, which is why I won't be going over using it. If you want to stream via RTSP anyway, you can check out the [page on the wiki for it.](https://github.com/exelix11/SysDVR/wiki/Network-RTSP-mode-(default-mode))
+Now we get to the actual fun part! There are 3 different modes for streaming, those modes being Simple Network (RTSP), TCP bridge, and USB. If you have a good cable, then streaming with USB will give you the best quality. If you have a good signal strength, or have LAN cables, TCP bridge is the best. Simple network mode requires a very strong connection between the PC and Switch, but provides worse quality than TCP bridge. If you have a device, like your TV or phone, that supports RTSP, then you could stream your switch to it. But since it provides worse quality than TCP bridge and USB, I won’t be going over it. If you want to use it anyway, check out the page on the [SysDVR wiki](https://github.com/exelix11/SysDVR/wiki/Network-RTSP-mode-(default-mode)).
 
 ## TCP Bridge
 
