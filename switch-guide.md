@@ -7,11 +7,13 @@ description: A guide for getting sysCFW Atmosphere
 
 ---
 **Be aware that, no matter what, EVERY time you modify the console, there's a chance of an UNRECOVERABLE BRICK.** These are very, *very* rare, but still a possibility, so always make sure that you follow any directions EXACTLY.  
+
 ---
 
 **Table of Contents**
 
 - [Finding your serial number](#finding-your-serial-number)
+- [Console Preparation](#console-preparation)
 - [Preparing the SD](#preparing-the-sd)
   - [Formatting the SD](#formatting-the-sd)
     - [**Formatting on Windows**](#formatting-on-windows)
@@ -50,7 +52,7 @@ Once you click it, it will show your Serial Number at the top of the screen. I h
 
 As you saw earlier, my Switch is a XAW1, and between 1000 and 1007, so I have an <span style="color:green">Unpatched</span> unit. If you have a <span style="color:orange">Potentially patched</span> unit, then in reality there's only a 30% chance that you can actually mod it. You're better off selling your current Switch then buying an <span style="color:green">Unpatched</span> unit.
 
-<sup>the following information is taken from [this GBATemp thread](https://gbatemp.net/threads/switch-informations-by-serial-number-read-the-first-post-before-asking-questions.481215/)</sub>
+<sup>the following information is taken from [this GBATemp thread](https://gbatemp.net/threads/switch-informations-by-serial-number-read-the-first-post-before-asking-questions.481215/)</sup>
 
 | Serial Numbers | <span style="color:green">Unpatched!!</span> | <span style="color:orange">Potentially patched??</span> | <span style="color:red">Patched.</span> |
 |----------------|----------------------------------------------|---------------------------------------------------------|-----------------------------------------|
@@ -63,6 +65,21 @@ As you saw earlier, my Switch is a XAW1, and between 1000 and 1007, so I have an
 | XAW9           |                                              | All potentially patched.                                |                                         |
 | XAK            |                                              | No info, only sold in Korea.                            |                                         |
 | XKW or XKJ     |                                              |                                                         | Mariko switches, all patched.           |
+
+# Console Preparation
+
+Before you start modding, you should check 4 things off your list:
+
+1. Have at least one eShop game, demo, app, or cartridge
+2. Have a Jig
+3. Have a PC and a USB C cable for data transfer
+   - Or, have an Android device and a USB C cable for data transfer
+   - Or, have a Lightning to OTG adapter, a jailbroken iOS device and a USB C cable for data transfer
+4. A 64 gigabyte (or higher) microSD card
+   - 32 gigabytes of space is needed to backup your system files. If one file's slightly bigger, you'll have to remove the SD to copy the last file (which is a hassle)
+   - 32 gigabytes is required for an emuMMC partition. This guide [doesn't go over setting up an emuMMC](pages/ban-risks#why-shouldnt-i-use-emunand), but keep it in mind if you change your mind.
+
+(1) You need an app to enter Title Takeover, which allows homebrew to run with full system resources.<br>(2) A jig is required to enter RCM. You can buy a good jig on [Amazon here](https://www.amazon.com/gp/product/B07J9JJRRG), or one at [switchjigs.com](https://switchjigs.com/).<br>(3) The only injection process on the guide at the moment is TegraRCM using a PC. I might show how to inject on other platforms in the future, but for now that's it. Go [here for Android](https://github.com/MenosGrante/Rekado), go [here for iOS devices](https://mologie.github.io/nxboot/). 
 
 # Preparing the SD
 
@@ -113,7 +130,7 @@ GParted is included by default in some distros, however if it isn't you can look
 |       Debian | [gparted](https://packages.debian.org/search?keywords=gparted)            | ```sudo apt-get install gparted``` |
 |       Ubuntu | [gparted](https://packages.ubuntu.com/search?keywords=gparted)            | ```sudo apt-get install gparted``` |
 |       Fedora | [gparted](https://koji.fedoraproject.org/koji/packageinfo?packageID=1950) | ```su -c "yum install gparted"```  |
-|      Mangeia | [gparted](https://madb.mageia.org/package/show/name/gparted)              | ```sudo urpmi gparted```           |
+|      Mageia | [gparted](https://madb.mageia.org/package/show/name/gparted)              | ```sudo urpmi gparted```           |
 |     OpenSUSE | [gparted](https://software.opensuse.org/package/gparted)                  | ```sudo zypper install gparted```  |
 
 If your distro isn't listed here, you can either try to find it in it's package manager or simply [check out the official download instructions](https://gparted.org/download.php).
@@ -137,38 +154,16 @@ If you need visuals, below is a video.
 
 We're now going to place the required files for CFW, with some added homebrew files. Yeah, we could just use Atmosphere's own bootloader (called fusée), however we'll be using Hekate instead, just so we can backup the systems NAND, and use some features that'll be helpful in the future.
 
-A [hekate_ipl.ini](assets/hekate_ipl.ini) config file (open the link, right click > save page as)
-
-The bootlogos folder [bootlogos.zip](assets/bootlogos.zip)
-
-The latest release of [Atmosphere](https://github.com/Atmosphere-NX/Atmosphere/releases) (get the `atmosphere-(version)-master-(version)+hbl-(version)+hbmenu-(version).zip`, and not `atmosphere-EXPERIMENTAL-(version)-master-(version)+hbl-(version)+hbmenu-(version).zip`)
-
-The latest release of [FTPD](https://github.com/mtheall/ftpd/releases) (download `ftpd.nro`)
-
-The latest release of [Hekate](https://github.com/CTCaer/Hekate/releases/) (download `hekate_ctcaer_(version).zip`)
-
-The latest release of [JKSV](https://github.com/J-D-K/JKSV/releases) (download `JKSV.nro`)
-
-The latest release of [Lockpick_RCM](https://github.com/shchmue/Lockpick_RCM/releases) (download `Lockpick_RCM.bin`)
-
-The latest release of [nxdumptool](https://github.com/DarkMatterCore/nxdumptool/releases) (download `nxdumptool.nro`)
-
-The latest release of the [hbappstore](https://github.com/fortheusers/hb-appstore/releases) (download `appstore.nro`)
+A [hekate_ipl.ini](assets/hekate_ipl.ini) config file (open the link, right click > save page as)<br>The bootlogos folder [bootlogos.zip](assets/bootlogos.zip)<br>The latest release of [Atmosphere](https://github.com/Atmosphere-NX/Atmosphere/releases) (get the `atmosphere-(version)-master-(version)+hbl-(version)+hbmenu-(version).zip`, and not `atmosphere-EXPERIMENTAL-(version)-master-(version)+hbl-(version)+hbmenu-(version).zip`)<br>The latest release of [FTPD](https://github.com/mtheall/ftpd/releases) (download `ftpd.nro`)<br>The latest release of [Hekate](https://github.com/CTCaer/Hekate/releases/) (download `hekate_ctcaer_(version).zip`)<br>The latest release of [JKSV](https://github.com/J-D-K/JKSV/releases) (download `JKSV.nro`)<br>The latest release of [Lockpick_RCM](https://github.com/shchmue/Lockpick_RCM/releases) (download `Lockpick_RCM.bin`)<br>The latest release of [nxdumptool](https://github.com/DarkMatterCore/nxdumptool/releases) (download `nxdumptool.nro`)<br>The latest release of the [hbappstore](https://github.com/fortheusers/hb-appstore/releases) (download `appstore.nro`)
 
 <big><big>**After downloading, follow these instructions:**</big></big>
 
 1. Copy *the contents* of the Atmosphere`.zip` to the root of your SD
-
 2. Copy the `bootloader` folder from the Hekate`.zip` to the root of your SD
-
 3. Copy the `bootloader` folder from the `bootlogos.zip` to the root of your SD (if you're asked to merge the folders, do so)
-
 4. Copy `hekate_ipl.ini` inside the `bootloader` folder on your SD
-
 5. Copy `Lockpick_RCM.bin` to the `/bootloader/payloads` folder on your SD
-
 6. Create a folder named `appstore` inside the `switch` folder, and copy `appstore.nro` to it.
-
 7. Copy `ftpd.nro`, `JKSV.nro`, and `nxdumptool.nro` inside the `switch` folder on your SD.
 
 If you were using your SD before and backed up your Nintendo folder, now would be the time to put it back on.
@@ -188,22 +183,16 @@ If you want to inject a payload on other platforms:
 
 [NXBoot](https://mologie.github.io/nxboot/) (OS X, iOS)
 
-[NXLoader](https://github.com/DavidBuchanan314/NXLoader) (Android)
+[Rekado](https://github.com/MenosGrante/Rekado) (Android)
 
 [Web Fusée Launcher](https://fusee-gelee.firebaseapp.com/) (cross platform! works in a browser, only in chrome)
-
-I might show how to inject on other platforms in the future, but for now, if you're using Windows, then I'll be showing how to inject with Tegra.
 
 ## TegraRCM
 
 1. Run the TegraRCMGUI installer, and after installation, start the program. Or just run it if you downloaded portable.
-
 2. In the `Settings` tab, click on `Install Driver`, which will install the drivers needed for Tegra to detect your Switch.
-
 3. After the drivers have been installed, plug your Switch into your computer. While it's still plugged in, power off your switch COMPLETELY (so hold down the power for 5 seconds, select Power Options, then turn off)
-
 4. *Insert* your Jig into the right joy-con slot, making sure the pins aren't visible, and then press the Power button and VOL+ at the same time. Your Switch screen should stay black; if it turns on normally, retry from step 2.
-
 5. If you see RCM O.K in the bottom left of Tegra, then you know your switch is in RCM. This is where you can actually inject a payload!!
 
 <img align="right" src="./assets/images/hbrew/rcm.png">

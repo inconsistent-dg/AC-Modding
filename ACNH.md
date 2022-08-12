@@ -30,6 +30,6 @@ description: Available pages on tools for NH
 
 ## Emulating
 
-[Learn how to play Animal Crossing on your PC with either Yuzu or Ryujinx.](/ACNH/emulation) Emulating requires pretty decent hardware for the game to run at full speed, no lag. So if your Macbook Air from 2012 can't open Chrome without the thing dying, then you probably shouldn't even try. Emulating is also good if you want to use mods but don't want to put them on your Switch, because you're scared of being banned, or just want to test it out quickly without having to put it on there. It is a bit hard to set it up, but it's useful for what I've previously mentioned. There are some pros that Yuzu has over Ryujinx though, which is explained on the page.
+[Learn how to play Animal Crossing on your PC with either Yuzu or Ryujinx.](/ACNH/emulation) Emulating requires pretty decent hardware for the game to run at full speed, no lag. So if your Macbook Air from 2012 can't open Chrome without the thing dying, then you probably shouldn't even try. Emulating is also good if you want to use mods but don't want to put them on your Switch, because you're scared of being banned, or just want to test it out quickly without having to put it on there. It is a bit hard to set it up, but it's useful for what I've previously mentioned.
 
 <img src="./assets/images/NH/Yuzu.png"> 

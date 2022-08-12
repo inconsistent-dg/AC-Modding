@@ -3,13 +3,16 @@ title: Music Mods
 description: Tutorial for editing ACNH Music
 ---
 
-<sub>This page is not fully completed.</sub>
-
 Music in this game is stored in **BWAV** (Binary Wave) files. All music can be found in the *Sound* directory of the games romFs, [which you've hopefully dumped before](../mods#dumping-romfs). This page goes over how to mod custom music into the game, and how to extract audio from bwav to normal wav.  
 
+If the song you want to replace already exists in another game, like New Leaf, then you can go to [smashcustommusic.net](http://smashcustommusic.net/). It provides pre-made files in BWAV to import into other games. If your song can’t be found however, you’ll have to create your own. You can do this two ways.
+
+Open Revolution, or Citric Composer with the Looping Audio Converter.
+Open Revolution is a CLI app, but works on Windows, Arch Linux and Mac.
+Citric Composer and Looping Audio Converter are GUI apps, but work on Windows only. If you want to use Open Revolution, [skip to this section](#creating-bwav-in-open-revolution).
+
 <big>Table of Contents</big>
-- [Creating BWAV (in Citric Composer)](#creating-bwav-in-citric-composer)
-  - [Split Stereo Track](#split-stereo-track)
+- [Creating BWAV (in CC/LAC)](#creating-bwav-in-cclac)
   - [Conversion](#conversion)
   - [Loop Points](#loop-points)
 - [Creating BWAV (in Open Revolution)](#creating-bwav-in-open-revolution)
@@ -18,37 +21,15 @@ Music in this game is stored in **BWAV** (Binary Wave) files. All music can be f
 - [Extracting Tracks](#extracting-tracks)
     - [K.K. Music List](#kk-music-list)
 
-# Creating BWAV (in Citric Composer)
-If the song you want to replace already exists in another game, like New Leaf, then you can go to [smashcustommusic.net](http://smashcustommusic.net/). It provides pre-made files in BWAV to import into other games. If your song can’t be found however, you’ll have to create your own. You can do this two ways.
+# Creating BWAV (in CC/LAC)
 
-Open Revolution, or Citric Composer with the Looping Audio Converter.
-Open Revolution is a CLI app, but works on Windows, Arch Linux and Mac.
-Citric Composer and Looping Audio Converter are GUI apps, but work on Windows only. If you want to use Open Revolution, [skip to this section](#creating-bwav-in-open-revolution).
-
-Download [Looping Audio Converter](https://github.com/libertyernie/LoopingAudioConverter/releases). You’ll also need to download [Audacity](https://www.fosshub.com/Audacity.html) from this link. Download the version corresponding to your OS. The last thing you need is [Citric Composer](https://gota7.github.io/Citric-Composer/), which turns songs into BWAV’s, or extracts songs from the game. Go to this link on screen, and download the Citric Composer Installer. Follow the default settings throughout the installation.
-
-Extract the Audacity zip and open the app. Go to **Edit > Preferences**, and select **Import/Export**. Make sure **Use Advanced Mixing Options** is checked. All songs, excluding KK sliders, have 2 channels. For your song to play correctly, it needs the right amount of channels, which is 2. If you’re replacing a KK slider song, skip this section, as you don’t need 2 channels.
-
-<p align="center">
-<img src="./../../assets/images/apps/audacity-prefs.png"> 
-</p>
-
-## Split Stereo Track
-<p>
-<img align="right" src="./../../assets/images/apps/audacity-split.png"> 
-</p>
-With the song you want to import, drag it into the Audacity window. Select the track, then select **Split Stereo Track**. This will give you 2 channels. 
-Since your song might be a bit too loud when imported into the game, press CTRL + A, go to **Effects**, and select **Limiter**. Choose Soft Limit as your type and change the limit to -5dB. Now go to **File > Export > Export as MP3**. Save it wherever you’d like. Make sure there’s 2 output channels, the left connecting to the right, and export.
-<p>
-<img src="./../../assets/images/apps/audacity-2channels.png"> 
-</p>
+Download [Looping Audio Converter](https://github.com/libertyernie/LoopingAudioConverter/releases). You’ll also need to download [Audacity](https://www.fosshub.com/Audacity.html) from this link. Download the version corresponding to your OS. The last thing you need is [Citric Composer](https://gota7.github.io/Citric-Composer/). Follow the default settings throughout the installation.
 
 ## Conversion
-Now, extract the zip of the Looping Audio Converter and open the app. Add your song to the list at the top. If you want to convert multiple songs, then you can add them the same way. Change the output format to **BCSTM**, and then hit start.  All songs will be in the output folder of Looping Audio Converter. Double click on the file, and it should play in the Isabelle Sound Editor. Ensure it has two channels by expanding the Channels section. 
+Now, extract the zip of the Looping Audio Converter and open the app. Add your song to the list at the top. If you want to convert multiple songs, then you can add them the same way. Change the output format to **BCSTM**, and then hit start. If you’re replacing a KK slider song, check *Convert to Mono* before clicking start. All songs, excluding KK Sliders, have 2 channels. For your song to play correctly it needs the right amount of channels. All songs will be in the output folder of Looping Audio Converter. Double click on the file, and it should play in the Isabelle Sound Editor. Make sure you have the right amount of channels for your song.
 
 ## Loop Points
-Some songs in the game have loop points. This means that a portion of the song will be heard once, but when the song repeats it will not be heard again. If your song loops normally from start to end, then you don’t have to worry about this. But if it doesn’t, you can use the Green slider on the left and Red slider on the right to make loop points for you. The green segment is the beginning of the song that does not loop, it only plays once. The red slider is for the end of the song, and the end of the loop. If your song doesn't have a fade out or a silent period at the end, you shouldn't have to change the red slider. 
-With your loop points set (or not) click File > Export Binary. Make sure to have it named the same as in the games romFs, or the song will not load. I recommend putting the song in a separate folder, to have a backup of the original.
+Some songs in the game have loop points. This means that a portion of the song will be heard once, but when the song repeats it will not be heard again. If your song loops normally from start to end, then you don’t have to worry about this. But if it doesn’t, you can use the Green slider on the left and Red slider on the right of Citric Composer to make loop points for you. The green segment is the beginning of the song that does not loop, it only plays once. The red slider is for the end of the song, and the end of the loop. If your song doesn't have a fade out or a silent period at the end, you shouldn't have to change the red slider.  With your loop points set (or not) click File > Export Binary. Make sure to have it named the same as in the games romFs, or the song will not load. I recommend putting the song in a separate folder, to have a backup of the original.
 
 Using the layeredFs folder that you [should’ve created here](../mods#loading-mods), put your custom bwav into the same directory as in the romFs. For example, if you're replacing the BGM_Title.bwav, then you'd place it in Sound/Resource/Stream of the layeredFs.
 
