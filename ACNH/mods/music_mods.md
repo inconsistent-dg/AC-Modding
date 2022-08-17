@@ -3,6 +3,12 @@ title: Music Mods
 description: Tutorial for editing ACNH Music
 ---
 
+<p align="center">
+<big><a href="https://www.youtube.com/watch?v=ZDxOjlr1XsM">This guide is available on Youtube!</a></big> <iframe id="ytplayer" type="text/html" width="800" height="450"
+src="https://www.youtube.com/embed/ZDxOjlr1XsM"
+frameborder="0" allowfullscreen></iframe>
+</p>
+
 Music in this game is stored in **BWAV** (Binary Wave) files. All music can be found in the *Sound* directory of the games romFs, [which you've hopefully dumped before](../mods#dumping-romfs). This page goes over how to mod custom music into the game, and how to extract audio from bwav to normal wav.  
 
 If the song you want to replace already exists in another game, like New Leaf, then you can go to [smashcustommusic.net](http://smashcustommusic.net/). It provides pre-made files in BWAV to import into other games. If your song can’t be found however, you’ll have to create your own. You can do this two ways.
@@ -29,12 +35,29 @@ Download [Looping Audio Converter](https://github.com/libertyernie/LoopingAudioC
 Now, extract the zip of the Looping Audio Converter and open the app. Add your song to the list at the top. If you want to convert multiple songs, then you can add them the same way. Change the output format to **BCSTM**, and then hit start. If you’re replacing a KK slider song, check *Convert to Mono* before clicking start. All songs, excluding KK Sliders, have 2 channels. For your song to play correctly it needs the right amount of channels. All songs will be in the output folder of Looping Audio Converter. Double click on the file, and it should play in the Isabelle Sound Editor. Make sure you have the right amount of channels for your song.
 
 ## Loop Points
-Some songs in the game have loop points. This means that a portion of the song will be heard once, but when the song repeats it will not be heard again. If your song loops normally from start to end, then you don’t have to worry about this. But if it doesn’t, you can use the Green slider on the left and Red slider on the right of Citric Composer to make loop points for you. The green segment is the beginning of the song that does not loop, it only plays once. The red slider is for the end of the song, and the end of the loop. If your song doesn't have a fade out or a silent period at the end, you shouldn't have to change the red slider.  With your loop points set (or not) click File > Export Binary. Make sure to have it named the same as in the games romFs, or the song will not load. I recommend putting the song in a separate folder, to have a backup of the original.
+Some songs in the game have loop points. This means that a portion of the song will be heard once, but when the song repeats it will not be heard again. If your song loops normally from start to end, then you don’t have to worry about this. But if it doesn’t, you can use the Green slider on the left and Red slider on the right of Citric Composer to make loop points for you. The green segment is the beginning of the song that does not loop, it only plays once. The red slider is for the end of the song, and the end of the loop. If your song doesn't have a fade out or a silent period at the end, you shouldn't have to change the red slider.  With your loop points set (or not) click on project info then check the loop box in the top left. Expand the window vertically, and then click update project info. Afterwards, click File > Export Binary. Make sure to have it named the same as in the games romFs, or the song will not load. I recommend putting the song in a separate folder, to have a backup of the original.
 
 Using the layeredFs folder that you [should’ve created here](../mods#loading-mods), put your custom bwav into the same directory as in the romFs. For example, if you're replacing the BGM_Title.bwav, then you'd place it in Sound/Resource/Stream of the layeredFs.
 
 # Creating BWAV (in Open Revolution)
-If you're on Windows, download [Open Revolution here](https://github.com/ic-scm/openrevolution/releases). <br> If you're on Arch Linux, download it from the [Arch User Repository](https://aur.archlinux.org/packages/openrevolution-git/). <br> If you're on MacOS, install it with Homebrew through [freeapp2014/stuff](https://github.com/FreeApp2014/homebrew-stuff).
+If you're on Windows, download [Open Revolution here](https://github.com/ic-scm/openrevolution/releases). <br> If you're on Arch Linux, download it from the [Arch User Repository](https://aur.archlinux.org/packages/openrevolution-git/). You can follow these commands in your terminal to do so:
+
+```bash
+sudo pacman -Syu                                           ## Optional, use to update all system packages
+sudo pacman -S git base-devel                              ## Downloads packages to build from AUR
+git clone https://aur.archlinux.org/openrevolution-git.git ## Clones OR to PC
+cd openrevolution-git                                      ## Change Directory to OR folder
+makepkg -si                                                ## Builds and installs Open Revolution
+```
+
+If you're on MacOS, install it with Homebrew through [freeapp2014/stuff](https://github.com/FreeApp2014/homebrew-stuff). You can follow these commands in your terminal to do so:
+
+```bash
+xcode-select --install      ## Installs xcode
+                            ## Go to https://brew.sh and copy the command there into the terminal
+brew tap freeapp2014/stuff  ## Adds the freeapp2014 repo
+brew install openrevolution ## Installs openrevolution
+```
 
 Open Revolution requires a .wav as its input. If your song is not a wav already, download [Audacity](https://www.fosshub.com/Audacity.html) from this link. Download the version corresponding to your OS. When installed, drag the song to Audacity, then go to **File > Export > Export as WAV**.
 
@@ -48,7 +71,7 @@ On Windows, extract the zip and open the folder in the CMD prompt. This can be d
 
 On Linux or Mac, open the terminal in the same location as the wav. Now, run this command:
 ```
-brstm_converter input.wav -o output.bwav
+brstm_converter input.wav -o output.bwav --loop 0
 ```
 On Windows, add `.exe` to the end of `brstm_converter`.
 Make sure your output.bwav is named the same as in the games romFs, or the song will not load. 
@@ -67,9 +90,7 @@ Now go home and launch Animal Crossing. You should hear the patched songs.
 
 # Extracting Tracks
 
-To extract the audio from a bwav, first make sure you have Citric Composer installed. Now, open the games romFs and go to the */Sound/Resource/Stream/* directory. All music can be found here. When you installed Citric Composer, it should've changed all file type associations for bwav to it. If it didn't, right click any bwav, select properties, and change `Opens With:` to Citric Composer.
-
-Open the bwav by double clicking on it. You can check if it's the song you want to extract/replace by pressing the play button in the top right. Expand the *Tracks* section, right click on *Track 1*, then select **Export Wav**. Name it whatever you'd like, but I personally keep it the same name as in the romFs.
+In Citric Composer, go to **Edit > Export WAV...** and save it wherever you'd like. Or use the shortcut **Ctrl + Shift + E**. At this point, you can open it in your favorite music player.
 
 <p align="center">
   <img src="./../../assets/images/NH/mods/music/cc-export_wav.gif"/>
