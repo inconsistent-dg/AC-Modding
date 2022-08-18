@@ -190,6 +190,7 @@ Terraforming:                  513, 565-574, 644
 Designer app:                  513
 Paving:                        828
 3 Star Evaluation / KK Unlock: 776
+5 Star Evaluation:             692
 Harvey's Island:               535, 544
 Reactions UI:                  140
 Pro Designs:                   353, 702, 714
