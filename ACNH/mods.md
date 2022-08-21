@@ -51,7 +51,7 @@ Despite the date, this build is automatically updated from the latest commit, so
 
 Extract the zip using [7-zip](https://www.7-zip.org/), and open the folder. Inside you'll see `Toolbox.exe`, and that's what you want to open. Remember when I said to copy the romFS from your Switch to your PC? Hopefully, you did, and remember the location you copied it to. Click `File > Open (Folder)` in Toolbox, then select the directory you saved it to. You'll be greeted with these folders, and the name tells you the contents of them. While most of it's self-explanatory, this explains what they represent, and what apps are used to edit them. Because I'm still new myself, I don't know what they all are for. So that's where you do your own digging. Whenever I do find out the missing links, I won't forget to update this list. Expand the section below to view.
 
-<details><summary><b>Editing Apps</b></summary><p>
+<details><summary><b>Editing Apps</b></summary>
 
 | **Folder**        | **Contents**                                            | **Editing Apps**                                                          |
 |-------------------|---------------------------------------------------------|---------------------------------------------------------------------------|
@@ -78,7 +78,7 @@ Extract the zip using [7-zip](https://www.7-zip.org/), and open the folder. Insi
 | Swkbd             | Software Keyboard                                       |                                                                           |
 | System            |                                                         |                                                                           |
 
-</p></details>
+</details>
 
 # Loading Mods
 Now that we're here, you should create the layeredFs folder. The layeredFs is what actually allows you to load in the edited game files. In *atmosphere/contents/*, create a new folder which has the title ID of Animal Crossing. The title ID is `01006F8002326000`. Once this folder is created, make another called romFs inside it. Your directory should now look like this: `atmosphere/contents/01006F8002326000/romFs/`. In your romFs, create the directory *System/Resource/* and create a new resource size table. This can be done by creating an empty text file, and renaming it to `ResourceSizeTable.srsizetable`. Under normal circumstances with ACNH, loading a file that's much larger or smaller than the original causes the game to crash. This resource size table disables the games RAM management, so it will load any mod no matter the size.  
