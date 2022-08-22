@@ -56,13 +56,13 @@ There are 2 ways to download NHSE. The easiest is shown first
 Go to [https://berichan.github.io/GetNHSE/](https://berichan.github.io/GetNHSE/), and click the BIG button that says `Download Latest NHSE Version`. This will download a .zip, and inside it will be NHSE and all of the needed files for it.
 
 <p align="center">
-<a href="https://berichan.github.io/GetNHSE/"><img src="../assets/images/NH/GetNHSE.png"></a> 
+<a href="https://berichan.github.io/GetNHSE/"><img src="../assets/images/NH/SE/GetNHSE.png"></a> 
 </p>
 
 <sub>Everything inside NHSE (as of the time writing this). If your folder does not have everything shown in this screenshot, then you should probably try downloading NHSE again.</sub>
 
 <p align="center">
-<img src="../assets/images/NH/NHSEContents.png"> 
+<img src="../assets/images/NH/SE/NHSEContents.png"> 
 </p>
 
 Or download compiled builds (info taken from [Kurt's wiki](https://github.com/kwsch/NHSE/wiki/Downloading-Compiled-Builds))
@@ -80,7 +80,7 @@ A gif tutorial is shown, to help out a bit
 - Click the 3 dots to the right, then click "Download Artifacts"
 
 <p align="center">
-<img src="../assets/images/NH/Artifacts.gif"> 
+<img src="../assets/images/NH/SE/Artifacts.gif"> 
 </p>
 
 # Opening NHSE
@@ -88,7 +88,7 @@ A gif tutorial is shown, to help out a bit
 Extract the `NHSE.zip` you've just downloaded and open `NHSE.exe`. **You MUST extract the zip to use NHSE**. If you don't, you will get an error that looks a little something like this. If you get this, you know what you did wrong. [You can use 7-zip to extract.](https://www.7-zip.org/)
 
 <p align="center">
-<img src="../assets/images/NH/NHShitE.png">
+<img src="../assets/images/NH/SE/NHShitE.png">
 </p>
 
 This page assumes you already have CFW, and if you don't, then you can [follow a guide here.](../switch-guide)
@@ -121,10 +121,12 @@ Open NHSE, and drag your save folder (from `sd:/JKSV/Animal Crossing  New Horizo
 (It's better to drag the entire folder rather than just the `main.dat`.)
 
 <p align="center">
-<img src="../assets/images/NH/NHSE_SaveDrag.gif"> 
+<img src="../assets/images/NH/SE/NHSE_SaveDrag.gif"> 
 </p>
 
 # Using NHSE
+
+You're most likely here to do one thing: make a treasure island. [You can click here](#editing-field-items) to see a bit of that process.
 
 ## Internal Items
 
@@ -135,7 +137,7 @@ Before going any further, it's important to mention `internal items`. Internal i
 # Players Tab
 
 <p>
-<img align="right" src="../assets/images/NH/NHSEVillager69.png">
+<img align="right" src="../assets/images/NH/SE/NHSEVillager69.png">
 </p>
 All of the tabs (including this one) are pretty self explanatory for the most part. Even with a comprehension skill of 3, you should still be able to understand what changing your Player or Town Name does. 
 
@@ -146,7 +148,7 @@ If you have multiple players on your island, you can click on `Villager0` to cha
 Clicking on `Edit Player...` and then `Edit Storage` will allow you to edit your storage (no surprise). You can either dump or load an `NHI` (New Horizons Inventory) of your storage to import into other places that allow it. You can press `Clear`, which will delete all items of your choosing. Or `Sort` to sort all your items in alphabetical order, or by the type of item.
 
 <p align="center">
-  <img src="../assets/images/NH/NHSE_EPlayer-Storage.png"/>
+  <img src="../assets/images/NH/SE/NHSE_EPlayer-Storage.png"/>
 </p>
 
 ## **Editing Received Items**
@@ -156,7 +158,7 @@ Clicking on `Edit Player...` and then `Edit Received Items` will allow you to ed
 It's recommended to earn all these through normal gameplay. But hey, it's not my save that'll be corrupted!
 
 <p align="center">
-  <img src="../assets/images/NH/NHSE_EPlayer-ReceivedItems.png"/>
+  <img src="../assets/images/NH/SE/NHSE_EPlayer-ReceivedItems.png"/>
 </p>
 
 ## **Editing Achievements**
@@ -168,7 +170,7 @@ Instead of just giving all of these to yourself through NSHE, you should probabl
 The achievements aren't named the same way that they are in game, and that's because NHSE uses the internal names for all of them. They're named pretty similarly though, so it shouldn't be too hard to manually give/remove an achievement you want/don't want.
 
 <p align="center">
-  <img src="../assets/images/NH/NHSE_EPlayer-Achievements.png"/>
+  <img src="../assets/images/NH/SE/NHSE_EPlayer-Achievements.png"/>
 </p>
 
 ## **Editing Recipes**
@@ -178,7 +180,7 @@ This one should be pretty self explanatory. Clicking on `Edit Player...` and the
 It's recommended to earn all these through normal gameplay, instead of just giving them to yourself.
 
 <p align="center">
-  <img src="../assets/images/NH/NHSE_EPlayer-Recipe.png"/>
+  <img src="../assets/images/NH/SE/NHSE_EPlayer-Recipe.png"/>
 </p>
 
 ## **Editing Flags**
@@ -205,7 +207,7 @@ Incline/Bridge Kit Dialog:     126 (set to 4)
 ```
 
 <p align="center">
-  <img src="../assets/images/NH/NHSE_EPlayer-Flags.png"/>
+  <img src="../assets/images/NH/SE/NHSE_EPlayer-Flags.png"/>
 </p>
 
 ## **Editing Reactions**
@@ -238,7 +240,7 @@ UNUSED_81 = K.K. Slider, Sitting while thinking
 ```
 
 <p align="center">
-  <img src="../assets/images/NH/NHSE_EPlayer-React.png"/>
+  <img src="../assets/images/NH/SE/NHSE_EPlayer-React.png"/>
 </p>
 
 ## **Editing Misc**
@@ -248,13 +250,13 @@ Clicking on `Edit Player...` and then `Edit Misc` will allow you to change some 
 The **Made Village** option is given to the Island Representative. To change it, simply untick the box, then go to the villager that you want to give it to. *I haven't tested what it's like to tick the box on multiple representatives....*
 
 <p align="center">
-  <img src="../assets/images/NH/NHSE_EPlayer-Misc.png"/>
+  <img src="../assets/images/NH/SE/NHSE_EPlayer-Misc.png"/>
 </p>
 
 # Villagers Tab
 
 <p>
-<img align="right" width="350" src="../assets/images/NH/NHSEVillagersTab.png">
+<img align="right" width="350" src="../assets/images/NH/SE/NHSEVillagersTab.png">
 </p>
 
 The villagers tab shows all the villagers you have on your island, along with their relationship with you, their catchphrase, personality, and everything else you'd expect to see from a save editor. You can change which villager you'd like to edit by changing the villager index. It's recommended to finish the game (get all 10 villagers) before editing *anything*, but especially with villagers. 
@@ -265,7 +267,7 @@ You *could* change the villager by editing the species and variant, however it i
 [Download the villager database here](https://gbatemp.net/attachments/villager-database-complete-zip.206556/). You MUST extract the zip to use with NHSE. [You can use something like 7-zip to extract](https://www.7-zip.org/). Once extracted, you will see a list of ALL villagers in the game, along with their houses. 
 
 <p>
-<img align="left" height="184" src="../assets/images/NH/NHSE_EVillagers-Values.png">
+<img align="left" height="184" src="../assets/images/NH/SE/NHSE_EVillagers-Values.png">
 </p>
 
 In NHSE, click on **Load Villager**. Now go to the location where you extracted the Villager database, and open it. Find the villager you want to replace them with, and select it. You'll get a prompt saying the villager didn't originate from your Island representative, so click **Yes** when it asks you if you want to update the values.
@@ -280,7 +282,7 @@ Because the villager house is separate from the villager itself, you will have t
 If you have a keen eye, you might've noticed already that there's a **Moving Out** box to the right of the villager. Checking this will put the villager in boxes, to allow someone else to pick them up. But, when checking it, you will get an error that looks something like this.
 
 <p align="center">
-  <img src="../assets/images/NH/NHSE_EVillagers-MoveOut.png"/>
+  <img src="../assets/images/NH/SE/NHSE_EVillagers-MoveOut.png"/>
 </p>
 
 There are 2 ways you can get your villager to move out, or be in boxes. There's a Forced Move Out, and an Irregular Move out. The Forced move out is the "cleaner" method of moving villagers out, and works as it should in the normal game. The villager will be in boxes, and by the next day, whether invited by a visitor or not, the villager will be gone. 
@@ -308,7 +310,7 @@ Clicking on `Edit Villager` and then `Edit Room` will allow you to edit your vil
 Clicking on `Edit Villager` and then `Edit Player Memories` will allow you to edit the flags of what the villager knows about you. For example, how many days in a row have you spoken to the villager, how many times you've spoken to them in one day, if you've set their greeting/nickname, WHAT you've set their greeting/nickname to, and so on.
 
 <p align="center">
-  <img src="../assets/images/NH/NHSE_EVillagers-MemoryJogger.png"/>
+  <img src="../assets/images/NH/SE/NHSE_EVillagers-MemoryJogger.png"/>
 </p>
 
 ## **Editing DIY Timer**
@@ -344,7 +346,7 @@ You (or your visitors) need to sell exactly **30 turnips** for this to work. Do 
 Set your values to this.
 
 <p align="center">
-<img src="../assets/images/NH/NHSE_EMap-MaxTurnip.png"> 
+<img src="../assets/images/NH/SE/NHSE_EMap-MaxTurnip.png"> 
 </p>
 
 ## **Editing Recycle Bin**
@@ -352,7 +354,7 @@ Set your values to this.
 On the Map tab, select `Edit Recycle Bin`. There's not much to say about the recycle bin, other than that it stores dropped items on the island or from your villagers. When in the recycle bin, you can "borrow" the items within it, to keep for yourself.
 
 <p align="center">
-<img src="../assets/images/NH/NHSE_EMap-RecBin.png"> 
+<img src="../assets/images/NH/SE/NHSE_EMap-RecBin.png"> 
 </p>
 
 ## **Editing Hemisphere** 
@@ -372,7 +374,7 @@ On the Map tab, select `Edit Patterns`, it's pretty much self explanatory what e
 With NHSE, you are only able to dump or import as **.nhd** though. These files are formatted the same way as **.ACNH** files though on the [acpatterns.com](https://acpatterns.com/editor) website, so you can just rename the file to .ACNH/.nhd and you will be able to import/dump and still have them work.
 
 <p align="center">
-<img src="../assets/images/NH/NHSE_EMap-Patterns.png"> 
+<img src="../assets/images/NH/SE/NHSE_EMap-Patterns.png"> 
 </p>
 
 <big>**Editing PRO Designs**</big>
@@ -400,7 +402,7 @@ On the Map tab, select `Edit Player Houses`. It allows you to edit your house.
 You can change your house level, the interiors of your house, the exteriors, the loan, so on so forth. Despite this, it's still recommended to just pay the loan to Nook, so you can upgrade your house normally. You can already literally give yourself items, why not?
 
 <p align="center">
-<img src="../assets/images/NH/NHSE_EMap-PxHouseEdit.png"> 
+<img src="../assets/images/NH/SE/NHSE_EMap-PxHouseEdit.png"> 
 </p>
 
 ## **Editing Weather Seed**
@@ -417,7 +419,7 @@ Anyway, go to [https://wuffs.org/acnh/weather/](https://wuffs.org/acnh/weather/)
 <img src="../assets/images/misc/ily_ninji.png"> 
 </p>
 
-<img align="right" src="../assets/images/NH/NHSE_EMap-VisitorEditor.png" height="380"> 
+<img align="right" src="../assets/images/NH/SE/NHSE_EMap-VisitorEditor.png" height="380"> 
 
 After filling this information in, you'll get your weather pattern. You can check the weather pattern by clicking on **Yearly** or **Monthly** at the top. Selecting a date will give you more information on the weather recorded on that day, like when exactly star showers will start, when it will rain and when it'll stop, and so on. You can then time travel to that date on your Switch and the weather will be there.
 
@@ -438,13 +440,13 @@ Clicking on `Edit Map...` and then `Edit Bulletin Board` will allow you to edit 
 There are 2 bulletin board posts, a drawn one and a text one (or both). You can painstakingly ***try*** to make a drawn post in NHSE, or watch a [video by Klutch, explaining how to use Pixel Press](https://www.youtube.com/watch?v=EI1d-wky0TQ). Pixel Press is an app that will draw any image you give it, on your own island or someone else's. Check it out! It was made by my buddy Katsching.
 
 <p>
-<img align="right" src="../assets/images/NH/NHSE_EMap-BulletinBoard.png" height="335">
+<img align="right" src="../assets/images/NH/SE/NHSE_EMap-BulletinBoard.png" height="335">
 </p>
 
 Editing the text is very simple though. In the Bulletin Board editor, under Stock -> Buffer, you will be able to see all of your *current* bulletin board messages (it's not possible to create new ones unless in game). You can edit the date of the posts by editing the array, or edit the body text by opening the dropdown box next to the post and editing the Body. You can write basically anything here, and I'm pretty sure you can go past the limit in the base game (though I haven't tested this). 
 
 <p align="center">
-  <img src="../assets/images/NH/retiring.jpg" height="360">
+  <img src="../assets/images/NH/SE/retiring.jpg" height="360">
 </p>
 
 <p align="center">
@@ -478,8 +480,6 @@ Clicking on `Edit Map...` and then `Edit Visitors` allows you to edit the visito
 # **Editing Field Items** 
 
 Clicking on `Edit Map...` and then `Edit Field Items` allows you to edit the items on your field, or island. Most people who use NHSE use it for this function, as it allows them to create treasure islands.
-
-
 
 # Loading Save
 

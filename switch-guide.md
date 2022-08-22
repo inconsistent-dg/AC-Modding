@@ -35,6 +35,8 @@ description: A guide for getting sysCFW Atmosphere
   - [Gamecard can't be read](#gamecard-cant-be-read)
   - [Yellow Screen](#yellow-screen)
   - [2001-0123 Error Code](#2001-0123-error-code)
+- [Misc](#misc)
+  - [Customizing Hekate](#customizing-hekate)
 
 # Finding your serial number
 
@@ -314,3 +316,71 @@ Make sure that the Atmosphere version you've downloaded is the latest. Now backu
 The 2001-0123 error code is caused by a partial update being applied to Atmosphere, instead of a full one. This means that NCAs from the latest update are installed but BOOT0 still contains an earlier version. Completely reinstalling atmosphere should fix the issue. 
 
 Make sure that the Atmosphere version you've downloaded is the latest. Now backup the `atmosphere/contents` folder on your SD card somewhere, like your PC. Delete the entire atmosphere folder on your SD card, then drag the latest onto your SD card. Transfer the `atmosphere/contents` back, and it should be fixed.
+
+---
+
+# Misc
+
+## Customizing Hekate
+
+Through the use of Hekate's config file, we can change the way it looks. This means making the background a custom picture, custom icons for boot options, and the selection color.
+
+
+<big><b>Changing Hekate Background</b></big>
+
+1. Find or create your image, then load it in an image editor (Paint.NET, Photoshop, Gimp, etc.)
+   - Or, you can [use an online website](https://online-converting.com/image/convert2bmp/)
+2. Resize the image to 1280x720 (any larger/smaller will not work)
+3. When done, save the image as a 32-bit bmp, and call it background.bmp 
+   - If you're using the website, change the color to `32 (True color, RGB)` and download. Rename to background.bmp.
+4. Move background.bmp into /bootloader/res/ on your Switch's SD card. 
+
+<big><b>Changing Hekate Icons</b></big>
+
+1. Find or create your image, then load it in an image editor (Paint.NET, Photoshop, Gimp, etc.)
+   - Or, you can [use an online website](https://online-converting.com/image/convert2bmp/)
+2. Resize the image to 192x192 (any larger/smaller will not work)
+3. When done, save the image as a 32-bit bmp. It doesn't matter what you call the icons.
+   - If you're using the website, change the color to `32 (True color, RGB)` and download.
+4. Move background.bmp into /bootloader/res/ on your Switch's SD card. 
+
+<big><b>Loading Changes</b></big>
+
+If you only edited the background, then it will load by default in Hekate.
+
+But if you want to load icons, you need to edit your `hekate_ipl.ini` in the **bootloader** folder. Open it in a text editor like notepad or VSC.
+
+Under every launch choice you should see `icon=` (if not, add it.). Then, type the name of your icon, for example `icon=bootloader/res/custom_cfw_icon.bmp`
+
+The entire ini should look something like this:
+
+```ini
+[config]
+updater2p=1
+{------ Atmosphere ------}
+[CFW (SYSNAND)]
+fss0=atmosphere/package3
+kip1=atmosphere/kips/*
+emummc_force_disable=1
+icon=bootloader/res/custom_cfw_icon.bmp
+{}
+{-------- Stock ---------}
+[Stock SYS]
+fss0=atmosphere/package3
+stock=1
+emummc_force_disable=1
+icon=bootloader/res/custom_stock_icon.bmp
+```
+
+Looking at the example above, you can probably already guess how to change the name of the boot options. Simply change what's in brackets.
+
+```ini
+[config]
+updater2p=1
+{------ Atmosphere ------}
+[Custom Boot Option Name!]
+fss0=atmosphere/package3
+kip1=atmosphere/kips/*
+emummc_force_disable=1
+icon=bootloader/res/custom_cfw_icon.bmp
+```

@@ -19,6 +19,10 @@ This is not a guide, more of my own notes on different things.  They'll be turne
 
 [Item ID List (internal name and hex id)](https://mpql.net/tools/acnh/codes/item-list/)
 
+[Eventflow Viewer](https://acnh.isomorphicbox.com/evfl/)
+
+# BYML / BCSV
+
 `ItemParam.bcsv` stores price of items. name price hash 718b024d. only seems to show buy price, which is most likely the same as sell price. so can't edit them separately
 
 `SPNpcParam.bcsv` Determines the color of the bubble and text surrounding their name while you talk to them. The value is the index of the array in the NpcColor BYML in the Pack folder (stored as an rgb float array).
@@ -45,4 +49,12 @@ EventFlagsHouseParam.bcsv
 `EventFlagsPlayerParam.bcsv` **SzaIslandEvaluation5star1st** or flag 692 description roughly reads "Isabelle | Received 5 stars for the first time on the island". this could be changed to have a permanent 5 star island?
 > flag 524 `PlayToday` might need to be changed in addition to skip nook/isabelle dialog at start of day
 
+> flag 216 `PlayerStungByBee` def value 0 max 1. changing max to 0 would mean player can only get hit once?
+
+> flag 785 `UploadPlayerProfileIllegal`??
+
 [EventFlagsLifeSupportAchievementParam.bcsv](https://gitlab.com/AeonSake/acnh-data/-/blob/master/BCSV/CSV/EventFlagsLifeSupportAchievementParam.bcsv.csv) holds the mount of miles you get for completing an achievement. this could be lowered 😈
+
+# Eventflow
+
+looking at decompiled event flows can show you what causes a flag to be changed. e.g. **PlayerLoanFinish1st** in `SNPC_rco_04_ChkFinishLoan.evfl`

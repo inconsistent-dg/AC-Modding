@@ -9,15 +9,11 @@ The Mobile Spawner is a live injector for New Horizons, allowing you to spawn (i
 
 ## Comparing the Mobile Spawner to Poker
 
-A question that comes up a lot is whether to use the Mobile Spawner or [Poker](Poker). When it comes down to it, there aren't many things the Mobile Spawner has that Poker doesn't. They function the same, so if you used one then switching to the other wouldn't be as hard. There is one thing the Mobile Spawner has over Poker, and that's the *freezer*. 
-
-The freezer is like Poker's regenerator, except it runs entirely on your Switch. This means that you don't have to keep the app open for the items to respawn. The Mobile Spawner also  runs on iOS and Mac devices, which Poker can't. So if you use either then that's a plus.
-
-Other than that, it just comes down to which UI you like better. Most use them interchangeably, the MS for freezing and Poker for everything else.
-
-<p align="center">
-<img src="../assets/images/NHMS/MobileSpawner.png" height="600"/>
+<p>
+<img align="right" src="../assets/images/NH/MS/MobileSpawner.png" height="600"/>
 </p>
+
+A question that comes up a lot is whether to use the Mobile Spawner or [Poker](Poker). When it comes down to it, there aren't many things the Mobile Spawner has that Poker doesn't. They function the same, so if you used one then switching to the other wouldn't be as hard. It just comes down to which UI you like better. 
 
 ## Downloading
 
