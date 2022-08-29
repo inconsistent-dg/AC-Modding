@@ -264,7 +264,7 @@ The villagers tab shows all the villagers you have on your island, along with th
 ## **Changing Villager**
 You *could* change the villager by editing the species and variant, however it is not recommended to do it this way. There are a lot of flags different villagers have, so it's recommended to use the Villager Database instead to import villagers.
 
-[Download the villager database here](https://gbatemp.net/attachments/villager-database-complete-zip.206556/). You MUST extract the zip to use with NHSE. [You can use something like 7-zip to extract](https://www.7-zip.org/). Once extracted, you will see a list of ALL villagers in the game, along with their houses. 
+[Download the villager database here](../assets/Villager-Database.zip). You MUST extract the zip to use with NHSE. [You can use something like 7-zip to extract](https://www.7-zip.org/). Once extracted, you will see a list of ALL villagers in the game, along with their houses. 
 
 <p>
 <img align="left" height="184" src="../assets/images/NH/SE/NHSE_EVillagers-Values.png">
