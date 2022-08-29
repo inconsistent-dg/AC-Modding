@@ -16,7 +16,7 @@ description: Available pages on tools for NH
 <img align="left" src="./assets/images/NH/SE/NHSE.png">
 
 [`NHSE` (New Horizons: Save Editor) is what's used to save edit New Horizons.](/ACNH/NHSE) It allows you to change basically everything you could think of, from the amount of bells your character has, to even changing your island from a 1-star to a 3-star, when it's VERY obvious that you don't have that beautiful island to show it. You can also edit your map from the `Field Item Editor`, which is how people get beautiful treasure islands like this.
-<img align="center" src="./assets/images/NH/FieldItemEditor.png"> 
+<img align="center" src="./assets/images/NH/SE/FieldItemEditor.png"> 
 
 ## Streaming
 
