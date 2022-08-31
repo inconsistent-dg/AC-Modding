@@ -3,6 +3,12 @@ title: Editing Textures
 description: Tutorial for editing ACNH Textures
 ---
 
+<p align="center">
+<big><a href="https://www.youtube.com/watch?v=0RBe8-Wy_wk">This guide is available on Youtube!</a></big> <iframe id="ytplayer" type="text/html" width="800" height="450"
+src="https://www.youtube.com/embed/0RBe8-Wy_wk"
+frameborder="0" allowfullscreen></iframe>
+</p>
+
 In each models bfres, there is a folder called *Textures*. As the name suggests, this folder contains every texture the model uses. There are multiple types of textures, but the one you're going to edit will probably be the alb. 
 
 - [Texture Types](#texture-types)
