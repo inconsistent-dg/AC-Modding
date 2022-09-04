@@ -58,3 +58,26 @@ EventFlagsHouseParam.bcsv
 # Eventflow
 
 looking at decompiled event flows can show you what causes a flag to be changed. e.g. **PlayerLoanFinish1st** in `SNPC_rco_04_ChkFinishLoan.evfl`
+
+# BYML/BFEVL Editing
+
+py install
+
+- [Download and install Python 3.8](https://www.python.org/ftp/python/3.8.6/python-3.8.6-amd64.exe). (anything higher won't work, they're incompatible with some of the dependencies)
+  - **DON'T** get the MS Store version. eventeditor only works with the above
+- When prompted, add Python to PATH
+- If asked, disable path length limit
+
+- open windows Powershell
+- type `pip install eventeditor` and press enter
+  - This installes eventeditor, which is used forediting bfevfl files, and byml, converts binary yaml (byml) to plaintext yaml, and back
+
+use
+
+Now you can run eventeditor and the EventFlow editor GUI will open
+
+for editing byml:
+
+byml_to_yml \<file>.byml \<file>.yaml converts byml to yaml, which can then be opened in an editor like notepad++ or vsc
+
+yml_to_byml \<file>.yaml \<file>.byml converts yaml to byml, which can then be put in the layeredFs folder for ACNH
