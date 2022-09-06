@@ -320,7 +320,7 @@ Clicking on `Edit Villager` and then `Edit DIY Timer` will allow you to set when
 # Map Tab
 
 <p>
-<img align="right" height="225" src="../assets/images/NH/NHSEMapTab.png">
+<img align="right" height="225" src="../assets/images/NH/SE/NHSEMapTab.png">
 </p>
 
 The Map tab allows you to edit most of the information regarding your map, such as your Hemisphere, Airport Color, Weather Seed, and so on. Despite my warning for changing anything else, there's not much bad that can be done by changing these values. This doesn't change the fact that any editing that's done could potentially mess up the save, so I'll say it again in case you missed it: **TRY FINISHING THE GAME FIRST BEFORE SAVE EDITING!!** And make backups UwU
@@ -328,7 +328,7 @@ The Map tab allows you to edit most of the information regarding your map, such 
 ## **Editing Turnip Exchange**
 
 <p>
-<img align="right" width="312 " src="../assets/images/NH/NHSE_EMap-TurnipExchange.png">
+<img align="right" width="312 " src="../assets/images/NH/SE/NHSE_EMap-TurnipExchange.png">
 </p>
 
 The turnip exchange is probably one of the best things in this game. It could be argued that it's the best way to earn money. It's also the best way to *cheat* money! Just click on `Edit Turnip Exchange` to edit it.
