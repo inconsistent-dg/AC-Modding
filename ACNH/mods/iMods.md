@@ -8,7 +8,7 @@ Extract the zip or 7z file you get after downloading, and merge the atmosphere f
 
 # iHud
 
-<img align="left" src="../../assets/images/NH/mods/i/simply-iHud.png" width="50%"></a> 
+<img align="left" src="../../assets/images/NH/mods/i/simply-iHud.png" width="50%"> 
 This mod completely hides the hud (map, phone, time and date). Great for screenshots and cinematic videos.<br>It's a small and simple BCSV edit.
 
 ## How does it work?
