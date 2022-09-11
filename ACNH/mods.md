@@ -22,6 +22,7 @@ frameborder="0" allowfullscreen></iframe>
   - [**Music Mods**](#music-mods)
   - [**Editing Textures**](#editing-textures)
   - [**Dialog Editing**](#dialog-editing)
+  - [**My Own Mods**](#my-own-mods)
   - [Model Swapping](#model-swapping)
 
 So, you want to mod the hell out of your game, but don't know where to start. Whether you're new or not, this guide comes in to help out. Remember that mods can only be used on modded Switch's, so if you don't have one you can [read my switch guide for modding your own](../switch-guide.md). You can start modding on a new game or one in progress. I'm going to go over dumping the romFS, or its assets and general files, of Animal Crossing to edit with Switch Toolbox. There are multiple programs you can use to edit the romFS, but you can't get to that part without the romFS in the first place. 
@@ -94,5 +95,7 @@ It is also important to say that in the case you have multiple of one folder (e.
 ## [**Editing Textures**](mods/editing_textures)
 
 ## [**Dialog Editing**](mods/dialog_editing)
+
+## [**My Own Mods**](mods/iMods)
 
 ## [Model Swapping](mods/model_swapping)

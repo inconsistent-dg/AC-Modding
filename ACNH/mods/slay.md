@@ -21,6 +21,8 @@ This is not a guide, more of my own notes on different things.  They'll be turne
 
 [Eventflow Viewer](https://acnh.isomorphicbox.com/evfl/)
 
+[ninji!!](https://twitter.com/_Ninji/status/1252607366178144259)
+
 # BYML / BCSV
 
 `ItemParam.bcsv` stores price of items. name price hash 718b024d. only seems to show buy price, which is most likely the same as sell price. so can't edit them separately
