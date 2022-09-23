@@ -22,6 +22,7 @@ frameborder="0" allowfullscreen></iframe>
   - [**Music Mods**](#music-mods)
   - [**Editing Textures**](#editing-textures)
   - [**Dialog Editing**](#dialog-editing)
+  - [**BCSV Editing**](#bcsv-editing)
   - [**My Own Mods**](#my-own-mods)
   - [Model Swapping](#model-swapping)
 
@@ -95,6 +96,8 @@ It is also important to say that in the case you have multiple of one folder (e.
 ## [**Editing Textures**](mods/editing_textures)
 
 ## [**Dialog Editing**](mods/dialog_editing)
+
+## [**BCSV Editing**](mods/bcsv_editing)
 
 ## [**My Own Mods**](mods/iMods)
 
