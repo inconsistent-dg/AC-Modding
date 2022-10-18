@@ -49,3 +49,5 @@ the apple ID (2213) I change it to the capricorn ID (5985).
 And no, this isn't a model swap, this changes the actual item that fruit trees grow (so yeah you can pick up the dropped star frags, and they will grow back in time)
 
 <big>[**📁 Download Here**](../../assets/mods/Star-Trees-Over-Fruit.zip)</big>
+
+[**📁 Download Here**](../../assets/mods/Star-Trees-Over-Fruit_12546loveVer.zip) (Heart crystal over apple ver.)
