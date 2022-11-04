@@ -2,6 +2,28 @@
 title: Slay!
 description: notes on different stuff 
 ---
+<head>
+<script>
+    window.googletag = window.googletag || {cmd: []};
+    googletag.cmd.push(function() {
+      googletag
+          .defineSlot(
+              '/6355419/Travel/Europe/France/Paris', [300, 250], 'banner-ad')
+          .addService(googletag.pubads());
+      googletag.enableServices();
+    });
+</script>
+</head>
+
+<body>
+  <div id="banner-ad" style="width: 300px; height: 250px;">
+    <script>
+      googletag.cmd.push(function() {
+        googletag.display('banner-ad');
+      });
+    </script>
+  </div>
+</body>
 
 This is not a guide, more of my own notes on different things.  They'll be turned into their own real guides at a future date.  Probably.
 
