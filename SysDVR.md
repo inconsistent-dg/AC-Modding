@@ -40,7 +40,7 @@ It is important to note that only games supporting video capture will work with 
 - This is optional, but you can use a USB Type-C cable to stream via USB. It's easier to just connect to the internet.
 - The latest version of Atmosphere (other CFW's only work in theory, and neither I nor exelix will be able to provide support if you use something else)
 
-------
+---
 
 # Installing
 
