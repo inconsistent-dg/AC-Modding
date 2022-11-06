@@ -73,7 +73,7 @@ Boot into Hekate, then tap on Payloads. Click on TegraExplorer in the list. And 
 
 ## Dumping Keys
 
-<img align="right" src="../assets/images/NH/emulation/lockpick_rcm.png" width="400">
+<img align="right" src="../assets/images/NH/emulation/lockpick_rcm.png" width="330">
 
 Boot into Hekate, then tap on Payloads. Click on Lockpick in the list. And once it's booted, select "*Dump from SysNAND*" by pressing the power button. You'll see some 
 <span style="color:red">f</span><span style="color:orange">l</span><span style="color:yellow">a</span><span style="color:green">s</span><span style="color:blue">h</span><span style="color:cyan">y</span> <span style="color:red">c</span><span style="color:orange">o</span><span style="color:yellow">l</span><span style="color:green">o</span><span style="color:blue">r</span><span style="color:cyan">s</span> and a confirmation that the keys were written to where they needed to be. Press the power button again to return to the menu, then navigate to Reboot to Hekate. Now boot CFW, and launch any game via title takeover (opening the game while holding R). It's better to launch homebrew apps this way, as it gives them full system resources. When the homebrew launcher opens, navigate to nxdumptool.
