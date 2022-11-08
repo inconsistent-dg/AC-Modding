@@ -81,7 +81,7 @@ Before you start modding, you should check 4 things off your list:
    - 32 gigabytes of space is needed to backup your system files. If one file's slightly bigger, you'll have to remove the SD to copy the last file (which is a hassle)
    - 32 gigabytes is required for an emuMMC partition. This guide [doesn't go over setting up an emuMMC](pages/ban-risks#why-shouldnt-i-use-emunand), but keep it in mind if you change your mind.
 
-(1) You need an app to enter Title Takeover, which allows homebrew to run with full system resources.<br>(2) A jig is required to enter RCM. You can buy a good jig on [Amazon here](https://www.amazon.com/gp/product/B07J9JJRRG), or one at [switchjigs.com](https://switchjigs.com/).<br>(3) The only injection process on the guide at the moment is TegraRCM using a PC. I might show how to inject on other platforms in the future, but for now that's it. Go [here for Android](https://github.com/MenosGrante/Rekado), go [here for iOS devices](https://mologie.github.io/nxboot/). 
+(1) You need an app to enter Title Takeover, which allows homebrew to run with full system resources.<br>(2) A jig is required to enter RCM. You can buy a good jig on [Amazon here](https://www.amazon.com/gp/product/B07J9JJRRG).<br>(3) The only injection process on the guide at the moment is TegraRCM using a PC. I might show how to inject on other platforms in the future, but for now that's it. Go [here for Android](https://github.com/MenosGrante/Rekado), go [here for iOS devices](https://mologie.github.io/nxboot/). 
 
 # Preparing the SD
 

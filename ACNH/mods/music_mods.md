@@ -66,7 +66,7 @@ Open Revolution requires a .wav as its input. If your song is not a wav already,
 On Windows, extract the zip and open the folder in the CMD prompt. This can be done by typing `cmd` inside the searchbar.
 
 <p align="center">
-  <img src="./../../assets/images/misc/cmd.gif"/>
+  <img src="https://ac-modding.com/assets/images/misc/cmd.gif"/>
 </p>
 
 On Linux or Mac, open the terminal in the same location as the wav. Now, run this command:
@@ -93,7 +93,7 @@ Now go home and launch Animal Crossing. You should hear the patched songs.
 In Citric Composer, go to **Edit > Export WAV...** and save it wherever you'd like. Or use the shortcut **Ctrl + Shift + E**. At this point, you can open it in your favorite music player.
 
 <p align="center">
-  <img src="./../../assets/images/NH/mods/music/cc-export_wav.gif"/>
+  <img src="https://ac-modding.com/assets/images/NH/mods/music/cc-export_wav.gif"/>
 </p>
 
 ### K.K. Music List
