@@ -3,6 +3,12 @@ title: Emulation
 description: Learn to emulate games with yuzu or Ryujinx
 ---
 
+<p align="center">
+<big><a href="https://www.youtube.com/watch?v=YMjJJbMlGVc">This guide is available on Youtube!</a></big> <iframe id="ytplayer" type="text/html" width="800" height="450"
+src="https://www.youtube.com/embed/YMjJJbMlGVc"
+frameborder="0" allowfullscreen></iframe>
+</p>
+
 Using an emulator for any game can be useful. You might emulate to upscale your game to 4k, or you might use it as creating/loading mods is easier on it.  
 
 There are 2 emulators for the Switch, these being **yuzu** and **Ryujinx**. Both have their pros and cons. They also require you to have a modded switch, so [follow my guide here](../switch-guide) if it's not modded already.
@@ -49,11 +55,15 @@ The specifications here don't guarantee BEAUTIFUL full speed gameplay, but inste
 
 **Your GPU must support OpenGL 4.6 & OpenGL Compatibility profile, or Vulkan 1.1 (or higher).** To find out if your GPU meets these requirements, visit [https://opengl.gpuinfo.org](https://opengl.gpuinfo.org) or [https://vulkan.gpuinfo.org](https://opengl.gpuinfo.org) and check your GPU details.
 
+For Reference, I am using an AMD Ryzen 7 5800X CPU, with an RX 6600XT GPU, and 32GB of ram. 
+Even though a minimum is provided, that does not necessarily mean the minimum for 60fps gameplay. Moreso that the app doesn't crash.
+If you’re building your PC specifically for emulation, strive a bit higher than the recommended<sup>but not higher than me so i can brag about my cool pc</sup>.
+
 # Prerequisites
 
 - [Lockpick_RCM](https://github.com/shchmue/Lockpick_RCM/releases/latest) (Download `Lockpick_RCM.bin`)
 - [nxdumptool](https://github.com/DarkMatterCore/nxdumptool/releases/latest) (Download `nxdumptool.nro`)
-- [nxDumpMerger](https://github.com/emiyl/nxDumpMerger/releases/latest) (`Download nxDumpMerger_Windows.zip`)
+- [nxDumpFuse](https://github.com/oMaN-Rod/nxDumpFuse/releases)
 - [TegraExplorer](https://github.com/suchmememanyskill/TegraExplorer/releases/latest) (Download `TegraExplorer.bin`)
 
 Insert your SD card into your computer, or open up [FTPD](../FTPD).
@@ -96,9 +106,9 @@ Copy your firmware dump, your keys, and your game dump to your PC.
 
 ### Merging Dumped Game
 
-If your game was dumped in parts (`<Game>.xc0`, `<Game>.xc1`) use nxDumpMerger to merge the files into one part. If it was dumped as one file (`<Game.xci>` or `<Game>.nsp`) then you can skip this section. 
+If your game was dumped in parts (`<Game>.xc0`, `<Game>.xc1`) use nxDumpFuse to merge the files into one part. If it was dumped as one file (`<Game.xci>` or `<Game>.nsp`) then you can skip this section. 
 
-Extract the `nxDumpMerger.zip` that you downloaded earlier, and open the `nxDumpMerger.exe`. If your antivirus goes off, it's a false positive because of how the merging happens. You're safe to allow it on your device.  
+Extract the `nxDumpFuse.zip` that you downloaded earlier, and open the `nxDumpFuse.exe`. If your antivirus goes off, it's a false positive because of how the merging happens. You're safe to allow it on your device.  
 Set the input to one of the parts and it should auto-detect rest. Next, set the output folder. Select `Merge Dump` and the app will merge the files into one at the output folder. If you had multiple games dumped into parts like this, repeat the process for the rest. 
 
 # yuzu Setup
