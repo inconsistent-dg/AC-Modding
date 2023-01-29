@@ -1,5 +1,5 @@
 ---
-title: ACNH Villager Sort
+title: ACNH Villager Search
 description: Sortable list of all ACNH villagers, and their labels/phrases.
 ---
 
