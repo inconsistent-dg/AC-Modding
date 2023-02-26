@@ -53,7 +53,7 @@ And probably more.
 **Nrm** textuers give depth to the model. The game can go without a normal texture, but without one the model looks very flat.
 
 <p align="center">
-  <img src="../../assets/images/NH/mods/textures/youareNOTnormal.png" width="50%"/>
+  <img src="../../assets/images/NH/mods/textures/youareNOTnormal.jpg" width="50%"/>
 </p>
 
 # Editing textures

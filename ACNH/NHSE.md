@@ -137,7 +137,7 @@ Before going any further, it's important to mention `internal items`. Internal i
 # Players Tab
 
 <p>
-<img align="right" src="../assets/images/NH/SE/NHSEVillager69.png">
+<img align="right" src="../assets/images/NH/SE/NHSEVillager69.png" style="padding-left: 10px;">
 </p>
 All of the tabs (including this one) are pretty self explanatory for the most part. Even with a comprehension skill of 3, you should still be able to understand what changing your Player or Town Name does. 
 
@@ -256,7 +256,7 @@ The **Made Village** option is given to the Island Representative. To change it,
 # Villagers Tab
 
 <p>
-<img align="right" width="350" src="../assets/images/NH/SE/NHSEVillagersTab.png">
+<img align="right" width="350" src="../assets/images/NH/SE/NHSEVillagersTab.png" style="padding-left: 10px;">
 </p>
 
 The villagers tab shows all the villagers you have on your island, along with their relationship with you, their catchphrase, personality, and everything else you'd expect to see from a save editor. You can change which villager you'd like to edit by changing the villager index. It's recommended to finish the game (get all 10 villagers) before editing *anything*, but especially with villagers. 
@@ -264,10 +264,10 @@ The villagers tab shows all the villagers you have on your island, along with th
 ## **Changing Villager**
 You *could* change the villager by editing the species and variant, however it is not recommended to do it this way. There are a lot of flags different villagers have, so it's recommended to use the Villager Database instead to import villagers.
 
-[Download the villager database here](../assets/Villager-Database.zip). You MUST extract the zip to use with NHSE. [You can use something like 7-zip to extract](https://www.7-zip.org/). Once extracted, you will see a list of ALL villagers in the game, along with their houses. 
+[Download the villager database here](../assets/Villager-Database.7z). You MUST extract the zip to use with NHSE. [You can use something like 7-zip to extract](https://www.7-zip.org/). Once extracted, you will see a list of ALL villagers in the game, along with their houses. 
 
 <p>
-<img align="left" height="184" src="../assets/images/NH/SE/NHSE_EVillagers-Values.png">
+<img align="left" height="184" src="../assets/images/NH/SE/NHSE_EVillagers-Values.png" style="padding-right: 10px;">
 </p>
 
 In NHSE, click on **Load Villager**. Now go to the location where you extracted the Villager database, and open it. Find the villager you want to replace them with, and select it. You'll get a prompt saying the villager didn't originate from your Island representative, so click **Yes** when it asks you if you want to update the values.
@@ -320,7 +320,7 @@ Clicking on `Edit Villager` and then `Edit DIY Timer` will allow you to set when
 # Map Tab
 
 <p>
-<img align="right" height="225" src="../assets/images/NH/SE/NHSEMapTab.png">
+<img align="right" height="225" src="../assets/images/NH/SE/NHSEMapTab.png" style="padding-left: 10px;">
 </p>
 
 The Map tab allows you to edit most of the information regarding your map, such as your Hemisphere, Airport Color, Weather Seed, and so on. Despite my warning for changing anything else, there's not much bad that can be done by changing these values. This doesn't change the fact that any editing that's done could potentially mess up the save, so I'll say it again in case you missed it: **TRY FINISHING THE GAME FIRST BEFORE SAVE EDITING!!** And make backups UwU
@@ -328,7 +328,7 @@ The Map tab allows you to edit most of the information regarding your map, such 
 ## **Editing Turnip Exchange**
 
 <p>
-<img align="right" width="312 " src="../assets/images/NH/SE/NHSE_EMap-TurnipExchange.png">
+<img align="right" width="312 " src="../assets/images/NH/SE/NHSE_EMap-TurnipExchange.png" style="padding-left: 10px;">
 </p>
 
 The turnip exchange is probably one of the best things in this game. It could be argued that it's the best way to earn money. It's also the best way to *cheat* money! Just click on `Edit Turnip Exchange` to edit it.
@@ -419,7 +419,7 @@ Anyway, go to [https://wuffs.org/acnh/weather/](https://wuffs.org/acnh/weather/)
 <img src="../assets/images/misc/ily_ninji.png"> 
 </p>
 
-<img align="right" src="../assets/images/NH/SE/NHSE_EMap-VisitorEditor.png" height="380"> 
+<img align="right" src="../assets/images/NH/SE/NHSE_EMap-VisitorEditor.png" height="380" style="padding-left: 10px;"> 
 
 After filling this information in, you'll get your weather pattern. You can check the weather pattern by clicking on **Yearly** or **Monthly** at the top. Selecting a date will give you more information on the weather recorded on that day, like when exactly star showers will start, when it will rain and when it'll stop, and so on. You can then time travel to that date on your Switch and the weather will be there.
 
@@ -440,13 +440,13 @@ Clicking on `Edit Map...` and then `Edit Bulletin Board` will allow you to edit 
 There are 2 bulletin board posts, a drawn one and a text one (or both). You can painstakingly ***try*** to make a drawn post in NHSE, or watch a [video by Klutch, explaining how to use Pixel Press](https://www.youtube.com/watch?v=EI1d-wky0TQ). Pixel Press is an app that will draw any image you give it, on your own island or someone else's. Check it out! It was made by my buddy Katsching.
 
 <p>
-<img align="right" src="../assets/images/NH/SE/NHSE_EMap-BulletinBoard.png" height="335">
+<img align="right" src="../assets/images/NH/SE/NHSE_EMap-BulletinBoard.png" height="335" style="padding-left: 10px;">
 </p>
 
 Editing the text is very simple though. In the Bulletin Board editor, under Stock -> Buffer, you will be able to see all of your *current* bulletin board messages (it's not possible to create new ones unless in game). You can edit the date of the posts by editing the array, or edit the body text by opening the dropdown box next to the post and editing the Body. You can write basically anything here, and I'm pretty sure you can go past the limit in the base game (though I haven't tested this). 
 
 <p align="center">
-  <img src="../assets/images/NH/SE/retiring.jpg" height="360">
+  <img src="../assets/images/NH/SE/retiring.jpg" height="360" style="padding-top: 10px;">
 </p>
 
 <p align="center">

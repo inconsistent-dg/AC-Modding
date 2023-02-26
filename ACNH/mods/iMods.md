@@ -9,7 +9,7 @@ Your directory should look something like this: `atmosphere\contents\01006F80023
 
 # iHud
 
-<img align="left" src="../../assets/images/NH/mods/i/simply-iHud.png" width="50%"> 
+<img align="left" src="../../assets/images/NH/mods/i/simply-iHud.jpg" width="50%" style="padding-right: 10px;"> 
 This mod completely hides the hud (map, phone, time and date). Great for screenshots and cinematic videos.<br>It's a small and simple BCSV edit.
 
 ## How does it work?
@@ -22,11 +22,15 @@ This mod hides the hud in every state, so even when idling you don't see anythin
 
 # Star Trees Over Fruit
 
-<img align="left" src="../../assets/images/NH/mods/i/starfrag/pear.jpg" width="50%"> 
-This mod changes the growth of all fruit trees into star fragments. 
-
-You can [request for a custom version](../../contact) of the mod if you want another type of fragment, or if you only want one type of tree to have stars.
-Read below to see what each fruit tree turns into:
+<div style="overflow: auto;">
+  <img src="../../assets/images/NH/mods/i/starfrag/pear.jpg" style="padding-right: 10px; float: left;" width="50%">
+  <p>
+    This mod changes the growth of all fruit trees into star fragments.
+  </p>
+  <p>
+  You can <a href="../../contact">request for a custom version</a> of the mod if you want another type of fragment, or if you only want one type of tree to have stars. Read below to see what each fruit tree turns into.
+</p>
+</div>
 
 ```
 Apple  : Capricorn
@@ -51,3 +55,16 @@ And no, this isn't a model swap, this changes the actual item that fruit trees g
 <big>[**📁 Download Here**](../../assets/mods/Star-Trees-Over-Fruit.zip)</big>
 
 [**📁 Download Here**](../../assets/mods/Star-Trees-Over-Fruit_12546loveVer.zip) (Heart crystal over apple ver.)
+
+# Goth Isabelle (New Leaf)
+
+<img align="left" src="../../assets/images/NH/mods/i/Goth_Isa-NL/Goth_Isa-1.jpg" width="50%" style="padding-right: 10px;"> 
+
+As requested by [https://gamebanana.com/requests/46574](https://gamebanana.com/requests/46574)!
+
+Changes Isa's hair/eye color and desaturates her fur color a bit.
+I do wish the UV's for the head, arms, and legs weren't overlapping. Would've preferred if her arms and legs stayed her fur color.
+
+Installation Instructions are inside the zip file, for Citra and luma3ds.
+
+<big>[**📁 Download Here**](../../assets/mods/Goth_Isa.7z)</big>
