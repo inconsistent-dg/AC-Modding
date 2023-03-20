@@ -5,4 +5,6 @@ Despite me having a *moddable* switch, I didn't know what could be done with it 
 
 This will also help out the googlers, typing in things like "how to make a treasure island", "how to install animal crossing mods", and things of that sort. These things will be on the site later.
 
+This branch houses the current Chirpy remodel until complete. Once done, it will be merged to main.
+
 # This site is not finished yet.
