@@ -245,7 +245,7 @@ UNUSED_81 = K.K. Slider, Sitting while thinking
 
 ## **Editing Misc**
 
-Clicking on `Edit Player...` and then `Edit Misc` will allow you to change some player settings that don't fit anywhere else. These things being your birthday, the day that you started playing, your island fruit, and whether or not the character you've chosen created the island. Most of these are self explanatory, but know that changing your island fruit from here will only change it on your passport. Because of this, everywhere else it will refer to the old fruit. [Click here]() to see how to change the fruit everywhere.
+Clicking on `Edit Player...` and then `Edit Misc` will allow you to change some player settings that don't fit anywhere else. These things being your birthday, the day that you started playing, your island fruit, and whether or not the character you've chosen created the island. Most of these are self explanatory, but know that changing your island fruit from here will only change it on your passport. Because of this, everywhere else it will refer to the old fruit. [Click here to see how to change the fruit everywhere](https://gbatemp.net/threads/animal-crossing-new-horizons-reverse-engineering-glitches-bugs-etc-thread.560199/page-389#post-9468816).
 
 The **Made Village** option is given to the Island Representative. To change it, simply untick the box, then go to the villager that you want to give it to. *I haven't tested what it's like to tick the box on multiple representatives....*
 
@@ -455,7 +455,7 @@ If you do edit the bulletin board, remember to use linebreaks.
 
 ## **Editing Field Goods** 
 
-Clicking on `Edit Map...` and then `Edit Field Goods` allows you to edit your field goods. <span data-audio-url="../assets/misc/frank.mp3" data-audio-url="../assets/misc/franker.mp3" data-audio-url="../assets/misc/frankerfz.mp3">I'll be frank,</span> I'm not sure what editing any of these does. Some of them might be related to the [Edit Player...](#edit-player) Misc options, but I wouldn't know.
+Clicking on `Edit Map...` and then `Edit Field Goods` allows you to edit your field goods. <span data-audio-url="../assets/misc/frank.mp3" data-audio-url="../assets/misc/franker.mp3" data-audio-url="../assets/misc/frankerfz.mp3">I'll be frank,</span> I'm not sure what some of these do. Though changing your native fruit was touched up on earlier in the guide, in the [Editing Misc...](#editing-misc) options.
 
 <script>
 $("[data-audio-url]").each(
