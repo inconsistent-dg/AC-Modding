@@ -54,7 +54,8 @@ And no, this isn't a model swap, this changes the actual item that fruit trees g
 
 <big>[**📁 Download Here**](../../assets/mods/Star-Trees-Over-Fruit.zip)</big>
 
-[**📁 Download Here**](../../assets/mods/Star-Trees-Over-Fruit_12546loveVer.zip) (Heart crystal over apple ver.)
+[**📁 Download Here**](../../assets/mods/Star-Trees-Over-Fruit_12546loveVer.zip) (Heart crystal over apple ver.)  
+[**📁 Download Here**](../../assets/mods/Star-Trees-Over-Fruit_5987piscesVer.zip) (Pisces frag over orange ver.)
 
 # Goth Isabelle (New Leaf)
 
