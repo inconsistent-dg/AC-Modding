@@ -86,13 +86,15 @@ Like any other mod, the file must go into the [layeredFs folder](../mods#loading
 
 # Grass Scheme
 
-All of the seasonal grass colors are stored in a texture named `mGrass_Grd`. The vertical axis represents the different seasons, starting from January. Below is the default texture used by the game for grass mapping:
+All of the seasonal grass colors are stored in a texture named `mGrass_Grd`. The vertical axis represents the different seasons, starting from January 1st at the top edge.
+
+Below is the default texture used by the game for grass mapping:
 
 <p align="center">
   <img src="../../assets/images/NH/mods/textures/mGrass_Grd.png" alt="mGrass_Grd"/>
 </p>
 
-And this shows how the colours in the texture are mapped in game:
+And this shows how the colors in the texture are mapped in-game:
 
 <p align="center">
   <img src="../../assets/images/NH/mods/textures/mGrass_Grd_Edit.png" alt="mGrass_Grd Edited to highlight used colours"/>
