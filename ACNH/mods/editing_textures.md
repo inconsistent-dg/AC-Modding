@@ -102,5 +102,5 @@ And this shows how the colours in the texture are mapped in game:
 </p>
 
 <p align="center">
-<i>thanks to OpenSauce for this secion</i>
+<i>thanks to OpenSauce for this section</i>
 </p>
