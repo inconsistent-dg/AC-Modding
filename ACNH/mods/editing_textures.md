@@ -86,13 +86,15 @@ Like any other mod, the file must go into the [layeredFs folder](../mods#loading
 
 # Grass Scheme
 
-**Grd** (gradient) textures are just that, gradients. All of the seasonal flora colors are stored in a `Grd` texture. The horizontal axis represents a different season. For example, the `mGrass_Grd` for the grass color.
+All of the seasonal grass colors are stored in a texture named `mGrass_Grd`. The vertical axis represents the different seasons, starting from January 1st at the top edge.
+
+Below is the default texture used by the game for grass mapping:
 
 <p align="center">
   <img src="../../assets/images/NH/mods/textures/mGrass_Grd.png" alt="mGrass_Grd"/>
 </p>
 
-The colors mapped in game:
+And this shows how the colors in the texture are mapped in-game:
 
 <p align="center">
   <img src="../../assets/images/NH/mods/textures/mGrass_Grd_Edit.png" alt="mGrass_Grd Edited to highlight used colours"/>
@@ -102,5 +104,5 @@ The colors mapped in game:
 </p>
 
 <p align="center">
-<i>thanks to OpenSauce for this secion</i>
+<i>thanks to OpenSauce for this section</i>
 </p>
