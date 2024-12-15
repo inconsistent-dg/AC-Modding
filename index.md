@@ -11,7 +11,12 @@ You can follow my tutorial on [setting up Switch CFW](switch-guide), as you will
 Some guides aren't specific to Animal Crossing, like the [SysDVR](SysDVR) guide, which can be used stream your Switch to PC without a capture card. You can [click here to look at a list of all available pages](219).
 
 ## Click an entry to see all available pages for it
-[Animal Crossing: New Horizons](/ACNH) <br> <span style="color:red">[Animal Crossing: New Leaf]<span style="color:red"></span><br> <span style="color:red">[Animal Crossing: City Folk] <br> [Animal Crossing: Wild World] <br> [Animal Crossing]</span>
+[Animal Crossing: New Horizons](/ACNH) <br> 
+[Animal Crossing: Pocket Camp Complete](/ACPCC) <br> 
+<span style="color:red">[Animal Crossing: New Leaf]<span style="color:red"></span><br> 
+<span style="color:red">[Animal Crossing: City Folk] <br> 
+[Animal Crossing: Wild World] <br> 
+[Animal Crossing]</span>
 
 <big><span style="color:red">**This site is not finished.**</span></big>
 
