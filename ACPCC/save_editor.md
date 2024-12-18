@@ -16,9 +16,12 @@ To use, [download the app](../assets/acpc_editor_universal.exe), and then open i
 You can run the app by typing `acpc_editor_universal.exe`. Run the app without any parameters to print a help message of what is possible.
 
 Example commands:
-- To change leaf tokens: `acpc_editor_universal.exe oldsave.bin newsave.bin --tokens=XXYYZZ`
-- To change gold treats: `acpc_editor_universal.exe oldsave.bin newsave.bin --goldtreats=XXYYZZ`
+- To change leaf tokens: `acpc_editor_universal.exe oldsavefile newsavefile --tokens=XXYYZZ`
+- To change gold treats: `acpc_editor_universal.exe oldsavefile newsavefile --goldtreats=XXYYZZ`
 - You can prefix the number with + or - to add or remove amounts (`--bells=+50`)
+
+You can also put `> output.txt` to send the output to a text file. The app outputs content of the save in a human-readable format, which can be useful for all kinds of things. <br>
+```acpc_editor_universal.exe oldsavefile newsavefile --bells=999999 > output.txt```
 
 Please keep the following in mind:
 - The app currently has no graphical interface. You must use the cmd in order to use it (a web interface is being worked on though)
